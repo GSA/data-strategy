@@ -2,26 +2,14 @@ title: Federal Data Strategy
 
 # GitHub information
 # This is used for adding an edit this page link to the footer
-github:
-  organization: GSA
-  repository: federalist-uswds-template
-  default_branch: master
 
-theme: uswds-jekyll
+#Github Repo
+repo_name: data-strategy
+branch: master
+org_name: GSA
 
 # Configuration for Google Analytics, add your UA code here:
 google_analytics_ua: UA-XXXXXXXX-XX
 
 # Configuration for DAP, add your agency ID here:
-# dap_agency: GSA
-
-# Uncomment to enable AnchorJS functionality on docs layout.
-# See https://github.com/bryanbraun/anchorjs for more information.
-# anchor_js_targets: [h1, h2, h3, h4, h5, h6]
-
-# To enable search, uncomment the search section
-# You will need to setup a search account with search.gov
-# https://search.usa.gov/signup
-# Your search_site_handle value is from the search.gov settings page.
-
-# search_site_handle: searchgov-site-handle
+dap_agency: GSA
