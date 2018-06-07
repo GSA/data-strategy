@@ -5,7 +5,7 @@ title: Federal Data Strategy
 github:
   organization: GSA
   repository: federalist-uswds-template
-  default_branch: master
+  default_branch: gh-pages
 
 theme: uswds-jekyll
 
