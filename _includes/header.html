@@ -1,28 +1,129 @@
-            <a class="skipnav" href="#main-content">Skip main navigation</a>
+<section class="usa-banner">
+  <div class="usa-accordion">
+    <header class="usa-banner-header">
+      <div class="usa-grid usa-banner-inner">
+      <img src="/assets/img/favicons/favicon-57.png" alt="U.S. flag">
+      <p>An official website of the United States government</p>
+      <button class="usa-accordion-button usa-banner-button"
+        aria-expanded="false" aria-controls="gov-banner">
+        <span class="usa-banner-button-text">Here's how you know</span>
+      </button>
+      </div>
+    </header>
+    <div class="usa-banner-content usa-grid usa-accordion-content" id="gov-banner">
+      <div class="usa-banner-guidance-gov usa-width-one-half">
+        <img class="usa-banner-icon usa-media_block-img" src="/assets/img/icon-dot-gov.svg" alt="Dot gov">
+        <div class="usa-media_block-body">
+          <p>
+            <strong>The .gov means it’s official.</strong>
+            <br>
+            Federal government websites often end in .gov or .mil. Before sharing sensitive information, make sure you’re on a federal government site.
+          </p>
+        </div>
+      </div>
+      <div class="usa-banner-guidance-ssl usa-width-one-half">
+        <img class="usa-banner-icon usa-media_block-img" src="/assets/img/icon-https.svg" alt="Https">
+        <div class="usa-media_block-body">
+          <p>
+            <strong>The site is secure.</strong>
+            <br>
+            The <strong>https://</strong> ensures that you are connecting to the official website and that any information you provide is encrypted and transmitted securely.
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
 
-            <header role="banner" class="fixed-header">
-                <div class="usa-disclaimer">
-                    <div class="usa-grid">
-                        <span class="usa-disclaimer-official"><img class="usa-flag_icon" alt="U.S. flag signifying that this is a United States federal government website" src="/assets/img/us_flag_small.png"> An official website of the United States government</span> <span class="usa-disclaimer-stage">This site is a work in progress</span>
-                    </div>
-                </div>
-                <a href="" class="logo-collapsed"><h1>Data Strategy</h1></a>
 
-                <nav class="site-navbar nav-collapse">
-                  <ul class="usa-unstyled-list">
-                    <li class="nav-item">
-                      <a href="/">Nav 1</a>
-                    </li>
-                    <li class="nav-item">
-                      <a href="/">Nav 2</a>
-                    </li>
-                    <li class="nav-item">
-                      <a href="/">Nav 3</a>
-                    </li>
-                    <li class="nav-item">
-                      <a href="/">Nav 4</a>
-                    </li>
-                  </ul>
-                </nav>
+  
 
-            </header>
+<header class="usa-header usa-header-extended" role="banner">
+  <div class="usa-navbar">
+  <div class="usa-logo" id="extended-logo">
+    <em class="usa-logo-text">
+      <a href="/"
+        title="Home"
+        aria-label="Home">
+        {{ site.title | escape }}
+      </a>
+    </em>
+  </div>
+  <button class="usa-menu-btn">Menu</button>
+</div>
+
+  <nav role="navigation" class="usa-nav">
+    <div class="usa-nav-inner">
+      <button class="usa-nav-close">
+  <img src="/assets/img/close.svg" alt="close">
+</button>
+<ul class="usa-nav-primary usa-accordion">
+    <li>
+      <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="extended-nav-section-one">
+        <span>Dropdown Menu</span>
+      </button>
+      <ul id="extended-nav-section-one" class="usa-nav-submenu"><li>
+              <a href="#">Subsection title</a>
+            </li><li>
+              <a href="#">Subsection title</a>
+            </li><li>
+              <a href="#">Subsection title</a>
+            </li>
+      </ul>
+    </li>
+    <li>
+      <a class="usa-nav-link" href="/strategy">
+        <span>Strategy</span>
+      </a>
+    </li>
+    <li>
+      <a class="usa-nav-link" href="/incubator">
+        <span>Incubator</span>
+      </a>
+    </li>
+    <li>
+      <a class="usa-nav-link" href="/feedback">
+        <span>Feedback</span>
+      </a>
+    </li>
+    </ul>
+    
+    <div class="usa-nav-secondary">
+
+    <form class="usa-search usa-search-small  js-search-form">
+      <div role="search">
+        <label class="usa-sr-only" for="extended-search-field-small">Search small</label>
+        <input id="extended-search-field-small" type="search" name="search">
+        <button type="submit">
+          <span class="usa-sr-only">Search</span>
+        </button>
+      </div>
+    </form>
+
+  
+  <ul class="usa-unstyled-list usa-nav-secondary-links">
+    
+    <li class="js-search-button-container">
+      <button class="usa-header-search-button js-search-button">Search</button>
+    </li>
+    
+    
+    <li>
+      <a href="">
+        Secondary priority link
+      </a>
+    </li>
+    
+    <li>
+      <a href="">
+        Easy to comprehend
+      </a>
+    </li>
+    
+  </ul>
+</div>
+
+    </div>
+  </nav>
+</header>
+<div class="usa-overlay"></div>
