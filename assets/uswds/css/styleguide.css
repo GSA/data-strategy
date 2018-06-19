@@ -1309,8 +1309,8 @@ select {
      -moz-appearance: none;
           appearance: none;
   background-color: #ffffff;
-  background-image: url("/assets/img/arrow-both.png");
-  background-image: none, url("/assets/img/arrow-both.svg"), url("/assets/img/arrow-both.png");
+  background-image: url("/assets/uswds/img/arrow-both.png");
+  background-image: none, url("/assets/uswds/img/arrow-both.svg"), url("/assets/uswds/img/arrow-both.png");
   background-position: right 1.3rem center;
   background-repeat: no-repeat;
   background-size: 1rem;
@@ -1389,8 +1389,8 @@ legend {
 
 [type=checkbox]:checked + label::before,
 [type=checkbox]:checked:disabled + label::before {
-  background-image: url("/assets/img/correct8.png");
-  background-image: url("/assets/img/correct8.svg");
+  background-image: url("/assets/uswds/img/correct8.png");
+  background-image: url("/assets/uswds/img/correct8.svg");
   background-position: 50%;
   background-repeat: no-repeat; }
 
@@ -1598,8 +1598,8 @@ a {
     color: #4c2c92; }
 
 .usa-external_link::after {
-  background: url("/assets/img/external-link.png") no-repeat 0 0;
-  background: url("/assets/img/external-link.svg") no-repeat 0 0;
+  background: url("/assets/uswds/img/external-link.png") no-repeat 0 0;
+  background: url("/assets/uswds/img/external-link.svg") no-repeat 0 0;
   background-size: 100%;
   content: '';
   display: inline-block;
@@ -1608,12 +1608,12 @@ a {
   margin-left: 4px;
   width: 0.65em; }
 .usa-external_link:hover::after {
-  background-image: url("/assets/img/external-link-hover.png");
-  background-image: url("/assets/img/external-link-hover.svg"); }
+  background-image: url("/assets/uswds/img/external-link-hover.png");
+  background-image: url("/assets/uswds/img/external-link-hover.svg"); }
 
 .usa-external_link-alt::after {
-  background: url("/assets/img/external-link-alt.png") no-repeat 0 0;
-  background: url("/assets/img/external-link-alt.svg") no-repeat 0 0;
+  background: url("/assets/uswds/img/external-link-alt.png") no-repeat 0 0;
+  background: url("/assets/uswds/img/external-link-alt.svg") no-repeat 0 0;
   background-size: 100%;
   content: '';
   display: inline-block;
@@ -1622,8 +1622,8 @@ a {
   margin-left: 4px;
   width: 0.65em; }
 .usa-external_link-alt:hover::after {
-  background-image: url("/assets/img/external-link-alt-hover.png");
-  background-image: url("/assets/img/external-link-alt-hover.svg"); }
+  background-image: url("/assets/uswds/img/external-link-alt-hover.png");
+  background-image: url("/assets/uswds/img/external-link-alt-hover.svg"); }
 
 h1,
 h2,
@@ -1837,8 +1837,8 @@ dfn {
       text-align: left;
       -webkit-font-smoothing: auto;
       background-color: #f1f1f1;
-      background-image: url("/assets/img/minus.png");
-      background-image: url("/assets/img/minus.svg");
+      background-image: url("/assets/uswds/img/minus.png");
+      background-image: url("/assets/uswds/img/minus.svg");
       background-position: right 2rem center;
       background-repeat: no-repeat;
       background-size: 1.5rem;
@@ -1872,8 +1872,8 @@ dfn {
         margin: 0; }
     .usa-accordion > ul [aria-expanded=false],
     .usa-accordion-bordered > ul [aria-expanded=false] {
-      background-image: url("/assets/img/plus.png");
-      background-image: url("/assets/img/plus.svg");
+      background-image: url("/assets/uswds/img/plus.png");
+      background-image: url("/assets/uswds/img/plus.svg");
       background-repeat: no-repeat;
       background-size: 1.5rem; }
   .usa-accordion > li,
@@ -1913,8 +1913,8 @@ dfn {
   text-align: left;
   -webkit-font-smoothing: auto;
   background-color: #f1f1f1;
-  background-image: url("/assets/img/minus.png");
-  background-image: url("/assets/img/minus.svg");
+  background-image: url("/assets/uswds/img/minus.png");
+  background-image: url("/assets/uswds/img/minus.svg");
   background-position: right 2rem center;
   background-repeat: no-repeat;
   background-size: 1.5rem;
@@ -1940,8 +1940,8 @@ dfn {
     margin: 0; }
 
 .usa-accordion-button[aria-expanded=false] {
-  background-image: url("/assets/img/plus.png");
-  background-image: url("/assets/img/plus.svg");
+  background-image: url("/assets/uswds/img/plus.png");
+  background-image: url("/assets/uswds/img/plus.svg");
   background-repeat: no-repeat;
   background-size: 1.5rem; }
 
@@ -2003,8 +2003,8 @@ dfn {
 
 .usa-alert-success {
   background-color: #e7f4e4;
-  background-image: url("/assets/img/alerts/success.png");
-  background-image: url("/assets/img/alerts/success.svg"); }
+  background-image: url("/assets/uswds/img/alerts/success.png");
+  background-image: url("/assets/uswds/img/alerts/success.svg"); }
   .usa-alert-success::before {
     background-color: #2e8540; }
   .usa-alert-success .usa-alert-body {
@@ -2012,8 +2012,8 @@ dfn {
 
 .usa-alert-warning {
   background-color: #fff1d2;
-  background-image: url("/assets/img/alerts/warning.png");
-  background-image: url("/assets/img/alerts/warning.svg"); }
+  background-image: url("/assets/uswds/img/alerts/warning.png");
+  background-image: url("/assets/uswds/img/alerts/warning.svg"); }
   .usa-alert-warning::before {
     background-color: #fdb81e; }
   .usa-alert-warning .usa-alert-body {
@@ -2021,8 +2021,8 @@ dfn {
 
 .usa-alert-error {
   background-color: #f9dede;
-  background-image: url("/assets/img/alerts/error.png");
-  background-image: url("/assets/img/alerts/error.svg"); }
+  background-image: url("/assets/uswds/img/alerts/error.png");
+  background-image: url("/assets/uswds/img/alerts/error.svg"); }
   .usa-alert-error::before {
     background-color: #e31c3d; }
   .usa-alert-error .usa-alert-body {
@@ -2030,8 +2030,8 @@ dfn {
 
 .usa-alert-info {
   background-color: #e1f3f8;
-  background-image: url("/assets/img/alerts/info.png");
-  background-image: url("/assets/img/alerts/info.svg"); }
+  background-image: url("/assets/uswds/img/alerts/info.png");
+  background-image: url("/assets/uswds/img/alerts/info.svg"); }
   .usa-alert-info::before {
     background-color: #02bfe7; }
   .usa-alert-info .usa-alert-body {
@@ -2195,8 +2195,8 @@ dfn {
   .usa-banner-button[aria-expanded=false] {
     background-image: none; }
     .usa-banner-button[aria-expanded=false]::after {
-      background-image: url("/assets/img/angle-arrow-down-primary.png");
-      background-image: url("/assets/img/angle-arrow-down-primary.svg");
+      background-image: url("/assets/uswds/img/angle-arrow-down-primary.png");
+      background-image: url("/assets/uswds/img/angle-arrow-down-primary.svg");
       background-size: 100%;
       content: '';
       display: inline-block;
@@ -2206,16 +2206,16 @@ dfn {
       margin-left: 0;
       /* stylelint-enable */ }
     .usa-banner-button[aria-expanded=false]:hover::after {
-      background-image: url("/assets/img/angle-arrow-down-primary-hover.png");
-      background-image: url("/assets/img/angle-arrow-down-primary-hover.svg"); }
+      background-image: url("/assets/uswds/img/angle-arrow-down-primary-hover.png");
+      background-image: url("/assets/uswds/img/angle-arrow-down-primary-hover.svg"); }
     .usa-banner-button[aria-expanded=false]::after {
       background-position-y: 1px; }
   .usa-banner-button[aria-expanded=true] {
     background-image: none;
     height: 5.6rem; }
     .usa-banner-button[aria-expanded=true]::after {
-      background-image: url("/assets/img/close.png");
-      background-image: url("/assets/img/close.svg");
+      background-image: url("/assets/uswds/img/close.png");
+      background-image: url("/assets/uswds/img/close.svg");
       background-size: 100%;
       content: '';
       display: inline-block;
@@ -2230,8 +2230,8 @@ dfn {
         padding: 0;
         position: relative; }
         .usa-banner-button[aria-expanded=true]::after {
-          background-image: url("/assets/img/angle-arrow-up-primary.png");
-          background-image: url("/assets/img/angle-arrow-up-primary.svg");
+          background-image: url("/assets/uswds/img/angle-arrow-up-primary.png");
+          background-image: url("/assets/uswds/img/angle-arrow-up-primary.svg");
           background-size: 100%;
           content: '';
           display: inline-block;
@@ -2241,8 +2241,8 @@ dfn {
           margin-left: 0;
           /* stylelint-enable */ }
         .usa-banner-button[aria-expanded=true]:hover::after {
-          background-image: url("/assets/img/angle-arrow-up-primary-hover.png");
-          background-image: url("/assets/img/angle-arrow-up-primary-hover.svg"); }
+          background-image: url("/assets/uswds/img/angle-arrow-up-primary-hover.png");
+          background-image: url("/assets/uswds/img/angle-arrow-up-primary-hover.svg"); }
         .usa-banner-button[aria-expanded=true]::after {
           background-position-y: 1px; } }
     .usa-banner-button[aria-expanded=true]::after {
@@ -2502,8 +2502,8 @@ li.usa-footer-primary-content {
     padding-bottom: 0.35em;
     padding-top: 0.35em; }
   .usa-footer-big ul .usa-footer-primary-link {
-    background-image: url("/assets/img/arrow-down.png");
-    background-image: url("/assets/img/arrow-down.svg");
+    background-image: url("/assets/uswds/img/arrow-down.png");
+    background-image: url("/assets/uswds/img/arrow-down.svg");
     background-position: 1.5rem center;
     background-repeat: no-repeat;
     background-size: 1.3rem;
@@ -2525,8 +2525,8 @@ li.usa-footer-primary-content {
       display: none; }
     .usa-footer-big ul.hidden .usa-footer-primary-link {
       /* stylelint-disable-line selector-no-qualifying-type */
-      background-image: url("/assets/img/arrow-right.png");
-      background-image: url("/assets/img/arrow-right.svg");
+      background-image: url("/assets/uswds/img/arrow-right.png");
+      background-image: url("/assets/uswds/img/arrow-right.svg");
       cursor: pointer;
       display: block; }
       @media screen and (min-width: 600px) {
@@ -2602,20 +2602,20 @@ li.usa-footer-primary-content {
     left: -999em; }
 
 .usa-link-facebook {
-  background-image: url("/assets/img/social-icons/png/facebook25.png");
-  background-image: url("/assets/img/social-icons/svg/facebook25.svg"); }
+  background-image: url("/assets/uswds/img/social-icons/png/facebook25.png");
+  background-image: url("/assets/uswds/img/social-icons/svg/facebook25.svg"); }
 
 .usa-link-twitter {
-  background-image: url("/assets/img/social-icons/png/twitter16.png");
-  background-image: url("/assets/img/social-icons/svg/twitter16.svg"); }
+  background-image: url("/assets/uswds/img/social-icons/png/twitter16.png");
+  background-image: url("/assets/uswds/img/social-icons/svg/twitter16.svg"); }
 
 .usa-link-youtube {
-  background-image: url("/assets/img/social-icons/png/youtube15.png");
-  background-image: url("/assets/img/social-icons/svg/youtube15.svg"); }
+  background-image: url("/assets/uswds/img/social-icons/png/youtube15.png");
+  background-image: url("/assets/uswds/img/social-icons/svg/youtube15.svg"); }
 
 .usa-link-rss {
-  background-image: url("/assets/img/social-icons/png/rss25.png");
-  background-image: url("/assets/img/social-icons/svg/rss25.svg"); }
+  background-image: url("/assets/uswds/img/social-icons/png/rss25.png");
+  background-image: url("/assets/uswds/img/social-icons/svg/rss25.svg"); }
 
 @media screen and (min-width: 600px) {
   [type=submit] {
@@ -2707,8 +2707,8 @@ fieldset {
       width: 1.8em; }
 
 .usa-checklist-checked::before {
-  background-image: url("/assets/img/correct9.png");
-  background-image: url("/assets/img/correct9.svg");
+  background-image: url("/assets/uswds/img/correct9.png");
+  background-image: url("/assets/uswds/img/correct9.svg");
   background-position: 100%;
   background-repeat: no-repeat;
   background-size: 100%; }
@@ -2895,7 +2895,7 @@ fieldset {
 .usa-hero {
   padding-top: 3rem;
   padding-bottom: 3rem;
-  background-image: url("/assets/img/hero.png");
+  background-image: url("/assets/uswds/img/hero.png");
   background-position: center;
   background-size: cover; }
   .usa-hero .usa-button {
@@ -3144,24 +3144,24 @@ fieldset {
           background-color: transparent; } }
     .usa-nav-primary button[aria-expanded=false] {
       /* stylelint-disable-line selector-no-qualifying-type */
-      background-image: url("/assets/img/plus-alt.png");
-      background-image: url("/assets/img/plus-alt.svg");
+      background-image: url("/assets/uswds/img/plus-alt.png");
+      background-image: url("/assets/uswds/img/plus-alt.svg");
       background-repeat: no-repeat;
       background-position: right 0 center;
       background-size: 1rem; }
       @media screen and (min-width: 951px) {
         .usa-nav-primary button[aria-expanded=false] {
-          background-image: url("/assets/img/angle-arrow-down.png");
-          background-image: url("/assets/img/angle-arrow-down.svg");
+          background-image: url("/assets/uswds/img/angle-arrow-down.png");
+          background-image: url("/assets/uswds/img/angle-arrow-down.svg");
           background-position: right 1.5rem top 40%; } }
       @media screen and (min-width: 951px) {
         .usa-nav-primary button[aria-expanded=false]:hover {
-          background-image: url("/assets/img/angle-arrow-down-primary.png");
-          background-image: url("/assets/img/angle-arrow-down-primary.svg"); } }
+          background-image: url("/assets/uswds/img/angle-arrow-down-primary.png");
+          background-image: url("/assets/uswds/img/angle-arrow-down-primary.svg"); } }
     .usa-nav-primary button[aria-expanded=true] {
       /* stylelint-disable-line selector-no-qualifying-type */
-      background-image: url("/assets/img/minus-alt.png");
-      background-image: url("/assets/img/minus-alt.svg");
+      background-image: url("/assets/uswds/img/minus-alt.png");
+      background-image: url("/assets/uswds/img/minus-alt.svg");
       background-repeat: no-repeat;
       background-position: right 0 center;
       background-size: 1rem; }
@@ -3169,8 +3169,8 @@ fieldset {
         .usa-nav-primary button[aria-expanded=true] {
           background-color: #112e51;
           color: #ffffff;
-          background-image: url("/assets/img/angle-arrow-down-hover.png");
-          background-image: url("/assets/img/angle-arrow-down-hover.svg");
+          background-image: url("/assets/uswds/img/angle-arrow-down-hover.png");
+          background-image: url("/assets/uswds/img/angle-arrow-down-hover.svg");
           background-position: right 1.5rem top 40%; }
           .usa-nav-primary button[aria-expanded=true]:hover {
             background-color: #112e51; }
@@ -3264,8 +3264,8 @@ fieldset {
       background-color: transparent; }
     @media screen and (min-width: 951px) {
       .usa-nav-secondary-links .usa-header-search-button {
-        background-image: url("/assets/img/search-alt.png");
-        background-image: url("/assets/img/search-alt.svg");
+        background-image: url("/assets/uswds/img/search-alt.png");
+        background-image: url("/assets/uswds/img/search-alt.svg");
         background-repeat: no-repeat;
         background-position: left center;
         background-size: 2.2rem;
@@ -3441,8 +3441,8 @@ fieldset {
     display: block; }
   .usa-search [type=submit],
   .usa-search .usa-search-submit {
-    background-image: url("/assets/img/search.png");
-    background-image: url("/assets/img/search.svg");
+    background-image: url("/assets/uswds/img/search.png");
+    background-image: url("/assets/uswds/img/search.svg");
     background-position: 50%;
     background-repeat: no-repeat;
     border-bottom-left-radius: 0;
@@ -3473,8 +3473,8 @@ fieldset {
       width: calc(100% - 4.5rem); }
     .usa-search.usa-search-small [type=submit],
     .usa-search.usa-search-small .usa-search-submit {
-      background-image: url("/assets/img/search.png");
-      background-image: url("/assets/img/search.svg");
+      background-image: url("/assets/uswds/img/search.png");
+      background-image: url("/assets/uswds/img/search.svg");
       background-position: 50%;
       background-repeat: no-repeat;
       width: 4.5rem; } }
@@ -3789,14 +3789,14 @@ body {
     background-color: #f1f1f1;
     color: #0071bc; }
   .sidenav-mobile li > button[aria-expanded=false] {
-    background-image: url("/assets/img/plus-alt.png");
-    background-image: url("/assets/img/plus-alt.svg");
+    background-image: url("/assets/uswds/img/plus-alt.png");
+    background-image: url("/assets/uswds/img/plus-alt.svg");
     background-repeat: no-repeat;
     background-position: right 0 center;
     background-size: 1rem; }
   .sidenav-mobile li > button[aria-expanded=true] {
-    background-image: url("/assets/img/minus-alt.png");
-    background-image: url("/assets/img/minus-alt.svg");
+    background-image: url("/assets/uswds/img/minus-alt.png");
+    background-image: url("/assets/uswds/img/minus-alt.svg");
     background-repeat: no-repeat;
     background-position: right 0 center;
     background-size: 1rem; }
@@ -3904,8 +3904,8 @@ body {
     .styleguide-content header .components-library-link a {
       text-decoration: none; }
       .styleguide-content header .components-library-link a::after {
-        background: url("/assets/img/external-link.png") no-repeat 0 0;
-        background: url("/assets/img/external-link.svg") no-repeat 0 0;
+        background: url("/assets/uswds/img/external-link.png") no-repeat 0 0;
+        background: url("/assets/uswds/img/external-link.svg") no-repeat 0 0;
         background-size: 100%;
         content: '';
         display: inline-block;
@@ -3914,8 +3914,8 @@ body {
         margin-left: 4px;
         width: 0.65em; }
       .styleguide-content header .components-library-link a:hover::after {
-        background-image: url("/assets/img/external-link-hover.png");
-        background-image: url("/assets/img/external-link-hover.svg"); }
+        background-image: url("/assets/uswds/img/external-link-hover.png");
+        background-image: url("/assets/uswds/img/external-link-hover.svg"); }
   .styleguide-content section > .tooltip {
     margin-top: 56px; }
 
@@ -4574,8 +4574,8 @@ code {
     display: block; } }
 
 [href^="http"]:not([href*=".gov"])::after {
-  background: url("/assets/img/external-link.png") no-repeat 0 0;
-  background: url("/assets/img/external-link.svg") no-repeat 0 0;
+  background: url("/assets/uswds/img/external-link.png") no-repeat 0 0;
+  background: url("/assets/uswds/img/external-link.svg") no-repeat 0 0;
   background-size: 100%;
   content: '';
   display: inline-block;
@@ -4584,8 +4584,8 @@ code {
   margin-left: 4px;
   width: 0.65em; }
 [href^="http"]:not([href*=".gov"]):hover::after {
-  background-image: url("/assets/img/external-link-hover.png");
-  background-image: url("/assets/img/external-link-hover.svg"); }
+  background-image: url("/assets/uswds/img/external-link-hover.png");
+  background-image: url("/assets/uswds/img/external-link-hover.svg"); }
 
 .usa-button[href^="http"]:not([href*=".gov"])::after,
 .link-download[href^="http"]:not([href*=".gov"])::after,
@@ -4624,8 +4624,8 @@ code {
 .link-download {
   display: table; }
   .link-download::before {
-    background: url("/assets/img/icon-download.png") no-repeat 0 0;
-    background: url("/assets/img/icon-download.svg") no-repeat 0 0;
+    background: url("/assets/uswds/img/icon-download.png") no-repeat 0 0;
+    background: url("/assets/uswds/img/icon-download.svg") no-repeat 0 0;
     background-size: 100%;
     content: '';
     display: inline-block;

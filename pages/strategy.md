@@ -1,7 +1,8 @@
 ---
-title: Strategy Page
+title: Developing the Federal Data Strategy
 permalink: /strategy
-layout: page
+layout: section
+slug: strategy
 ---
 
 This is a sample page

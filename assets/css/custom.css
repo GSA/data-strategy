@@ -1,3 +1,34 @@
 .usa-footer-logo-heading {
     padding : 0;
 }
+
+.usa-hero.strategy {
+    background-image : none; 
+    background-color: #1B2F4B;
+}
+
+.usa-hero.strategy .usa-grid {
+    background-image: url("/assets/img/strategy-bg.png");
+    background-repeat: no-repeat;
+    height : 204px;
+}
+
+.usa-hero.incubator {
+    background-image : none; 
+    background-color: #fff;
+}
+
+.usa-hero.incubator .usa-grid {
+    background-image: url("/assets/img/incubator-bg.png");
+    background-repeat: no-repeat;
+    height : 188px;
+}
+
+.beta-disclaimer {
+    color : red; 
+    float : left;
+}
+
+.usa-banner-header img {
+    margin-left: 2rem;
+}
