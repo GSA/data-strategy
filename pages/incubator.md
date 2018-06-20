@@ -1,6 +1,6 @@
 ---
 title: Submit Your Use Cases for the Data Incubator Project
-permalink: /incubator
+permalink: /incubator/
 layout: section
 slug: incubator
 ---

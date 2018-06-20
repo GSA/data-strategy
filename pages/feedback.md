@@ -1,6 +1,6 @@
 ---
 title: Feedback Page
-permalink: /feedback
+permalink: /feedback/
 layout: page
 ---
 

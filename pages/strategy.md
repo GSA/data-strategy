@@ -1,6 +1,6 @@
 ---
 title: Developing the Federal Data Strategy
-permalink: /strategy
+permalink: /strategy/
 layout: section
 slug: strategy
 ---
