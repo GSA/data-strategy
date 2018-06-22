@@ -32,3 +32,12 @@
 .usa-banner-header img {
     margin-left: 2rem;
 }
+
+.usa-hero {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  background-image: url("/assets/img/hero.png");
+  background-position: center;
+  background-size: cover; }
+  .usa-hero .usa-button {
+    color: #ffffff; }
