@@ -1,5 +1,5 @@
 ---
-title: Feedback Page
+title: Feedback
 permalink: /feedback/
 layout: feedback
 ---
@@ -32,4 +32,42 @@ Submit Comments on Stakeholder Feedback</a>
 
 Stay tuned for updates with more ways to engage. Until then, attend an event: [data.gov/events](https://www.data.gov/events)
 
-<div id="feedback-form1"></div>
+<div id="feedback-form1">
+  <form id="data-strategy-feedback">
+    <div>
+    </div>
+    <fieldset class="usa-fieldset-inputs usa-sans">
+    <h4>Please select which type of feedback you wish to leave:</h4>
+      <legend class="usa-sr-only">Feedback topics</legend>
+        <ul class="usa-unstyled-list">
+          <li>
+            <input id="principles" type="radio" name="feedback-topic" value="principles">
+            <label for="principles">Comments on Draft Principles</label>
+          </li>
+          <li>
+            <input id="best-practices" type="radio" name="feedback-topic" value="best-practices">
+            <label for="best-practices">Best Practices (for the four <a href="/strategy">Federal Data Strategy</a> areas)</label>
+          </li>
+          <li>
+            <input id="use-cases" type="radio" name="feedback-topic" value="use-cases">
+            <label for="use-cases">Use Cases</label>
+          </li>
+          <li>
+            <input id="stakeholder-feedback" type="radio" name="feedback-topic" value="stakeholder-feedback">
+            <label for="stakeholder-feedback">Stakeholder Feedback (recommendations for gathering feedback)</label>
+          </li>
+        </ul>
+    </fieldset>
+    <label for="fba-text-long"></label><textarea id="fba-text-long" name="fba-text-long" class="textarea" autofocus="true"></textarea>
+    <label for="fba-name">Name (optional)</label>
+    <input id="fba-name" name="fba-name" type="text">
+    <label for="fba-email">Email (optional)</label>
+    <input id="fba-email" name="fba-email" type="text">
+    <div class="button-wrapper">
+      <button type="submit" id="fba-submit" class="usa-button usa-button-outline" href="#">Submit</button>
+    </div>
+  </form>
+  <div id="disclaimer">
+    <p><small>We welcome your input to the Federal Data Strategy. The comments you provide here will be shared with the <a class="usa-external_link" href="https://www.performance.gov/CAP/CAP_goal_2.html">Federal Data Strategy development team</a> for follow up. Providing your name and email is optional, but will be included in the feedback shared with the strategy development team. Please do not include any other personally identifiable information. As the strategy development process continues, it is possible that some comments provided here from users will be publicly shared, but without any identifying information.</small></p>
+  </div>
+</div>
