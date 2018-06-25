@@ -32,6 +32,10 @@ Submit Comments on Stakeholder Feedback</a>
 
 Stay tuned for updates with more ways to engage. Until then, attend an event: [data.gov/events](https://www.data.gov/events)
 
+<hr>
+
+## Submit Your Feedback
+
 <div id="feedback-form1">
   <form id="data-strategy-feedback">
     <div>
