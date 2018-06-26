@@ -49,6 +49,10 @@
   font-size : .8em;
 }
 
+.usa-footer-basic {
+  background-color: #f1f1f1;
+}
+
 .usa-hero.timeline {
     background-image: url("/assets/img/timeline-vertical.svg");
     background-repeat: no-repeat;
