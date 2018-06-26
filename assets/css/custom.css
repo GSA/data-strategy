@@ -64,6 +64,10 @@
     height : 400px;
 }
 
+#fba-modal {
+   z-index: 9001 !important;
+}
+
 @media screen and (min-width: 700px) {
 
   .usa-hero.timeline {
