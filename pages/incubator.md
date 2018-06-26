@@ -7,23 +7,7 @@ slug: incubator
 
 ## What is a Use Case?
 
-For the purposes of the Federal Data Strategy, a “Use Case” is a data practice or method that leverages data to support an articulable Federal agency mission or public interest outcome. The Federal Data Strategy is seeking examples of the use of data that solve problems or demonstrate solutions, challenges, missed opportunities, common solutions, and game changers that can help inform the four strategy areas:
-
-### Enterprise Data Governance
-
-What data governance and stewardship practices should the Federal Government be employing and why?
-
-### Use, Access, and Augmentation
-
-What data interoperability techniques or coordination tactics would better serve agency missions and the public?   
-
-### Decision-making and Accountability
-
-How can the Federal Government better assist policy-makers with data? 
-
-### Commercialization, Innovation, and Public Use
-
-What data solutions could address a pervasive problem in government service delivery or the public sphere?
+For the purposes of the Federal Data Strategy, a “Use Case” is a data practice or method that leverages data to support an articulable Federal agency mission or public interest outcome. The Federal Data Strategy is seeking examples of the use of data that solve problems or demonstrate solutions, challenges, missed opportunities, common solutions, and game changers that can help inform the four strategy areas: Enterprise Data Governance; Use, Access, and Augmentation; Decision-making and Accountability; Commercialization, Innovation, and Public Use
 
 ## Why does the Federal Data Strategy need Use Cases? 
 
