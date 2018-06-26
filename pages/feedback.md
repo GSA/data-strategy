@@ -1,5 +1,5 @@
 ---
-title: Feedback
+title: Feedback Page
 permalink: /feedback/
 layout: feedback
 ---
@@ -24,35 +24,14 @@ Stay tuned for updates with more ways to engage. Until then, attend an event: [d
 
 <div id="feedback-form1">
   <form id="data-strategy-feedback">
-    <div>
-    </div>
-    <fieldset class="usa-fieldset-inputs usa-sans">
-    <h4>Please select which type of feedback you wish to leave:</h4>
-      <legend class="usa-sr-only">Feedback topics</legend>
-        <ul class="usa-unstyled-list">
-          <li>
-            <input id="principles" type="radio" name="feedback-topic" value="principles">
-            <label for="principles">Comments on Draft Principles</label>
-          </li>
-          <li>
-            <input id="best-practices" type="radio" name="feedback-topic" value="best-practices">
-            <label for="best-practices">Best Practices (for the four <a href="/strategy">Federal Data Strategy</a> areas)</label>
-          </li>
-          <li>
-            <input id="use-cases" type="radio" name="feedback-topic" value="use-cases">
-            <label for="use-cases">Use Cases</label>
-          </li>
-          <li>
-            <input id="stakeholder-feedback" type="radio" name="feedback-topic" value="stakeholder-feedback">
-            <label for="stakeholder-feedback">Stakeholder Feedback (recommendations for gathering feedback)</label>
-          </li>
-        </ul>
-    </fieldset>
     <label for="fba-text-long"></label><textarea id="fba-text-long" name="fba-text-long" class="textarea"></textarea>
+
     <label for="fba-name">Name (optional)</label>
     <input id="fba-name" name="fba-name" type="text">
+
     <label for="fba-email">Email (optional)</label>
     <input id="fba-email" name="fba-email" type="text">
+
     <div class="button-wrapper">
       <button type="submit" id="fba-submit" class="usa-button usa-button-outline" href="#">Submit</button>
     </div>
