@@ -1,20 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 13 16" enable-background="new 0 0 13 16" xml:space="preserve">
+	 viewBox="-505 377 13 16" enable-background="new -505 377 13 16" xml:space="preserve">
 <g>
-	<defs>
-		<rect id="SVGID_1_" width="13" height="16"/>
-	</defs>
-	<clipPath id="SVGID_2_">
-		<use xlink:href="#SVGID_1_"  overflow="visible"/>
-	</clipPath>
-	<rect opacity="0" clip-path="url(#SVGID_2_)" fill="#FFFFFF" width="13" height="16"/>
-	<path clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" fill="#53585F" d="M11.556,0H1.444
-		C0.647,0,0,0.651,0,1.455v13.09C0,15.348,0.647,16,1.444,16h10.111C12.353,16,13,15.348,13,14.545V1.455
-		C13,0.651,12.353,0,11.556,0 M8.667,0.727h1.444v2.545L9.389,2.545L8.667,3.273V0.727z M2.889,15.272H1.444
-		c-0.398,0-0.722-0.325-0.722-0.727V1.455c0-0.401,0.324-0.727,0.722-0.727h1.444V15.272z M12.278,14.545
-		c0,0.401-0.324,0.727-0.722,0.727H3.611V0.727h4.333V5.09l1.444-1.454l1.444,1.454V0.727h0.722c0.398,0,0.722,0.326,0.722,0.727
-		V14.545z"/>
+	<g>
+		<defs>
+			<rect id="SVGID_1_" x="-505" y="377" width="13" height="16"/>
+		</defs>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_"  overflow="visible"/>
+		</clipPath>
+		<rect x="-505" y="377" clip-path="url(#SVGID_2_)" fill="#FFFFFF" fill-opacity="0" width="13" height="16"/>
+	</g>
+	<g>
+		<defs>
+			<rect id="SVGID_3_" x="-505" y="377" width="13" height="16"/>
+		</defs>
+		<clipPath id="SVGID_4_">
+			<use xlink:href="#SVGID_3_"  overflow="visible"/>
+		</clipPath>
+		<path clip-path="url(#SVGID_4_)" fill="#FFFFFF" d="M-493.444,377h-10.112c-0.797,0-1.444,0.651-1.444,1.455v13.09
+			c0,0.803,0.647,1.455,1.444,1.455h10.111c0.798,0,1.445-0.652,1.445-1.455v-13.09C-492,377.651-492.647,377-493.444,377
+			 M-496.333,377.727h1.444v2.545l-0.722-0.727l-0.722,0.728V377.727z M-502.111,392.272h-1.445c-0.398,0-0.722-0.325-0.722-0.727
+			v-13.09c0-0.401,0.324-0.727,0.722-0.727h1.444v14.544H-502.111z M-492.722,391.545c0,0.401-0.324,0.727-0.722,0.727h-7.945
+			v-14.545h4.333v4.363l1.444-1.454l1.444,1.454v-4.363h0.722c0.398,0,0.722,0.326,0.722,0.727v13.091H-492.722z"/>
+	</g>
 </g>
 </svg>
