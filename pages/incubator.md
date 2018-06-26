@@ -7,27 +7,11 @@ slug: incubator
 
 ## What is a Use Case?
 
-For the purposes of the Federal Data Strategy, a “Use Case” is a data practice or method that leverages data to support an articulable Federal agency mission or public interest outcome. The Federal Data Strategy is seeking examples of the use of data that solve problems or demonstrate solutions, challenges, missed opportunities, common solutions, and game changers that can help inform the four strategy areas:
-
-### Enterprise Data Governance
-
-What data governance and stewardship practices should the Federal Government be employing and why?
-
-### Use, Access, and Augmentation
-
-What data interoperability techniques or coordination tactics would better serve agency missions and the public?   
-
-### Decision-making and Accountability
-
-How can the Federal Government better assist policy-makers with data? 
-
-### Commercialization, Innovation, and Public Use
-
-What data solutions could address a pervasive problem in government service delivery or the public sphere?
+For the purposes of the Federal Data Strategy, a “Use Case” is a data practice or method that leverages data to support an articulable Federal agency mission or public interest outcome. The Federal Data Strategy is seeking examples of the use of data that solve problems or demonstrate solutions, challenges, missed opportunities, common solutions, and game changers that can help inform the four strategy areas: Enterprise Data Governance; Use, Access, and Augmentation; Decision-making and Accountability; Commercialization, Innovation, and Public Use
 
 ## Why does the Federal Data Strategy need Use Cases? 
 
-Many high-level civic data challenges have been identified in the past– archaic data management practices and IT legacy systems, issues with data sharing and interoperability, and a lack of secondary use considerations.  But the Federal Government lacks an overall approach to tackle these challenges and prioritize data infrastructure improvements that serve the public. The Federal Data Strategy needs priority data use cases to ensure it is comprehensive and actionable.  
+Many high-level civic data challenges have been identified in the past–archaic data management practices and IT legacy systems, issues with data sharing and interoperability, and a lack of secondary use considerations.  But the Federal Government lacks an overall approach to tackle these challenges and prioritize data infrastructure improvements that serve the public. The Federal Data Strategy needs priority data use cases to ensure it is comprehensive and actionable.  
 
 ## How will the Federal Data Strategy incorporate Use Cases?
 
@@ -39,6 +23,6 @@ A select number of Use Cases deemed “ripe for testing” will be included in *
 
 ## How can I submit a Use Case?
 
-Submit use cases below by July 27, 2018, or via our companion Request for Comment on the FederalRegister.com (which will be posted on June 27, 2018).
+We welcome your input to the Federal Data Strategy. Please submit comments by July 27, 2018. The comments you provide here will be shared with the [Federal Data Strategy development team](https://www.performance.gov/CAP/CAP_goal_2.html) for follow up. Providing your name and email is optional, but will be included in the feedback shared with the strategy development team. Please do not include any other personally identifiable information. As the strategy development process continues, it is possible that some user comments submitted here may be shared publicly, but without any identifying information.
 
-To ensure complete use case entries, please provide as much contextual information as possible, such as: contact information for follow-up questions, the Federal agencies or bureaus related to the relevant data, related reference materials (including URLs) such as documentation about the data, practice, or goal of the project, and why this Use Case should be included in Federal Data Strategy development. 
+You many also submit comments via our companion Request for Comments (RFC) on FederalRegister.gov (which will be published on June 27, 2018).
