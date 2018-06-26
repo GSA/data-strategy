@@ -16,11 +16,10 @@ There will be many ways to provide feedback on the Federal Data Strategy. Until 
 
 In addition to submitting feedback on the Federal Data Strategy itself, until July 27, 2018, we are soliciting feedback on Stakeholder Engagement. What are the best mechanisms for engaging stakeholders in the development of the data strategy? What platforms and processes are both comprehensive and efficient for collecting stakeholder feedback on interim work products and input on next steps? 
 
-**We welcome your input on Stakeholder Engagement.** Please submit comments by July 27, 2018. The comments you provide here will be shared with the [Federal Data Strategy development team](https://www.performance.gov/CAP/CAP_goal_2.html) for follow up. Providing your name and email is optional, but will be included in the feedback shared with the strategy development team. Please do not include any other personally identifiable information. As the strategy development process continues, it is possible that some user comments submitted here may be shared publicly, but without any identifying information.
+**We welcome your input to the Federal Data Strategy Stakeholder Engagement**. Please submit comments by July 27, 2018. The comments you provide here will be shared with the Federal Data Strategy development team for follow up. Providing your name and email is optional, but will be included in the feedback shared with the strategy development team. Please do not include any other personally identifiable information. As the strategy development process continues, it is possible that some user comments submitted here may be shared publicly, but without any identifying information.
 
-You may also submit comments via our companion Request for Comments (RFC) on FederalRegister.gov (which will be published on June 27, 2018).
+You may also submit comments via our companion [Cross-Agency Priority Goal: Leveraging Data as a Strategic Asset Request for Comments (RFC)](https://www.federalregister.gov/documents/2018/06/27/2018-13768/cross-agency-priority-goal-leveraging-data-as-strategic-asset) on FederalRegister.gov.
 
-<hr>
 
 ## Submit Your Feedback
 
