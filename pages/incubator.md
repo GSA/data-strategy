@@ -27,7 +27,7 @@ What data solutions could address a pervasive problem in government service deli
 
 ## Why does the Federal Data Strategy need Use Cases? 
 
-Many high-level civic data challenges have been identified in the past– archaic data management practices and IT legacy systems, issues with data sharing and interoperability, and a lack of secondary use considerations.  But the Federal Government lacks an overall approach to tackle these challenges and prioritize data infrastructure improvements that serve the public. The Federal Data Strategy needs priority data use cases to ensure it is comprehensive and actionable.  
+Many high-level civic data challenges have been identified in the past–archaic data management practices and IT legacy systems, issues with data sharing and interoperability, and a lack of secondary use considerations.  But the Federal Government lacks an overall approach to tackle these challenges and prioritize data infrastructure improvements that serve the public. The Federal Data Strategy needs priority data use cases to ensure it is comprehensive and actionable.  
 
 ## How will the Federal Data Strategy incorporate Use Cases?
 
