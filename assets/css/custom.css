@@ -41,3 +41,20 @@
   background-size: cover; }
   .usa-hero .usa-button {
     color: #ffffff; }
+
+.footer-logo-row {
+  display : table-cell;
+}
+
+.usa-media_block-img.svg-icon {
+  width : 3.3rem;
+}
+
+.usa-section-dark .areas-heading {
+  color : #fff;
+  margin-bottom : 4rem;
+}
+
+.comment-disclaimer {
+  font-size : .8em;
+}
