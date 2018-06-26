@@ -2,18 +2,6 @@
     padding : 0;
 }
 
-.usa-hero.strategy {
-    background-image : none; 
-    background-color: #1B2F4B;
-}
-
-.timeline {
-    background-color : #1C304A;
-}
-
-.timeline .usa-grid {
-    height : 188px;
-}
 
 .usa-hero.incubator {
     background-image : none; 
@@ -59,4 +47,27 @@
 
 .comment-disclaimer {
   font-size : .8em;
+}
+
+.usa-hero.timeline {
+    background-image: url("/assets/img/timeline-vertical.svg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-color: #1B2F4B;
+}
+
+.timeline .usa-grid {
+    height : 400px;
+}
+
+@media screen and (min-width: 700px) {
+
+  .usa-hero.timeline {
+      background-image: url("/assets/img/timeline.svg");
+  }
+
+  .timeline .usa-grid {
+      height : 188px;
+  }
+
 }
