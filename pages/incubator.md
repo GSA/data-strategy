@@ -39,6 +39,6 @@ A select number of Use Cases deemed “ripe for testing” will be included in *
 
 ## How can I submit a Use Case?
 
-Submit use cases below by July 27, 2018, or via our companion Request for Comment on the FederalRegister.com (which will be posted on June 27, 2018).
+We welcome your input to the Federal Data Strategy. Please submit comments by July 27, 2018. The comments you provide here will be shared with the [Federal Data Strategy development team](https://www.performance.gov/CAP/CAP_goal_2.html) for follow up. Providing your name and email is optional, but will be included in the feedback shared with the strategy development team. Please do not include any other personally identifiable information. As the strategy development process continues, it is possible that some user comments submitted here may be shared publicly, but without any identifying information.
 
-To ensure complete use case entries, please provide as much contextual information as possible, such as: contact information for follow-up questions, the Federal agencies or bureaus related to the relevant data, related reference materials (including URLs) such as documentation about the data, practice, or goal of the project, and why this Use Case should be included in Federal Data Strategy development. 
+You many also submit comments via our companion Request for Comments (RFC) on FederalRegister.gov (which will be published on June 27, 2018).
