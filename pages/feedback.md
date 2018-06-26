@@ -20,8 +20,6 @@ In addition to submitting feedback on the Federal Data Strategy itself, until Ju
 
 You may also submit comments via our companion [Cross-Agency Priority Goal: Leveraging Data as a Strategic Asset Request for Comments (RFC)](https://www.federalregister.gov/documents/2018/06/27/2018-13768/cross-agency-priority-goal-leveraging-data-as-strategic-asset) on FederalRegister.gov.
 
-## Submit Your Feedback
-
 <div id="feedback-form1">
   <a id="general-feedback" class="usa-button usa-button-big fba-button" href="#">Submit Ideas for Engaging Stakeholders</a>
 </div>
