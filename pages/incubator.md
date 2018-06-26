@@ -7,11 +7,11 @@ slug: incubator
 
 ## Why does the Federal Data Strategy need Use Cases? 
 
-Many high-level civic data challenges have been identified in the past–archaic data management practices and IT legacy systems, issues with data sharing and interoperability, and a lack of secondary use considerations.  But the Federal Government lacks an overall approach to tackle these challenges and prioritize data infrastructure improvements that serve the public. The Federal Data Strategy needs priority data use cases to ensure it is comprehensive and actionable.  
+Many high-level civic data challenges have been identified in the past–archaic data management practices and IT legacy systems, issues with data sharing and interoperability, and a lack of secondary use considerations.  But the Federal Government lacks an overall approach to tackle these challenges and prioritize data infrastructure improvements that serve the public. The Federal Data Strategy needs priority data Use Cases to ensure it is comprehensive and actionable.  
 
 ## How will the Federal Data Strategy incorporate Use Cases?
 
-These use cases will be identified and discussed in the Federal Data Strategy, and a select number of ready use cases will be assessed more deeply in *The Data Incubator Project*.
+These Use Cases will be identified and discussed in the Federal Data Strategy, and a select number of ready Use Cases will be assessed more deeply in *The Data Incubator Project*.
 
 ## How will select Use Cases be incubated?
 
