@@ -4,25 +4,23 @@
      <a href="#">Return to top</a>
    </div>
 
-   <div>
+   <div class="usa-footer-primary-section">
     <div class="usa-grid">
       
       <div class="usa-footer-logo usa-width-one-half">
-         <img class="usa-footer-logo-img" src="/assets/img/logo-gsa.png" alt="Logo image">
-         <img class="usa-footer-logo-img" src="/assets/img/logo-omb.png" alt="Logo image">
-         <h3 class="usa-footer-logo-heading">
-            General Services Administration <br> 
-            Office of Management and Budget <br> 
-            Department of Commerce <br>
-            Small Business Administration
-        </h3>
+         <div class="footer-logo-row">
+            <img class="usa-footer-logo-img" src="/assets/img/logo-gsa.png" alt="Logo image">
+            <img class="usa-footer-logo-img" src="/assets/img/logo-omb.png" alt="Logo image">
+         </div>
+
+         <h4 class="usa-footer-logo-heading">Office of Management and Budget</h4>
+         <h4 class="usa-footer-logo-heading">General Services Administration</h4>
+         <h4 class="usa-footer-logo-heading">Department of Commerce</h4>
+         <h4 class="usa-footer-logo-heading">Small Business Administration</h4>
       </div>
 
       <div class="usa-footer-contact-links usa-width-one-half">
-       <address>
-         <h3 class="usa-footer-contact-heading">Contact Us</h3>
-         <a href="mailto:datagov@gsa.gov">datagov@gsa.gov</a>
-       </address>
+       <a href="https://www.performance.gov/leveragingdata">Performance.gov</a>
      </div>
 
     </div>
@@ -36,7 +34,7 @@
   
 
   <!-- Digital Analytics Program roll-up, see https://analytics.usa.gov for data -->
-  <script id="_fed_an_ua_tag" src="https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=GSA"></script>
+  <script id="_fed_an_ua_tag" src="https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency={{ site.dap_agency }}"></script>
     
 
   <!-- Google Analytics -->
@@ -45,7 +43,7 @@
     (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
     m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
     })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-    ga('create', 'UA-XXXXXX', 'auto');
+    ga('create', '{{ site.google_analytics_ua }}', 'auto');
 
     // anonymize user IPs (chops off the last IP triplet)
     ga('set', 'anonymizeIp', true);

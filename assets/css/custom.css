@@ -41,3 +41,7 @@
   background-size: cover; }
   .usa-hero .usa-button {
     color: #ffffff; }
+
+.footer-logo-row {
+  display : table-cell;
+}
