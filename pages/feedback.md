@@ -9,7 +9,7 @@ layout: feedback
 There will be many ways to provide feedback on the Federal Data Strategy. Until July 27, 2018, we are soliciting feedback on the following items:
 
 * Learn about our [Draft Principles and Submit Comments](/strategy/#draft-federal-data-strategy-principles)
-* Learn about the [Federal Data Strategy](/strategy) and [Submit a Best Practice](/strategy/#how-can-i-submit-comments-on-draft-principles-and-best-practices)
+* Learn about the [Federal Data Strategy](/strategy) and [Submit a Best Practice](/strategy/#how-can-i-submit-comments-on-best-practices)
 * Learn about the [Data Incubator Project](/incubator/) and [Submit a Use Case](/incubator/#how-can-i-submit-a-use-case)
 
 ## I have a great idea about how you can gather feedback. How can I let you know?
