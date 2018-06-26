@@ -21,4 +21,4 @@ To be “ripe for testing,” Use Cases must demonstrate the potential for repli
 
 We welcome your input to the Federal Data Strategy. Please submit comments by July 27, 2018. The comments you provide here will be shared with the [Federal Data Strategy development team](https://www.performance.gov/CAP/CAP_goal_2.html) for follow up. Providing your name and email is optional, but will be included in the feedback shared with the strategy development team. Please do not include any other personally identifiable information. As the strategy development process continues, it is possible that some user comments submitted here may be shared publicly, but without any identifying information.
 
-You many also submit comments via our companion Request for Comments (RFC) on FederalRegister.gov (which will be published on June 27, 2018).
+You may also submit comments via our companion Request for Comments (RFC) on FederalRegister.gov (which will be published on June 27, 2018).
