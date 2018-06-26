@@ -1,5 +1,5 @@
 ---
-title: Feedback
+title: Feedback Page
 permalink: /feedback/
 layout: feedback
 ---
@@ -18,16 +18,10 @@ What are the best mechanisms for engaging stakeholders in the development of the
 
 Stay tuned for updates with more ways to engage. Until then, attend an event: [data.gov/events](https://www.data.gov/events)
 
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-<div id="feedback-form1"></div>
-=======
 <hr>
 
 ## Submit Your Feedback
 
->>>>>>> master
 <div id="feedback-form1">
   <form id="data-strategy-feedback">
     <div>
@@ -54,11 +48,7 @@ Stay tuned for updates with more ways to engage. Until then, attend an event: [d
           </li>
         </ul>
     </fieldset>
-<<<<<<< HEAD
-    <label for="fba-text-long"></label><textarea id="fba-text-long" name="fba-text-long" class="textarea" autofocus="true"></textarea>
-=======
     <label for="fba-text-long"></label><textarea id="fba-text-long" name="fba-text-long" class="textarea"></textarea>
->>>>>>> master
     <label for="fba-name">Name (optional)</label>
     <input id="fba-name" name="fba-name" type="text">
     <label for="fba-email">Email (optional)</label>
@@ -67,17 +57,9 @@ Stay tuned for updates with more ways to engage. Until then, attend an event: [d
       <button type="submit" id="fba-submit" class="usa-button usa-button-outline" href="#">Submit</button>
     </div>
   </form>
-<<<<<<< HEAD
-  <div id="disclaimer">
-    <p><small>We welcome your input to the Federal Data Strategy. The comments you provide here will be shared with the <a class="usa-external_link" href="https://www.performance.gov/CAP/CAP_goal_2.html">Federal Data Strategy development team</a> for follow up. Providing your name and email is optional, but will be included in the feedback shared with the strategy development team. Please do not include any other personally identifiable information. As the strategy development process continues, it is possible that some comments provided here from users will be publicly shared, but without any identifying information.</small></p>
-  </div>
-</div>
-=======
   <div id="disclaimer" class="comment-disclaimer">
     <p>We welcome your input to the Federal Data Strategy. Please submit comments by July 27, 2018. The comments you provide here will be shared with the <a class="usa-external_link" href="https://www.performance.gov/CAP/CAP_goal_2.html">Federal Data Strategy development team</a> for follow up. Providing your name and email is optional, but will be included in the feedback shared with the strategy development team. Please do not include any other personally identifiable information. As the strategy development process continues, it is possible that some user comments submitted here may be shared publicly, but without any identifying information.</p>
 
     <p>You many also submit comments via our companion Request for Comments (RFC) on the FederalRegister.gov (which will be published on June 27, 2018).</p>
   </div>
 </div>
->>>>>>> origin/master
->>>>>>> master
