@@ -5,10 +5,6 @@ layout: incubator
 slug: incubator
 ---
 
-## What is a Use Case?
-
-For the purposes of the Federal Data Strategy, a “Use Case” is a data practice or method that leverages data to support an articulable Federal agency mission or public interest outcome. The Federal Data Strategy is seeking examples of the use of data that solve problems or demonstrate solutions, challenges, missed opportunities, common solutions, and game changers that can help inform the four strategy areas: Enterprise Data Governance; Use, Access, and Augmentation; Decision-making and Accountability; Commercialization, Innovation, and Public Use
-
 ## Why does the Federal Data Strategy need Use Cases? 
 
 Many high-level civic data challenges have been identified in the past–archaic data management practices and IT legacy systems, issues with data sharing and interoperability, and a lack of secondary use considerations.  But the Federal Government lacks an overall approach to tackle these challenges and prioritize data infrastructure improvements that serve the public. The Federal Data Strategy needs priority data use cases to ensure it is comprehensive and actionable.  
@@ -17,9 +13,9 @@ Many high-level civic data challenges have been identified in the past–archaic
 
 These use cases will be identified and discussed in the Federal Data Strategy, and a select number of ready use cases will be assessed more deeply in *The Data Incubator Project*.
 
-## What is The Data Incubator Project?
+## How will select Use Cases be incubated?
 
-A select number of Use Cases deemed “ripe for testing” will be included in *The Data Incubator Project*. To be “ripe for testing,” Use Cases must demonstrate the potential for replication, scaling, and mission impact. They also must have a ready team for further exploration and assessment purposes. *The Data Incubator Project* is not a new platform or set of resources, but rather is focused research aimed at identifying methods for the Federal Data Strategy and for agencies going forward. The Federal Data Strategy team will seek academic, private sector, and NGO partnerships to further our learning from *The Data Incubator Project*.
+To be “ripe for testing,” Use Cases must demonstrate the potential for replication, scaling, and mission impact. They also must have a ready team for further exploration and assessment purposes. The Data Incubator Project is not a new platform or set of resources, but rather is focused research aimed at identifying methods for the Federal Data Strategy and for agencies going forward. The Federal Data Strategy team will seek academic, private sector, and NGO partnerships to further our learning from The Data Incubator Project.
 
 ## How can I submit a Use Case?
 
