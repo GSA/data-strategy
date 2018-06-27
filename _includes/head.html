@@ -72,7 +72,21 @@
 
   <!-- Digital Analytics Program roll-up, see https://analytics.usa.gov for data -->
   <script id="_fed_an_ua_tag" src="https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency={{ site.dap_agency }}"></script>
-    
+
+  <style>
+  #fba-overlay.is-active{ position: fixed;bottom: 0;top: 0;left: 0;right: 0;background-color: rgba(0,0,0,.25);transition: background-color .25s;z-index: 1000;}
+  #fba-modal{z-index: 1001;position: fixed;top:0;left: 0;right: 0;overflow-x:auto;padding:20px;}
+  #fba-modal-dialog{max-width: 500px;background: #fff;padding:20px;position:relative;margin:0 auto;}
+  #fba-modal-title {margin-top: 0;margin-right: 20px;margin-bottom:20px;font-size:2.5rem;}
+  #fba-text-name,#fba-text-email{max-width:100%!important;font-size:100%}
+  #fba-modal-close{position: absolute;top:0;right:0;padding:10px;font-size: 24px;color: #5b616b;background: none;line-height: 1;text-decoration: none;width: auto;}
+  #feedback-form fieldset {margin: 1rem 0; }
+  #feedback-form p {margin: 1rem 0;}
+  #feedback-form label {display:block;margin-top: 01rem;}
+  #feedback-form input {margin-bottom: 1.5rem; width: 75%;}
+  #feedback-form #fba-submit {width: auto;}
+  </style>
+
   <body class="page-landing-page">
     <!-- Google Tag Manager (noscript) -->
     <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NBXQ7P2"
