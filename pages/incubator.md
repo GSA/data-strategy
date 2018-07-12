@@ -5,7 +5,7 @@ layout: incubator
 slug: incubator
 ---
 
-## Why does the Federal Data Strategy need Use Cases? 
+## Why does the Federal Data Strategy need Use Cases?
 
 Many high-level civic data challenges have been identified in the past–archaic data management practices and IT legacy systems, issues with data sharing and interoperability, and a lack of secondary use considerations.  But the Federal Government lacks an overall approach to tackle these challenges and prioritize data infrastructure improvements that serve the public. The Federal Data Strategy needs priority data Use Cases to ensure it is comprehensive and actionable.  
 
@@ -19,6 +19,12 @@ To be “ripe for testing,” Use Cases must demonstrate the potential for repli
 
 ## How can I submit a Use Case?
 
-**We welcome your input to the Federal Data Strategy Use Cases**. Please submit comments by July 27, 2018. The comments you provide here will be shared with the Federal Data Strategy development team for follow up. Providing your name and email is optional, but will be included in the feedback shared with the strategy development team. Please do not include any other personally identifiable information. As the strategy development process continues, it is possible that some user comments submitted here may be shared publicly, but without any identifying information.
+**We welcome your input to the Federal Data Strategy Use Cases**. Please submit comments by July 27, 2018.
+
+{% include use-case-feedback-button.html %}
+
+The comments you provide here will be shared with the Federal Data Strategy development team for follow up. Providing your name and email is optional, but will be included in the feedback shared with the strategy development team. Please do not include any other personally identifiable information. As the strategy development process continues, it is possible that some user comments submitted here may be shared publicly, but without any identifying information.
+
+This form uses pop-up windows. If you have installed third party applications to block pop-ups, the submission form may not be available to you unless you disable pop-up ad blocking programs before clicking.
 
 You may also submit comments via our companion [Cross-Agency Priority Goal: Leveraging Data as a Strategic Asset Request for Comments (RFC)](https://www.federalregister.gov/documents/2018/06/27/2018-13768/cross-agency-priority-goal-leveraging-data-as-strategic-asset) on FederalRegister.gov.
