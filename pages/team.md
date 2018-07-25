@@ -6,7 +6,7 @@ layout: feedback
 
 ### The Federal Data Strategy Development Team is comprised of a core group of cross-disciplinary data experts from across the Federal Government.
 
-The Leveraging Data as a Strategic Asset Cross Agency Priority (CAP) Goal commits the Administration to developing a long-term comprehensive Federal Data Strategy. Leadership from Department of Commerce, the Small Business Administration, the Office of Management and Budget, and the Office of Science and Technology Policy co-lead the CAP Goal. Co-lead staff members serve as a project managers supporting and facilitating the development of the Federal Data Strategy with significant stakeholder input. Select Federal Data Fellowship Chairs and Fellows conduct research and analysis; facilitate stakeholders; and distill feedback for the Federal Data Strategy. 
+The _Leveraging Data as a Strategic Asset_ Cross Agency Priority (CAP) Goal commits the Administration to developing a long-term comprehensive Federal Data Strategy. Leadership from Department of Commerce, the Small Business Administration, the Office of Management and Budget, and the Office of Science and Technology Policy co-lead the CAP Goal. Co-lead staff members serve as a project managers supporting and facilitating the development of the Federal Data Strategy with significant stakeholder input. Select Federal Data Fellowship Chairs and Fellows conduct research and analysis; facilitate stakeholders; and distill feedback for the Federal Data Strategy. 
 
 #### Leveraging Data as a Strategic Asset CAP Goal Co-leads
 * Pradeep Belur, Chief of Staff, Small Business Administration
