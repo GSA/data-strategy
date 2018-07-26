@@ -11,7 +11,7 @@ The Federal Data Strategy needs to articulate and encourage practices that will 
 
 ## How can I submit comments on Best Practices?
 
-**We welcome your input to the Federal Data Strategy Best Practices**. Please submit comments by July 27, 2018.
+**We welcome your input to the Federal Data Strategy Best Practices**. Please submit comments by July 30, 2018.
 
 {% include best-practices-feedback-button.html %}
 

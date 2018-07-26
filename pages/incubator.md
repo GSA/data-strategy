@@ -19,7 +19,7 @@ To be “ripe for testing,” Use Cases must demonstrate the potential for repli
 
 ## How can I submit a Use Case?
 
-**We welcome your input to the Federal Data Strategy Use Cases**. Please submit comments by July 27, 2018.
+**We welcome your input to the Federal Data Strategy Use Cases**. Please submit comments by July 30, 2018.
 
 {% include use-case-feedback-button.html %}
 

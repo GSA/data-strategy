@@ -6,7 +6,7 @@ layout: feedback
 
 ## How can I provide feedback on the Federal Data Strategy?
 
-There will be many ways to provide feedback on the Federal Data Strategy. Until July 27, 2018, we are soliciting feedback on the following items:
+There will be many ways to provide feedback on the Federal Data Strategy. Until July 30, 2018, we are soliciting feedback on the following items:
 
 * Learn about our [Draft Principles and Submit Comments](/strategy/#draft-federal-data-strategy-principles)
 * Learn about the [Federal Data Strategy](/strategy) and [Submit a Best Practice](/strategy/#how-can-i-submit-comments-on-best-practices)
@@ -14,9 +14,9 @@ There will be many ways to provide feedback on the Federal Data Strategy. Until 
 
 ## I have a great idea about how you can gather feedback. How can I let you know?
 
-In addition to submitting feedback on the Federal Data Strategy itself, until July 27, 2018, we are soliciting feedback on Stakeholder Engagement. What are the best mechanisms for engaging stakeholders in the development of the data strategy? What platforms and processes are both comprehensive and efficient for collecting stakeholder feedback on interim work products and input on next steps?
+In addition to submitting feedback on the Federal Data Strategy itself, until July 30, 2018, we are soliciting feedback on Stakeholder Engagement. What are the best mechanisms for engaging stakeholders in the development of the data strategy? What platforms and processes are both comprehensive and efficient for collecting stakeholder feedback on interim work products and input on next steps?
 
-**We welcome your input to the Federal Data Strategy Stakeholder Engagement**. Please submit comments by July 27, 2018.
+**We welcome your input to the Federal Data Strategy Stakeholder Engagement**. Please submit comments by July 30, 2018.
 
 {% include general-feedback-button.html %}
 
