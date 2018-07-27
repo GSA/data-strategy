@@ -6,74 +6,82 @@ layout: feedback
 
 ### The Federal Data Strategy Development Team is comprised of a core group of cross-disciplinary data experts from across the Federal Government.
 
-The _Leveraging Data as a Strategic Asset_ Cross Agency Priority (CAP) Goal commits the Administration to developing a long-term comprehensive Federal Data Strategy. Leadership from Department of Commerce, the Small Business Administration, the Office of Management and Budget, and the Office of Science and Technology Policy co-lead the CAP Goal. Co-lead staff members serve as a project managers supporting and facilitating the development of the Federal Data Strategy with significant stakeholder input. Select Federal Data Fellowship Chairs and Fellows conduct research and analysis; facilitate stakeholders; and distill feedback for the Federal Data Strategy. 
+The _Leveraging Data as a Strategic Asset_ Cross Agency Priority (CAP) Goal commits the Administration to developing a long-term comprehensive Federal Data Strategy. Senior officials from the Department of Commerce, the Small Business Administration, the Office of Management and Budget, and the Office of Science and Technology Policy co-lead the CAP Goal. Co-lead staff members serve as a project managers supporting and facilitating the development of the Federal Data Strategy with significant stakeholder input. Select Federal Data Fellowship Chairs and Fellows conduct research and analysis; facilitate stakeholders; and distill feedback for the Federal Data Strategy. 
 
 #### Leveraging Data as a Strategic Asset CAP Goal Co-leads
-* Pradeep Belur, Chief of Staff, Small Business Administration
+* Pradeep Belur, Chief of Staff and Chief Operating Officer, Small Business Administration
 * Karen Dunn Kelley, Under Secretary of Economic Affairs and Acting Deputy Secretary, Department of Commerce
 * Suzette Kent, Federal Chief Information Officer, Office of Management and Budget, Office of the Federal Chief Information Officer
 * Nancy Potok, Chief Statistician of the U.S., Office of Management and Budget, Office of Information and Regulatory Affairs
 * Jack Wilmer, Senior Advisor for Cybersecurity and IT Modernization, Office of Science and Technology Policy
 
 #### Federal Data Strategy Project Management Team
-* Sharon Boivin, Senior Research and Policy Analyst, Office of Management and Budget, Office of Information and Regulatory Affairs (on detail from Department of Education)
-* Trey Bradley, Program Manager, Strategic Data Initiatives, General Services Administration, Office of Shared Solutions & Performance Improvement, Office of Government-Wide Policy
-* Bill Gould, Senior Advisor, Small Business Administration
+* Sharon Boivin, Senior Research and Policy Analyst, Office of Information and Regulatory Affairs, Office of Management and Budget (on detail from Department of Education)
+* Trey Bradley, Program Manager, Strategic Data Initiatives, Office of Shared Solutions & Performance Improvement, Office of Government-Wide Policy, General Services Administration
+* *Bill Gould, Senior Advisor, Small Business Administration - Point of Contact* 
 * William Hawk, Economist, Department of Commerce
-* Lucas Hitt, Chief, Communications Division, Department of Commerce, U.S. Bureau of Economic Analysis
-* Shelly Wilkie Martinez, Statistician and Federal Data Strategy Project Co-Manager, Office of Management and Budget, Office of Information and Regulatory Affairs
-* Erik Noble, Senior Policy Advisor, Office of Science and Technology Policy
-* Bryant Renaud, Performance Analyst, Office of Management and Budget, Office of the Federal Chief Information Officer
-* Natalie Rico, Senior Policy Analyst, Office of Management and Budget, Office of Federal Financial Management
-* Rachel Snyderman, Program Examiner, Office of Management and Budget, Commerce Branch
+* Lucas Hitt, Chief, Communications Division, U.S. Bureau of Economic Analysis, Department of Commerce
+* *Shelly Wilkie Martinez, Statistician, Office of Information and Regulatory Affairs, Office of Management and Budget - POC and Project Co-Manager*  
+* *Erik Noble, Senior Policy Advisor, Office of Science and Technology Policy - Point of Contact*  
+* Bryant Renaud, Performance Analyst, Office of the Federal Chief Information Officer, Office of Management and Budget
+* Natalie Rico, Senior Policy Analyst, Office of Federal Financial Management, Office of Management and Budget 
+* *Joe Semsar, Senior Advisor, Department of Commerce - Point of Contact*  
+* Rachel Snyderman, Program Examiner,  Commerce Branch, Office of Management and Budget
 * Regina Powers, Economist, Department of Commerce
-* Joe Semsar, Senior Advisor, Department of Commerce
-* Rebecca Williams, Digital Services Expert and Federal Data Strategy Project Co-Manager, Office of Management and Budget, Office of the Federal Chief Information Officer
+* *Rebecca Williams, Digital Services Expert, Office of the Federal Chief Information Officer, Office of Management and Budget - Point of Contact and Project Co-Manager*  
 
-| Fellow    | Strategy Area                                                 |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  |-----------------------------------------------------  |
-| Ken Ambrose, Senior Policy Analyst, Department of Health and Human Services, Health Resources and Services Administration                                                                                                                                             | Decision-making and Accountability Team               |
-| Tom Beach, Chief Data Strategist & Portfolio Manager, Department of Commerce, U.S.PTO                                                                                                                                                                                 | Enterprise Data Governance Chair                      |
-| Marika Bertram, Supervisor, Data Analysis & Evaluation, Department of Housing and Urban Development, Office of Field Policy & Management, Field Operations Division                                                                                                   | Working Group Liaison Team                            |
-| Noah Brod, Economic Development Specialist, Small Business Administration                                                                                                                                                                                             | Enterprise Data Governance Team                       |
-| Chris Campbell, Director of Enterprise Data Management and Chief Data Architect, Department of Homeland Security, Office of the Chief Information Officer, Office of the Chief Information Officer                                                                    | Enterprise Data Governance Team                       |
-| Nikki Churchwell, Education Program Specialist, Department of Education, Office of Planning, Evaluation & Policy Development, Policy and Program Studies Service                                                                                                      | Access, Use, and Augmentation Team                    |
-| Leremy Colf, Director of Disaster Science, Department of Health and Human Services, Office of Policy and Planning, Office of the Assistant Secretary for Preparedness and Response                                                                                    | Access, Use, and Augmentation Team                    |
-| Colleen Collins, Portfolio Manager, Department of Agriculture, Food and Nutrition Service, Office of Strategic Initiatives                                                                                                                                            | Access, Use, and Augmentation Team                    |
-| Sheri Craig, Statistician, Office of Personnel Management, Planning and Policy Analysis, Data Analysis Group                                                                                                                                                          | Incubator Team                                        |
-| Richelle Davis, Education Program Specialist, Department of Education, Office of Special Education Programs                                                                                                                                                           | Working Group Liaison Team                            |
-| Dave Dreisigmeyer, Data Miner, Department of Commerce, U.S. Census Bureau, Center for Economic Studies                                                                                                                                                                | Commercialization, Innovation, and Public Use Team    |
-| Kipp Dubow, Records Management Officer, Department of Veteran Affairs, Office of Information and Technology, Quality, Privacy, and Risk, Quality Continuous Improvement Organization                                                                                  | Enterprise Data Governance Team                       |
-| Casey Eggleston, Research Mathematical Statistician, Department of Commerce, U.S. Census Bureau, Center for Survey Measurement                                                                                                                                        | Access, Use, and Augmentation Team                    |
-| Kimberly Essary, Deputy Director and Senior Counsel, Equal Employment Opportunity Commission, Office of Enterprise Data and Analytics                                                                                                                                 | Commercialization, Innovation, and Public Use Team    |
-| Anne Fletcher, Evaluator, Department of Housing and Urban Development, Policy Development and Research                                                                                                                                                                | Decision-making and Accountability Chair              |
-| Ruxi Giura, Digital Communication Technologies Specialist, Federal Trade Commission, Web and Digital Strategy Team, Office of Public Affairs                                                                                                                          | Communications Team                                   |
-| Jessica Graber, Research Survey Statistician, Department of Commerce, U.S. Census Bureau, Research and Methodology Directorate, Center for Survey Measurement                                                                                                         | Decision-making and Accountability Team               |
-| Matt Greene, Supervisory Education Research Analyst, Department of Education, Office of Planning, Evaluation and Policy Development                                                                                                                                   | Access, Use, and Augmentation Chair                   |
-| Dan Janes, Program Director, National Institutes of Health, National Institute of General Medical Sciences                                                                                                                                                            | Decision-making and Accountability Team               |
-| Tiffany Julian, Data Scientist, National Science Foundation, National Center for Science and Engineering Statistics, Information Technology Services Program                                                                                                          | Decision-making and Accountability Team               |
-| Ed Kearns, Chief Data Officer, Department of Commerce, National Oceanic and Atmospheric Administration                                                                                                                                                                | Commercialization, Innovation, and Public Use Chair   |
-| Lee Kelly, IT Specialist, Environmental Protection Agency, Office of Information Security and Privacy, Office of Environmental Information                                                                                                                            | Decision-making and Accountability Team               |
-| Hilary Leeds, Program Analyst, National Institutes of Health, Office of the Director, Office of Science Policy, Division of Scientific Data Sharing Policy                                                                                                            | Access, Use, and Augmentation Team                    |
-| Grace Levin, Management Analyst, State, Office of Management Policy, Rightsizing, and Innovation – Decision-making and Accountability Team                                                                                                                            | Access, Use, and Augmentation Team                    |
-| Anne Levine, Policy Analyst and Data Management Strategy Advisor, Federal Communications Commission, Office of Strategic Planning                                                                                                                                     | Enterprise Data Governance Team                       |
-| Lisa Mancino, Senior Agricultural Economist, Department of Agriculture, Economic Research Service, Food Economic Division                                                                                                                                             | Commercialization, Innovation, and Public Use Team    |
-| Lisa Mavrogianis, Open Data Lead, Department of Veteran Affairs, Office of Enterprise Integration                                                                                                                                                                     | Commercialization, Innovation, and Public Use Team    |
-| Lisette Montalvo, Data Governance Council Secretariat, Department of Veteran Affairs, Office of Strategic Integration                                                                                                                                                 | Enterprise Data Governance Team                       |
-| Jessica Nicholson, Senior Economist, Department of Commerce, U.S. Bureau of Economic Analysis                                                                                                                                                                         | Commercialization, Innovation, and Public Use Team    |
-| Glenda Noel, Program and Management Analyst, Environmental Protection Agency, Office of R&D, Office of Science Information Management                                                                                                                                 | Enterprise Data Governance Team                       |
-| Anne Parker, Program Manager, Internal Revenue Service, RAAS Strategy and Business Solutions, Business Performance Analytics Lab                                                                                                                                      | Decision-making and Accountability Team               |
-| Stacy Sneeringer, Research Economist, Department of Agriculture, Economic Research Service, Resource and Rural Economics Division, Structure, Technology, & Productivity Branch                                                                                       | Decision-making and Accountability Team               |
-| Genevieve Soule, Social Science Analyst, Department of Labor, Occupational Safety and Health Administration, Directorate of Technical Support and Emergency Management, Office of Evaluations                                                                         | Access, Use, and Augmentation Team                    |
-| Leanne Tang, Lead System Architect and Developer?, Department of Agriculture, National Agricultural Statistics Service                                                                                                                                                | Enterprise Data Governance Team                       |
-| Rae Thomas, Accessibility Consultant, National Institutes of Health, Office of Equity, Diversity, and Inclusion, Guidance, Education and Marketing Division, Access and Equity Branch                                                                                 | Commercialization, Innovation, and Public Use Team    |
-| Zachary Trautt, Materials Research Engineer, National Institute of Standards and Technology, Materials Measurement Science Division                                                                                                                                   | Access, Use, and Augmentation Team                    |
-| Kim Valentine, Geospatial Data Manager, Department of Commerce, National Oceanic and Atmospheric Administration, Office of the Assistant Chief Information Officer                                                                                                    | Decision-making and Accountability Team               |
-| Shondelle Wilson-Frederick, Lieutenant Commander, Statistician & National Program Lead, Department of Health and Human Services, Centers for Medicare and Medicaid Services, Data and Policy Analytics Group, Office of Minority Health, U.S. Public Health Service   | Enterprise Data Governance Team                       |
-| Jenn Wiltz, Commander (U.S. Public Health Service), Senior Medical Officer, Center for Disease Control and Prevention, Division for Heart Disease and Stroke Prevention, Epidemiology and Surveillance Branch                                                         | Commercialization, Innovation, and Public Use Team    |
-| Grace Yuan, Data Analytics Officer, National Science Foundation, Office of the Assistant Director, Directorate for Engineering                                                                                                                                        | Incubator Team                                        |
-| Lin Zhang, Senior Enterprise Data Architect, Department of Interior, Office of the Chief Information Officer                                                                                                                                                          | Incubator Team                                        |
+#### Federal Data Fellows 
 
+##### Federal Data Strategy and Data Incubator Project Support 
+* Marika Bertram, Supervisor, Data Analysis & Evaluation, Office of Field Policy & Management, Field Operations Division, Department of Housing and Urban Development
+* Sheri Craig, Statistician, Data Analysis Group, Planning and Policy Analysis, Office of Personnel Management,
+* Richelle Davis, Education Program Specialist, Department of Education, Office of Special Education Programs
+* Ruxi Giura, Digital Communication Technologies Specialist, Federal Trade Commission, Web and Digital Strategy Team, Office of Public Affairs
+* Grace Yuan, Data Analytics Officer, National Science Foundation, Office of the Assistant Director, Directorate for Engineering
+* Lin Zhang, Senior Enterprise Data Architect, Office of the Chief Information Officer, Department of the Interior
+
+##### Enterprise Data Governance Working Group
+*Tom Beach, Chief Data Strategist & Portfolio Manager, U.S. Patent and Trade Office, Department of Commerce – Working Group Chair*
+* Noah Brod, Economic Development Specialist, Small Business Administration
+* Chris Campbell, Director of Enterprise Data Management and Chief Data Architect, Office of the Chief Information Officer, Department of Homeland Security
+* Kipp Dubow, Records Management Officer, Office of Information and Technology, Quality, Privacy, and Risk, Quality Continuous Improvement Organization, Department of Veterans Affairs
+* Anne Levine, Policy Analyst and Data Management Strategy Advisor, Office of Strategic Planning, Federal Communications Commission
+* Lisette Montalvo, Data Governance Council Secretariat, Office of Strategic Integration, Department of Veterans Affairs
+* Glenda Noel, Program and Management Analyst, Office of R&D, Office of Science Information Management, Environmental Protection Agency,
+* Leanne Tang, Lead System Architect and Developer, National Agricultural Statistics Service, Department of Agriculture
+* Shondelle Wilson-Frederick, Lieutenant Commander, Statistician & National Program Lead, U.S. Public Health Service, Centers for Medicare and Medicaid Services, Data and Policy Analytics Group, Office of Minority Health, Department of Health and Human Services
+
+##### Access, Use, and Augmentation Working Group 
+*Matt Greene, Supervisory Education Research Analyst, Department of Education, Office of Planning, Evaluation and Policy Development – Working Group Chair*
+* Nikki Churchwell, Education Program Specialist, Policy and Program Studies Service, Office of Planning, Evaluation & Policy Development, Department of Education
+* Leremy Colf, Director of Disaster Science, Office of the Assistant Secretary for Preparedness and Response, Office of Policy and Planning, Department of Health and Human Services
+* Colleen Collins, Portfolio Manager, Office of Strategic Initiatives, Food and Nutrition Service, Department of Agriculture
+* Casey Eggleston, Research Mathematical Statistician, Center for Survey Measurement, U.S. Census Bureau, Department of Commerce 
+* Hilary Leeds, Program Analyst, Office of the Director, Office of Science Policy, Division of Scientific Data Sharing Policy, National Institutes of Health, Department of Health and Human Services
+* Genevieve Soule, Social Science Analyst, Occupational Safety and Health Administration, Directorate of Technical Support and Emergency Management, Office of Evaluations, Department of Labor
+* Zachary Trautt, Materials Research Engineer, Materials Measurement Science Division, National Institute of Standards and Technology
+
+##### Decision-making and Accountability Working Group
+*Anne Fletcher, Evaluator, Office of Policy Development and Research, Department of Housing and Urban Development – Working Group Chair*
+* Ken Ambrose, Senior Policy Analyst, Health Resources and Services Administration, Department of Health and Human Services
+* Jessica Graber, Research Survey Statistician, Center for Survey Measurement, Research and Methodology Directorate, U.S. Census Bureau, Department of Commerce
+* Dan Janes, Program Director, National Institute of General Medical Sciences, National Institutes of Health, Department of Health and Human Services
+* Tiffany Julian, Data Scientist, Information Technology Services Program, National Center for Science and Engineering Statistics, National Science Foundation
+* Lee Kelly, IT Specialist, Office of Environmental Information, Office of Information Security and Privacy, Environmental Protection Agency
+* Grace Levin, Management Analyst, Office of Management Policy, Rightsizing, and Innovation, Department of State
+* Anne Parker, Program Manager, Business Performance Analytics Lab, RAAS Strategy and Business Solutions, Internal Revenue Service, Department of Treasury
+* Stacy Sneeringer, Research Economist, Resource and Rural Economics Division, Structure, Technology, & Productivity Branch, Economic Research Service, Department of Agriculture
+* Kim Valentine, Geospatial Data Manager, Office of the Assistant Chief Information Officer, National Oceanic and Atmospheric Administration, Department of Commerce
+
+##### Commercialization, Innovation, and Public Use Working Group
+*Ed Kearns, Chief Data Officer, National Oceanic and Atmospheric Administration, Department of Commerce – Working Group Chair*
+* Dave Dreisigmeyer, Data Miner, Center for Economic Studies, U.S. Census Bureau, Department of Commerce
+* Kimberly Essary, Deputy Director and Senior Counsel, Office of Enterprise Data and Analytics, Equal Employment Opportunity Commission
+* Lisa Mancino, Senior Agricultural Economist, Food Economic Division, Economic Research Service, Department of Agriculture
+* Lisa Mavrogianis, Open Data Lead, Office of Enterprise Integration, Department of Veterans Affairs
+* Jessica Nicholson, Senior Economist, U.S. Bureau of Economic Analysis, Department of Commerce
+* Rae Thomas, Accessibility Consultant, Office of Equity, Diversity, and Inclusion, Guidance, Education and Marketing Division, Access and Equity Branch, National Institutes of Health, Department of Health and Human Services
+* Jenn Wiltz, Commander (U.S. Public Health Service), Senior Medical Officer, Epidemiology and Surveillance Branch, Division for Heart Disease and Stroke Prevention, Center for Disease Control and Prevention, Department of Health and Human Services
 
 #### Contact
 For media inquiries please reach out to OMB press at [media@omb.eop.gov](mailto:media@omb.eop.gov).
