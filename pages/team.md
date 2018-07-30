@@ -21,7 +21,7 @@ The _Leveraging Data as a Strategic Asset_ Cross Agency Priority (CAP) Goal comm
 * *Bill Gould, Senior Advisor, Small Business Administration - Point of Contact* 
 * William Hawk, Economist, Department of Commerce
 * Lucas Hitt, Chief, Communications Division, U.S. Bureau of Economic Analysis, Department of Commerce
-* *Shelly Wilkie Martinez, Statistician, Office of Information and Regulatory Affairs, Office of Management and Budget - POC and Project Co-Manager*  
+* *Shelly Wilkie Martinez, Statistician, Office of Information and Regulatory Affairs, Office of Management and Budget - Point of Contact and Project Co-Manager*  
 * *Erik Noble, Senior Policy Advisor, Office of Science and Technology Policy - Point of Contact*  
 * Bryant Renaud, Performance Analyst, Office of the Federal Chief Information Officer, Office of Management and Budget
 * Natalie Rico, Senior Policy Analyst, Office of Federal Financial Management, Office of Management and Budget 
@@ -53,17 +53,6 @@ The _Leveraging Data as a Strategic Asset_ Cross Agency Priority (CAP) Goal comm
 
 ##### Access, Use, and Augmentation Working Group 
 *Matt Greene, Supervisory Education Research Analyst, Department of Education, Office of Planning, Evaluation and Policy Development – Working Group Chair*
-* Nikki Churchwell, Education Program Specialist, Policy and Program Studies Service, Office of Planning, Evaluation & Policy Development, Department of Education
-* Leremy Colf, Director of Disaster Science, Office of the Assistant Secretary for Preparedness and Response, Office of Policy and Planning, Department of Health and Human Services
-* Colleen Collins, Portfolio Manager, Office of Strategic Initiatives, Food and Nutrition Service, Department of Agriculture
-* Casey Eggleston, Research Mathematical Statistician, Center for Survey Measurement, U.S. Census Bureau, Department of Commerce 
-* Hilary Leeds, Program Analyst, Office of the Director, Office of Science Policy, Division of Scientific Data Sharing Policy, National Institutes of Health, Department of Health and Human Services
-* Genevieve Soule, Social Science Analyst, Occupational Safety and Health Administration, Directorate of Technical Support and Emergency Management, Office of Evaluations, Department of Labor
-* Zachary Trautt, Materials Research Engineer, Materials Measurement Science Division, National Institute of Standards and Technology
-
-##### Decision-making and Accountability Working Group
-*Anne Fletcher, Evaluator, Office of Policy Development and Research, Department of Housing and Urban Development – Working Group Chair*
-* Ken Ambrose, Senior Policy Analyst, Health Resources and Services Administration, Department of Health and Human Services
 * Jessica Graber, Research Survey Statistician, Center for Survey Measurement, Research and Methodology Directorate, U.S. Census Bureau, Department of Commerce
 * Dan Janes, Program Director, National Institute of General Medical Sciences, National Institutes of Health, Department of Health and Human Services
 * Tiffany Julian, Data Scientist, Information Technology Services Program, National Center for Science and Engineering Statistics, National Science Foundation
@@ -73,6 +62,18 @@ The _Leveraging Data as a Strategic Asset_ Cross Agency Priority (CAP) Goal comm
 * Stacy Sneeringer, Research Economist, Resource and Rural Economics Division, Structure, Technology, & Productivity Branch, Economic Research Service, Department of Agriculture
 * Kim Valentine, Geospatial Data Manager, Office of the Assistant Chief Information Officer, National Oceanic and Atmospheric Administration, Department of Commerce
 
+##### Decision-making and Accountability Working Group
+*Anne Fletcher, Evaluator, Office of Policy Development and Research, Department of Housing and Urban Development – Working Group Chair*
+* Ken Ambrose, Senior Policy Analyst, Health Resources and Services Administration, Department of Health and Human Services
+* Nikki Churchwell, Education Program Specialist, Policy and Program Studies Service, Office of Planning, Evaluation & Policy Development, Department of Education
+* Leremy Colf, Director of Disaster Science, Office of the Assistant Secretary for Preparedness and Response, Office of Policy and Planning, Department of Health and Human Services
+* Colleen Collins, Portfolio Manager, Office of Strategic Initiatives, Food and Nutrition Service, Department of Agriculture
+* Casey Eggleston, Research Mathematical Statistician, Center for Survey Measurement, U.S. Census Bureau, Department of Commerce 
+* Hilary Leeds, Program Analyst, Office of the Director, Office of Science Policy, Division of Scientific Data Sharing Policy, National Institutes of Health, Department of Health and Human Services
+* Genevieve Soule, Social Science Analyst, Occupational Safety and Health Administration, Directorate of Technical Support and Emergency Management, Office of Evaluations, Department of Labor
+* Zachary Trautt, Materials Research Engineer, Materials Measurement Science Division, National Institute of Standards and Technology
+
+
 ##### Commercialization, Innovation, and Public Use Working Group
 *Ed Kearns, Chief Data Officer, National Oceanic and Atmospheric Administration, Department of Commerce – Working Group Chair*
 * Dave Dreisigmeyer, Data Miner, Center for Economic Studies, U.S. Census Bureau, Department of Commerce
@@ -81,7 +82,7 @@ The _Leveraging Data as a Strategic Asset_ Cross Agency Priority (CAP) Goal comm
 * Lisa Mavrogianis, Open Data Lead, Office of Enterprise Integration, Department of Veterans Affairs
 * Jessica Nicholson, Senior Economist, U.S. Bureau of Economic Analysis, Department of Commerce
 * Rae Thomas, Accessibility Consultant, Office of Equity, Diversity, and Inclusion, Guidance, Education and Marketing Division, Access and Equity Branch, National Institutes of Health, Department of Health and Human Services
-* Jenn Wiltz, Commander (U.S. Public Health Service), Senior Medical Officer, Epidemiology and Surveillance Branch, Division for Heart Disease and Stroke Prevention, Center for Disease Control and Prevention, Department of Health and Human Services
+* Jennifer Wiltz, Commander (U.S. Public Health Service), Senior Medical Officer, Division for Heart Disease and Stroke Prevention, Centers for Disease Control and Prevention, Department of Health and Human Services
 
 #### Contact
 For media inquiries please reach out to OMB press at [media@omb.eop.gov](mailto:media@omb.eop.gov).
