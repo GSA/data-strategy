@@ -11,12 +11,6 @@ The Federal Data Strategy needs to articulate and encourage practices that will 
 
 ## How can I submit comments on Best Practices?
 
-**We welcome your input to the Federal Data Strategy Best Practices**. Please submit comments by July 30, 2018.
+Our first feedback round concluded on July 30, 2018, and we are now working to incorporate your feedback into our Principles and Draft Practices, as well as review all the use cases submitted. In October, we will publish the next set of deliverables, including the Draft Practices document for your review and input.
 
-{% include best-practices-feedback-button.html %}
-
-The comments you provide here will be shared with the Federal Data Strategy development team for follow up. Providing your name and email is optional, but will be included in the feedback shared with the strategy development team. Please do not include any other personally identifiable information. As the strategy development process continues, it is possible that some user comments submitted here may be shared publicly, but without any identifying information.
-
-This form uses pop-up windows. If you have installed third party applications to block pop-ups, the submission form may not be available to you unless you disable pop-up ad blocking programs before clicking.
-
-You may also submit comments via our companion [Cross-Agency Priority Goal: Leveraging Data as a Strategic Asset Request for Comments (RFC)](https://www.federalregister.gov/documents/2018/06/27/2018-13768/cross-agency-priority-goal-leveraging-data-as-strategic-asset) on FederalRegister.gov.
+You may also review the public comments submitted via our companion [Cross-Agency Priority Goal: Leveraging Data as a Strategic Asset Request for Comments (RFC) on FederalRegister.gov](https://www.regulations.gov/docketBrowser?rpp=25&so=DESC&sb=commentDueDate&po=0&dct=PS&D=USBC-2018-0011).
