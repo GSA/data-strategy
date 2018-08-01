@@ -37,6 +37,7 @@ The _Leveraging Data as a Strategic Asset_ Cross Agency Priority (CAP) Goal comm
 * Sheri Craig, Statistician, Data Analysis Group, Planning and Policy Analysis, Office of Personnel Management,
 * Richelle Davis, Education Program Specialist, Department of Education, Office of Special Education Programs
 * Ruxi Giura, Digital Communication Technologies Specialist, Federal Trade Commission, Web and Digital Strategy Team, Office of Public Affairs
+* Julia Lane, Senior Research Fellow at the Census Bureau, Department of Commerce
 * Grace Yuan, Data Analytics Officer, National Science Foundation, Office of the Assistant Director, Directorate for Engineering
 * Lin Zhang, Senior Enterprise Data Architect, Office of the Chief Information Officer, Department of the Interior
 
