@@ -57,22 +57,22 @@ The _Leveraging Data as a Strategic Asset_ Cross Agency Priority (CAP) Goal comm
 * Dan Janes, Program Director, National Institute of General Medical Sciences, National Institutes of Health, Department of Health and Human Services
 * Tiffany Julian, Data Scientist, Information Technology Services Program, National Center for Science and Engineering Statistics, National Science Foundation
 * Lee Kelly, IT Specialist, Office of Environmental Information, Office of Information Security and Privacy, Environmental Protection Agency
-* Grace Levin, Management Analyst, Office of Management Policy, Rightsizing, and Innovation, Department of State
+
 * Anne Parker, Program Manager, Business Performance Analytics Lab, RAAS Strategy and Business Solutions, Internal Revenue Service, Department of Treasury
 * Stacy Sneeringer, Research Economist, Resource and Rural Economics Division, Structure, Technology, & Productivity Branch, Economic Research Service, Department of Agriculture
 * Kim Valentine, Geospatial Data Manager, Office of the Assistant Chief Information Officer, National Oceanic and Atmospheric Administration, Department of Commerce
+* Zachary Trautt, Materials Research Engineer, Materials Measurement Science Division, National Institute of Standards and Technology
 
 ##### Decision-making and Accountability Working Group
-*Anne Fletcher, Evaluator, Office of Policy Development and Research, Department of Housing and Urban Development – Working Group Chair*
+*Anne Fletcher,Social Science Analyst, Office of Policy Development and Research, Department of Housing and Urban Development – Working Group Chair*
 * Ken Ambrose, Senior Policy Analyst, Health Resources and Services Administration, Department of Health and Human Services
 * Nikki Churchwell, Education Program Specialist, Policy and Program Studies Service, Office of Planning, Evaluation & Policy Development, Department of Education
 * Leremy Colf, Director of Disaster Science, Office of the Assistant Secretary for Preparedness and Response, Office of Policy and Planning, Department of Health and Human Services
 * Colleen Collins, Portfolio Manager, Office of Strategic Initiatives, Food and Nutrition Service, Department of Agriculture
 * Casey Eggleston, Research Mathematical Statistician, Center for Survey Measurement, U.S. Census Bureau, Department of Commerce 
+* Grace Levin, Management Analyst, Office of Management Policy, Rightsizing, and Innovation, Department of State
 * Hilary Leeds, Program Analyst, Office of the Director, Office of Science Policy, Division of Scientific Data Sharing Policy, National Institutes of Health, Department of Health and Human Services
 * Genevieve Soule, Social Science Analyst, Occupational Safety and Health Administration, Directorate of Technical Support and Emergency Management, Office of Evaluations, Department of Labor
-* Zachary Trautt, Materials Research Engineer, Materials Measurement Science Division, National Institute of Standards and Technology
-
 
 ##### Commercialization, Innovation, and Public Use Working Group
 *Ed Kearns, Chief Data Officer, National Oceanic and Atmospheric Administration, Department of Commerce – Working Group Chair*
