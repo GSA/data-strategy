@@ -1,0 +1,19 @@
+---
+layout: default
+---
+
+ <div class="usa-overlay"></div>
+
+  <main class="usa-grid usa-section usa-content usa-layout-docs" id="main-content">
+
+<ul>
+{% for post in site.categories[page.category] %}
+   <li>
+    <a href="{{ post.url | absolute_url }}">
+      {{ post.title }}
+    </a>
+      </li>
+{% endfor %}
+</ul>
+
+</main>
