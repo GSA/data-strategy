@@ -12,7 +12,7 @@ In June, the Federal Data Strategy development team released a [Request for Comm
 
 * We’ve **created working groups of Federal Data Fellows**, which are centered around the [four areas of the data strategy](https://strategy.data.gov) and the [Data Incubator Project](https://strategy.data.gov/incubator/ "Incubator"). 
 
-* We’ve been **finalizing Principles for the Federal Data Strategy based on feedback** received on the [draft Principles](https://strategy.data.gov/strategy/) released in June, and we are planning to release the final Principles in October. 
+* We’ve been **finalizing Principles for the Federal Data Strategy based on feedback** received on the [draft Principles](https://strategy.data.gov/timeline/) released in June, and we are planning to release the final Principles in October. 
 
 * The working groups have collected and **analyzed input from a variety of sources** and are drafting Practices for the Federal Data Strategy and reviewing Use Cases for the Data Incubator. The draft Practices will be released in October for comment before they are finalized for January release. 
 
