@@ -12,6 +12,6 @@ You may also review the public comments submitted via our companion [Cross-Agenc
 
 In the meantime:
 
-* Learn about our [Draft Principles](/strategy/#draft-federal-data-strategy-principles)
-* Learn about the [Federal Data Strategy](/strategy)
+* Learn about our [Draft Principles](/timeline/#draft-federal-data-strategy-principles)
+* Learn about the [Federal Data Strategy](/timeline)
 * Learn about the [Data Incubator Project](/incubator/)
