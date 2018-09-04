@@ -1,8 +1,8 @@
 ---
 title: Developing the Federal Data Strategy
-permalink: /strategy/
-layout: strategy
-slug: strategy
+permalink: /timeline/
+layout: timeline
+slug: timeline
 ---
 
 ## What are Best Practices?
