@@ -1,12 +1,10 @@
 ---
 layout: post
 title: What’s New with the Federal Data Strategy
-date:  2018-09-05 07:16:01 -0500
+date:  2018-09-04 07:16:01 -0500
 category: [ news ]
 published: true
 ---
-
-# What’s New with the Federal Data Strategy
 
 In June, the Federal Data Strategy development team released a [Request for Comments](https://www.regulations.gov/docketBrowser?rpp=25&so=DESC&sb=commentDueDate&po=0&dct=PS&D=USBC-2018-0011) to gather input from federal agencies and the public to be used for the development of a Federal Data Strategy. Since then, we’ve made a lot of progress!
 
@@ -52,4 +50,4 @@ Similarly, from the information stakeholders provided about **Use Cases**, the f
 * Economy
 * Fraud
 
- ### Stay tuned here for future updates and opportunities to provide input!
+### Stay tuned here for future updates and opportunities to provide input!
