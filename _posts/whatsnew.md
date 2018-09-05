@@ -14,13 +14,13 @@ In June, the Federal Data Strategy development team released a [Request for Comm
 
 * The working groups have collected and **analyzed input from a variety of sources** and are drafting Practices for the Federal Data Strategy and reviewing Use Cases for the Data Incubator. The draft Practices will be released in October for comment before they are finalized for January release. 
 
-## Federal Data Fellows
+### Federal Data Fellows
 
 Based on a highly-selective process, **42 [Federal Data Fellows](https://strategy.data.gov/team/)** were chosen to serve on the working groups and provide Federal Data Strategy and Data Incubator Project support. These fellows come from across the Executive branch, representing 42 offices across 18 departments and agencies – and offering the diverse perspectives needed for a truly actionable Federal Data Strategy.
    
 Since the end of July, the working groups have been busy analyzing and synthesizing information received during the comment period. This feedback came from a wide gamut of stakeholders both within and outside the Federal Government. We received **237 comments** from individuals across 131 organizations, including 48 Federal agencies or offices. We used several mechanisms to gather written feedback during the comment period, collecting 63 comments through the Federal Register, 122 through the strategy.data.gov web site, 33 by email, and 19 through broadly-attended stakeholder meetings. 
 
-## Listening to Stakeholder Feedback
+### Listening to Stakeholder Feedback
 
 Stakeholders also had the opportunity to offer input in person. At the end of July, the working groups participated in a **Federal forum** with speakers from 15 Federal agencies, and observers from numerous others, to hear their perspective on the Federal Data Strategy. A few days later, working group members attended another [forum hosted by the Bipartisan Policy Center](https://www.data.gov/event/public-forum-federal-governments-data-strategy/), where they heard from stakeholders outside the Federal government. 
 
@@ -28,7 +28,7 @@ The working groups listened as stakeholders spoke about a variety of topics, inc
   
 Stakeholder input is invaluable as we develop the Federal Data Strategy, and we will continue to reach out to our many and diverse stakeholders as the effort continues. 
 
-## Data Science to Support the Data Strategy
+### Data Science to Support the Data Strategy
 
 To streamline and facilitate analysis of these comments, the project team put **data science to work**, applying natural language processing and big data techniques to reduce the effort required to analyze each comment.
    
@@ -50,4 +50,4 @@ Similarly, from the information stakeholders provided about **Use Cases**, the f
 * Economy
 * Fraud
 
-### Stay tuned here for future updates and opportunities to provide input!
+#### Stay tuned here for future updates and opportunities to provide input!
