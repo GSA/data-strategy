@@ -6,9 +6,9 @@ category: [ news ]
 published: true
 ---
 
-The Federal Data Strategy will lay out a comprehensive, long-term approach to leveraging data to improve the ability of federal agencies to deliver mission outcomes, provide excellent service, and effectively steward taxpayer dollars on behalf of the American people.  Agency input and participation is critical for a truly viable and sustainable data strategy with a focus on executing steps towards the change we envision.  
+The Federal Data Strategy will lay out a comprehensive, long-term approach to leveraging data to improve the ability of federal agencies to deliver mission outcomes, provide excellent service, and effectively steward taxpayer dollars on behalf of the American people.  Agency input and participation is critical for a truly viable and sustainable data strategy with a focus on executing steps towards the change we envision. Creating working groups consisting of experts from across government to inform and develop the strategy is one way to ensure this.
 
-That’s why we’ve created working groups consisting of experts from across government to inform and develop the strategy. These working groups are staffed by the 2018 Federal Data Fellows, selected from across the Executive Branch, for their multidisciplinary experience and expertise in federal data. They come from 42 offices across 18 departments and agencies.  Such widespread participation offers the diverse perspectives needed for a truly actionable Federal Data Strategy.
+These working groups are staffed by the 2018 Federal Data Fellows, selected from across the Executive Branch, for their multidisciplinary experience and expertise in federal data. They come from 42 offices across 18 departments and agencies. Such widespread participation offers the diverse perspectives needed for a truly actionable Federal Data Strategy.
 
 Each working group is centered around one of the four strategic areas: Enterprise Data Governance; Decision Making and Accountability; Access, Use, and Augmentation; and Commercialization, Innovation, and Public Use. The working groups are headed by seasoned government leaders and a working group coordinator from the Federal Data Strategy project management team – each with a proven track record of excellence.
 
@@ -34,4 +34,7 @@ We’re proud to introduce our Working Group Leadership Team!
 
 <img src="/assets/img/team/ed-kearns.jpg" alt="Edward J. Kearns" border="0" align="left" hspace="5" vspace="5" width="200" height="261">Ed Kearns is the first Chief Data Officer for the National Oceanic and Atmospheric Administration (NOAA), leading the development of strategies and practices for managing NOAA’s data as a national asset. Ed is seeking to promote new uses and wider understanding of environmental data through new partnerships and technologies, such as the NOAA Big Data Project. Prior to his position as NOAA’s Chief Data Officer, Ed led the NOAA Climate Data Record program and data archive activities; guided coastal ecosystem restoration projects for the National Park Service and evaluated environmental “big data” to inform Everglades restoration; and vicariously calibrated NASA satellite ocean information products and developed regional ocean data management systems as a professor at the University of Miami. He earned a B.S. Physics and Marine Science from the University of Miami and holds a Ph.D. in Physical Oceanography from the University of Rhode Island.
 
-To learn more about the other Fellows in the work groups, please see [strategy.data.gov](https://strategy.data.gov/team/). 
+To learn more about the other Fellows in the work groups, please see [strategy.data.gov/team](https://strategy.data.gov/team/). 
+
+To subscribe to the Federal Data Strategy newsletter email [federaldatastrategy@gsa.gov](mailto:federaldatastrategy@gsa.gov).
+
