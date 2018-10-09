@@ -1,7 +1,40 @@
+.news.usa-content {
+  padding-top : 0;
+}
+
+.news.usa-content ul.h-feed {
+  max-width : 100%;
+  list-style-type: none;
+  padding : 0;
+}
+
+.news.usa-content ul.h-feed h1 {
+  font-size : 1.75em;
+}
+
+.news.usa-content ul.h-feed a {
+  color : #000;
+}
+
+.news.usa-content ul.h-feed a:hover {
+  text-decoration: none;
+}
+
+.news h1.p-name {
+  margin-bottom : 0;
+}
+
+.post-body h2 {
+  margin-bottom : 0;
+}
+
+.post-body .dt-published {
+  margin-bottom : 2.5rem;
+}
+
 .usa-footer-logo-heading {
     padding : 0;
 }
-
 
 .usa-hero.incubator {
     background-image : none; 

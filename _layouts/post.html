@@ -8,6 +8,7 @@ layout: default
 
     <div class="post-body">
         <h2>{{ page.title | escape }}</h2>
+        <div class="dt-published">{{ page.date | date: "%B %e, %Y" }}</div>
         {{ content }}
     </div>
 
