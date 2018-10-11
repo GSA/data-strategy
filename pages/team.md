@@ -47,7 +47,7 @@ The _Leveraging Data as a Strategic Asset_ Cross Agency Priority (CAP) Goal comm
 * Chris Campbell, Director of Enterprise Data Management and Chief Data Architect, Office of the Chief Information Officer, Department of Homeland Security
 * Kipp Dubow, Records Management Officer, Office of Information and Technology, Quality, Privacy, and Risk, Quality Continuous Improvement Organization, Department of Veterans Affairs
 * Anne Levine, Policy Analyst and Data Management Strategy Advisor, Office of Strategic Planning, Federal Communications Commission
-* Lisette Montalvo, Data Governance Council Secretariat, Office of Strategic Integration, Department of Veterans Affairs
+* Lisette Montalvo, Data Governance Council Secretariat, Office of Enterprise Integration, Department of Veterans Affairs
 * Glenda Noel, Program and Management Analyst, Office of R&D, Office of Science Information Management, Environmental Protection Agency,
 * Leanne Tang, Lead System Architect and Developer, National Agricultural Statistics Service, Department of Agriculture
 * Shondelle Wilson-Frederick, Lieutenant Commander, Statistician & National Program Lead, U.S. Public Health Service, Centers for Medicare and Medicaid Services, Data and Policy Analytics Group, Office of Minority Health, Department of Health and Human Services
