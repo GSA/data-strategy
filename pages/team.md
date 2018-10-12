@@ -1,7 +1,7 @@
 ---
 title: Team
 permalink: /team/
-layout: feedback
+layout: page
 ---
 
 ### The Federal Data Strategy Development Team is comprised of a core group of cross-disciplinary data experts from across the Federal Government.

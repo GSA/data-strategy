@@ -1,7 +1,7 @@
 ---
 title: Feedback Page
 permalink: /feedback/
-layout: feedback
+layout: page
 ---
 
 ## How can I provide feedback on the Federal Data Strategy?

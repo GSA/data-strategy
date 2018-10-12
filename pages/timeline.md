@@ -1,6 +1,6 @@
 ---
 title: Developing the Federal Data Strategy
-permalink: /timeline/
+permalink: /timeline-archive/
 layout: timeline
 slug: timeline
 ---
