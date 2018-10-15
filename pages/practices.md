@@ -25,7 +25,23 @@ In addition to applying across government, the strategy and its practices apply 
 
 ## The Practices
 
-TABLE AND DOWNLOAD LINKS HERE
+<script type="text/javascript">
+
+init_table({
+
+ csv_path: '../data/draft-practices.csv',
+
+ element: 'table-container',
+
+ // More options go here
+
+});
+</script>
+
+<div id="table-container"></div>
+
+[Download Draft Practices CSV](/data/draft-practices.csv){: .usa-button}
+[Download Draft Practices PDF](/assets/docs/federal-data-strategy-draft-practices.pdf){: .usa-button}
 
 </div>
 </section>
