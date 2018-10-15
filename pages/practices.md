@@ -96,7 +96,7 @@ The draft practices will be revised and further developed in response to public 
 
 ### Please submit comments by November 16, 2018.
 
-Please specify the number of the question to which your comment applies. If possible, make a separate submission for each practice on which you comment.  Otherwise, please structure your comments so that they refer to the number of the relevant practice.  If you have multiple comments on one practice, please organize them together by practice number.
+To help us incorporate your feedback most accurately, please specify the number of the question to which your comment applies. If possible, make a separate submission for each practice on which you comment.  Otherwise, please structure your comments so that they refer to the number of the relevant practice.  If you have multiple comments on one practice, please organize them together by practice number.
  
 If you refer to reference material (documents, websites, research), please quote or paraphrase the specific content from referenced material.
 
