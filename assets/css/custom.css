@@ -1,5 +1,11 @@
 .usa-logo#extended-logo {
-  margin : 10px 0;
+  margin : 0 0 0 2rem;
+  background-color : #fff;
+  padding-left : 1rem;
+}
+
+.usa-logo#extended-logo .usa-logo-text {
+  line-height: 3.5rem;
 }
 
 .data-strategy-logo {
@@ -8,14 +14,14 @@
 }
 
 .data-strategy-logo {
-  width : 150px; 
-  height : 150px; 
+  width : 35px; 
+  height : 35px; 
 }
 
 .usa-logo-text {
-  width : 800px;
-  padding-top : 60px;
-  padding-left : 175px;
+  width : 300px;
+  padding-top : 0px;
+  padding-left : 55px;
 }
 
 .news.usa-content {
@@ -151,6 +157,28 @@ margin-top : 0;
 #feedback-form label {display:block;margin-top: 01rem;}
 #feedback-form input {margin-bottom: 1.5rem; width: 75%;}
 #feedback-form #fba-submit {width: auto;}
+
+
+@media screen and (min-width: 950px) {
+
+
+.usa-logo#extended-logo {
+  padding : 0;
+  margin : 10px 0;
+}
+
+.data-strategy-logo {
+  width : 150px; 
+  height : 150px; 
+}
+
+.usa-logo-text {
+  width : 800px;
+  padding-top : 60px;
+  padding-left : 175px;
+}
+
+}
 
 @media screen and (min-width: 700px) {
 
