@@ -16,28 +16,22 @@ For the purposes of the Federal Data Strategy, a “Use Case” is a data practi
 
 We encourage you to explore the below Use Case data for ripe projects and data stories. We have provided these submissions as an open data set to facilitate this discovery and analysis. 
 
-SEARCH TOOL AND LIST
-
 <script type="text/javascript">
 
-init_table({
-
- csv_path: '../data/use-cases.csv',
-
- element: 'table-container',
-
- // More options go here
-
-});
+$(document).ready(function() {
+    init_table({
+     csv_path: '../data/use-cases.csv',
+     element: 'table-container',
+    });
+} );
 </script>
 
 <div id="table-container"></div>
 
-
 You may download the use case submissions we received. 
 
-DOWNLOAD SUMMARIES PDF
-DOWNLOAD RAW DATA CSV
+[Download Use Case Summaries PDF](/assets/docs/use-case-summaries.pdf){: .usa-button} 
+[Download Use Case Raw Data CSV](/data/use-cases.csv){: .usa-button}
 
 You may also review the public comments submitted via our companion Cross-Agency Priority Goal: Leveraging Data as a Strategic Asset Request for Comments (RFC) on FederalRegister.gov.
 

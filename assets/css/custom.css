@@ -113,6 +113,29 @@
     height : 400px;
 }
 
+.dataTables_filter label input[type="search"] {
+ border-right : 1px solid #000;
+  display : block;
+  float : right;
+  margin-top : -5px;
+  width : 20em;
+}
+
+.dataTables_filter label {
+padding-top : 1em;
+margin-top : 0;
+}
+
+#my-table_wrapper #my-table_length label {
+  display: inline;
+  margin-top : 0;
+}
+
+#my-table_wrapper #my-table_length select {
+ display : inline;
+  width : 5em;
+}
+
 #fba-modal {
    z-index: 9001 !important;
 }
