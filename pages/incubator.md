@@ -1,5 +1,5 @@
 ---
-title: Submit Your Use Cases for the Data Incubator Project
+title: The Data Incubator Project
 permalink: /incubator/
 layout: multi-section
 ---
@@ -45,9 +45,9 @@ The Data Incubator Project will examine Use Cases submitted during our last roun
 
 We’re excited that you want to include a project in The Data Incubator Project! If you have a project that you think would make for a good proof point case study, please use the form below to submit it. If you have a project idea ripe for prototype funding, stay tuned for the posting of the prize challenge. As always you can check this website as well as our newsletter for regular updates. 
 
-The Proof Point case studies you provide here will be shared with the Federal Data Strategy development team for follow up. Providing your name and email is optional, but will be included in the feedback shared with the strategy development team. Please do not include any other personally identifiable information. As the strategy development process continues, it is possible that some user comments submitted here may be shared publicly, but without any identifying information.
+The Use Cases you provide here will be shared with the Federal Data Strategy development team for follow up. Providing your name and email is optional, but will be included in the feedback shared with the strategy development team. Please do not include any other personally identifiable information. As the strategy development process continues, it is possible that some user comments submitted here may be shared publicly, but without any identifying information.
 
-{% include feedback-button.html button_id="proof-point-case-study" button_text="Submit A Proof Point Case Study" %}
+{% include feedback-button.html button_id="incubator-use-case" button_text="Submit A Use Case" %}
 
 </div>
 </section>
