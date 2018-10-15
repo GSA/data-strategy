@@ -1,8 +1,11 @@
 ---
 title: Practices
 permalink: /practices/
-layout: page
+layout: multi-section
 ---
+
+<section class="usa-section">
+<div class="usa-grid" markdown="1">
 
 ## What are the Practices?
 
@@ -23,6 +26,13 @@ In addition to applying across government, the strategy and its practices apply 
 ## The Practices
 
 TABLE AND DOWNLOAD LINKS HERE
+
+</div>
+</section>
+
+
+<section class="usa-section usa-section-dark">
+<div class="usa-grid" markdown="1">
 
 ## How can I provide feedback on the Draft Practices?
 
@@ -49,7 +59,14 @@ The draft practices will be revised and further developed in response to public 
         2. Standardize reporting data for federal grants to help make the data more accessible and useful.
 
 
-### We welcome your input to the Federal Data Strategy Best Practices.
+</div>
+</section>
+
+
+<section class="usa-section">
+<div class="usa-grid" markdown="1">
+
+## We welcome your input to the Federal Data Strategy Best Practices.
 
 ### Please submit comments by November 16, 2018.
 
@@ -68,3 +85,6 @@ You may also submit comments via our companion [Cross-Agency Priority Goal: Leve
 You may also submit comments via our [GitHub site](https://github.com/GSA/data-strategy/issues).
 
 Please submit your comment once using your preferred feedback platform.
+
+</div>
+</section>
