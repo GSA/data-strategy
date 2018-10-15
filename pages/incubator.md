@@ -1,24 +1,36 @@
 ---
 title: Submit Your Use Cases for the Data Incubator Project
 permalink: /incubator/
-layout: incubator
-slug: incubator
+layout: page
 ---
 
-## Why does the Federal Data Strategy need Use Cases?
+<div class="usa-grid">
+    <div class="usa-width-one-third">
+      <img alt="The Data Incubator Project Logo" src="/assets/img/federal-data-strategy-incubator-project-logo.png">
+    </div>
+    <div class="usa-width-two-thirds">
 
-Many high-level civic data challenges have been identified in the past–archaic data management practices and IT legacy systems, issues with data sharing and interoperability, and a lack of secondary use considerations.  But the Federal Government lacks an overall approach to tackle these challenges and prioritize data infrastructure improvements that serve the public. The Federal Data Strategy needs priority data Use Cases to ensure it is comprehensive and actionable.  
+    <h2>The Data Incubator Project</h2>
 
-## How will the Federal Data Strategy incorporate Use Cases?
+    <p>
+    To solve the most pressing issues facing the nation, we must leverage data as a strategic asset. The Federal Data Strategy will highlight examples of the use of data to solve problems and serve the public, with a particular focus on examples that can be replicated or scaled or that solve high-priority problems. A select number of Use Cases deemed “ripe for testing” will be included in The Data Incubator Project.
+    </p>
 
-These Use Cases will be identified and discussed in the Federal Data Strategy, and a select number of ready Use Cases will be assessed more deeply in *The Data Incubator Project*.
+    </div>
+</div>
 
-## How will select Use Cases be incubated?
+## How will the Data Incubator Project assess Use Cases?
 
-To be “ripe for testing,” Use Cases must demonstrate the potential for replication, scaling, and mission impact. They also must have a ready team for further exploration and assessment purposes. The Data Incubator Project is not a new platform or set of resources, but rather is focused research aimed at identifying methods for the Federal Data Strategy and for agencies going forward. The Federal Data Strategy team will seek academic, private sector, and NGO partnerships to further our learning from The Data Incubator Project.
+The Data Incubator Project will further analyze Use Cases that demonstrate the potential for replication, scaling, and mission impact by two methods: 
 
-## How can I submit a Use Case?
+1.  **Proof Points**: The Data Incubator Project will develop case studies on Use Cases that can help inform the four strategy areas: Enterprise Data Governance; Use, Access, and Augmentation; Decision-making and Accountability; and Commercialization, Innovation, and Public Use. 
+2.  **Prototypes**: In the fall of 2018, the Data Incubator Project will partner with the [General Services Administration’s 10x Project](https://10x.gsa.gov/) and [Challenge.gov](https://www.challenge.gov) to host a prize challenge related to prototype projects as part of The Data Incubator Project. In the spring of 2018 these prototypes will be demoed in a showcase event where promising projects may be awarded additional funding. 
 
-Our first feedback round concluded on July 30, 2018, and we are now working to incorporate your feedback into our Principles and Draft Practices, as well as review all the use cases submitted. In October, we will publish the next set of deliverables, including the Draft Practices document for your review and input.
+## What will the Data Incubator Project do with the Use Case List?
 
-You may also review the public comments submitted via our companion [Cross-Agency Priority Goal: Leveraging Data as a Strategic Asset Request for Comments (RFC) on FederalRegister.gov](https://www.regulations.gov/docketBrowser?rpp=25&so=DESC&sb=commentDueDate&po=0&dct=PS&D=USBC-2018-0011).
+The Data Incubator Project will examine Use Cases submitted during our last round of feedback as well as best practices in the field to develop proof point case analyses. All prototype project ideas will be need to be submitted, or re-submitted, to Challenge.gov to be considered for funding. 
+
+## How can I include my project idea in The Data Incubator Project?
+
+We’re excited that you want to include a project in The Data Incubator Project! If you have a project that you think would make for a good proof point case study, email the team at [federaldatastrategy@gsa.gov](mailto:federaldatastrategy@gsa.gov). If you have a project idea ripe for prototype funding, stay tuned for the posting of the prize challenge. As always you can check this website as well as our newsletter for regular updates. 
+

@@ -1,3 +1,23 @@
+.usa-logo#extended-logo {
+  margin : 10px 0;
+}
+
+.data-strategy-logo {
+  display : block;
+  float : left;
+}
+
+.data-strategy-logo {
+  width : 150px; 
+  height : 150px; 
+}
+
+.usa-logo-text {
+  width : 800px;
+  padding-top : 60px;
+  padding-left : 175px;
+}
+
 .news.usa-content {
   padding-top : 0;
 }

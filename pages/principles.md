@@ -33,7 +33,7 @@ The mission of the Federal Data Strategy is to fully leverage the value of feder
 9.  Develop Data Leaders: Cultivate data leadership at all levels of the federal workforce by investing in training and development about the value of data for mission, service, and the public good.
 10. Practice Accountability: Assign responsibility, audit data practices, document and learn from results, and make needed changes.
 
- <a class="usa-button" href="/assets/docs/federal-data-strategy-principles.pdf">Download Principles PDF</a>
+[Download Principles PDF](/assets/docs/federal-data-strategy-principles.pdf){: .usa-button}
 
 ## How were the Principles created?
 
@@ -41,5 +41,5 @@ On behalf of the Federal Data Strategy development team, the Department of Comme
 
 In developing the Principles for Levering Data as a Strategic Asset, the following draft principles, originally published on June 27, 2018, were revised to incorporate alternative or additional concepts or specific word choices suggested by commenters.  The category labels of the principles were changed to “Ethical Governance,” “Conscious Design,” and “Culture of Learning,” which provide an improved framework and better reflect the revised principles. Also, a mission statement for the Federal Data Strategy has been added to connect the principles to the goal of leveraging data as a strategic asset. In some cases, comments were addressed by changes other than what was directly suggested by the comments.  For example, in response to the suggestion that state and local governments be explicitly mentioned as stakeholders, the introductory paragraph adds “federally-sponsored” data to the types of data encompassed by the Federal Data Strategy.
 
- <a class="usa-button" href="/assets/docs/draft-federal-data-strategy-principles.pdf">Download Draft Principles PDF</a>
+[Download Draft Principles PDF](/assets/docs/draft-federal-data-strategy-principles.pdf){: .usa-button}
 
