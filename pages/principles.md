@@ -1,14 +1,23 @@
 ---
 title: Principles
 permalink: /principles/
-layout: page
+layout: multi-section
 ---
+
+<section class="usa-section">
+<div class="usa-grid" markdown="1">
 
 ## What are the Principles?
 
 Federal data is both a strategic asset and a valuable national resource. It enables the government to carry out its mission and programs effectively. It provides the public with knowledge of the government, society, economy, and environment – past, present, and future. Federal data is also a means to ensure the accountability of government, to manage the government’s operations, and to maintain and enhance the performance of the Nation’s economy, public health, and welfare. Appropriate access to federal data significantly enhances its value and the return on the Nation’s investment in its creation. 
 
 The following principles are intended to guide the development of a comprehensive data strategy that encompasses federal and federally sponsored program, statistical, and mission-support data. These principles include concepts reflected in existing principles, such as those for the protection of personal information, for the management of information as an asset, for federal statistical agencies, and for federal evidence building. These principles will inform the development of practices and action steps for the Federal Data Strategy throughout the data lifecycle.
+
+</div>
+</section>
+
+<section class="usa-section usa-section-dark">
+<div class="usa-grid" markdown="1">
 
 ## The Principles
 
@@ -35,6 +44,12 @@ The mission of the Federal Data Strategy is to fully leverage the value of feder
 
 [Download Principles PDF](/assets/docs/federal-data-strategy-principles.pdf){: .usa-button}
 
+</div>
+</section>
+
+<section class="usa-section">
+<div class="usa-grid" markdown="1">
+
 ## How were the Principles created?
 
 On behalf of the Federal Data Strategy development team, the Department of Commerce published a Request for Comments (RFC) in the Federal Register on June 27, 2018. The RFC included a set of 10 draft principles for a comprehensive data strategy and asked the public to “review and provide feedback on their clarity, appropriateness, completeness, and potential duplications.” Comments were also submitted through the Federal Data Strategy website. The RFC closed on July 27, and the website closed to comments on July 30. This process generated close to 100 comments related to the draft principles. Feedback on the draft principles was positive, and commenters offered many suggestions to improve the draft version, which have been incorporated in the 10 revised principles.  
@@ -43,3 +58,5 @@ In developing the Principles for Levering Data as a Strategic Asset, the followi
 
 [Download Draft Principles PDF](/assets/docs/draft-federal-data-strategy-principles.pdf){: .usa-button}
 
+</div>
+</section>

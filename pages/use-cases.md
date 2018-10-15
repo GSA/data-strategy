@@ -31,5 +31,6 @@ These Use Cases will be identified and discussed in the Federal Data Strategy, a
 
 ## How can I submit a Use Case?
 
-Our first feedback round concluded on July 30, 2018, and we are now working to incorporate your feedback into our Draft Practices and Year 1 Action Plan, as well as Use Cases more deeply into The Data Incubator Project. The Federal Data Strategy team was strongly encouraged by all the Use Case submissions. If you have a Use Case that you think would be helpful for the Federal Data Strategy, please submit it with your comments. You may also want to learn more about how to submit Use Cases for assessment with [The Data Incubator Project](/incubator/).
+Our first feedback round concluded on July 30, 2018, and we are now working to incorporate your feedback into our Draft Practices and Year 1 Action Plan, as well as Use Cases more deeply into The Data Incubator Project. The Federal Data Strategy team was strongly encouraged by all the Use Case submissions. If you have a Use Case that you think would be helpful for the Federal Data Strategy, please visit [The Data Incubator Project](/incubator/) page for more details and the submission form.
+
 
