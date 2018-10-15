@@ -14,3 +14,5 @@ org_name: GSA
 # dap_agency: GSA
 
 permalink: pretty
+
+data_dir: data
