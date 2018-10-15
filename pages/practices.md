@@ -92,7 +92,7 @@ The draft practices will be revised and further developed in response to public 
 <section class="usa-section">
 <div class="usa-grid" markdown="1">
 
-## We welcome your input to the Federal Data Strategy Best Practices.
+## We welcome your input to the Federal Data Strategy Practices.
 
 ### Please submit comments by November 16, 2018.
 
