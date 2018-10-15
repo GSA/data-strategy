@@ -18,6 +18,22 @@ We encourage you to explore the below Use Case data for ripe projects and data s
 
 SEARCH TOOL AND LIST
 
+<script type="text/javascript">
+
+init_table({
+
+ csv_path: '../data/use-cases.csv',
+
+ element: 'table-container',
+
+ // More options go here
+
+});
+</script>
+
+<div id="table-container"></div>
+
+
 You may download the use case submissions we received. 
 
 DOWNLOAD SUMMARIES PDF

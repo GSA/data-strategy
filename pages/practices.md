@@ -25,20 +25,30 @@ In addition to applying across government, the strategy and its practices apply 
 
 ## The Practices
 
-<script type="text/javascript">
+<table>
+  <thead>
+    <tr>
+      <th scope="col">Number</th>
+      <th scope="col">Objective</th>
+      <th scope="col">Practice</th>
+      <th scope="col">Principle Category</th>
+      <th scope="col">Data Lifecycle</th>
+    </tr>
+  </thead>
+  <tbody>
 
-init_table({
+{% for practice in site.data.draft-practices %}
+    <tr>
+        <td>  {{ practice.number }} </td>
+        <td>  {{ practice.objective }} </td>
+        <td>  {{ practice.practice }} </td>
+        <td>  {{ practice.principle_category }} </td>
+        <td>  {{ practice.data_lifecycle }} </td>
+    </tr>
+{% endfor %}
 
- csv_path: '../data/draft-practices.csv',
-
- element: 'table-container',
-
- // More options go here
-
-});
-</script>
-
-<div id="table-container"></div>
+  </tbody>
+</table>
 
 [Download Draft Practices CSV](/data/draft-practices.csv){: .usa-button}
 [Download Draft Practices PDF](/assets/docs/federal-data-strategy-draft-practices.pdf){: .usa-button}
