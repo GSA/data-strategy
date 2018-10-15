@@ -46,11 +46,6 @@ In short, we all are. While the [CAP goal co-leads](https://www.performance.gov
 
 The Federal Data Strategy will be developed iteratively in four steps, and after each step we will make the findings public and ask for your feedback and input. The strategy will be developed around four topical areas. The Federal Data Strategy development team will pull together a comprehensive strategy from the input and insights contributed by stakeholders. Between now and April 2019, the Federal Data Strategy development team will be seeking and synthesizing inputs and developing solutions through an iterative process. Each quarter, we will publish new draft materials for review and feedback. Stay tuned to [strategy.data.gov](https://strategy.data.gov) to keep up to date and ensure we hear from you.
 
-## What are the Principles?
-
-The Federal Data Strategy needs to be informed by Principles that encompass the breadth of data the Federal Government acquires, creates, uses, and disseminates for programmatic, statistical, and mission-support purposes. The following draft Principles are based on concepts reflected in existing principles, such as those for the protection of personal information, for federal statistical agencies, and for federal evidence-building. These draft Principles will be refined based on stakeholder feedback, and final Principles will be published in October 2018. The final Principles will guide the development of practices and implementation steps for the Federal Data Strategy.
-
-
 </div>
 </section>
 
