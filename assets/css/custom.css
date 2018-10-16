@@ -14,14 +14,7 @@
 }
 
 .data-strategy-logo {
-  width : 35px; 
-  height : 35px; 
-}
-
-.usa-logo-text {
-  width : 300px;
-  padding-top : 0px;
-  padding-left : 55px;
+  display: none;
 }
 
 .news.usa-content {
@@ -161,21 +154,19 @@ margin-top : 0;
 
 @media screen and (min-width: 950px) {
 
+.usa-logo-text {
+  display: none;
+}
 
 .usa-logo#extended-logo {
   padding : 0;
-  margin : 10px 0;
+  margin : 0;
 }
 
 .data-strategy-logo {
-  width : 150px; 
-  height : 150px; 
-}
-
-.usa-logo-text {
-  width : 800px;
-  padding-top : 60px;
-  padding-left : 175px;
+  display : block;
+  width : 450; 
+  height : 89px; 
 }
 
 }
