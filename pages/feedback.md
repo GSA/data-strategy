@@ -1,17 +1,19 @@
 ---
 title: Feedback Page
 permalink: /feedback/
-layout: feedback
+layout: page
 ---
 
 ## How can I provide feedback on the Federal Data Strategy?
 
-Our first feedback round concluded on July 30, 2018, and we are now working to incorporate your feedback into our Principles and Draft Practices, as well as review all the use cases submitted. In October, we will publish the next set of deliverables, including the Draft Practices document for your review and input.
+There will be many ways to provide feedback on the Federal Data Strategy. Until November 16, 2018, we are soliciting feedback about the Draft Practices and Action Steps to implement them.  After you have learned about the Draft Practices, please provide comments on Action Steps for implementing the Draft Practices.
 
-You may also review the public comments submitted via our companion [Cross-Agency Priority Goal: Leveraging Data as a Strategic Asset Request for Comments (RFC) on FederalRegister.gov](https://www.regulations.gov/docketBrowser?rpp=25&so=DESC&sb=commentDueDate&po=0&dct=PS&D=USBC-2018-0011).
+There are multiple channels for providing feedback:
 
-In the meantime:
+* **Federal Register:** You may submit comments via our companion [Cross-Agency Priority Goal: Leveraging Data as a Strategic Asset Request for Comments Phase 2  (RFC)](https://www.federalregister.gov/documents/2018/06/27/2018-13768/cross-agency-priority-goal-leveraging-data-as-strategic-asset) on FederalRegister.gov.
+* **Web form:** You may [submit comments]((/practices#we-welcome-your-input-to-the-federal-data-strategy-practices) ) on the [Practices](/practices) page of this website.
+* **GitHub:** You may also submit comments via our Federal Data Strategy [GitHub site](https://github.com/GSA/data-strategy/issues/new/choose).
 
-* Learn about our [Draft Principles](/timeline/#draft-federal-data-strategy-principles)
-* Learn about the [Federal Data Strategy](/timeline)
-* Learn about the [Data Incubator Project](/incubator/)
+Please submit your comment once using your preferred feedback platform.
+
+#### Comments on the Federal Data Strategy are being accepted through _November 16, 2018_. Specifically, comments are requested on the [draft practices and action steps for implementation](/practices).

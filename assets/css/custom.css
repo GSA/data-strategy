@@ -1,3 +1,22 @@
+.usa-logo#extended-logo {
+  margin : 0 0 0 2rem;
+  background-color : #fff;
+  padding-left : 1rem;
+}
+
+.usa-logo#extended-logo .usa-logo-text {
+  line-height: 3.5rem;
+}
+
+.data-strategy-logo {
+  display : block;
+  float : left;
+}
+
+.data-strategy-logo {
+  display: none;
+}
+
 .news.usa-content {
   padding-top : 0;
 }
@@ -93,6 +112,29 @@
     height : 400px;
 }
 
+.dataTables_filter label input[type="search"] {
+ border-right : 1px solid #000;
+  display : block;
+  float : right;
+  margin-top : -5px;
+  width : 20em;
+}
+
+.dataTables_filter label {
+padding-top : 1em;
+margin-top : 0;
+}
+
+#my-table_wrapper #my-table_length label {
+  display: inline;
+  margin-top : 0;
+}
+
+#my-table_wrapper #my-table_length select {
+ display : inline;
+  width : 5em;
+}
+
 #fba-modal {
    z-index: 9001 !important;
 }
@@ -108,6 +150,26 @@
 #feedback-form label {display:block;margin-top: 01rem;}
 #feedback-form input {margin-bottom: 1.5rem; width: 75%;}
 #feedback-form #fba-submit {width: auto;}
+
+
+@media screen and (min-width: 950px) {
+
+.usa-logo-text {
+  display: none;
+}
+
+.usa-logo#extended-logo {
+  padding : 0;
+  margin : 0;
+}
+
+.data-strategy-logo {
+  display : block;
+  width : 450px; 
+  height : 89px; 
+}
+
+}
 
 @media screen and (min-width: 700px) {
 

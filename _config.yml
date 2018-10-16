@@ -1,5 +1,7 @@
 title: Federal Data Strategy
 
+url:
+
 #Github Repo
 repo_name: data-strategy
 branch: master
@@ -12,3 +14,5 @@ org_name: GSA
 # dap_agency: GSA
 
 permalink: pretty
+
+data_dir: data

@@ -1,8 +1,10 @@
 title: Federal Data Strategy
 
+url: https://strategy-staging.data.gov
+
 #Github Repo
 repo_name: data-strategy
-branch: gh-pages
+branch: develop
 org_name: GSA
 
 # Configuration for Google Analytics, add your UA code here:
@@ -12,3 +14,5 @@ org_name: GSA
 # dap_agency: GSA
 
 permalink: pretty
+
+data_dir: data
