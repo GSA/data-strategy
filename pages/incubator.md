@@ -41,7 +41,7 @@ The Data Incubator Project will further analyze Use Cases that demonstrate the p
 
 We’re excited that you want to include a project in The Data Incubator Project! If you have a project that you think would make for a good proof point case study, please use the form below to submit it.  Please do not re-submit any Use Case that is already published in the [Use Case List](/use-cases).
 
-If your idea relates to a project prototype, as opposed to a proof point, please do not use the submission form below. Stay tuned to this website for updates that provide guidance about submitting your prototype idea. Submissions to the form below will not be eligible for supporting resources.   
+If your idea relates to a project prototype, as opposed to a proof point, please do not use the submission form below. Stay tuned to this website for updates that provide guidance about submitting your prototype idea.
 
 The Proof Point case studies you provide here will be shared with the Federal Data Strategy development team for follow up. Providing your name and email is optional, but they will be included in the feedback shared with the strategy development team. Please do not include any other personally identifiable information. As the strategy development process continues, it is possible that some user comments submitted here may be shared publicly, but without any identifying information.
 
