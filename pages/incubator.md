@@ -29,7 +29,7 @@ To solve the most pressing issues facing the nation, we must leverage data as a 
 The Data Incubator Project will further analyze Use Cases that demonstrate the potential for replication, scaling, and mission impact by two methods: 
 
 1.  **Proof Points**: The Data Incubator Project will develop case studies on Use Cases that can help inform the four strategy areas: Enterprise Data Governance; Use, Access, and Augmentation; Decision-making and Accountability; and Commercialization, Innovation, and Public Use. 
-2.  **Prototypes**: In the fall of 2018, the Data Incubator Project will partner with the [General Services Administration’s 10x Project](https://10x.gsa.gov/) and [Challenge.gov](https://www.challenge.gov) to host a prize challenge related to prototype projects as part of The Data Incubator Project. In the spring of 2018 these prototypes will be demoed in a showcase event where promising projects may be awarded additional funding. 
+2.  **Prototypes**: Some Use Cases offering important lessons for agencies will be supported and further developed. Stay tuned to strategy.data.gov for updates about forthcoming opportunities for prototype project support. 
 
 </div>
 </section>
