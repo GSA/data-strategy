@@ -98,7 +98,7 @@ The draft practices will be revised and further developed in response to public 
 
 To help us incorporate your feedback most accurately, please specify the number of the question to which your comment applies. If possible, make a separate submission for each practice on which you comment.  Otherwise, please structure your comments so that they refer to the number of the relevant practice.  If you have multiple comments on one practice, please organize them together by practice number.
  
-If you refer to reference material (documents, websites, research), please quote or paraphrase the specific content from referenced material.
+If you refer to reference material (documents, websites, research), please quote or paraphrase the specific content from referenced material. Comments should be informative for the Federal Data Strategy. Comments on issues not related to the strategy will not be considered.
 
 {% include feedback-button.html button_id="practices-feedback" button_text="Submit Practices Feedback" %}
 

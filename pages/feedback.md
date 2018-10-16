@@ -16,15 +16,4 @@ There are multiple channels for providing feedback:
 
 Please submit your comment once using your preferred feedback platform.
 
-
 #### Comments on the Federal Data Strategy are being accepted through _November 16, 2018_. Specifically, comments are requested on the [draft practices and action steps for implementation](/practices).
-
-## Guidance for Submitting Documents
-
-This guidance for submitting documents is offered to facilitate the analysis and full consideration of the comments.  Indicate whether you are responding on behalf of an organization or agency.  Comments should be informative for the Federal Data Strategy. Comments on issues not related to the strategy will not be considered.
-
-Please specify the number of the question to which your comment applies.  If possible, structure your comments on specific practices so that they refer to the number of the relevant practice.  If you have multiple comments on one practice, please organize them together by practice number.
-
-If possible, provide comments in a Microsoft Word or plain text file and avoid using footnotes, end notes, images, graphics, or tables. If you refer to reference material (documents, websites, research), please quote or paraphrase the specific content from referenced material.
-
-
