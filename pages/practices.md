@@ -21,7 +21,7 @@ The draft practices are grouped according to five broad objectives which are con
 * Build a Culture that Values Data as an Asset
 * Honor Stakeholder Input and Leverage Partners
 
-In addition to applying across government, the strategy and its practices apply across the data lifecycle, which can be depicted in five stages: creation or collection or acquisition; processing; access; use; dissemination; and storage and disposition. 
+In addition to applying across government, the strategy and its practices apply across the data lifecycle, which can be depicted in stages: creation or collection or acquisition; processing; access; use; dissemination; and storage and disposition. 
 
 ## The Draft Practices
 
