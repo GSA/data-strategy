@@ -6,6 +6,6 @@ There are multiple channels for providing feedback. To submit your feedback here
 
 If you are having trouble, consider using one of the two other platforms available for contributing your comments to this effort:
 
-* **Federal Register:** You may submit comments via our companion [Cross-Agency Priority Goal: Leveraging Data as a Strategic Asset Request for Comments Phase 2  (RFC)](https://www.federalregister.gov/documents/2018/06/27/2018-13768/cross-agency-priority-goal-leveraging-data-as-strategic-asset) on FederalRegister.gov.
+* **Federal Register:** You may submit comments via our companion [Cross-Agency Priority Goal: Leveraging Data as a Strategic Asset Request for Comments Phase 2  (RFC)](https://www.regulations.gov/document?D=USBC-2018-0017-0001).
 * **Web form:** You may [submit comments](https://strategy.data.gov/practices#we-welcome-your-input-to-the-federal-data-strategy-practices) on the [Practices](https://strategy.data.gov/practices) page of the website.
 Please submit your comment once using your preferred feedback platform.

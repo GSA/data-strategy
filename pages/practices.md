@@ -106,7 +106,7 @@ The comments you provide here will be shared with the Federal Data Strategy deve
 
 This form uses pop-up windows. If you have installed third party applications to block pop-ups, the submission form may not be available to you unless you disable pop-up ad blocking programs before clicking
 
-You may also submit comments via our companion [Cross-Agency Priority Goal: Leveraging Data as a Strategic Asset Request for Comments Phase 2  (RFC)](https://www.federalregister.gov/documents/2018/06/27/2018-13768/cross-agency-priority-goal-leveraging-data-as-strategic-asset) on FederalRegister.gov.
+You may also submit comments via our companion [Cross-Agency Priority Goal: Leveraging Data as a Strategic Asset Request for Comments Phase 2  (RFC)](https://www.regulations.gov/document?D=USBC-2018-0017-0001).
 
 You may also submit comments via our [GitHub site](https://github.com/GSA/data-strategy/issues/new/choose).
 
