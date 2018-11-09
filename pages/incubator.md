@@ -47,7 +47,9 @@ The Proof Point case studies you provide here will be shared with the Federal Da
 
 {% include feedback-button.html button_id="incubator-use-case" button_text="Submit A Use Case" %}
 
-**Your feedback is important to us. On November 1, 2018 it came to our attention that our web form tool (configured using Google Forms) does not support submissions above ~30,000 characters. To ensure we receive your complete comments, we recommend not submitting comments more than 1000 words long (approximately 2 pages) via web form. If you have longer comments please submit them via our companion [RFC](https://www.regulations.gov/document?D=USBC-2018-0017-0001) on the Federal Register or [GitHub site](https://github.com/GSA/data-strategy/issues/new/choose). If you’d like to verify your comment submitted before November 2, 2018 was received, please contact [federaldatastrategy@gsa.gov](mailto:federaldatastrategy@gsa.gov). We regret any inconvenience this may have caused.**
+**Your feedback is important to us. On November 1, 2018 it came to our attention that the web form tool for comments submitted through this website did not capture comments more than 1000 words long (approximately 2 pages). The problem has now been resolved.**
+
+**Comments submitted through other feedback platforms were not affected.  If you’d like to verify that your comment submitted before November 2, 2018 was received, please contact [federaldatastrategy@gsa.gov](mailto:federaldatastrategy@gsa.gov). We regret any inconvenience this may have caused.**
 
 </div>
 </section>

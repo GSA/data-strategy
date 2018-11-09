@@ -104,7 +104,9 @@ If you refer to reference material (documents, websites, research), please quote
 
 The comments you provide here will be shared with the Federal Data Strategy development team for follow up. Providing your name and email is optional, but will be included in the feedback shared with the strategy development team. Please do not include any other personally identifiable information. As the strategy development process continues, it is possible that some user comments submitted here may be shared publicly, but without any identifying information.   
 
-**Your feedback is important to us. On November 1, 2018 it came to our attention that our web form tool (configured using Google Forms) does not support submissions above ~30,000 characters. To ensure we receive your complete comments, we recommend not submitting comments more than 1000 words long (approximately 2 pages) via web form. If you have longer comments please submit them via our companion RFC on the Federal Register or GitHub site (see below). If you’d like to verify your comment submitted before November 2, 2018 was received, please contact [federaldatastrategy@gsa.gov](mailto:federaldatastrategy@gsa.gov). We regret any inconvenience this may have caused.**
+**Your feedback is important to us. On November 1, 2018 it came to our attention that the web form tool for comments submitted through this website did not capture comments more than 1000 words long (approximately 2 pages). The problem has now been resolved.**
+
+**Comments submitted through other feedback platforms were not affected.  If you’d like to verify that your comment submitted before November 2, 2018 was received, please contact [federaldatastrategy@gsa.gov](mailto:federaldatastrategy@gsa.gov). We regret any inconvenience this may have caused.**
 
 You may also submit comments via our companion [Cross-Agency Priority Goal: Leveraging Data as a Strategic Asset Request for Comments Phase 2  (RFC)](https://www.regulations.gov/document?D=USBC-2018-0017-0001).
 
