@@ -6,7 +6,7 @@ layout: page
 
 ## How can I provide feedback on the Federal Data Strategy?
 
-There will be many ways to provide feedback on the Federal Data Strategy. Until November 16, 2018, we are soliciting feedback about the Draft Practices and Action Steps to implement them.  After you have learned about the Draft Practices, please provide comments on Action Steps for implementing the Draft Practices.
+There will be many ways to provide feedback on the Federal Data Strategy. Until November 23, 2018, we are soliciting feedback about the Draft Practices and Action Steps to implement them.  After you have learned about the Draft Practices, please provide comments on Action Steps for implementing the Draft Practices.
 
 There are multiple channels for providing feedback:
 
@@ -16,4 +16,4 @@ There are multiple channels for providing feedback:
 
 Please submit your comment once using your preferred feedback platform.
 
-#### Comments on the Federal Data Strategy are being accepted through _November 16, 2018_. Specifically, comments are requested on the [draft practices and action steps for implementation](/practices).
+#### Comments on the Federal Data Strategy are being accepted through _November 23, 2018_. Specifically, comments are requested on the [draft practices and action steps for implementation](/practices).
