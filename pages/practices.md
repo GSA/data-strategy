@@ -108,7 +108,6 @@ The comments you provide here will be shared with the Federal Data Strategy deve
 
 **Comments submitted through other feedback platforms were not affected.  If you’d like to verify that your comment submitted before November 2, 2018 was received, please contact [federaldatastrategy@gsa.gov](mailto:federaldatastrategy@gsa.gov). We regret any inconvenience this may have caused.**
 
-You may also submit comments via our companion [Cross-Agency Priority Goal: Leveraging Data as a Strategic Asset Request for Comments Phase 2  (RFC)](https://www.regulations.gov/document?D=USBC-2018-0017-0001).
 
 You may also submit comments via our [GitHub site](https://github.com/GSA/data-strategy/issues/new/choose).
 
