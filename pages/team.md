@@ -79,7 +79,7 @@ The _Leveraging Data as a Strategic Asset_ Cross Agency Priority (CAP) Goal comm
 *Ed Kearns, Chief Data Officer, National Oceanic and Atmospheric Administration, Department of Commerce – Working Group Chair*
 * Dave Dreisigmeyer, Data Miner, Center for Economic Studies, U.S. Census Bureau, Department of Commerce
 * Kimberly Essary, Deputy Director and Senior Counsel, Office of Enterprise Data and Analytics, Equal Employment Opportunity Commission
-* Lisa Mancino, Senior Agricultural Economist, Food Economic Division, Economic Research Service, Department of Agriculture
+* Lisa Mancino, Senior Agricultural Economist, Food Economic Division, Economic Research Service, Department of Agriculture *(through 11/16/2018)*
 * Lisa Mavrogianis, Open Data Lead, Office of Enterprise Integration, Department of Veterans Affairs
 * Jessica Nicholson, Senior Economist, U.S. Bureau of Economic Analysis, Department of Commerce
 * Rae Thomas, Accessibility Consultant, Office of Equity, Diversity, and Inclusion, Guidance, Education and Marketing Division, Access and Equity Branch, National Institutes of Health, Department of Health and Human Services
