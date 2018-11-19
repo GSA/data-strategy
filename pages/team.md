@@ -6,7 +6,7 @@ layout: page
 
 ### The Federal Data Strategy Development Team is comprised of a core group of cross-disciplinary data experts from across the Federal Government.
 
-The _Leveraging Data as a Strategic Asset_ Cross Agency Priority (CAP) Goal commits the Administration to developing a long-term comprehensive Federal Data Strategy. Senior officials from the Department of Commerce, the Small Business Administration, the Office of Management and Budget, and the Office of Science and Technology Policy co-lead the CAP Goal. Co-lead staff members serve as a project managers supporting and facilitating the development of the Federal Data Strategy with significant stakeholder input. Select Federal Data Fellowship Chairs and Fellows conduct research and analysis; facilitate stakeholders; and distill feedback for the Federal Data Strategy. 
+The _Leveraging Data as a Strategic Asset_ Cross Agency Priority (CAP) Goal commits the Administration to developing a long-term comprehensive Federal Data Strategy. Senior officials from the Department of Commerce, the Small Business Administration, the Office of Management and Budget, and the Office of Science and Technology Policy co-lead the CAP Goal. Co-lead staff members serve as a project managers supporting and facilitating the development of the Federal Data Strategy with significant stakeholder input. Select Federal Data Working Group Chairs and Team Members conduct research and analysis; facilitate stakeholders; and distill feedback for the Federal Data Strategy. 
 
 #### Leveraging Data as a Strategic Asset CAP Goal Co-leads
 * Pradeep Belur, Chief of Staff and Chief Operating Officer, Small Business Administration
@@ -30,7 +30,7 @@ The _Leveraging Data as a Strategic Asset_ Cross Agency Priority (CAP) Goal comm
 * Regina Powers, Economist, Department of Commerce
 * *Rebecca Williams, Digital Services Expert, Office of the Federal Chief Information Officer, Office of Management and Budget - Point of Contact and Project Co-Manager*  
 
-#### Federal Data Fellows 
+#### Federal Data Working Groups
 
 ##### Federal Data Strategy and Data Incubator Project Support 
 * Marika Bertram, Supervisor, Data Analysis & Evaluation, Office of Field Policy & Management, Field Operations Division, Department of Housing and Urban Development
