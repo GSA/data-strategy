@@ -10,7 +10,6 @@ There will be many ways to provide feedback on the Federal Data Strategy. Until 
 
 There are multiple channels for providing feedback:
 
-* **Federal Register:** You may submit comments via our companion [Cross-Agency Priority Goal: Leveraging Data as a Strategic Asset Request for Comments Phase 2  (RFC)](https://www.regulations.gov/document?D=USBC-2018-0017-0001).
 * **Web form:** You may [submit comments](/practices#we-welcome-your-input-to-the-federal-data-strategy-practices) on the [Practices](/practices) page of this website.
 * **GitHub:** You may also submit comments via our Federal Data Strategy [GitHub site](https://github.com/GSA/data-strategy/issues/new/choose).
 
