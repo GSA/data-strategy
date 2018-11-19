@@ -16,5 +16,3 @@ There are multiple channels for providing feedback:
 Please submit your comment once using your preferred feedback platform.
 
 #### Comments on the Federal Data Strategy are being accepted through _November 23, 2018_. Specifically, comments are requested on the [draft practices and action steps for implementation](/practices).
-
-.
