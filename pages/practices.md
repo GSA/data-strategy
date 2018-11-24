@@ -92,26 +92,9 @@ The draft practices will be revised and further developed in response to public 
 <section class="usa-section">
 <div class="usa-grid" markdown="1">
 
-## We welcome your input to the Federal Data Strategy Practices.
+## Thank you for your input to the Federal Data Strategy Practices.
 
-### Please submit comments by November 23, 2018.
-
-To help us incorporate your feedback most accurately, please specify the number of the question to which your comment applies. If possible, make a separate submission for each practice on which you comment.  Otherwise, please structure your comments so that they refer to the number of the relevant practice.  If you have multiple comments on one practice, please organize them together by practice number.
- 
-If you refer to reference material (documents, websites, research), please quote or paraphrase the specific content from referenced material. Comments should be informative for the Federal Data Strategy. Comments on issues not related to the strategy will not be considered.
-
-{% include feedback-button.html button_id="practices-feedback" button_text="Submit Practices Feedback" %}
-
-The comments you provide here will be shared with the Federal Data Strategy development team for follow up. Providing your name and email is optional, but will be included in the feedback shared with the strategy development team. Please do not include any other personally identifiable information. As the strategy development process continues, it is possible that some user comments submitted here may be shared publicly, but without any identifying information.   
-
-**Your feedback is important to us. On November 1, 2018 it came to our attention that the web form tool for comments submitted through this website did not capture comments more than 1000 words long (approximately 2 pages). The problem has now been resolved.**
-
-**Comments submitted through other feedback platforms were not affected.  If you’d like to verify that your comment submitted before November 2, 2018 was received, please contact [federaldatastrategy@gsa.gov](mailto:federaldatastrategy@gsa.gov). We regret any inconvenience this may have caused.**
-
-
-You may also submit comments via our [GitHub site](https://github.com/GSA/data-strategy/issues/new/choose).
-
-Please submit your comment once using your preferred feedback platform.
+Our second feedback round concluded on November 23, 2018, and we are now working to incorporate your feedback to update our Draft Practices. You can [subscribe to Federal Data Strategy News](https://www.performance.gov/CAP/CAP_goal_2.html#GD-snippet-form) and stay tuned for more opportunities to provide feedback. 
 
 </div>
 </section>
