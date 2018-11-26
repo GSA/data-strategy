@@ -23,6 +23,8 @@ The draft practices are grouped according to five broad objectives which are con
 
 In addition to applying across government, the strategy and its practices apply across the data lifecycle, which can be depicted in stages: creation or collection or acquisition; processing; access; use; dissemination; and storage and disposition. 
 
+On behalf of the Federal Data Strategy development team, the Department of Commerce published a Request for Comments (RFC) in the Federal Register on October 16, 2018. The RFC included a set of six specific questions about the draft practices listed below and asked the public to provide specific action steps that should be associated with a particular practice. Comments were also submitted through the Federal Data Strategy website. The RFC closed on November 16, and the website closed to comments on November 23.  
+
 ## The Draft Practices
 
 <table>
@@ -57,36 +59,7 @@ In addition to applying across government, the strategy and its practices apply 
 </section>
 
 
-<section class="usa-section usa-section-dark">
-<div class="usa-grid" markdown="1">
 
-## How can I provide feedback on the Draft Practices?
-
-The draft practices will be revised and further developed in response to public and agency comments.  Specifically, comments are requested on the following:  
-
-1.  What framework(s) for organizing or classifying the practices would be most useful to Federal practitioners and other key stakeholders? For example, should they be classified according to whether they pertain to data creation, collection, or acquisition; processing; access; use; dissemination; and storage and disposition?
-2.  List and describe any additional practices relevant to data creation, collection, acquisition, processing, access, use, dissemination, storage, and disposition that are not included in the draft practices.
-3.  Identify any draft practices that should be omitted and explain why. 
-4.  Provide any necessary edits to the practices to ensure that they effectively identify objectives, outcomes, or goals and are helpful to a practitioners and data policymakers. 
-5.  Please provide examples of how Federal, state, local, or tribal government agencies have successfully implemented a particular practice.
-
-6.  Please provide specific action steps that should be associated with a particular practice. 
-
-    For guidance in proposing action steps, use the following as examples of specific practices and associated action steps.  These examples are provided for guidance only.
-    * Practice:  Prioritize Data Security
-        
-        Example Action Steps:  
-        1. Leverage existing standards for comprehensive and high quality data management.
-        2. Define, implement, and maintain formal expectations throughout government for data oversight and transparency.
-    * Practice:  Connect Federal Spending to Outcomes
-        
-        Example Action Steps 
-        1. Publish interactive reports with spending, performance, and mission-support data that enable the public to interact with the data and create customizable tables and report.  These interactive charts and graphics should be embedded in Federal websites such as USAspending.gov and performance.gov.
-        2. Standardize reporting data for federal grants to help make the data more accessible and useful.
-
-
-</div>
-</section>
 
 
 <section class="usa-section">
