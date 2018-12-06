@@ -68,7 +68,7 @@ The _Leveraging Data as a Strategic Asset_ Cross Agency Priority (CAP) Goal comm
 *Anne Fletcher,Social Science Analyst, Office of Policy Development and Research, Department of Housing and Urban Development – Working Group Chair*
 * Ken Ambrose, Senior Policy Analyst, Health Resources and Services Administration, Department of Health and Human Services
 * Nikki Churchwell, Education Program Specialist, Policy and Program Studies Service, Office of Planning, Evaluation & Policy Development, Department of Education
-* Leremy Colf, Director of Disaster Science, Office of the Assistant Secretary for Preparedness and Response, Office of Policy and Planning, Department of Health and Human Services
+* Leremy Colf, Director of Disaster Science, Office of the Assistant Secretary for Preparedness and Response, Office of Policy and Planning, Department of Health and Human Services *(through 12/3/18)*
 * Colleen Collins, Portfolio Manager, Office of Strategic Initiatives, Food and Nutrition Service, Department of Agriculture
 * Casey Eggleston, Research Mathematical Statistician, Center for Survey Measurement, U.S. Census Bureau, Department of Commerce 
 * Grace Levin, Management Analyst, Office of Management Policy, Rightsizing, and Innovation, Department of State
