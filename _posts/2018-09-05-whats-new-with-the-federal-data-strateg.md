@@ -2,7 +2,7 @@
 layout: post
 title: What’s New with the Federal Data Strategy
 date:  2018-09-04 07:16:01 -0500
-category: [ news ]
+category: news
 published: true
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: Meet The Federal Data Strategy Working Group Leaders
 date:  2018-10-03 07:16:01 -0500
-category: [ news ]
+category: news
 published: true
 ---
 
