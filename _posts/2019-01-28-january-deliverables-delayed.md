@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Due to Lapse in Funding, the January Federal Data Strategy Deliverables are Delayed 
-date:  2019-01-28 12:16:01 -0500
+date:  2019-01-28 08:16:01 -0500
 category: news
 published: true
 ---
