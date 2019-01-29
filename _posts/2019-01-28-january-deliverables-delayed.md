@@ -6,4 +6,4 @@ category: news
 published: true
 ---
 
-Due to the 37-day lapse in Congressional Appropriations for Fiscal Year 2019, the Cross-Agency Priority Goal: Leveraging Data as a Strategic Asset [January deliverables](https://www.performance.gov/CAP/CAP_goal_2.html) are delayed. The Federal Data Strategy development team will provide an updated quarterly deliverable timeline as soon as possible. 
+Due to the 35-day lapse in Congressional Appropriations for Fiscal Year 2019, the Cross-Agency Priority Goal: Leveraging Data as a Strategic Asset [January deliverables](https://www.performance.gov/CAP/CAP_goal_2.html) are delayed. The Federal Data Strategy development team will provide an updated quarterly deliverable timeline as soon as possible. 
