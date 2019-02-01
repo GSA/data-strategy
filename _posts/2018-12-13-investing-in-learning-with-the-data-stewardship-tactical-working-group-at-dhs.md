@@ -20,8 +20,11 @@ Helping DHS become a more data-literate and data-driven organization is no easy 
 Postscript: To learn more about DHS’ DSTWG, you may contact the authors at DHSDataGovernance@HQ.DHS.GOV. 
 
 Authors: 
-Jennifer Kish is on the Data Governance & Stewardship Lead for the Immigration Domain at DHS.
-Curtis Ross is ____
 
+* Jennifer Kish is the Data Governance Chair for the Immigration Domain at DHS.
+* Curtis Ross is the Data Governance, Standards Lead for the Immigration Domain at DHS. 
+* Both Jen and Curtis facilitate and provide support services to the stewards and community of the DSTWG.
+
+![Photo of Jennifer Kish and Curtis Ross](/assets/img/posts/2018-12-13-image001.jpg "Photo of Jennifer Kish and Curtis Ross")
 
 
