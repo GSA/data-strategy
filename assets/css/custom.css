@@ -63,10 +63,6 @@
   margin : .5em;
 }
 
-.half-width {
-  width : 50%;
-}
-
 .post-image-box-right img {
  clear : both; 
  display : block;
@@ -208,5 +204,9 @@ margin-top : 0;
   .timeline .usa-grid {
       height : 188px;
   }
+
+  .half-width {
+  width : 50%;
+}
 
 }
