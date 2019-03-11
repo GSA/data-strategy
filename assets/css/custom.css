@@ -51,6 +51,34 @@
   margin-bottom : 2.5rem;
 }
 
+.post-image-right {
+  float : right;
+  margin : .5em;
+}
+
+.post-image-box-right {
+  float : right;
+  border : 1px solid #666;
+  padding : .5em;
+  margin : .5em;
+}
+
+.half-width {
+  width : 50%;
+}
+
+.post-image-box-right img {
+ clear : both; 
+ display : block;
+ margin-bottom : 1em;
+}
+
+.proof-points-footer {
+  margin-top : 2em;
+  padding-top : 2em;
+  border-top : 1px solid #ccc;
+}
+
 .usa-footer-logo-heading {
     padding : 0;
 }
