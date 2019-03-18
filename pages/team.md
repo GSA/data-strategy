@@ -22,7 +22,7 @@ The _Leveraging Data as a Strategic Asset_ Cross Agency Priority (CAP) Goal comm
 * William Hawk, Economist, Department of Commerce
 * Lucas Hitt, Chief, Communications Division, U.S. Bureau of Economic Analysis, Department of Commerce
 * *Shelly Wilkie Martinez, Statistician, Office of Information and Regulatory Affairs, Office of Management and Budget - Point of Contact and Project Co-Manager*  
-* *Erik Noble, Senior Policy Advisor, Office of Science and Technology Policy - Point of Contact*  
+* *Kelvin Droegemeier, Director, Office of Science and Technology Policy - Point of Contact*  
 * Bryant Renaud, Performance Analyst, Office of the Federal Chief Information Officer, Office of Management and Budget
 * Natalie Rico, Senior Policy Analyst, Office of Federal Financial Management, Office of Management and Budget 
 * *Joe Semsar, Senior Advisor, Department of Commerce - Point of Contact*  
