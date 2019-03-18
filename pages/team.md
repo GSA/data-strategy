@@ -13,7 +13,7 @@ The _Leveraging Data as a Strategic Asset_ Cross Agency Priority (CAP) Goal comm
 * Karen Dunn Kelley, Deputy Secretary, Department of Commerce
 * Suzette Kent, Federal Chief Information Officer, Office of Management and Budget, Office of the Federal Chief Information Officer
 * Nancy Potok, Chief Statistician of the U.S., Office of Management and Budget, Office of Information and Regulatory Affairs
-* Jack Wilmer, Senior Advisor for Cybersecurity and IT Modernization, Office of Science and Technology Policy
+* Kelvin Droegemeier, Director, Office of Science and Technology Policy
 
 #### Federal Data Strategy Project Management Team
 * Sharon Boivin, Senior Research and Policy Analyst, Office of Information and Regulatory Affairs, Office of Management and Budget (on detail from Department of Education)
