@@ -18,7 +18,7 @@ The _Leveraging Data as a Strategic Asset_ Cross Agency Priority (CAP) Goal comm
 #### Federal Data Strategy Project Management Team
 * Sharon Boivin, Senior Research and Policy Analyst, Office of Information and Regulatory Affairs, Office of Management and Budget (on detail from Department of Education)
 * Trey Bradley, Program Manager, Strategic Data Initiatives, Office of Shared Solutions & Performance Improvement, Office of Government-Wide Policy, General Services Administration
-* *Bill Gould, Senior Advisor, Small Business Administration - Point of Contact* 
+* *Melvin Brown II, Director, Business Management Office, Office of the Chief Information Officer, Small Business Administration - Point of Contact* 
 * William Hawk, Economist, Department of Commerce
 * Lucas Hitt, Chief, Communications Division, U.S. Bureau of Economic Analysis, Department of Commerce
 * *Shelly Wilkie Martinez, Statistician, Office of Information and Regulatory Affairs, Office of Management and Budget - Point of Contact and Project Co-Manager*  
@@ -26,7 +26,6 @@ The _Leveraging Data as a Strategic Asset_ Cross Agency Priority (CAP) Goal comm
 * Bryant Renaud, Performance Analyst, Office of the Federal Chief Information Officer, Office of Management and Budget
 * Natalie Rico, Senior Policy Analyst, Office of Federal Financial Management, Office of Management and Budget 
 * *Joe Semsar, Senior Advisor, Department of Commerce - Point of Contact*  
-* Rachel Snyderman, Program Examiner,  Commerce Branch, Office of Management and Budget
 * Regina Powers, Economist, Department of Commerce
 * *Rebecca Williams, Digital Services Expert, Office of the Federal Chief Information Officer, Office of Management and Budget - Point of Contact and Project Co-Manager*  
 
