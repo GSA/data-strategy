@@ -1,0 +1,26 @@
+---
+version: 2
+jobs:
+  build:
+    docker:
+      - image: circleci/ruby:2.5
+    steps:
+      - checkout
+      - restore_cache:
+          keys:
+            - v1-bundle-{{ checksum "Gemfile.lock" }}
+            - v1-bundle-
+      - run: bundle install --path vendor/bundle
+      - save_cache:
+          key: v1-bundle-{{ checksum "Gemfile.lock" }}
+          paths:
+            - vendor/bundle
+      - run: bundle exec jekyll build
+      - run: bundle exec htmlproofer --disable-external --check-html _site
+
+
+workflows:
+  version: 2
+  commit:
+    jobs:
+      - build
