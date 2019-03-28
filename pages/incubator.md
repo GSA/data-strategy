@@ -8,7 +8,7 @@ layout: multi-section
 
 <div class="usa-grid">
     <div class="usa-width-one-third">
-      <img alt="The Data Incubator Project Logo" src="/assets/img/federal-data-strategy-incubator-project-logo.png">
+      <img alt="The Data Incubator Project Logo" src="{{ site.baseurl }}/assets/img/federal-data-strategy-incubator-project-logo.png">
     </div>
     <div class="usa-width-two-thirds"  markdown="1">
 

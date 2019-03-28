@@ -10,7 +10,7 @@ published: true
 ### Issue
 
 {:.post-image-right}
-![Logo for Data Stewardship Tactical Working Group (DSTWG)](/assets/img/posts/2018-12-13-image002.png "Logo for Data Stewardship Tactical Working Group (DSTWG)")
+![Logo for Data Stewardship Tactical Working Group (DSTWG)]({{ site.baseurl }}/assets/img/posts/2018-12-13-image002.png "Logo for Data Stewardship Tactical Working Group (DSTWG)")
 
 Diffusion of responsibility for managing federal data, differing mandates across operating and support units, and various levels of data know-how among officials – these are among the factors that can make data-related issues especially challenging. To tackle these challenges, the Department of Homeland Security, one of the largest and most federated government organizations, brought together data practitioners of all stripes to find solutions, learn from each other, and set standards applicable department-wide. The DHS experience forming the Data Stewardship Tactical Working Group (DSTWG) provides meaningful insights for those who want to address data-related challenges collaboratively and successfully in their own agencies.
 
@@ -33,7 +33,7 @@ If the group’s name, which emphasized tactical work, was a commitment to addre
 ### Invest in your Colleagues
 
 {:.post-image-box-right .half-width}
-![A flier from a 2018 DSTWG training sessions shows topics and featured speaker.](/assets/img/posts/2018-12-13-image003.png "A flier from a 2018 DSTWG training sessions shows topics and featured speaker.") A flier from a 2018 DSTWG training sessions shows topics and featured speaker.
+![A flier from a 2018 DSTWG training sessions shows topics and featured speaker.]({{ site.baseurl }}/assets/img/posts/2018-12-13-image003.png "A flier from a 2018 DSTWG training sessions shows topics and featured speaker.") A flier from a 2018 DSTWG training sessions shows topics and featured speaker.
 
 In the years since its founding, the DSTWG’s mandate has expanded. The group has built tools to help colleagues wrangle data, assemble data sharing agreements, and complete other tasks related to solving not just the technical, but also the legal and practical challenges involved in maximizing value from data. The group is currently moving these tools off of the Department intranet and into Collibra, software that will support various elements of Departmental data governance, such as data cataloging, metadata management, reference materials, policy documents, data usage monitoring, and data sharing.
 
@@ -44,7 +44,7 @@ Training and tool development sometimes go hand in hand. When the group builds n
 ### Demonstrate Responsiveness
 
 {:.post-image-box-right .half-width}
-![Snapshot of results from a DSTWG-administered survey to the broader data community.](/assets/img/posts/2018-12-13-image004.png "Snapshot of results from a DSTWG-administered survey to the broader data community.") Snapshot of results from a DSTWG-administered survey to the broader data community.
+![Snapshot of results from a DSTWG-administered survey to the broader data community.]({{ site.baseurl }}/assets/img/posts/2018-12-13-image004.png "Snapshot of results from a DSTWG-administered survey to the broader data community.") Snapshot of results from a DSTWG-administered survey to the broader data community.
 
 The DSTWG’s work supports officials at every stage of the data lifecycle: the clerk capturing survey responses, the operator responsible for records management, the developer setting up an API call, and the people who need to share, report, or understand Department data. The DSTWG issues annual surveys to prioritize the needs of these diverse stakeholders and determine its high-level agenda for the subsequent year. Publishing the results of the survey is an important way to ‘close the loop,’ ensuring the community sees how the group is shaping its work in response to stakeholder requests. 
 

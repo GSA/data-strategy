@@ -52,8 +52,8 @@ On behalf of the Federal Data Strategy development team, the Department of Comme
   </tbody>
 </table>
 
-[Download Draft Practices CSV](/data/draft-practices.csv){: .usa-button}
-[Download Draft Practices PDF](/assets/docs/federal-data-strategy-draft-practices.pdf){: .usa-button}
+[Download Draft Practices CSV]({{ site.baseurl }}/data/draft-practices.csv){: .usa-button}
+[Download Draft Practices PDF]({{ site.baseurl }}/assets/docs/federal-data-strategy-draft-practices.pdf){: .usa-button}
 
 </div>
 </section>

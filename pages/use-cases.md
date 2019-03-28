@@ -30,17 +30,15 @@ $(document).ready(function() {
 
 You may download the use case submissions we received. 
 
-[Download Use Case Summaries PDF](/assets/docs/use-case-summaries.pdf){: .usa-button} 
-[Download Use Case Raw Data CSV](/data/use-cases.csv){: .usa-button}
+[Download Use Case Summaries PDF]({{ site.baseurl }}/assets/docs/use-case-summaries.pdf){: .usa-button} 
+[Download Use Case Raw Data CSV]({{ site.baseurl }}/data/use-cases.csv){: .usa-button}
 
 You may also review the public comments submitted via our companion Cross-Agency Priority Goal: Leveraging Data as a Strategic Asset Request for Comments (RFC) on FederalRegister.gov.
 
 ## How will the Federal Data Strategy incorporate Use Cases?
 
-These Use Cases will be identified and discussed in the Federal Data Strategy, and a select number of ready Use Cases will be assessed more deeply in [The Data Incubator Project](/incubator/) as proof points or prototypes. 
+These Use Cases will be identified and discussed in the Federal Data Strategy, and a select number of ready Use Cases will be assessed more deeply in [The Data Incubator Project]({{ site.baseurl }}/incubator/) as proof points or prototypes. 
 
 ## How can I submit a Use Case?
 
-Our first feedback round concluded on July 30, 2018, and we are now working to incorporate your feedback into our Draft Practices and Year 1 Action Plan, as well as Use Cases more deeply into The Data Incubator Project. The Federal Data Strategy team was strongly encouraged by all the Use Case submissions. If you have a Use Case that you think would be helpful for the Federal Data Strategy, please visit [The Data Incubator Project](/incubator/) page for more details and the submission form.
-
-
+Our first feedback round concluded on July 30, 2018, and we are now working to incorporate your feedback into our Draft Practices and Year 1 Action Plan, as well as Use Cases more deeply into The Data Incubator Project. The Federal Data Strategy team was strongly encouraged by all the Use Case submissions. If you have a Use Case that you think would be helpful for the Federal Data Strategy, please visit [The Data Incubator Project]({{ site.baseurl }}/incubator/) page for more details and the submission form.
