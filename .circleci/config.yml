@@ -16,7 +16,8 @@ jobs:
           paths:
             - vendor/bundle
       - run: bundle exec jekyll build
-      - run: bundle exec htmlproofer --disable-external --check-html _site
+      - run: bundle exec jekyll serve &
+      - run: bundle exec htmlproofer --check-html --url-swap '^/:http://localhost:4000/' _site
 
 
 workflows:
