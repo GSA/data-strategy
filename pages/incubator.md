@@ -39,7 +39,7 @@ The Data Incubator Project will further analyze Use Cases that demonstrate the p
 
 ## How can I include my project idea in The Data Incubator Project?
 
-We’re excited that you want to include a project in The Data Incubator Project! If you have a project that you think would make for a good proof point case study, please use the form below to submit it.  Please do not re-submit any Use Case that is already published in the [Use Case List](/use-cases).
+We’re excited that you want to include a project in The Data Incubator Project! If you have a project that you think would make for a good proof point case study, please use the form below to submit it.  Please do not re-submit any Use Case that is already published in the [Use Case List]({{ site.baseurl }}/use-cases).
 
 If your idea relates to a project prototype, as opposed to a proof point, please do not use the submission form below. Stay tuned to this website for updates that provide guidance about submitting your prototype idea.
 
