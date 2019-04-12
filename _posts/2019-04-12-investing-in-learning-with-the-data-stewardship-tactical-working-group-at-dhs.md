@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Investing in Learning with the Data Stewardship Tactical Working Group at DHS
-date:  2018-12-13 07:16:01 -0500
+date:  2019-04-12 07:16:01 -0500
 category: proof-points
 tags: [change management, culture, data stewardship, investing in learning, data literacy, survey, training, tools, group]
 published: true
@@ -50,6 +50,7 @@ The DSTWG’s work supports officials at every stage of the data lifecycle: the 
 
 ### Communicate your Impact
 Much of the DSTWG’s impact takes the form of internal improvements. Bringing legacy environments into compliance with modern standards has improved data quality. Developing tools has decreased data-sharing friction. Establishing lines of accountability has promoted active management of programs’ common standards. 
+
 These internal advances ultimately lead to benefits visible to the public. The DHS Location Standard Expansion effort is a great illustration of how operational improvements can come about through work at the data standards level. For example, someone required to interview with the Department prior to completion of a document request must be provided with an interview location.  Without well-managed location standards, the person might receive conflicting information, leading to delayed service delivery, increased call center load, and damaged organizational credibility.   
 
 To remain effective, the DSTWG cannot accomplish its work in isolation. Communications efforts, such as regular brief-outs to senior decision-makers, are critical to hard-wiring the group’s progress into the Department’s operating procedures. The DHS Immigration Data Integration Initiative Executive Steering Committee (IDII ESC) formally recognizes stewards. DHS USCIS have also formally recognized the DSTWG by awarding the community with the Management Directive Award for Exceptional Service. These communication and recognition efforts ensure that people know what sorts of problems the group can help solve and how to bring their queries to the group’s attention. 
