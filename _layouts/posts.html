@@ -2,17 +2,23 @@
 layout: default
 ---
 
+
+
  <div class="usa-overlay"></div>
 
   <main class="news usa-grid usa-section usa-content usa-layout-docs" id="main-content">
 
-    <ul class="h-feed">
-      {% for post in site.categories[page.category] %}
-        <li class="h-entry">
-          <div><a href="{{ post.url }}"><h1 class="p-name">{{ post.title }}</h1></a></div>
-          <div class="dt-published">{{ post.date | date: "%B %e, %Y" }}</div>
-        </li>
-      {% endfor %}
-    </ul>
+  	<div class="usa-section">
+		<h2>{{ page.title }}</h2>
+
+	    <ul class="h-feed">
+	      {% for post in site.categories[page.category] %}
+	        <li class="h-entry">
+	          <div><a href="{{ post.url }}"><h3 class="p-name">{{ post.title }}</h3></a></div>
+	          <div class="dt-published">{{ post.date | date: "%B %e, %Y" }}</div>
+	        </li>
+	      {% endfor %}
+	    </ul>
+	</div>
 
 </main>
