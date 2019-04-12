@@ -14,7 +14,7 @@ layout: multi-section
 
 ## The Data Incubator Project
 
-To solve the most pressing issues facing the nation, we must leverage data as a strategic asset. The Federal Data Strategy will highlight examples of the use of data to solve problems and serve the public, with a particular focus on examples that can be replicated or scaled or that solve high-priority problems. A select number of Use Cases deemed “ripe for testing” will be included in The Data Incubator Project.
+The Federal Data Strategy will highlight examples of the use of data to solve problems and serve the public, with an emphasis on examples that can be replicated or scaled or that solve high-priority problems. 
 
 </div>
 
@@ -28,29 +28,16 @@ To solve the most pressing issues facing the nation, we must leverage data as a 
 
 The Data Incubator Project will further analyze Use Cases that demonstrate the potential for replication, scaling, and mission impact by two methods: 
 
-1.  **Proof Points**: The Data Incubator Project will develop case studies on Use Cases that can help inform the four strategy areas: Enterprise Data Governance; Use, Access, and Augmentation; Decision-making and Accountability; and Commercialization, Innovation, and Public Use. 
-2.  **Prototypes**: Some Use Cases offering important lessons for agencies will be supported and further developed. Stay tuned to strategy.data.gov for updates about forthcoming opportunities for prototype project support. 
+1.  **Proof Points**: The Data Incubator Project will relay lessons learned from successful projects using federal data in a series of “Proof Points” posted to this site. Each Proof Points is a case study written by data practitioners for fellow practitioners to share insights, build upon successes and avoid pitfalls.  
+2.  **Prototypes**: Prototypes are projects at a nascent stage that are being actively observed by the Incubator team for their novel approach to recurring federal data challenges. The team is currently tracking efforts to:
+	1.	Automate the inclusion of agency information collections in their metadata inventories;
+	2.	Establish stronger state-federal agency data sharing around education and workforce issues;
+	3.	Make public sector health data more accessible and comprehensible;
+	4.	Improve federal agencies’ web-based data portals; and
+	5.	Help non-federal organizations partner with federal agencies to put federal data to use in web-based apps and other tools.
+
 
 </div>
 </section>
 
-<section class="usa-section">
-<div class="usa-grid" markdown="1">
-
-## How can I include my project idea in The Data Incubator Project?
-
-We’re excited that you want to include a project in The Data Incubator Project! If you have a project that you think would make for a good proof point case study, please use the form below to submit it.  Please do not re-submit any Use Case that is already published in the [Use Case List](/use-cases).
-
-If your idea relates to a project prototype, as opposed to a proof point, please do not use the submission form below. Stay tuned to this website for updates that provide guidance about submitting your prototype idea.
-
-The Proof Point case studies you provide here will be shared with the Federal Data Strategy development team for follow up. Providing your name and email is optional, but they will be included in the feedback shared with the strategy development team. Please do not include any other personally identifiable information. As the strategy development process continues, it is possible that some user comments submitted here may be shared publicly, but without any identifying information.
-
-{% include feedback-button.html button_id="incubator-use-case" button_text="Submit A Use Case" %}
-
-**Your feedback is important to us. On November 1, 2018 it came to our attention that the web form tool for comments submitted through this website did not capture comments more than 1000 words long (approximately 2 pages). The problem has now been resolved.**
-
-**Comments submitted through other feedback platforms were not affected.  If you’d like to verify that your comment submitted before November 2, 2018 was received, please contact [federaldatastrategy@gsa.gov](mailto:federaldatastrategy@gsa.gov). We regret any inconvenience this may have caused.**
-
-</div>
-</section>
 
