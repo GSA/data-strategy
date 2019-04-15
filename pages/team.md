@@ -9,7 +9,7 @@ layout: page
 The _Leveraging Data as a Strategic Asset_ Cross Agency Priority (CAP) Goal commits the Administration to developing a long-term comprehensive Federal Data Strategy. Senior officials from the Department of Commerce, the Small Business Administration, the Office of Management and Budget, and the Office of Science and Technology Policy co-lead the CAP Goal. Co-lead staff members serve as a project managers supporting and facilitating the development of the Federal Data Strategy with significant stakeholder input. Select Federal Data Working Group Chairs and Team Members conduct research and analysis; facilitate stakeholders; and distill feedback for the Federal Data Strategy. 
 
 #### Leveraging Data as a Strategic Asset CAP Goal Co-leads
-* Pradeep Belur, Chief of Staff and Chief Operating Officer, Small Business Administration
+* Maria Roat, Chief Information Officer, Small Business Administration
 * Karen Dunn Kelley, Deputy Secretary, Department of Commerce
 * Suzette Kent, Federal Chief Information Officer, Office of Management and Budget, Office of the Federal Chief Information Officer
 * Nancy Potok, Chief Statistician of the U.S., Office of Management and Budget, Office of Information and Regulatory Affairs
