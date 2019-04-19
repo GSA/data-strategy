@@ -58,12 +58,23 @@
 
 .post-image-box-right {
   float : right;
+}
+
+.post-image-box-center {
+  text-align: center;
+}
+
+.post-image-box-center img {
+  margin : auto auto;
+}
+
+.post-image-box {
   border : 1px solid #666;
   padding : .5em;
   margin : .5em;
 }
 
-.post-image-box-right img {
+.post-image-box img {
  clear : both; 
  display : block;
  margin-bottom : 1em;
