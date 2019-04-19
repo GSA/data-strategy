@@ -24,9 +24,8 @@ To make this idea for an online memorial a reality, Dr. Carpenter responded to a
 
 The scale of the idea was big. Three million veterans are buried in NCA cemeteries, and Dr. Carpenter was proposing to have a detailed, expandable profile for each of them. The IT considerations – server strain, database connections, permissions provisioning – were intimidating. But in starting with a minimum viable product (MVP), rather than an enterprise IT solution, the team was able to put aside the technical distractions, instead focusing on what users could experience on the site. They created a demonstration for what the eventual site would look like and how users could interact with it, and they determined what the full-fledged version might cost, all within a roughly eight month timeframe. Creating and testing this prototype helped the team confirm that existing NCA data could provide the information needed to populate veteran profiles.
 
-
-IMAGE
-
+{:.post-image-box .post-image-box-center}
+![A veteran’s profile page from the prototype site developed with the help of VA proposal funding.](/assets/img/posts/2019-04-19-image001.png "A veteran’s profile page from the prototype site developed with the help of VA proposal funding.") A veteran’s profile page from the prototype site developed with the help of VA proposal funding.
 
 ### From scrappy startup to a full product team
 
@@ -48,11 +47,13 @@ Despite the pain points typical of working with a legacy system, the development
 
 ### The future of VLM
 
+{:.post-image-box .post-image-box-right .half-width}
+![A screenshot of the project reveals how design choices have evolved since development of the MVP and how NCA data are rendered human-readable.](/assets/img/posts/2019-04-19-image002.png "A screenshot of the project reveals how design choices have evolved since development of the MVP and how NCA data are rendered human-readable.") A screenshot of the project reveals how design choices have evolved since development of the MVP and how NCA data are rendered human-readable.
+
 The site goes live by May 20th, at which point friends, loved ones, researchers, and everyone in between will be able to view profiles and help add to existing information on the legacies left behind by our fallen veterans. But the project doesn’t stop there. The team plans to expand the platform to include veterans buried in cemeteries maintained by state and local governments, and, eventually, those buried in private cemeteries as well. The permissions structure will also evolve to allow living service members to plan out who will administer their digital memorials when they pass on. The team will continue to develop the product, enabling more customization and features to help everyone get the most out of NCA’s existing information and the shared knowledge of online visitors.
 
 Above all, VLM will be a tool to make NCA’s data more accessible.  It will improve the on-site national cemetery experience by reframing how we memorialize Veterans.  NCA’s mission is to memorialize Veterans in perpetuity, and Dr. Carpenter’s project will include the American public in that shared national expression.
 
-IMAGE
 
 ### Postscript
 
