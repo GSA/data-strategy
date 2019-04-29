@@ -26,9 +26,7 @@ $(document).ready(function() {
 
 You may download the use case submissions we received. 
 
-[Download Use Case Summaries PDF](/assets/docs/use-case-summaries.pdf){: .usa-button} 
-[Download Use Case Raw Data CSV](/data/use-cases.csv){: .usa-button}
+[Download Use Case Summaries PDF]({{ site.baseurl }}/assets/docs/use-case-summaries.pdf){: .usa-button} 
+[Download Use Case Raw Data CSV]({{ site.baseurl }}/data/use-cases.csv){: .usa-button}
 
 You may also review the public comments submitted via our companion Cross-Agency Priority Goal: Leveraging Data as a Strategic Asset Request for Comments (RFC) on FederalRegister.gov.
-
-

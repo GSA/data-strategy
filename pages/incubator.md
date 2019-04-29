@@ -8,7 +8,7 @@ layout: multi-section
 
 <div class="usa-grid">
     <div class="usa-width-one-third">
-      <img alt="The Data Incubator Project Logo" src="/assets/img/federal-data-strategy-incubator-project-logo.png">
+      <img alt="The Data Incubator Project Logo" src="{{ site.baseurl }}/assets/img/federal-data-strategy-incubator-project-logo.png">
     </div>
     <div class="usa-width-two-thirds"  markdown="1">
 
@@ -35,7 +35,6 @@ The Data Incubator Project will further analyze Use Cases that demonstrate the p
 	3.	Make public sector health data more accessible and comprehensible;
 	4.	Improve federal agencies’ web-based data portals; and
 	5.	Help non-federal organizations partner with federal agencies to put federal data to use in web-based apps and other tools.
-
 
 </div>
 </section>

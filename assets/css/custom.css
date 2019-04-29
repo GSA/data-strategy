@@ -96,7 +96,7 @@
 }
 
 .usa-hero.incubator .usa-grid {
-    background-image: url("/assets/img/incubator-bg.png");
+    background-image: url("../img/incubator-bg.png");
     background-repeat: no-repeat;
     height : 188px;
 }
@@ -109,7 +109,7 @@
 .usa-hero {
   padding-top: 3rem;
   padding-bottom: 3rem;
-  background-image: url("/assets/img/hero.jpg");
+  background-image: url("../img/hero.jpg");
   background-position: center;
   background-size: cover; }
   .usa-hero .usa-button {
@@ -137,7 +137,7 @@
 }
 
 .usa-hero.timeline {
-    background-image: url("/assets/img/timeline-vertical.svg");
+    background-image: url("../img/timeline-vertical.svg");
     background-repeat: no-repeat;
     background-size: contain;
     background-color: #112e51;
@@ -209,7 +209,7 @@ margin-top : 0;
 @media screen and (min-width: 700px) {
 
   .usa-hero.timeline {
-      background-image: url("/assets/img/timeline.svg");
+      background-image: url("../img/timeline.svg");
   }
 
   .timeline .usa-grid {

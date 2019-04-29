@@ -1,6 +1,10 @@
 title: Federal Data Strategy
 
-url:
+baseurl: ""
+url: https://strategy.data.gov
+
+# GitHub information
+# This is used for adding an edit this page link to the footer
 
 #Github Repo
 repo_name: data-strategy
@@ -8,11 +12,18 @@ branch: master
 org_name: GSA
 
 # Configuration for Google Analytics, add your UA code here:
-# google_analytics_ua: UA-XXXXXXXX-XX
+# google_analytics_ua: UA-42145528-6 - moved to Tag Manager 
 
 # Configuration for DAP, add your agency ID here:
-# dap_agency: GSA
+dap_agency: GSA
 
 permalink: pretty
 
 data_dir: data
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - vendor/bundle
