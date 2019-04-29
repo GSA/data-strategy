@@ -8,15 +8,15 @@ published: true
 
 In June, the Federal Data Strategy development team released a [Request for Comments](https://www.regulations.gov/docketBrowser?rpp=25&so=DESC&sb=commentDueDate&po=0&dct=PS&D=USBC-2018-0011) to gather input from federal agencies and the public to be used for the development of a Federal Data Strategy. Since then, we’ve made a lot of progress!
 
-* We’ve **created a team of Federal Data Working Groups**, which are centered around the [four areas of the data strategy](https://strategy.data.gov) and the [Data Incubator Project](https://strategy.data.gov/incubator/ "Incubator"). 
+* We’ve **created a team of Federal Data Working Groups**, which are centered around the [four areas of the data strategy](https://strategy.data.gov) and the [Data Incubator Project]({{ site.baseurl }}/incubator/ "Incubator"). 
 
-* We’ve been **finalizing Principles for the Federal Data Strategy based on feedback** received on the [draft Principles](https://strategy.data.gov/timeline/) released in June, and we are planning to release the final Principles in October. 
+* We’ve been **finalizing Principles for the Federal Data Strategy based on feedback** received on the [draft Principles]({{ site.baseurl }}/timeline/) released in June, and we are planning to release the final Principles in October. 
 
 * The working groups have collected and **analyzed input from a variety of sources** and are drafting Practices for the Federal Data Strategy and reviewing Use Cases for the Data Incubator. The draft Practices will be released in October for comment before they are finalized for January release. 
 
 ## Federal Data Working Group Teams
 
-Based on a highly-selective process, **42 [Federal Data Team Members](https://strategy.data.gov/team/)** were chosen to serve on the working groups and provide Federal Data Strategy and Data Incubator Project support. These fellows come from across the Executive branch, representing 42 offices across 18 departments and agencies – and offering the diverse perspectives needed for a truly actionable Federal Data Strategy.
+Based on a highly-selective process, **42 [Federal Data Team Members]({{ site.baseurl }}/team/)** were chosen to serve on the working groups and provide Federal Data Strategy and Data Incubator Project support. These fellows come from across the Executive branch, representing 42 offices across 18 departments and agencies – and offering the diverse perspectives needed for a truly actionable Federal Data Strategy.
    
 Since the end of July, the working groups have been busy analyzing and synthesizing information received during the comment period. This feedback came from a wide gamut of stakeholders both within and outside the Federal Government. We received **237 comments** from individuals across 131 organizations, including 48 Federal agencies or offices. We used several mechanisms to gather written feedback during the comment period, collecting 63 comments through the Federal Register, 122 through the strategy.data.gov web site, 33 by email, and 19 through broadly-attended stakeholder meetings. 
 

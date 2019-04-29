@@ -7,7 +7,7 @@ published: true
 ---
 
 {:.post-image-box .post-image-box-right .half-width}
-![A screenshot of the DEVOPL project](/assets/img/posts/2019-04-26-image001.png "DEVOPL jumps off from the realization that there is a mismatch between where litter is worst and where volunteer groups tend to visit") DEVOPL jumps off from the realization that there is a mismatch between where litter is worst and where volunteer groups tend to visit.
+![A screenshot of the DEVOPL project]({{ site.baseurl }}/assets/img/posts/2019-04-26-image001.png "DEVOPL jumps off from the realization that there is a mismatch between where litter is worst and where volunteer groups tend to visit") DEVOPL jumps off from the realization that there is a mismatch between where litter is worst and where volunteer groups tend to visit.
 
 The City of Baltimore features great community spaces, but it suffers from a litter problem. Wrappers, bottles, bags, and other urban detritus build up over time, taking away from the otherwise terrific experience of visiting these treasured spots. Luckily, there are community groups and others interested in keeping things clean for the benefit of all. The problem is that people who want to help need help themselves to find where their efforts are needed. Recently, Bloomberg Government analysts put together a prototype through the Census Bureau’s [Opportunity Project](https://opportunity.census.gov) to better assess where volunteers should direct their efforts. Using Census Bureau and Forest Service information, the team brought a data-driven approach to their work. Their experience reveals how individuals with data expertise can identify a real-world problem that data can help solve, navigate across agencies to find and obtain the most useful data, and work within resource constraints to provide a tool to help address the problem.
 
@@ -28,7 +28,7 @@ The Bloomberg team decided to better map in real time what the organizations wer
 ## An indicator of litter risk
 
 {:.post-image-box .post-image-box-right .half-width}
-![A map of convenience store locations](/assets/img/posts/2019-04-26-image002.png "Convenience store locations are used to predict areas of prevalent litter") Convenience store locations are used to predict areas of prevalent litter
+![A map of convenience store locations]({{ site.baseurl }}/assets/img/posts/2019-04-26-image002.png "Convenience store locations are used to predict areas of prevalent litter") Convenience store locations are used to predict areas of prevalent litter
 
 A great deal of the trash removed from parks is consumer-driven waste, like plastic bottles, plastic bags, sandwich wrappers, chip wrappers, and other food waste products. It made sense to look at small grocery stores that sell readymade food, single containers, and sports drinks as hotspots for this sort of litter. The team hypothesized that a single-use item purchased at this type of store has a high chance of being consumed, then discarded, within several blocks of the store. Working with Data Advocates inside the Census Bureau (experts on the types of data the Bureau collects and disperses), Peter was able to use data from the quinquennial business survey and the monthly survey of economic data to find the concentration of these stores in local areas. This allowed the team to confirm the prediction that convenience store concentration is indicative of higher litter risk. 
 
