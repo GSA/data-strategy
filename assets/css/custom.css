@@ -71,7 +71,8 @@
 .post-image-box {
   border : 1px solid #666;
   padding : .5em;
-  margin : .5em;
+  margin : .5em .5em 2em .5em;
+  font-size : .85em;
 }
 
 .post-image-box img {
@@ -84,6 +85,11 @@
   margin-top : 2em;
   padding-top : 2em;
   border-top : 1px solid #ccc;
+}
+
+div.footnotes {
+  border : 1px solid #ccc; 
+  padding : .5em;
 }
 
 .usa-footer-logo-heading {
