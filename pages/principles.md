@@ -9,9 +9,9 @@ layout: multi-section
 
 ## What are the Principles?
 
-Federal data is both a strategic asset and a valuable national resource. It enables the government to carry out its mission and programs effectively. It provides the public with knowledge of the government, society, economy, and environment – past, present, and future. Federal data is also a means to ensure the accountability of government, to manage the government’s operations, and to maintain and enhance the performance of the Nation’s economy, public health, and welfare. Appropriate access to federal data significantly enhances its value and the return on the Nation’s investment in its creation. 
+Federal data is both a strategic asset and a valuable national resource. It enables the government to carry out its mission and programs effectively. It provides the public with knowledge of the government, society, economy, and environment – past, present, and future. Federal data is also a means to ensure the accountability of government, to manage the government’s operations, and to maintain and enhance the performance of the Nation’s economy, public health, and welfare. Appropriate access to federal data significantly enhances its value and the return on the Nation’s investment in its creation.
 
-The following principles are intended to guide the development of a comprehensive data strategy that encompasses federal and federally sponsored program, statistical, and mission-support data. These principles include concepts reflected in existing principles, such as those for the protection of personal information, for the management of information as an asset, for federal statistical agencies, and for federal evidence building. These principles will inform the development of practices and action steps for the Federal Data Strategy throughout the data lifecycle.
+The principles serve as motivational guidelines in the areas of Ethical Governance, Conscious Design, and a Learning Culture. They underlie a comprehensive data strategy that encompasses federal and federally sponsored program, statistical, and mission-support data. These principles include concepts reflected in existing principle frameworks, such as those for the protection of personal information, for the management of information as an asset, for federal statistical agencies, and for federal evidence building. These principles inform the practices and action steps for the Federal Data Strategy.
 
 </div>
 </section>
@@ -20,10 +20,6 @@ The following principles are intended to guide the development of a comprehensiv
 <div class="usa-grid" markdown="1">
 
 ## The Principles
-
-### Mission Statement
-
-The mission of the Federal Data Strategy is to fully leverage the value of federal data for mission, service, and the public good by guiding the Federal Government in practicing ethical governance, conscious design, and learning culture.
 
 ### Ethical Governance
 
