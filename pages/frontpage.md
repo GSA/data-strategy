@@ -7,11 +7,15 @@ layout: frontpage
 <section class="usa-section">
 <div class="usa-grid" markdown="1">
 
-## What is the Federal Data Strategy?
+## The Federal Data Strategy: Principles and Practices
 
-Th​e use of data is transforming​ ​​the world. The way the Federal Government provides, maintains, and uses data has a unique place in society and maintaining trust in​ ​​federal data is pivotal to a democratic process. The​ ​​Federal​ Government needs a coordinated and integrated approach to using data to deliver on mission, serve the public, and steward resources while respecting privacy and confidentiality.
+The mission of the Federal Data Strategy is to fully leverage the value of federal data for mission, service, and the public good by guiding the Federal Government in practicing ethical governance, conscious design, and a learning culture.  
+ 
+The use of data is transforming the world. The way the Federal Government provides, maintains, and uses data has a unique place in society, and maintaining trust in federal data is pivotal to a democratic process. The Federal Government needs a coordinated and integrated approach to using data to deliver on mission, serve the public, and steward resources while respecting privacy and confidentiality.  The Federal Data Strategy offers guidance on how agencies should manage and use federal data. The Principles and Practices provide a whole-of-government vision, while yearly Action Plans identify concrete steps for agencies to undertake to achieve this long-term vision. In addition, the Data Incubator Project will highlight specific examples, use cases and methods that might be replicated or scaled.
 
-The Federal Data Strategy will define​ ​Principles, Practices, and a Year 1 Action Plan to deliver​ ​a ​more consistent​ ​approach to federal data stewardship, use,​ ​and access. The Federal Data Strategy development team will also test solutions and assumptions along the way with The Data Incubator Project, which​ ​​will ​help identify priority use cases and methods that should be replicated or scaled. 
+The Federal Data Strategy consists of Principles  and Practices  to leverage the value of the entire Federal Government data asset portfolio while protecting security, privacy, and confidentiality. The [principles](https://strategy.data.gov/principles/) and [practices](https://strategy.data.gov/practices/) deliver a more consistent approach to federal data stewardship, use, and access. The principles are a timeless, enduring framework for agencies, while the practices are actionable, yet aspirational, goals for a 5- to 10-year time horizon. The principles and practices were revised based on comments received from the public.
+
+The Federal Data Strategy development team will create a Year 1 Action Plan to identify practice-related action steps that are the priority for the year, along with targeted timeframes for implementation and responsible assignments.  The Draft Year 1 Action Plan is now available for public comment. Once public feedback is incorporated, a revised version will be released later in 2019. 
 
 </div>
 </section>
@@ -44,7 +48,9 @@ In short, we all are. While the [CAP goal co-leads](https://www.performance.gov
 
 ## How will the Federal Data Strategy be developed?
 
-The Federal Data Strategy will be developed iteratively in four steps, and after each step we will make the findings public and ask for your feedback and input. The strategy will be developed around four topical areas. The Federal Data Strategy development team will pull together a comprehensive strategy from the input and insights contributed by stakeholders. Between now and April 2019, the Federal Data Strategy development team will be seeking and synthesizing inputs and developing solutions through an iterative process. Each quarter, we will publish new draft materials for review and feedback. Stay tuned to [strategy.data.gov](https://strategy.data.gov) to keep up to date and ensure we hear from you.
+The Federal Data Strategy will be developed iteratively in four steps, and after each step we will make the findings public and ask for your feedback and input. The strategy will be developed around four topical areas. The Federal Data Strategy development team will pull together a comprehensive strategy from the input and insights contributed by stakeholders. 
+
+Stay tuned to [strategy.data.gov](https://strategy.data.gov) to keep up to date and ensure we hear from you.
 
 </div>
 </section>
