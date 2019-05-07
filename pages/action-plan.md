@@ -39,7 +39,7 @@ By focusing on a handful of specific actions at each level of data management an
 4. For each action, provide any edits and additional detail to ensure that they accurately and effectively describe needed activities, responsible entities, metrics for assessing progress, and timelines for completion. 
 5. For each action, provide information about the implementation resources necessary to ensure success of these action steps.
 
-[Submit a Comment](#){: .usa-button}
+{% include feedback-button.html button_id="action-plan-feedback" button_text="Submit Feedback on the Action Plan" %}
 
 **Pleased provide feedback using the guidance below to help us incorporate your feedback accurately**: 
 
