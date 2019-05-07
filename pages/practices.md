@@ -1,11 +1,11 @@
 ---
 title: Practices
 permalink: /practices/
-layout: multi-section
+layout: page
 ---
 
-<section class="usa-section">
-<div class="usa-grid" markdown="1">
+
+## What are the Practices?
 
 The Federal Data Strategy offers a balanced and holistic approaches to deriving value from the entire Federal Government data asset portfolio while protecting security, privacy, and confidentiality and addressing lifecycle management, maturity models, risk/utility models, tiered access, and secondary data use.
  
@@ -78,12 +78,6 @@ Practices 27-39 address deriving value from data by providing access to data res
 
 [Download Final Practices PDF]({{ site.baseurl }}/assets/docs/federal-data-strategy-practices.pdf){: .usa-button}
 
-</div>
-</section>
-
-
-<section class="usa-section">
-<div class="usa-grid" markdown="1">
 
 ## How were the Practices created?
 
@@ -93,5 +87,3 @@ In developing the final set of practices for Leveraging Data as a Strategic Asse
 
 [Download Draft Practices PDF]({{ site.baseurl }}/assets/docs/federal-data-strategy-draft-practices.pdf){: .usa-button}
 
-</div>
-</section>

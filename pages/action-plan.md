@@ -1,11 +1,8 @@
 ---
 title: Action Plan
 permalink: /action-plan/
-layout: multi-section
+layout: page
 ---
-
-<section class="usa-section">
-<div class="usa-grid" markdown="1">
 
 ## Action Plan
 
@@ -29,19 +26,12 @@ The Draft Year 1 Action Plan includes three categories of actions, described bel
 
 By focusing on a handful of specific actions at each level of data management and use, this Action Plan establishes an array of foundational actions designed to align activities and set a firm foundation of tools, processes, and capacity to leverage data as a strategic asset. 
 
-[LINK TO DOWNLOAD DRAFT YEAR ONE ACTION PLAN]
+[Download Draft Year One Action Plan PDF]({{ site.baseurl }}/assets/docs/federal-data-strategy-draft-action-plan.pdf){: .usa-button}
 
-</div>
-</section>
-
-
-
-<section class="usa-section">
-<div class="usa-grid" markdown="1">
 
 ## We Need Your Input on the Draft 2019-2020 Federal Data Strategy Action Plan
 
-**Pleased provide comment on the scope and content of the 2019-2020 Federal Data Strategy Action Plan.** 
+**Pleased provide comment on the scope and content of the 2019-2020 Federal Data Strategy Action Plan** 
 
 1. Identify any additional fundamental actions to implement the Federal Data Strategy that are not included in this draft Action Plan and explain why.
 2. Identify any additional actions that would align with or complement ongoing Federal data initiatives or the implementation of new legislation, such as the Foundations for Evidence-based Policy Making Act and explain why.
@@ -49,7 +39,7 @@ By focusing on a handful of specific actions at each level of data management an
 4. For each action, provide any edits and additional detail to ensure that they accurately and effectively describe needed activities, responsible entities, metrics for assessing progress, and timelines for completion. 
 5. For each action, provide information about the implementation resources necessary to ensure success of these action steps.
 
-[feedback-button]
+[Submit a Comment](#){: .usa-button}
 
 **Pleased provide feedback using the guidance below to help us incorporate your feedback accurately**: 
 
@@ -61,7 +51,3 @@ By focusing on a handful of specific actions at each level of data management an
 * Comments on issues not related to the Federal Data Strategy will not be considered.
 
 ### Please submit comments by June 6, 2019.
-
-
-</div>
-</section>
