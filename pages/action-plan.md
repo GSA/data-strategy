@@ -4,7 +4,7 @@ permalink: /action-plan/
 layout: page
 ---
 
-## Action Plan
+## Federal Data Strategy Action Plan
 
 Government agencies will implement the Federal Data Strategy through steps identified in annual government-wide action plans. These plans will identify priority action steps for a given year, incrementally build from year to year, and complement as needed requirements of new statute and policy. 
 
@@ -31,7 +31,7 @@ By focusing on a handful of specific actions at each level of data management an
 
 ## We Need Your Input on the Draft 2019-2020 Federal Data Strategy Action Plan
 
-**Pleased provide comment on the scope and content of the 2019-2020 Federal Data Strategy Action Plan** 
+**Pleased provide comment on the scope and content of the [2019-2020 Federal Data Strategy Action Plan](#main-content)** 
 
 1. Identify any additional fundamental actions to implement the Federal Data Strategy that are not included in this draft Action Plan and explain why.
 2. Identify any additional actions that would align with or complement ongoing Federal data initiatives or the implementation of new legislation, such as the Foundations for Evidence-based Policy Making Act and explain why.
