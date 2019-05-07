@@ -1,11 +1,14 @@
 ---
 title: Action Plan
-permalink: /actionplan/
+permalink: /action-plan/
 layout: multi-section
 ---
 
 <section class="usa-section">
 <div class="usa-grid" markdown="1">
+
+## Action Plan
+
 Government agencies will implement the Federal Data Strategy through steps identified in annual government-wide action plans. These plans will identify priority action steps for a given year, incrementally build from year to year, and complement as needed requirements of new statute and policy. 
 
 The priority of the Draft Year 1 Action Plan is to align existing efforts and establish a firm basis of tools, processes, and capacities to leverage data as a strategic asset. The Draft Year 1 Action Plan describes the steps that are viewed as fundamental during the first year to execute the full breadth of the Federal Data Strategy over time. They are informed by and built upon previous efforts, align with ongoing Federal Government programs and policies, and complement new statutory requirements.
@@ -36,7 +39,7 @@ By focusing on a handful of specific actions at each level of data management an
 <section class="usa-section">
 <div class="usa-grid" markdown="1">
 
-##We Need Your Input on the Draft 2019-2020 Federal Data Strategy Action Plan
+## We Need Your Input on the Draft 2019-2020 Federal Data Strategy Action Plan
 
 **Pleased provide comment on the scope and content of the 2019-2020 Federal Data Strategy Action Plan.** 
 
@@ -55,9 +58,9 @@ By focusing on a handful of specific actions at each level of data management an
 * If possible, provide comments in a Microsoft Word or plain text file and avoid using footnotes, end notes, images, graphics, or tables. If you refer to reference material (documents, websites, research), please quote or paraphrase the specific content from referenced material.
 * If you attach a PDF, please only post machine-readable PDFs.
 
-*Comments on issues not related to the Federal Data Strategy will not be considered.
+* Comments on issues not related to the Federal Data Strategy will not be considered.
 
-##Please submit comments by June 6, 2019.
+### Please submit comments by June 6, 2019.
 
 
 </div>
