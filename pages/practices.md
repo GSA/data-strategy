@@ -16,12 +16,11 @@ The practices are organized in three categories that reflect the importance of t
 * Building a Culture that Values Data and Promotes Public Use (practices 1-10)
 * Governing, Managing, and Protecting Data (practices 11-26)
 * Promoting Efficient and Appropriate Data Use (practices 27-39)
-The importance of protecting individual privacy is integrated and emphasized throughout the practices.
 
 The importance of protecting individual privacy is integrated and emphasized throughout the practices.
+
 
 ## Practices
-
 
 **Building a Culture that Values Data and Promotes Public Use**
 
@@ -77,7 +76,7 @@ Practices 27-39 address deriving value from data by providing access to data res
 38. **Support Federal Stakeholders**: Engage with relevant agencies to share expert knowledge of data assets, promote wider use, improve usability and quality, and meet mission goals.
 39. **Support Non-Federal Stakeholders**: Engage with industry, academic, and other non-federal users of data to share expert knowledge of data assets, promote wider use, improve usability and quality, and advance innovation and commercialization. 
 
-[Download PDF for Final Practices]
+[Download Final Practices PDF]({{ site.baseurl }}/assets/docs/federal-data-strategy-practices.pdf){: .usa-button}
 
 </div>
 </section>
