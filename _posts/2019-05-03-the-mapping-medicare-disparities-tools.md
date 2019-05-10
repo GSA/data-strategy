@@ -36,6 +36,7 @@ The privacy of the Medicare data the MMD Tool is built upon is protected by the 
 ## Plan for the tool to evolve
 
 The MMD Tool continues to grow in sophistication and value. Most recently, differences between rural and urban counties within each state were incorporated to allow users to view and compare health outcomes, spending, and utilization rates. Additionally, four opioid use disorder indicators were added to the Population View. In the future, CMS OMH plans to update the Hospital View with additional enhancements, including additional quality measures. A forthcoming Trending View will also allow users to visualize emerging developments. 
+
 The CMS OMH team is continuing to reach out to stakeholders who might benefit from the MMD Tool and to determine how users can provide feedback to improve the MMD Tool.
 
 ## Postscript
