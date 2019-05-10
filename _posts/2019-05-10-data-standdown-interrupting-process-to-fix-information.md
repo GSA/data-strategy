@@ -51,4 +51,4 @@ The Data & Analytics team’s work through the standdown led to many gains, larg
 
 ## Postscript
 
-To learn more about ONR’s data standdown, you may contact Matthew Poe, the Director of the Data & Analytics Division or Dr. Ryan Zelnio, Chief Analytics Officer at ONR. Their email addresses are Matthew.D.Poe@navy.mil and Ryan.J.Zelnio@navy.mil, respectively.
+To learn more about ONR’s data standdown, you may contact Matthew Poe, the Director of the Data & Analytics Division or Dr. Ryan Zelnio, Chief Analytics Officer at ONR. Their email addresses are [Matthew.D.Poe@navy.mil](mailto:Matthew.D.Poe@navy.mil) and [Ryan.J.Zelnio@navy.mil](mailto:Ryan.J.Zelnio@navy.mil), respectively.
