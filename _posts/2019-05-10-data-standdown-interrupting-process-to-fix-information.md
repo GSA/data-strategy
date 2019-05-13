@@ -42,6 +42,7 @@ Bit by bit, the team organized data so that it could be funneled into a web tool
 
 <blockquote style="text-align:center; font-style:italic">
 The data standdown played a critical role in focusing the entire command on the importance of clean and connected data to our R&D mission. Getting a better understanding of our data is critical to helping us achieve a holistic view of our portfolio. Modifying our business processes has enabled us to move toward a data-driven culture that supports ONR investments and priorities.
+<br>
 – Dr. David E. Walker, Research and Development Portfolio Director, Office of Naval Research
 </blockquote>
 
