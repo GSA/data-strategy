@@ -81,6 +81,15 @@
  margin-bottom : 1em;
 }
 
+.blog-blockquote {
+  text-align : center; 
+  font-style : italic;
+}
+
+.blockquote-large {
+  font-size : 1.7em;
+}
+
 .proof-points-footer {
   margin-top : 2em;
   padding-top : 2em;
@@ -223,7 +232,15 @@ margin-top : 0;
   }
 
   .half-width {
-  width : 50%;
-}
+    width : 50%;
+  }
+
+  .third-width {
+    width : 33%;
+  }
+
+  .two-thirds-flow {
+    margin-right : 38%;
+  }
 
 }
