@@ -6,7 +6,7 @@ category: proof-points
 published: true
 ---
 
-## The Opportunity
+## The opportunity
 
 Data collected in the process of verifying eligibility for the National School Lunch Program (NSLP) and School Breakfast Program (SBP) are handled at multiple levels as they funnel up to the analysts in the Food and Nutrition Service (FNS) of USDA. With the goal of improving data quality, and informed by insights from those responsible for data collection at the state level, FNS restructured its approach to data validation, using an API-based validation service.  The approach promises to increase data quality and process efficiency without changing how school officials submit their data, and offers an example of validation as a service for other agencies that want to dramatically improve the utility of their own critical data assets.
 
