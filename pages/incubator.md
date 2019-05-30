@@ -4,7 +4,7 @@ permalink: /incubator/
 layout: multi-section
 ---
 
-<section class="usa-section">
+<section class="usa-section incubator-page-list">
 
 <div class="usa-grid">
     <div class="usa-width-one-third">
@@ -15,6 +15,69 @@ layout: multi-section
 ## The Data Incubator Project
 
 The Federal Data Strategy will highlight examples of the use of data to solve problems and serve the public, with an emphasis on examples that can be replicated or scaled or that solve high-priority problems. 
+
+
+<section class="usa-section usa-graphic_list">
+
+  <div class="usa-grid usa-graphic_list-row">
+
+    <div class="usa-media_block">
+      <img class="usa-media_block-img svg-icon"  src="{{ site.baseurl }}/assets/img/icons/list-inc.png" alt="Alt text">
+      <div class="usa-media_block-body">
+        <h3>Gather Hypotheses: <a href="https://strategy.data.gov/use-cases/">Use Case List</a></h3>
+        <p>
+          The Data Incubator Project will gather and publicly share use case examples of how data can be leveraged as a strategic asset to achieve agency mission and public interest outcomes.
+        </p>
+      </div>
+    </div>
+
+  </div>
+
+  <div class="usa-grid usa-graphic_list-row">
+
+    <div class="usa-media_block">
+      <img class="usa-media_block-img svg-icon"  src="{{ site.baseurl }}/assets/img/icons/test-inc.png" alt="Alt text">
+      <div class="usa-media_block-body">
+        <h3>Test: Prototypes</h3>
+        <p>
+          Prototypes are projects at a nascent stage that are being actively observed by the Incubator team for their novel approach to recurring federal data challenges.
+        </p>
+      </div>
+    </div>
+
+  </div>
+
+
+  <div class="usa-grid usa-graphic_list-row">
+
+    <div class="usa-media_block">
+      <img class="usa-media_block-img svg-icon"  src="{{ site.baseurl }}/assets/img/icons/search-inc.png" alt="Alt text">
+      <div class="usa-media_block-body">
+        <h3>Conclusions: <a href="https://strategy.data.gov/proof-points/">Proof-Points</a></h3>
+        <p>
+          The Data Incubator Project will create case studies on emergent data methods and practices. 
+        </p>
+      </div>
+    </div>
+
+  </div>
+
+  <div class="usa-grid usa-graphic_list-row">
+
+    <div class="usa-media_block">
+      <img class="usa-media_block-img svg-icon"  src="{{ site.baseurl }}/assets/img/icons/binder-inc.png" alt="Alt text">
+      <div class="usa-media_block-body">
+        <h3>Replicate: Incubator Playbook</h3>
+        <p>
+          The Data Incubator Playbook will provide various resources to agencies to launch their own Data Incubator projects.
+        </p>
+      </div>
+    </div>
+
+  </div>
+
+
+</section>
 
 </div>
 
