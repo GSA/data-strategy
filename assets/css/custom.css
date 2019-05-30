@@ -116,6 +116,10 @@ div.footnotes {
     height : 188px;
 }
 
+.incubator-page-list .usa-media_block-img.svg-icon {
+  width : 6rem;
+}
+
 .beta-disclaimer {
     color : red; 
     float : left;
