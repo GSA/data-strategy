@@ -16,6 +16,22 @@ layout: multi-section
 
 The Federal Data Strategy will highlight examples of the use of data to solve problems and serve the public, with an emphasis on examples that can be replicated or scaled or that solve high-priority problems. 
 
+**Gather Hypotheses: [Use Case List](https://strategy.data.gov/use-cases/)**
+
+The Data Incubator Project will gather and publicly share use case examples of how data can be leveraged as a strategic asset to achieve agency mission and public interest outcomes.
+
+**Test: Prototypes**
+
+Prototypes are projects at a nascent stage that are being actively observed by the Incubator team for their novel approach to recurring federal data challenges.
+
+**Conclusions: [Proof Points](https://strategy.data.gov/proof-points/)**
+
+The Data Incubator Project will create case studies on emergent data methods and practices. 
+
+**Replicate: Incubator Playbook**
+
+The Data Incubator Playbook will provide various resources to agencies to launch their own Data Incubator projects. 
+
 </div>
 
 </div>
