@@ -29,16 +29,14 @@ By focusing on a handful of specific actions at each level of data management an
 [Download Draft Year One Action Plan PDF]({{ site.baseurl }}/assets/docs/federal-data-strategy-draft-action-plan.pdf){: .usa-button}
 
 ## Draft Action Steps
-#top
 
-* **[Shared Actions: Government-wide Data Services](#shared-actions)**
-* **[Community Actions: Cross-Agency Collaboration](#community-actions)** 
-* **[Agency-Specific Actions: Agency Activities](#agency-actions)**  
+* **[Shared Actions: Government-wide Data Services](#shared-actions-government-wide-data-services)**
+* **[Community Actions: Cross-Agency Collaboration](#community-actions-cross-agency-collaboration)** 
+* **[Agency-Specific Actions: Agency Activities](#agency-specific-actions-agency-activities)**  
 
-#shared-actions
 ## Shared Actions: Government-wide Data Services
 
-**Action 1: Create an OMB Data Council**
+### Action 1: Create an OMB Data Council
 
 By November 2019, the Office of Management and Budget will establish a cross-office Data Council that will coordinate across statutory offices on information policy development and implementation activities and provide guidance on government-wide data standards and improvements required by statute, such as the Digital Accountability and Transparency Act, the Foundations for Evidence-Based Policymaking Act (hereinafter “Evidence Act”), and the Geospatial Data Act. The OMB Data Council will also provide to agencies a coordinated voice (or response) and common guidance regarding the implementation of the Federal Data Strategy. OMB’s efforts to ensure relevant participants are engaged in data governance will be a model for individual agencies. The OMB Data Council will provide a way to address issues that cross agencies’ and OMB’s statutory functions to help inform government-wide management and budget priorities for data management and use.
 
@@ -47,7 +45,7 @@ By November 2019, the Office of Management and Budget will establish a cross-off
 * **Measurement**: Internal Data Council established (Y/N) and Consistent governance approach developed (Y/N)
 * **Timeline**: Completed within 3 months
 
-**Action 2: Develop a Curated Data Science Training and Credentialing Catalog**
+### Action 2: Develop a Curated Data Science Training and Credentialing Catalog
 
 By February 2020, Federal agencies will have access to a curated catalog of federal and non-federal training offerings in data science, aligned to federal needs. 
 
@@ -60,7 +58,7 @@ This shared action has received financial resources as part of the Cross-Agency 
 * **Measurement**: Number of agencies and employees that use the catalog 
 * **Timeline**: Completed within 6 months 
 
-**Action 3: Develop a Data Ethics Framework**
+### Action 3: Develop a Data Ethics Framework
 
 By November 2019, the Federal Government will have available a consistent framework for evaluating ethical repercussions and tradeoffs associated with data management and use.
 
@@ -73,7 +71,7 @@ This shared action has received financial resources as part of the Cross-Agency 
 * **Measurement**: Data Ethics Framework Created (Y/N)
 * **Timeline**: Completed within 3 months 
 
-**Action 4: Develop a Data Protection Toolkit**
+### Action 4: Develop a Data Protection Toolkit
  
 By August 2020, the Federal Government will have developed a consistent approach for measuring and mitigating the risk of re-identification from the release of disparate data sets, often referred to as the “mosaic effect.” 
 
@@ -86,7 +84,7 @@ This shared action has received financial resources as part of the Cross-Agency 
 * **Measurement**: Reference material published within 12 months (Y/N)
 * **Timeline**: Completed within 12 months
 
-**Action 5: Develop a Repository of Federal Data Strategy Resources and Tools**
+### Action 5: Develop a Repository of Federal Data Strategy Resources and Tools
 
 By November 2019, GSA will create a government-wide repository of tools and resources to assist agencies with implementing the Federal Data Strategy, as well as companion efforts, such as implementing the Evidence Act. The repository may include more detailed practice descriptions, case studies that demonstrate the practices “in action,” and tool kits for implementing individual or groups of practices. The Federal Data Strategy is seeking comments on priorities for populating the repository.
 
@@ -95,7 +93,7 @@ By November 2019, GSA will create a government-wide repository of tools and reso
 * **Measurement**: Number of agencies that access and use the tool within 3/6/9/12 months
 * **Timeline**: Completed within 3 months 
 
-**Action 6: Pilot a One-stop Standard Research Application**
+### Action 6: Pilot a One-stop Standard Research Application
  
 By August 2020, the Federal Government will pilot a one-stop standard application for accessing federal data assets for research and other evidence building purposes. 
 
@@ -107,7 +105,7 @@ This shared action has received financial resources as part of the Cross-Agency 
 * **Measurement**: Number of agencies’ requirements harmonized into application
 * **Timeline**: Completed within 12 months
 
-**Action 7: Pilot an Automated Inventory Tool for Data.gov**
+### Action 7: Pilot an Automated Inventory Tool for Data.gov
 
 By August 2020, the Federal Government will have an automated tool that leverages agency Information Collection Review (ICR) processes and documentation under the Paperwork Reduction Act and possibly other existing sources, to populate metadata, or information about each dataset, on agency enterprise data inventories. This automation tool will complement the inventory requirements under the Evidence Act. 
 
@@ -122,7 +120,7 @@ This shared action has received financial resources as part of the Cross-Agency 
 	- Multi-agency stakeholder input on functionality of user interface obtained (Y/N)
 * **Timeline**: Completed within 12 months 
 
-**Action 8: Pilot Standard Data Catalogs for Data.gov**
+### Action 8: Pilot Standard Data Catalogs for Data.gov
 
 By November 2019, the Federal Government will have an improved standard Federal Data Catalog kit for metadata management and data hosting capabilities, in support of legally required federal data catalog requirements. This automation tool will complement the inventory and Federal Data Catalogue requirements under the Foundations for Evidence-based Policymaking Act.
 
@@ -137,12 +135,11 @@ This shared action has received financial resources as part of the Cross-Agency 
   - Number of additional datasets on or available through Data.gov 
 * **Timeline**: Completed within 3 months 
 
-[Back to top](#top) 
+[Back to top](#draft-action-steps) 
 
-#community-actions
 ## Community Actions: Cross-Agency Collaboration 
 
-**Action 9: Improve Data Resources for AI Research and Development**
+### Action 9: Improve Data Resources for AI Research and Development
  
 By February 2020, the Federal Government, through the implementation of Executive Order on Maintaining American Leadership in Artificial Intelligence, will have improved the data and computing resources for AI Research and Development, by:
 
@@ -152,7 +149,7 @@ By February 2020, the Federal Government, through the implementation of Executiv
 * **Measurement**: See data.gov and code.gov  
 * **Timeline**: Completed within 6 months
 
-**Action 10: Improve Financial Management Data Standards**
+### Action 10: Improve Financial Management Data Standards
 
 By August 2020, the Federal Government, through the implementation of the President’s Management Agenda, will have improved the management and use of several financial management data assets, by:
 
@@ -164,7 +161,7 @@ By August 2020, the Federal Government, through the implementation of the Presid
 * **Measurement**: See Performance.gov/PMA/PMA for detailed metrics 
 * **Timeline**: Completed within 12 months
 
-**Action 11: Improve Geospatial Data Standards**
+### Action 11: Improve Geospatial Data Standards
 
 By August 2020, the Federal Government will have improved geospatial data standards for all Federal Geospatial Data Committee (FGDC) data themes.
 
@@ -177,12 +174,12 @@ The Geospatial Data Act requires the FGDC to establish standards for each of the
     - Established content standards for metadata (Y/N)
 * **Timeline**: Completed within 12 months 
 
-[Back to top](#top) 
+[Back to top](#draft-action-steps) 
 
-#agency-actions
+
 ## Agency-Specific Actions: Agency Activities
 
-**Action 12: Constitute a Diverse Data Governance Body**
+### Action 12: Constitute a Diverse Data Governance Body
 
 By September 2019, all agencies will have established an appropriately inclusive and empowered data governance body to ensure that agency resources are aligned with agency priorities based on a maturity assessment and mission needs.
 
@@ -195,7 +192,7 @@ All agencies will charter and constitute a data governance body driven by chief 
    - Number of actions taken by body each quarter
 * **Timeline**: Completed within 1 month
 
-**Action 13: Assess Data and Related Infrastructure Maturity**
+### Action 13: Assess Data and Related Infrastructure Maturity
 
 By May 2020, all agencies will conduct an initial maturity assessment focusing on data and data infrastructure (e.g. organizational structures and knowledge bases, policies, workforce skills) needed to answer agency priority questions and to set a baseline for future improvements. This assessment will identify readiness to meet other requirements of the Federal Data Strategy and related legal requirements. It can be used to make investment decisions and to prioritize subsequent action steps.
  
@@ -206,7 +203,7 @@ By May 2020, all agencies will conduct an initial maturity assessment focusing o
     - Assessment documented and available (Y/N)
 * **Timeline**: Completed within 9 months 
 
-**Action 14: Identify Opportunities to Increase Staff Data Skills**
+### Action 14: Identify Opportunities to Increase Staff Data Skills
 
 By May 2020, agencies will have begun to identify critical data skills required to support high quality analysis and evaluation, data management, and privacy protection.   
 
@@ -223,9 +220,9 @@ The identification of critical data skills will naturally be informed by the det
 * **Responsible**: All agencies
 * **Supported practice(s)**: Use Data to Guide Decision-Making and Increase Capacity for Data Management and Analysis
 * **Measurement**: Agency has identified critical data skills, assessed current staff capacity, and developed an initial plan to reskill their workforce or hire to meet their data demands (Y/N)
-* **Timelinev: Completed within 9 months 
+* **Timeline: Completed within 9 months**
 
-**Action 15: Identify Data Needs to Answer Key Agency Questions**
+### Action 15: Identify Data Needs to Answer Key Agency Questions
 
 By August 2020, all agencies will take initial steps to identify the data needed to answer key questions of interest to the agency.
 
@@ -238,7 +235,7 @@ The learning agenda process is one critical tool to help agencies identify and p
     - Agency has categorized data needs for key questions by data type (Y/N)
 * **Timeline**: Completed within 12 months 
 
-**Action 16: Identify Priority Datasets for Agency Open Data Plans**
+### Action 16: Identify Priority Datasets for Agency Open Data Plans
 
 By August 2020, agencies will identify then use their initial list of highest priority datasets as the focus for enhancing their data inventories and catalogs and approaches to secure data access and sharing.
 
@@ -251,7 +248,7 @@ Agencies will identify an initial set of priority agency datasets that are key t
     - Plan for sharing priority agency datasets developed with the engagement of stakeholders (Y/N)
 * **Timeline**: Completed within 12 months 
 
-[Back to top](#top) 
+[Back to top](#draft-action-steps) 
 
 
 ## We Need Your Input on the Draft 2019-2020 Federal Data Strategy Action Plan
