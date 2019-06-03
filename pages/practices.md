@@ -22,7 +22,7 @@ The importance of protecting individual privacy is integrated and emphasized thr
 
 ## Practices
 
-**Building a Culture that Values Data and Promotes Public Use**
+### Building a Culture that Values Data and Promotes Public Use
 
 Practices 1-10 derive value by articulating data uses for agency decision-making and accountability and supporting commercialization, innovation, and public use. To improve data management, agencies should consider potential uses of data and the benefits of those uses for answering key agency questions and meeting stakeholder needs. To derive value from these potential uses, agencies need leadership champions, management buy-in, and staff capacity to conduct the data driven decision-making cycle that prioritizes the informative value of data. When using data to answer key questions and address stakeholder needs, agencies should use data sources that are the most fit for the particular purpose. When allocating resources, agencies should prioritize data that identifies problems, informs solutions, and provides transparency for results delivered. Agencies shall: 
 
@@ -37,9 +37,11 @@ Practices 1-10 derive value by articulating data uses for agency decision-making
 9. **Connect Data Functions Across Agencies**: Establish communities of practice for common agency data functions (e.g. data management, access, analytics, informatics, and user support) to promote efficiency, collaboration, and coordination. 
 10. **Provide Resources Explicitly to Leverage Data Assets**: Ensure that sufficient human and financial resources are available to support data driven agency decision-making, accountability and the ability to spur commercialization, innovation, and public use.
 
-**Governing, Managing, and Protecting Data**
+### Governing, Managing, and Protecting Data
 
 Practices 11-26 derive value from data by bringing leaders with diverse perspectives and expertise together to plan for using the data appropriately and responsibly. A data governance structure helps agencies use data to answer important questions while meeting legal and ethical requirements essential to maintaining public trust, including protecting privacy and ensuring confidentiality. Agency questions and user needs should drive specific governance, management, and data protection priorities. Data governance and management also allow agencies to assess data quality and the agency’s capacity to acquire, manage, protect and use data to address mission priorities, as well as to prioritize data investments. A broad spectrum of leaders and skill sets within and across agencies will be key to successful implementation of these Practices, and inter-agency collaboration will be essential for consistency across the government. Agencies shall:
+
+{:start="11"}
 
 11. **Prioritize Data Governance**: Ensure there are sufficient authorities, roles, organizational structures, policies, and resources in place to transparently support the management, maintenance, and use of strategic data assets.
 12. **Govern Data to Protect Confidentiality and Privacy**: Ensure there are sufficient authorities, roles, organizational structures, policies, and resources in place to provide appropriate access to confidential data and to maintain public trust and safeguard privacy.
@@ -58,9 +60,11 @@ Practices 11-26 derive value from data by bringing leaders with diverse perspect
 25. **Coordinate Federal Data Assets**: Coordinate and share data assets across federal agencies to advance progress on shared and similar objectives, fulfill broader federal information needs, and reduce collection burden.
 26. **Share Data Between State, Local, and Tribal Governments and Federal Agencies**: Facilitate data sharing between state, local, and tribal governments and the Federal Government, where relevant and appropriate and with proper protections, particularly for programs that are federally funded and locally administered, to enable richer analyses for more informed decision-making.
 
-**Promoting Efficient and Appropriate Data Use**
+### Promoting Efficient and Appropriate Data Use
 
 Practices 27-40 derive value from data by providing access to data resources, promoting appropriate use of data resources, and providing guidance on approaches for data augmentation. Access to data resources includes Practices related to sharing data assets, including open data and tiered access to protected data, disclosure review, and interoperability of federal data. Use of data resources includes Practices related to data documentation, emerging technologies for protecting confidential data, and federal data expertise. Data augmentation includes Practices related to data quality, metadata standards, and secure data linkage. Agency leadership and practitioners within programs will be key to these activities, many of which involve working across agencies and with experts across industry. Agencies shall:
+
+{:start="27"}
 
 27. **Increase Capacity for Data Management and Analysis**: Educate and empower the federal workforce by investing in training, tools, communities, and other opportunities to expand capacity for critical data-related activities such as analysis and evaluation, data management, and privacy protection.
 28. **28.	Align Quality with Intended Use**: Data likely to inform important public policy or private sector decisions must be of appropriate utility, integrity, and objectivity.
