@@ -26,7 +26,7 @@ The importance of protecting individual privacy is integrated and emphasized thr
 
 Practices 1-10 derive value by articulating data uses for agency decision-making and accountability and supporting commercialization, innovation, and public use. To improve data management, agencies should consider potential uses of data and the benefits of those uses for answering key agency questions and meeting stakeholder needs. To derive value from these potential uses, agencies need leadership champions, management buy-in, and staff capacity to conduct the data driven decision-making cycle that prioritizes the informative value of data. When using data to answer key questions and address stakeholder needs, agencies should use data sources that are the most fit for the particular purpose. When allocating resources, agencies should prioritize data that identifies problems, informs solutions, and provides transparency for results delivered. Agencies shall: 
 
-1. **Identify Data Needs to Answer Key Agency Questions**: Use the learning agenda <sup>[1](#footnote1)</sup> process to identify and prioritize the agency's key questions and the data needed to answer them. 
+1. **Identify Data Needs to Answer Key Agency Questions**: Use the learning agenda[^1]  process to identify and prioritize the agency's key questions and the data needed to answer them. 
 2. **Assess and Balance the Needs of Stakeholders**: Identify and engage stakeholders throughout the data lifecycle to identify stakeholder needs and to incorporate stakeholder feedback into government priorities to maximize entrepreneurship, innovation, scientific discovery, economic growth, and the public good.
 3. **Champion Data Use**: Leaders set an example, incorporating data in decision-making and targeting resources to maximize the value of data for decision-making, accountability, and the public good. 
 4. **Use Data to Guide Decision-Making**: Effectively, routinely, transparently, and appropriately use data in policy, planning, and operations to guide decision-making; share the data and analyses behind those decisions.
@@ -88,5 +88,6 @@ In developing the final set of Practices for Leveraging Data as a Strategic Asse
 
 [Download Draft Practices PDF]({{ site.baseurl }}/assets/docs/federal-data-strategy-draft-practices.pdf){: .usa-button}
 
-
-<a name="footnote1">1</a>Also known as evidence-building plans, such as in the Foundations for Evidence-based Policymaking Act of 2018.
+{:.footnotes}
+#### Footnotes
+[^1]: Also known as evidence-building plans, such as in the Foundations for Evidence-based Policymaking Act of 2018.
