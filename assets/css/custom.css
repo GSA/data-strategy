@@ -162,6 +162,20 @@ div.footnotes {
     background-color: #112e51;
 }
 
+#action-plan-input {
+  background-color : #fce2c5;
+  padding : 1rem;
+  border : 1px solid #c05600;
+}
+
+#action-plan-input h2, #action-plan-input h3 {
+  margin-top : 0;
+}
+
+.action-plan-subheader {
+  font-weight: bold;
+}
+
 .timeline .usa-grid {
     height : 400px;
 }

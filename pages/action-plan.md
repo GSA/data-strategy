@@ -1,8 +1,32 @@
 ---
 title: Action Plan
 permalink: /action-plan/
-layout: page
+layout: action-plan
 ---
+
+<div id="action-plan-input" markdown="1">
+### We Need Your Input on the Draft 2019-2020 Federal Data Strategy Action Plan
+
+**Please provide comment on the scope and content of the [2019-2020 Federal Data Strategy Action Plan](#federal-data-strategy-action-plan).** 
+
+1. Identify any additional fundamental actions to implement the Federal Data Strategy that are not included in this draft Year-1 Action Plan and explain why.
+2. Identify any additional actions that would align with or complement ongoing Federal data initiatives or the implementation of new legislation, such as the Foundations for Evidence-based Policy Making Act and explain why.
+3. Identify any actions in this draft Year-1 Action Plan that should be omitted and explain why.
+4. For each action, provide any edits and additional detail to ensure that they accurately and effectively describe needed activities, responsible entities, metrics for assessing progress, and timelines for completion. 
+5. For each action, provide information about the implementation resources necessary to ensure success of these Action Steps.
+
+
+{% include feedback-button.html button_id="action-plan-feedback" button_text="Submit Feedback on the Action Plan" %}
+
+**Please provide feedback using the guidance below to help us incorporate your feedback accurately:** 
+
+* Specify the number of the question to which your comment applies.  
+* If possible, structure your comments on specific actions in the draft Year-1 Action Plan so that they refer to the number of the relevant action. If you have multiple comments on one action, please organize them together by action number.
+
+Comments on issues not related to the Federal Data Strategy will not be considered.
+
+### Please submit comments by July 5, 2019.
+</div>
 
 ## Federal Data Strategy Action Plan
 
@@ -249,28 +273,3 @@ Agencies will identify an initial set of priority agency datasets that are key t
 * **Timeline**: Completed within 12 months 
 
 [Back to top](#draft-action-steps) 
-
-
-## We Need Your Input on the Draft 2019-2020 Federal Data Strategy Action Plan
-
-**Pleased provide comment on the scope and content of the 2019-2020 Federal Data Strategy Action Plan.** 
-
-1. Identify any additional fundamental actions to implement the Federal Data Strategy that are not included in this draft Year-1 Action Plan and explain why.
-2. Identify any additional actions that would align with or complement ongoing Federal data initiatives or the implementation of new legislation, such as the Foundations for Evidence-based Policy Making Act and explain why.
-3. Identify any actions in this draft Year-1 Action Plan that should be omitted and explain why.
-4. For each action, provide any edits and additional detail to ensure that they accurately and effectively describe needed activities, responsible entities, metrics for assessing progress, and timelines for completion. 
-5. For each action, provide information about the implementation resources necessary to ensure success of these Action Steps.
-
-
-{% include feedback-button.html button_id="action-plan-feedback" button_text="Submit Feedback on the Action Plan" %}
-
-**Pleased provide feedback using the guidance below to help us incorporate your feedback accurately:** 
-
-* Specify the number of the question to which your comment applies.  
-* If possible, structure your comments on specific actions in the draft Year-1 Action Plan so that they refer to the number of the relevant action. If you have multiple comments on one action, please organize them together by action number.
-* If possible, provide comments in a Microsoft Word or plain text file and avoid using footnotes, end notes, images, graphics, or tables. If you refer to reference material (documents, websites, research), please quote or paraphrase the specific content from referenced material.
-* If you attach a PDF, please only post machine-readable PDFs.
-
-Comments on issues not related to the Federal Data Strategy will not be considered.
-
-### Please submit comments by July 5, 2019.
