@@ -146,18 +146,18 @@ This shared action has received financial resources as part of the Cross-Agency 
 
 ### Action 8: Pilot Standard Data Catalogs for Data.gov
 
-By November 2019, the Federal Government will have an improved standard Federal Data Catalog kit for metadata management and data hosting capabilities, in support of legally required federal data catalog requirements. This automation tool will complement the inventory and Federal Data Catalogue requirements under the Foundations for Evidence-based Policymaking Act.
+By February 2020, the Federal Government will have an improved standard Federal Data Catalog kit pilot for metadata management and data hosting capabilities, in support of legally required federal data catalog requirements. This automation tool will complement the inventory and Federal Data Catalogue requirements under the Foundations for Evidence-based Policymaking Act.
 
-The General Services Administration will create a government-wide data catalog platform with a shared code base and cloud hosting that agencies can install quickly and cheaply, and that is customizable enough to support agency needs, leveraging Data.gov’s existing open source codebase and modern container/plugin techniques. This approach will provide cost savings across the Federal Government’s hosting and management of data catalogs, create more complete and sophisticated federal data catalogs with advanced features such as automated quality assurance, and result in increased use and improved user experience for the public and agencies.
+The General Services Administration will create a government-wide data catalog platform pilot with a shared code base and cloud hosting that agencies can install quickly and cheaply, and that is customizable enough to support agency needs, leveraging Data.gov’s existing open source codebase and modern container/plugin techniques. This approach will provide cost savings across the Federal Government’s hosting and management of data catalogs, create more complete and sophisticated federal data catalogs with advanced features such as automated quality assurance, and result in increased use and improved user experience for the public and agencies.
 
-This shared action has received financial resources as part of the Cross-Agency Priority Goal: Leveraging Data as a Strategic Asset and a GSA responsible party has been assigned and work is currently underway to execute this goal.
+This shared action has received financial resources as part of the Cross-Agency Priority Goal: Leveraging Data as a Strategic Asset and a GSA responsible party has been assigned and work is currently underway to execute this goal. 
  
 * **Responsible**: General Services Administration  
 * **Supported practice(s)**: Inventory Datasets 
 * **Measurement**: 	
   - Number of CFO agencies that implement the tool within 3/6/9/12 months
   - Number of additional datasets on or available through Data.gov 
-* **Timeline**: Completed within 3 months 
+* **Timeline**: Completed within 6 months 
 
 [Back to top](#draft-action-steps) 
 
