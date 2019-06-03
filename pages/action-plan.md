@@ -26,7 +26,7 @@ The draft Year-1 Action Plan includes three categories of actions, described bel
 
 By focusing on a handful of specific actions at each level of data management and use, this Action Plan establishes an array of foundational actions designed to align activities and set a firm foundation of tools, processes, and capacity to leverage data as a strategic asset.
 
-[Download Draft Year One Action Plan PDF]({{ site.baseurl }}/assets/docs/federal-data-strategy-draft-action-plan.pdf){: .usa-button}
+[Download Draft Year One Action Plan PDF]({{ site.baseurl }}/assets/docs/draft-2019-2020-federal-data-strategy-action-plan.pdf){: .usa-button}
 
 ## Draft Action Steps
 
