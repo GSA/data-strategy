@@ -15,7 +15,7 @@ The Practices are organized in three categories that reflect the importance of t
 
 * Building a Culture that Values Data and Promotes Public Use (Practices 1-10)
 * Governing, Managing, and Protecting Data (Practices 11-26)
-* Promoting Efficient and Appropriate Data Use (Practices 27-39)
+* Promoting Efficient and Appropriate Data Use (Practices 27-40)
 
 The importance of protecting individual privacy is integrated and emphasized throughout the Practices.
 

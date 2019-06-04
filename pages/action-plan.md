@@ -244,7 +244,7 @@ The identification of critical data skills will naturally be informed by the det
 * **Responsible**: All agencies
 * **Supported practice(s)**: Use Data to Guide Decision-Making and Increase Capacity for Data Management and Analysis
 * **Measurement**: Agency has identified critical data skills, assessed current staff capacity, and developed an initial plan to reskill their workforce or hire to meet their data demands (Y/N)
-* **Timeline: Completed within 9 months**
+* **Timeline**: Completed within 9 months
 
 ### Action 15: Identify Data Needs to Answer Key Agency Questions
 
