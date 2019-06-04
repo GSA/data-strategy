@@ -163,13 +163,30 @@ div.footnotes {
 }
 
 #action-plan-input {
-  background-color : #fce2c5;
+  background-color : #112e51;
   padding : 1rem;
-  border : 1px solid #c05600;
+  border : 1px solid #02bfe7;
+}
+
+#action-plan-input {
+  color : #fff;
+}
+
+#action-plan-input a:link {
+  color : #a8f2ff;
+}
+
+#action-plan-input a.usa-button {
+  color : #fff !important;
+}
+
+#action-plan-input a:visited {
+  color : #009ec1;
 }
 
 #action-plan-input h2, #action-plan-input h3 {
   margin-top : 0;
+  color : #02bfe7;
 }
 
 .action-plan-subheader {
