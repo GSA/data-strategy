@@ -15,4 +15,4 @@ The Federal Data Strategy will apply to all Executive Branch agencies, providing
 
 ## How to comment
 
-**Submit comments at [strategy.data.gov/action-plan](http://strategy.data.gov/action-plan/)  by July 5, 2019.** Comments should be informative for the Federal Data Strategy.
+**Submit comments at [strategy.data.gov/action-plan]({{ site.baseurl }}/action-plan/)  by July 5, 2019.** Comments should be informative for the Federal Data Strategy.
