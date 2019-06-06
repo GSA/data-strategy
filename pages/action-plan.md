@@ -4,6 +4,11 @@ permalink: /action-plan/
 layout: action-plan
 ---
 
+# Federal Data Strategy Year-1 Action Plan
+
+[View Draft Action Plan](#federal-data-strategy-action-plan){: .usa-button}
+[Download Draft Action Plan PDF]({{ site.baseurl }}/assets/docs/draft-2019-2020-federal-data-strategy-action-plan.pdf){: .usa-button}
+
 <div id="action-plan-input" markdown="1">
 ### We Need Your Input on the Draft 2019-2020 Federal Data Strategy Action Plan
 
