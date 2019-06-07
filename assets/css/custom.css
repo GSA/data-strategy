@@ -45,6 +45,7 @@
 
 .post-body h2 {
   margin-bottom : 0;
+  display: inline-block;
 }
 
 .post-body .dt-published {
