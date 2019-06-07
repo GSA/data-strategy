@@ -43,6 +43,10 @@
   margin-bottom : 0;
 }
 
+.post-body h1 {
+  margin-bottom : 0;
+}
+
 .post-body h2 {
   margin-bottom : 0;
   display: inline-block;
@@ -80,6 +84,12 @@
  clear : both; 
  display : block;
  margin-bottom : 1em;
+}
+
+
+.post-body .block-clear {
+  display : block;
+  clear : both;
 }
 
 .blog-blockquote {

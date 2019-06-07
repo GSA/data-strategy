@@ -40,9 +40,10 @@ A month after launch, the chatbot had interacted with over 4,000 users. Seventy-
 
 On the back end, the team can see aggregated data about user interaction, including where they drop off in the logic path, which provides valuable information for further refining the bot.
 
+{:.block-clear}
 ## The case for decision trees
 
-{:.post-image-box .post-image-box-right .third-width}
+{:.post-image-box .post-image-box-right .third-width .heading-margin}
 ![The team mapped out different user scenarios.]({{ site.baseurl }}/assets/img/posts/2019-06-07-image003.jpg "A sketch showing how the team mapped out different user scenarios.") The team mapped out different user scenarios.
 
 The chatbot uses a question-answer technology. The team started with this approach because the setup was more straightforward than one involving processing user-entered free-text. Furthermore, starting with preset options presented a good way to test whether questions generated from user research would match the live user interaction. Down the road, findings from this phase will help provide information about how to map free text to general topics.
