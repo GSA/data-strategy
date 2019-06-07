@@ -41,6 +41,7 @@ These steps reduced the time from initial data submission to final data producti
 
 The FNS team methodically went through the data and identified several outliers – states with very few errors and states with many errors. Reaching out through regional offices, FNS was able to speak directly to state agencies in each case to review verification and reporting processes. Through this and connections made at school nutrition conferences, FNS staff furthered their understanding of the wide variety of arrangements states have in place to collect and check Form FNS-742 data. They soon realized there was support and enthusiasm at all levels for improved data quality. But they needed an approach that would not impose added cost or burden on state agencies and school districts.
 
+{:.block-clear}
 ## A solution within the existing system
 
 {:.post-image-box .post-image-box-right .third-width}
