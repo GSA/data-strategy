@@ -17,6 +17,8 @@ There are multiple channels for providing feedback:
 
 Please submit your comment once using your preferred feedback platform.
 
+**Privacy Note:** Comments and information submitted in response to this notice may be made available to the public through relevant websites. Therefore, commenters should only include in their comments information that they wish to make publicly available on the internet. Note that responses to this public comment request containing any routine notice about the confidentiality of the communication will be treated as public comments that may be made available to the public.
+
 ### Please submit comments by July 5, 2019. 
  
 
