@@ -67,7 +67,7 @@ Practices 27-40 derive value from data by providing access to data resources, pr
 {:start="27"}
 
 27. **Increase Capacity for Data Management and Analysis**: Educate and empower the federal workforce by investing in training, tools, communities, and other opportunities to expand capacity for critical data-related activities such as analysis and evaluation, data management, and privacy protection.
-28. **28.	Align Quality with Intended Use**: Data likely to inform important public policy or private sector decisions must be of appropriate utility, integrity, and objectivity.
+28. **Align Quality with Intended Use**: Data likely to inform important public policy or private sector decisions must be of appropriate utility, integrity, and objectivity.
 29. **Design Data for Use and Re-Use**: Design new data collections with the end uses and users in mind to ensure that data are necessary and of high enough quality to meet planned and future agency and stakeholder needs.
 30. **Communicate Planned and Potential Uses of Data**: Review data collection procedures to update and improve how planned and future uses of data are communicated, promoting public trust through transparency.
 31. **Explicitly Communicate Allowable Use**: Regularly employ descriptive metadata that provides clarity about access and use restrictions for federal data, explicitly recognizes and safeguards applicable intellectual property rights, conveys attribution as needed, and optimizes potential value to stakeholders to maximize appropriate legal use.
