@@ -80,6 +80,11 @@
   font-size : .85em;
 }
 
+.post-image-box-inline {
+  display: inline-block;
+  margin : 0;
+}
+
 .post-image-box img {
  clear : both; 
  display : block;

@@ -22,6 +22,15 @@ To address some of the process’s pain points, he NIGMS first piloted a machine
 
 The NIGMS AI team created a four-tiered algorithm corresponding to the NIGMS’ organizational structure, with each descending level (tier) more granular than the previous one. Tier 1 is the NIH Institute and Center level and determines if an application is relevant to the mission of NIGMS or not. Assuming an application is indeed relevant to the NIGMS mission, it is then be referred to one of NIGMS’ three Scientific Divisions. Underlying these Divisions are eight Scientific Branches. Therefore, at the most granular level, each application is assigned to one of NIGMS’ Scientific Branches and specifically to a PM located therein.
 
+{:.post-image-box .post-image-box-inline .third-width}
+![Tier 2 maps applications to one of NIGMS’ three Scientific Divisions]({{ site.baseurl }}/assets/img/posts/2019-06-14-image001.jpg "Tier 2 maps applications to one of NIGMS’ three Scientific Divisions") Tier 2 maps applications to one of NIGMS’ three Scientific Divisions
+
+{:.post-image-box .post-image-box-inline .third-width}
+![Tier 3 maps applications to one NIGMS’ eight Scientific Branches]({{ site.baseurl }}/assets/img/posts/2019-06-14-image002.jpg "Tier 3 maps applications to one NIGMS’ eight Scientific Branches") Tier 3 maps applications to one NIGMS’ eight Scientific Branches
+
+{:.post-image-box .post-image-box-inline .third-width}
+![Tier 4 maps applications to one of NIGMS’ forty Program Managers]({{ site.baseurl }}/assets/img/posts/2019-06-14-image003.jpg "Tier 4 maps applications to one of NIGMS’ forty Program Managers") Tier 4 maps applications to one of NIGMS’ forty Program Managers
+
 Using thousands of historical records of grant applications, the NIGMS AI team trained the NLP ML algorithm. Written in R, an open source programming language frequently used in data science, the algorithm processed the text of each application and determined associations between the application text and referral choices. Over the course of a year, the algorithm was then tested and refined using a series of pilots for applications made to three different funding opportunities: K99 (Pathway to Independence Awards), R35 (Maximizing Investigators' Research Awards), and R01 (Research Projects) which is NIH’s most popular grant mechanism.
 
 ## Evaluating the Algorithmic Referral Process
@@ -32,8 +41,11 @@ Initial results from the pilot were very encouraging. As of the end of April 201
 
 Given these successes, the NLP ML algorithm is now functionally integrated with existing NIGMS grant application web-based systems and is run nightly to process new applications. Thanks to this integration, the average referral time for an application has been cut from 2-3 weeks to less than one day. Automating the initial application referral process also provides more standardized results, ensuring that institutional knowledge of grant referrals is maintained regardless of staffing changes while simultaneously allowing human experts to focus more of their time on high value work.
  
-*The work Nate and his colleagues are doing using natural language processing and machine learning is amazing. It’s a great example of how taking the initiative to adapt cutting-edge technologies for our business processes can make government operations significantly more efficient and effective.
-– Dr. Jon Lorsch, NIGMS Director*
+<blockquote style="text-align:center; font-style:italic">
+The work Nate and his colleagues are doing using natural language processing and machine learning is amazing. It’s a great example of how taking the initiative to adapt cutting-edge technologies for our business processes can make government operations significantly more efficient and effective.
+<br>
+– Dr. Jon Lorsch, NIGMS Director
+</blockquote>
 
 ## Next Steps and Lesson Learned
 
