@@ -23,6 +23,8 @@ layout: action-plan
 
 {% include feedback-button.html button_id="action-plan-feedback" button_text="Submit Feedback on the Action Plan" %}
 
+**Privacy Note**: *The information you submit to this request for feedback may be made public on relevant websites. You should not include any information (e.g., name, email) you do not wish to have publicly available on the Internet. If your submission contains a routine notice about the confidentiality of the communication, your feedback may still be made available to the public.*
+
 **Please provide feedback using the guidance below to help us incorporate your feedback accurately:** 
 
 * Specify the number of the question to which your comment applies.  
