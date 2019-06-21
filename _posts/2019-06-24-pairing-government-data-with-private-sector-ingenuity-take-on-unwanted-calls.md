@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pairing Government Data with Private-Sector Ingenuity to Take on Unwanted Calls"
-date:  2019-06-24 04:16:01 -0500
+date:  2019-06-21 04:16:01 -0500
 category: proof-points
 published: true
 ---
@@ -49,6 +49,9 @@ Ethan Garr, SVP of Strategic Growth - RoboKiller
 </blockquote>
 
 ## National Do Not Call Registry® Complaints by Year
+
+{:.post-image-box .post-image-box-center}
+![A graph of National Do Not Call Registry® Complaints by Year]({{ site.baseurl }}/assets/img/posts/2019-06-21-image001.png "A graph of National Do Not Call Registry® Complaints by Year")
 
 In response to industry input, the FTC began releasing unwanted call data each weekday beginning in August 2017. This dramatic improvement in the data’s “speed to market” would not have been possible without tackling bottlenecks in FTC’s data release process.
 First, the agency granted blanket authority to release specific categories of data on a daily basis. Next, manual work was successfully automated using Python. The following tasks together can now be completed every 24 hours, taking only 20 seconds and requiring minimal human oversight:
