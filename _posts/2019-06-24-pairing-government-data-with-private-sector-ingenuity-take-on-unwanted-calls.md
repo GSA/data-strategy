@@ -71,12 +71,6 @@ Aaron Foss, Founder - Nomorobo
 
 Today, the FTC’s database of consumer complaints about unwanted calls is the most robust in the country. In 2018 alone, the FTC received 5.8 million complaints from consumers about unwanted calls, and about 65 percent were robocalls (defined under FTC rules as calls using prerecorded messages). Industry members have noted that FTC data are tremendously important in helping them to adapt their detection and blocking algorithms in real-time. By giving call-blockers the ability to rapidly incorporate these data into their solutions, the FTC has converted consumer complaints into fuel for industry solutions aimed at solving the problem. There are a multitude of call blocking apps, devices, and built-in services to block calls in the marketplace today. There is more work to be done, but public sector data paired with private sector ingenuity is working to stem the tide.
 
-<blockquote style="text-align:center; font-style:italic">
-“DNC complaint data provides an important signal used in RoboKiller’s call blocking algorithm. The spammers continuously update their tactics, so any data the call blocking industry can integrate to improve accuracy is valuable. Complaint data tells a story from the end customers perspective that helps us understand and learn how the telemarketers evolve their methods and messages over time.”
-<br>
-Ethan Garr, RoboKiller - SVP of Strategic Growth
-</blockquote>
-
 ## Postscript
 
 To download the most recent daily file, go to [ftc.gov/DNCData](https://www.ftc.gov/DNCData). To learn more about FTC open data sets go to [data.gov](https://catalog.data.gov/organization/federal-trade-commission).
