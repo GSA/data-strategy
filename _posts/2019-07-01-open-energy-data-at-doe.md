@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Open Energy Data at DOE"
-date:  2019-07-01 04:16:01 -0500
+date:  2019-06-28 04:16:01 -0500
 category: proof-points
 published: true
 ---
@@ -12,11 +12,17 @@ Geothermal Data Repository (GDR), Map of US Wind Farms, and Regulatory and Permi
 
 OpenEI and the associated Open Energy Data Initiative (OEDI) support DOE’s fulfillment of open government tenets: transparency, public participation, and collaboration. They aim to improve and automate access to high-value energy data sets across the DOE’s programs, offices, and national laboratories.  OpenEI and OEDI strive to provide open data and make data actionable and discoverable by government staff, researchers, industry, and the public, thereby enabling more new datasets to be created, accelerating analysis, empowering game changing innovations, and growing businesses.
 
+{:.post-image-box .post-image-box-center}
+![Screenshots of Geothermal Data Repository (GDR), Map of US Wind Farms, and Regulatory and Permitting Information Desktop Toolkit (RAPID)]({{ site.baseurl }}/assets/img/posts/2019-06-28-image001.jpg "Screenshots of Geothermal Data Repository (GDR), Map of US Wind Farms, and Regulatory and Permitting Information Desktop Toolkit (RAPID)")
+
 ## OpenEI – First Generation of Open Data
 
 Since the beginning of the 21st century, energy-related information and data have grown exponentially around the world, from Research & Development (R&D) data to market trends to policy developments. However, these valuable resources were dispersed among numerous individuals and organizations, available in widely disparate formats, and highly variable in quality and usefulness.
 
 OpenEI was developed in 2009 by NREL to link the world’s energy-related information and data with the energy community (e.g., policy makers, developers, researchers in the national laboratories, and industry). The platform is geared toward facilitating access to data and empowers the energy community to use and contribute to the collection of information and data.
+
+{:.post-image-box .post-image-box-right .half-width}
+![A conceptual diagram of OpenEI showing Information Community, and Data supported with a Wiki, Linked Open Data, and Open Government Standards]({{ site.baseurl }}/assets/img/posts/2019-06-28-image004.png "A conceptual diagram of OpenEI showing Information Community, and Data supported with a Wiki, Linked Open Data, and Open Government Standards") 
 
 Users on OpenEI can view, edit, add, and download data for free. OpenEI has more than 1700 datasets, both acquired and generated, across all major sectors, such as geothermal, wind, water, solar, biomass, hydrogen, buildings and smart grid. It also enables the development of derived data like the Utility Rate Database (URDB), contributed data, and data catalogs. More can be found at [openei.org/wiki/Data](https://openei.org/wiki/Data).
 
@@ -41,9 +47,15 @@ There are three key components in the OEDI framework:
 * **The Data Lake**: OEDI will build a robust data lake in the cloud to enable faster, easier, more advanced analysis and computation to accelerate novel data mash-ups, analysis, and innovation. It will support next-generation research and analysis by allowing researchers to analyze big data without making expensive hardware investments (i.e. supercomputer).
 * **The Data Catalog**: In order to easily find available data, OEDI is creating a data catalog that merges data from multiple cloud hosting locations. The catalog will include information about the data and data owner, metadata, licensing information, provenance, and links to all relevant data locations (if the data is housed on multiple cloud hosting vendor sites). The catalog will be designed to get users to the data as quickly as possible.
  
+{:.post-image-box .post-image-box-center}
+![Concenptual visualization of the OEDI Data Lake)]({{ site.baseurl }}/assets/img/posts/2019-06-28-image005.png "Concenptual visualization of the OEDI Data Lake")
+
 OEDI already has two large datasets — examples of high-impact, high- demand resource data: 
 * The WIND Toolkit data include meteorological conditions and turbine power for more than 126,000 sites in the continental United States for the years 2007–2013. 
 * The Solar Radiation Database (NSRDB) is a serially complete collection of hourly and half-hourly values of the three most common measurements of solar radiation—global horizontal, direct normal, and diffuse horizontal irradiance—and meteorological data. 
+
+{:.post-image-box .post-image-box-center}
+![Visualization of NSRDB and Wind Toolkit in the Cloud)]({{ site.baseurl }}/assets/img/posts/2019-06-28-image006.png "Visualization of NSRDB and Wind Toolkit in the Cloud")
 
 Future datasets will be dependent on laboratory researchers and other stakeholders. Criteria for OEDI datasets include usefulness to a broad audience and researchers who will support the inclusion of their data. Initial plans will focus on additional resource and technology data (such as solar, wind, geothermal, water, bioenergy, and transportation), utility rates, technology performance data, materials and market data, information from cities and states, and data related to grid systems. 
 
