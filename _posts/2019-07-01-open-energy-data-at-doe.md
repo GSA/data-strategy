@@ -6,14 +6,14 @@ category: proof-points
 published: true
 ---
 
-Geothermal Data Repository (GDR), Map of US Wind Farms, and Regulatory and Permitting Information Desktop Toolkit (RAPID). What do they have in common? They are all about renewable energy and they are all free applications built on the Open Energy Information (OpenEI) platform, sponsored by Department of Energy (DOE) and implemented by the National Renewable Energy Laboratory (NREL).
+The Geothermal Data Repository (GDR), the Map of US Wind Farms, and the Regulatory and Permitting Information Desktop Toolkit (RAPID). What do they have in common? They are all about renewable energy and they are all free applications built on the Open Energy Information (OpenEI) platform, sponsored by the Department of Energy (DOE) and implemented by the National Renewable Energy Laboratory (NREL).
 
 ## The Opportunity
 
-OpenEI and the associated Open Energy Data Initiative (OEDI) support DOE’s fulfillment of open government tenets: transparency, public participation, and collaboration. They aim to improve and automate access to high-value energy data sets across the DOE’s programs, offices, and national laboratories.  OpenEI and OEDI strive to provide open data and make data actionable and discoverable by government staff, researchers, industry, and the public, thereby enabling more new datasets to be created, accelerating analysis, empowering game changing innovations, and growing businesses.
+OpenEI and the associated Open Energy Data Initiative (OEDI) support DOE’s fulfillment of open government tenets: transparency, public participation, and collaboration. They aim to improve and automate access to high-value energy datasets across the DOE’s programs, offices, and national laboratories.  OpenEI and OEDI strive to provide open data and make data actionable and discoverable by government staff, researchers, industry, and the public, thereby enabling more new datasets to be created, accelerating analysis, empowering game changing innovations, and growing businesses.
 
 {:.post-image-box .post-image-box-center}
-![Screenshots of Geothermal Data Repository (GDR), Map of US Wind Farms, and Regulatory and Permitting Information Desktop Toolkit (RAPID)]({{ site.baseurl }}/assets/img/posts/2019-06-28-image001.jpg "Screenshots of Geothermal Data Repository (GDR), Map of US Wind Farms, and Regulatory and Permitting Information Desktop Toolkit (RAPID)")
+![Screenshots of Geothermal Data Repository (GDR), Map of US Wind Farms, and Regulatory and Permitting Information Desktop Toolkit (RAPID)]({{ site.baseurl }}/assets/img/posts/2019-06-28-image001.jpg "Screenshots of the Geothermal Data Repository (GDR), the Map of US Wind Farms, and the Regulatory and Permitting Information Desktop Toolkit (RAPID)")
 
 ## OpenEI – First Generation of Open Data
 
@@ -22,11 +22,11 @@ Since the beginning of the 21st century, energy-related information and data hav
 OpenEI was developed in 2009 by NREL to link the world’s energy-related information and data with the energy community (e.g., policy makers, developers, researchers in the national laboratories, and industry). The platform is geared toward facilitating access to data and empowers the energy community to use and contribute to the collection of information and data.
 
 {:.post-image-box .post-image-box-right .half-width}
-![A conceptual diagram of OpenEI showing Information Community, and Data supported with a Wiki, Linked Open Data, and Open Government Standards]({{ site.baseurl }}/assets/img/posts/2019-06-28-image004.png "A conceptual diagram of OpenEI showing Information Community, and Data supported with a Wiki, Linked Open Data, and Open Government Standards") 
+![A conceptual diagram of OpenEI showing Information Community, and Data supported with a Wiki, Linked Open Data, and Open Government Standards]({{ site.baseurl }}/assets/img/posts/2019-06-28-image004.png "A conceptual diagram of OpenEI showing Information Community, and Data supported with a Wiki, Linked Open Data, and Open Government Standards.") 
 
-Users on OpenEI can view, edit, add, and download data for free. OpenEI has more than 1700 datasets, both acquired and generated, across all major sectors, such as geothermal, wind, water, solar, biomass, hydrogen, buildings and smart grid. It also enables the development of derived data like the Utility Rate Database (URDB), contributed data, and data catalogs. More can be found at [openei.org/wiki/Data](https://openei.org/wiki/Data).
+Users on OpenEI can view, edit, add, and download data for free. OpenEI has more than 1,700 datasets, both acquired and generated, across all major sectors, such as geothermal, wind, water, solar, biomass, hydrogen, buildings and smart grid. It also enables the development of derived data like the Utility Rate Database (URDB), contributed data, and data catalogs. More can be found at [openei.org/wiki/Data](https://openei.org/wiki/Data).
 
-When OpenEI was first created, it utilized the leading-edge technology at the time such as Semantic Media Wiki as the base platform and employs a custom data access feature that provides access to the public and connects data with external platforms (like Data.gov). NREL calls this custom and reusable code “XDR” (aka. Customized Data Repository), which has similar functionality to CKAN, the powerful open source data portal platform. So, there are many applications and processes built on OpenEI, such as GDR, RAPID and the Map of U.S. Wind Farms, as mentioned above.
+OpenEI was created using open-source technology, like Semantic Media Wiki, as the base platform and employs a custom data access feature that provides access to the public and connects data with external platforms (like Data.gov). NREL calls this custom and reusable code “XDR” (aka. Customized Data Repository), which has similar functionality to CKAN, the powerful open source data portal platform. Thanks to this approach, many developers have been able to build applications on OpenEI (e.g, GDR, RAPID and the Map of U.S. Wind Farms, as mentioned above).
 
 OpenEI became an internationally trusted source of energy data, especially for data related to renewable energy and energy efficiency. Over the period of May 2018 to April 2019, OpenEI has 2.46 million pageviews, referred in over 3,000 Facebook articles, over 21,500 downloads, and 831, 600 users from every single country on Earth.
 
@@ -38,14 +38,14 @@ OpenEI became an internationally trusted source of energy data, especially for d
 
 ## OEDI – Cutting Edge Open Data Initiative
 
-Entering the era of big data and Internet of Things (IoT), the energy community faces a new set of challenges: many researchers have difficulty accessing and utilizing big data and complex data because 1) data can be difficult to find and use, 2) data aren’t publicly available, 3) data are rarely in standard sizes or formats, and 4) large data sets can be costly to store and manage.
+Entering the era of big data and the Internet of Things (IoT), the energy community faces a new set of challenges: many researchers have difficulty accessing and utilizing big data and complex data because 1) data can be difficult to find and use, 2) data aren’t publicly available, 3) data are rarely in standard sizes or formats, and 4) large data sets can be costly to store and manage.
 
 In July 2018, DOE started the OEDI project to help remove these barriers and improve accessibility for analysts and researchers. The platform, built on the foundation of OpenEI, will enable improved open data access and help energy scientists and analysts explore, mash-up, and analyze data. The new framework will speed innovation, facilitate rapid computation, catalog data assets, and allow the public to contribute data.
 
 There are three key components in the OEDI framework:
 * **Cloud Partner Relationships**: Based on a successful federal partnership at NOAA with a variety of cloud hosting vendors, OEDI will build similar partner agreements with all major cloud hosting vendors including Amazon Web Services (AWS), Google, IBM, Microsoft Azure, and Open Commons consortium. These partnerships will enable big data to be openly shared with the energy community. 
-* **The Data Lake**: OEDI will build a robust data lake in the cloud to enable faster, easier, more advanced analysis and computation to accelerate novel data mash-ups, analysis, and innovation. It will support next-generation research and analysis by allowing researchers to analyze big data without making expensive hardware investments (i.e. supercomputer).
-* **The Data Catalog**: In order to easily find available data, OEDI is creating a data catalog that merges data from multiple cloud hosting locations. The catalog will include information about the data and data owner, metadata, licensing information, provenance, and links to all relevant data locations (if the data is housed on multiple cloud hosting vendor sites). The catalog will be designed to get users to the data as quickly as possible.
+* **The Data Lake**: OEDI will build a robust data lake in the cloud to enable faster, easier, more advanced analysis and computation to accelerate novel data mash-ups, analysis, and innovation. It will support next-generation research and analysis by allowing researchers to analyze big data without making expensive hardware investments (i.e. supercomputers).
+* **The Data Catalog**: In order to easily find available data, OEDI is creating a data catalog that merges data from multiple cloud hosting locations. The catalog will include information about the data and data owner, licensing information, provenance, links to all relevant data locations (if the data is housed on multiple cloud hosting vendor sites), and other metadata. The catalog will be designed to get users to the data as quickly as possible.
  
 {:.post-image-box .post-image-box-center}
 ![Concenptual visualization of the OEDI Data Lake)]({{ site.baseurl }}/assets/img/posts/2019-06-28-image005.png "Concenptual visualization of the OEDI Data Lake")
