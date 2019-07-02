@@ -32,7 +32,7 @@ layout: action-plan
 
 Comments on issues not related to the Federal Data Strategy will not be considered.
 
-### Please submit comments by July 5, 2019.
+### Please submit comments by July 8, 2019.
 </div>
 
 ## Federal Data Strategy Action Plan
