@@ -56,7 +56,9 @@ On behalf of the Federal Data Strategy development team, the Department of Comme
 
 In developing the Principles for Leveraging Data as a Strategic Asset, the following draft Principles, originally published on June 27, 2018, were revised to incorporate alternative or additional concepts or specific word choices suggested by commenters. The category labels of the Principles were changed to “Ethical Governance,” “Conscious Design,” and “Culture of Learning,” which provide an improved framework and better reflect the revised Principles. Also, a mission statement for the Federal Data Strategy has been added to connect the Principles to the goal of leveraging data as a strategic asset. In some cases, comments were addressed by changes other than what was directly suggested by the comments. For example, in response to the suggestion that state and local governments be explicitly mentioned as stakeholders, the introductory paragraph adds “federally-sponsored” data to the types of data encompassed by the Federal Data Strategy.
 
-[Download Draft Principles PDF]({{ site.baseurl }}/assets/docs/draft-federal-data-strategy-principles.pdf){: .usa-button}
+[Download PDF - Draft Principles]({{ site.baseurl }}/assets/docs/draft-federal-data-strategy-principles.pdf){: .usa-button}
+
+[Download PDF - Revising the Principles Based on Feedback]({{ site.baseurl }}/assets/docs/revising-the-principles-based-on-feedback.pdf){: .usa-button}
 
 </div>
 </section>
