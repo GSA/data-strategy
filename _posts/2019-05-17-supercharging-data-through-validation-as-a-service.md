@@ -3,6 +3,7 @@ layout: post
 title: Supercharging Data through Validation as a Service 
 date:  2019-05-17 07:16:01 -0500
 category: proof-points
+tags: [Principle 6 Anticipate Future Uses, Principle 8 Invest in Learning, Practice 1 Identify Data Needs to Answer Key Agency Questions, Practice 2 Assess and Balance the Needs of Stakeholders, Practice 26 Share Data Between State, Local, and Tribal Governments and Federal Agencies, Practice 28 Align Quality with Intended Use, Practice 33 Promote Wide Access, Practice 39 Support Federal Stakeholders, Practice 40 Support Non-Federal Stakeholders, Process Redesign]
 published: true
 ---
 
