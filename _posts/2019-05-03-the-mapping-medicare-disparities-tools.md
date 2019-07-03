@@ -3,6 +3,7 @@ layout: post
 title: The Mapping Medicare Disparities Tool
 date:  2019-05-03 07:16:01 -0500
 category: proof-points
+tags: [Principle 1 Uphold Ethics, Principle 3 Promote Transparency, Principle 5 Harness Existing Data, Practice 4 Use Data to Guide Decision-Making, Practice 6 Convey Insights from Data, Practice 36 Leverage Partnerships, Geospatial]
 published: true
 ---
 
