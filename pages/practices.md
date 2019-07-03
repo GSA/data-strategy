@@ -90,7 +90,9 @@ On behalf of the Federal Data Strategy team, the Department of Commerce publishe
 
 In developing the final set of Practices for Leveraging Data as a Strategic Asset, the draft Practices were revised in response to public comment and expert review, including adding new Practices suggested by reviewers; merging Practices where overlap or duplication was identified; and incorporating alternative or additional concepts to improve specific Practices, as suggested by commenters.  The draft Practices had been grouped according to five broad objectives, however, after feedback from stakeholders, the revised Practices have been organized under three umbrella categories: *Building a Culture that Values Data and Promotes Public Use; Governing, Managing, and Protecting Data; and Promoting Efficient and Appropriate Data Use*. 
 
-[Download Draft Practices PDF]({{ site.baseurl }}/assets/docs/federal-data-strategy-draft-practices.pdf){: .usa-button}
+[Download PDF - Draft Practices ]({{ site.baseurl }}/assets/docs/federal-data-strategy-draft-practices.pdf){: .usa-button}
+
+[Download PDF - Revising the Practices Based on Feedback]({{ site.baseurl }}/assets/docs/revising-the-practices-based-on-feedback.pdf){: .usa-button}
 
 {:.footnotes}
 #### Footnotes
