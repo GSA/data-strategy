@@ -3,7 +3,7 @@ layout: post
 title: Investing in Learning with the Data Stewardship Tactical Working Group at DHS
 date:  2019-04-12 07:16:01 -0500
 category: proof-points
-tags: [change management, culture, data stewardship, investing in learning, data literacy, survey, training, tools, group]
+tags: [Principle 3 Promote Transparency, Principle 8 Invest in Learning, Principle 9 Develop Data Leaders, Principle 10 Practice Accountability, Practice 2 Assess and Balance the Needs of Stakeholders, Training]
 published: true
 ---
 
