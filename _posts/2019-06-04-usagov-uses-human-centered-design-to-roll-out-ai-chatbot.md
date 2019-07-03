@@ -3,6 +3,7 @@ layout: post
 title: "USA.gov Uses Human-Centered Design to Roll Out AI Chatbot"
 date:  2019-06-07 04:16:01 -0500
 category: proof-points
+tags: [Principle 2 Exercise Responsibility, Principle 6 Anticipate Future Uses, Principle 7 Demonstrate Responsiveness, Practice 2 Assess and Balance the Needs of Stakeholders, Practice 3 Champion Data Use, Process Redesign]
 published: true
 ---
 
