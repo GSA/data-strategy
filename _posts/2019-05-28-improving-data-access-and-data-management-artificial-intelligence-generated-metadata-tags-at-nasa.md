@@ -3,6 +3,7 @@ layout: post
 title: "Improving Data Access and Data Management: Artificial Intelligence-Generated Metadata Tags at NASA"
 date:  2019-05-28 07:16:01 -0500
 category: proof-points
+tags: [Principle 3 Promote Transparency, Principle 4 Ensure Relevance, Principle 5 Harness Existing Data, Practice 2 Assess and Balance the Needs of Stakeholders, Practice 4 Use Data to Guide Decision-Making, Practice 10 Provide Resources Explicitly to Leverage Data Assets, Process Redesign]
 published: true
 ---
 
