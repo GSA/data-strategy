@@ -3,6 +3,7 @@ layout: post
 title: "Leveraging AI for Business Process Automation at NIH"
 date:  2019-06-14 04:16:01 -0500
 category: proof-points
+tags: [Principle 5 Harness Existing Data, Principle 7 Demonstrate Responsiveness, Practice 2 Assess and Balance the Needs of Stakeholders, Practice 18 Manage with a Long View, Practice 20 Leverage Data Standards, Practice 28 Align Quality with Intended Use, Practice 30 Communicate Planned and Potential Uses of Data, Practice 39 Support Federal Stakeholders, Process Redesign]
 published: true
 ---
 
