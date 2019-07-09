@@ -4,38 +4,10 @@ permalink: /action-plan/
 layout: action-plan
 ---
 
-# Federal Data Strategy Year-1 Action Plan
+# What is the Year-1 Action Plan?
 
 [View Draft Action Plan](#federal-data-strategy-action-plan){: .usa-button}
 [Download Draft Action Plan PDF]({{ site.baseurl }}/assets/docs/draft-2019-2020-federal-data-strategy-action-plan.pdf){: .usa-button}
-
-<div id="action-plan-input" markdown="1">
-### We Need Your Input on the Draft 2019-2020 Federal Data Strategy Action Plan
-
-**Please provide comment on the scope and content of the [2019-2020 Federal Data Strategy Action Plan](#federal-data-strategy-action-plan).** 
-
-1. Identify any additional fundamental actions to implement the Federal Data Strategy that are not included in this draft Year-1 Action Plan and explain why.
-2. Identify any additional actions that would align with or complement ongoing Federal data initiatives or the implementation of new legislation, such as the Foundations for Evidence-based Policy Making Act and explain why.
-3. Identify any actions in this draft Year-1 Action Plan that should be omitted and explain why.
-4. For each action, provide any edits and additional detail to ensure that they accurately and effectively describe needed activities, responsible entities, metrics for assessing progress, and timelines for completion. 
-5. For each action, provide information about the implementation resources necessary to ensure success of these Action Steps.
-
-
-{% include feedback-button.html button_id="action-plan-feedback" button_text="Submit Feedback on the Action Plan" %}
-
-**Privacy Note**: *The information you submit to this request for feedback may be made public on relevant websites. You should not include any information (e.g., name, email) you do not wish to have publicly available on the Internet. If your submission contains a routine notice about the confidentiality of the communication, your feedback may still be made available to the public.*
-
-**Please provide feedback using the guidance below to help us incorporate your feedback accurately:** 
-
-* Specify the number of the question to which your comment applies.  
-* If possible, structure your comments on specific actions in the draft Year-1 Action Plan so that they refer to the number of the relevant action. If you have multiple comments on one action, please organize them together by action number.
-
-Comments on issues not related to the Federal Data Strategy will not be considered.
-
-### Please submit comments by July 8, 2019.
-</div>
-
-## Federal Data Strategy Action Plan
 
 Government agencies will implement the Federal Data Strategy through steps identified in annual government-wide Action Plans. These plans will identify priority Action Steps for a given year, incrementally build from year to year, and complement as needed requirements of new statute and policy.  
 
