@@ -6,7 +6,7 @@ category: news
 published: true
 ---
 
-The Executive Office of the President is seeking team members from across the federal government to represent their agencies on the Federal Data Strategy (FDS), which is part of the President’s Management Agenda Cross-Agency Priority Goal on Leveraging Data as a Strategic Asset. The FDS lays out a comprehensive, long-term approach to leveraging data to improve the ability of federal agencies to deliver mission outcomes, provide excellent service, and effectively steward taxpayer dollars on behalf of the American people.
+The Office of Management and Budget is seeking team members from across the federal government to participate in the Federal Data Strategy (FDS), which is part of the President’s Management Agenda Cross-Agency Priority Goal on Leveraging Data as a Strategic Asset. The FDS lays out a comprehensive, long-term approach to leveraging data to improve the ability of federal agencies to deliver mission outcomes, provide excellent service, and effectively steward taxpayer dollars on behalf of the American people.
 
 Agency input and participation is critical for a viable and sustainable data strategy. Participation from various agencies offers the diverse perspectives needed for an actionable FDS. In FY2020, team members will have an opportunity to work with other agencies on the implementation of 2019-2020 FDS Action Plan (Year-1 Action Plan), the development of 2020-2021 FDS Action Plan (Year-2 Action Plan), to provide support to the Chief Data Officer (CDO) Council established in OMB, and to engage in stakeholder outreach and communications.
 
