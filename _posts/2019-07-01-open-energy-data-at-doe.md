@@ -3,6 +3,7 @@ layout: post
 title: "Open Energy Data at DOE"
 date:  2019-06-28 04:16:01 -0500
 category: proof-points
+tags: [Principle 4 Ensure Relevance, Principle 6 Anticipate Future Uses, Practice 5 Prepare to Share, Practice 26 Share Data Between State, Local, and Tribal Governments and Federal Agencies, Practice 30 Communicate Planned and Potential Uses of Data, Practice 33 Promote Wide Access, Practice 34 Diversify Data Access Methods, Practice 36 Leverage Partnerships, Practice 38 Leverage Collaborative Computing Platforms, Practice 40 Support Non-Federal Stakeholders, Collaboration, Open Data]
 published: true
 ---
 

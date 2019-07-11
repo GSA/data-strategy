@@ -3,6 +3,7 @@ layout: post
 title: Data Standdown - Interrupting process to fix information
 date:  2019-05-10 07:16:01 -0500
 category: proof-points
+tags: [Principle 5 Harness Existing Data, Principle 7 Demonstrate Responsiveness, Practice 1 Identify Data Needs to Answer Key Agency Questions, Practice 2 Assess and Balance the Needs of Stakeholders, Practice 4 Use Data to Guide Decision-Making, Practice 7 Use Data to Increase Accountability, Practice 11 Prioritize Data Governance, Practice 17 Recognize the Value of Data Assets, Practice 28 Align Quality with Intended Use, Practice 30 Communicate Planned and Potential Uses of Data, Practice 32 Harness Safe Data Linkage, Collaboration, Process Redesign]
 published: true
 ---
 

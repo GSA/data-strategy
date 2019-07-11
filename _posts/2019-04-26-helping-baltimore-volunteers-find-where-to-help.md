@@ -3,6 +3,7 @@ layout: post
 title: Helping Baltimore Volunteers Find Where to Help
 date:  2019-04-26 07:16:01 -0500
 category: proof-points
+tags: [Principle 4 Ensure Relevance, Principle 5 Harness Existing Data, Practice 33 Promote Wide Access, Practice 36 Leverage Partnerships, Practice 40 Support Non-Federal Stakeholders, Collaboration, Geospatial]
 published: true
 ---
 

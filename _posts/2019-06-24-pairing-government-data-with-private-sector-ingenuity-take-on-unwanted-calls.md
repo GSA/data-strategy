@@ -3,6 +3,7 @@ layout: post
 title: "Pairing Government Data with Private-Sector Ingenuity to Take on Unwanted Calls"
 date:  2019-06-21 04:16:01 -0500
 category: proof-points
+tags: [Principle 5 Harness Existing Data, Principle 7 Demonstrate Responsiveness, Practice 2 Assess and Balance the Needs of Stakeholders, Practice 4 Use Data to Guide Decision-Making, Practice 12 Govern Data to Protect Confidentiality and Privacy, Practice 28 Align Quality with Intended Use, Practice 29 Design Data for Use and Re-Use, Collaboration]
 published: true
 ---
 

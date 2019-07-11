@@ -3,6 +3,7 @@ layout: post
 title: The Veterans Legacy Memorial
 date:  2019-04-19 07:16:01 -0500
 category: proof-points
+tags: [Principle 1 Uphold Ethics, Principle 4 Ensure Relevance, Principle 5 Harness Existing Data, Principle 6 Anticipate Future Uses, Principle 10 Practice Accountability, Practice 2 Assess and Balance the Needs of Stakeholders, Design]
 published: true
 ---
 
