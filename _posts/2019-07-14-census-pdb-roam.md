@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Census Bureau Uses Its Own Data to Increase Response Rates, Helps Other Organizations Do the Same"
+title: "The Census Bureau Uses Its Own Data to Increase Response Rates, Helps Communities and Other Stakeholders Do the Same"
 date:  2019-07-14 04:16:01 -0500
 category: proof-points
 published: true
@@ -10,7 +10,7 @@ Entrepreneurial researchers and officials at the U.S. Census Bureau created a ne
 
 ## Self-response and the Low Response Score
 
-Every ten years, as mandated by Article I, Section 2 of the U.S. Constitution, a full count of America’s population is conducted. Today, this work is completed by the Census Bureau within the U.S. Department of Commerce. Counting some 330 million people is no trivial task, and the Census Bureau has developed many different methods and approaches to collecting the most accurate information possible.
+Every ten years, as mandated by Article I, Section 2 of the U.S. Constitution, a full count of America’s population is conducted. Today, this work is completed by the Census Bureau within the U.S. Department of Commerce. Counting some 330 million people is no trivial task, and the Census Bureau has developed many different methods and approaches to collecting the most accurate information possible, including response modes such as the internet and telephone.
 
 Census staff have learned the crucial role of ‘self-response’—the idea that when a census form is sent to an address, that form, ideally, should be filled out, without further government prompting, by someone knowledgeable who lives at that address. When no one from the address responds, the Census Bureau has to conduct the costly operation of sending interviewers to obtain a response. The cost of these nonresponse follow-up operations is considerable. The Census Bureau, therefore, spends a good amount of time and effort convincing individuals to self-respond.
 
