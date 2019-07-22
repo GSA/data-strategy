@@ -3,6 +3,7 @@ layout: post
 title: "The Census Bureau Uses Its Own Data to Increase Response Rates, Helps Communities and Other Stakeholders Do the Same"
 date:  2019-07-14 04:16:01 -0500
 category: proof-points
+tags: [Principle 5 Harness Existing Data, Practice 1 Identify Data Needs to Answer Key Agency Questions, Practice 4 Use Data to Guide Decision-Making, Practice 6 Convey Insights from Data, Practice 10 Provide Resources Explicitly to Leverage Data Assets, Practice 26 Share Data Between State, Local, and Tribal Governments and Federal Agencies, Practice 27 Increase Capacity for Data Management and Analysis, Practice 29 Design Data for Use and Re-Use, Practice 33 Promote Wide Access, Practice 34 Diversify Data Access Methods, Practice 40 Support Non-Federal Stakeholders, Open Data]
 published: true
 ---
 
