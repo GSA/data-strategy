@@ -10,6 +10,8 @@ The Office of Management and Budget is seeking team members from across the fede
 
 Agency input and participation is critical for a viable and sustainable data strategy. Participation from various agencies offers the diverse perspectives needed for an actionable FDS. In FY2020, team members will have an opportunity to work with other agencies on the implementation of 2019-2020 FDS Action Plan (Year-1 Action Plan), the development of 2020-2021 FDS Action Plan (Year-2 Action Plan), to provide support to the Chief Data Officer (CDO) Council established in OMB, and to engage in stakeholder outreach and communications.
 
+Team members will continue to work on site at their home agencies, which will be responsible for their time and attendance, IT equipment, salary, and benefits. OMB does not have a supervisory relationship over the team members. Members will participate in regular working group meetings and periodic stakeholder engagement events off site but will do most of their analysis and writing on behalf of their working group from their home agency office. This unique opportunity is analogous to participating in an interagency working group. It does require a strong commitment to active engagement in the implementation of the Federal Data Strategy.
+
 ### **We are seeking team members who can demonstrate the following qualifications:**
 * Be a career or career-conditional Federal employee in grades 13 through 15, SL or SES, or equivalent
 * Receive supervisory approval
