@@ -16,7 +16,7 @@ In FY2020, Detailees will have an opportunity to work with agencies on various a
 
 ### **How to Apply:**
 
-Before submitting an application please discuss your potential application with your direct supervisor. In order to be considered, submit the following package to MBX.OMB.LeveragingData@OMB.eop.gov by July 31, 2019.
+Before submitting an application please discuss your potential application with your direct supervisor. In order to be considered, submit the following package to MBX.OMB.LeveragingData@OMB.eop.gov by August 8, 2019.
 
 * Current resume
 * Statement of interest
