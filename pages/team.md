@@ -11,32 +11,35 @@ The _Leveraging Data as a Strategic Asset_ Cross Agency Priority (CAP) Goal comm
 #### Leveraging Data as a Strategic Asset CAP Goal Co-leads
 * Maria Roat, Chief Information Officer, Small Business Administration
 * Karen Dunn Kelley, Deputy Secretary, Department of Commerce
-* Suzette Kent, Federal Chief Information Officer, Office of Management and Budget, Office of the Federal Chief Information Officer
-* Nancy Potok, Chief Statistician of the U.S., Office of Management and Budget, Office of Information and Regulatory Affairs
+* Suzette Kent, Federal Chief Information Officer, Office of the Federal Chief Information Officer, Office of Management and Budget
+* Nancy Potok, Chief Statistician of the U.S., Office of Information and Regulatory Affairs, Office of Management and Budget 
 * Kelvin Droegemeier, Director, Office of Science and Technology Policy
 
 #### Federal Data Strategy Project Management Team
-* Sharon Boivin, Senior Research and Policy Analyst, Office of Information and Regulatory Affairs, Office of Management and Budget (on detail from Department of Education)
 * Trey Bradley, Program Manager, Strategic Data Initiatives, Office of Shared Solutions & Performance Improvement, Office of Government-Wide Policy, General Services Administration
 * *Melvin Brown II, Director, Business Management Office, Office of the Chief Information Officer, Small Business Administration - Point of Contact* 
 * William Hawk, Economist, Department of Commerce
+* William "Jay" Huie, White House Leadership Development Fellow (on detail from General Services Administration) *(through 4/29/19)*
 * Lucas Hitt, Chief, Communications Division, U.S. Bureau of Economic Analysis, Department of Commerce
 * *Shelly Wilkie Martinez, Statistician, Office of Information and Regulatory Affairs, Office of Management and Budget - Point of Contact and Project Co-Manager*  
 * *Erik Noble, Senior Policy Advisor, Office of Science and Technology Policy - Point of Contact*  
 * Bryant Renaud, Performance Analyst, Office of the Federal Chief Information Officer, Office of Management and Budget
-* Natalie Rico, Senior Policy Analyst, Office of Federal Financial Management, Office of Management and Budget 
 * *Joe Semsar, Senior Advisor, Department of Commerce - Point of Contact*  
 * Regina Powers, Economist, Department of Commerce
+* Rachel Synderman, Program Examiner, Commerce Branch, Office of Management and Budget *(through 3/15/19)*
+* Khoa Vo, White House Leadership Development Fellow (on detail from NASA Kennedy Space Center)
 * *Rebecca Williams, Digital Services Expert, Office of the Federal Chief Information Officer, Office of Management and Budget - Point of Contact and Project Co-Manager*  
 
 #### Federal Data Working Groups
 
 ##### Federal Data Strategy and Data Incubator Project Support 
 * Marika Bertram, Supervisor, Data Analysis & Evaluation, Office of Field Policy & Management, Field Operations Division, Department of Housing and Urban Development
+* Sharon Boivin, Senior Research and Policy Analyst, National Center for Education Statistics, Department of Education (on the PM team while on detail to OMB through 3/1/19)
 * Sheri Craig, Statistician, Data Analysis Group, Planning and Policy Analysis, Office of Personnel Management,
 * Richelle Davis, Education Program Specialist, Department of Education, Office of Special Education Programs
-* Ruxi Giura, Digital Communication Technologies Specialist, Federal Trade Commission, Web and Digital Strategy Team, Office of Public Affairs
+* Ruxi Giura, Digital Insurane Communication Technologies Specialist, Marketing & Outreach, Federal Emergency Management Agency, Department of Homeland Security
 * Julia Lane, Senior Research Fellow at the Census Bureau, Department of Commerce *(through 9/30/18)*
+* Natalie Rico, Senior Policy Analyst, Office of Federal Financial Management, Office of Management and Budget 
 * Grace Yuan, Data Analytics Officer, National Science Foundation, Office of the Assistant Director, Directorate for Engineering
 * Lin Zhang, Senior Enterprise Data Architect, Office of the Chief Information Officer, Department of the Interior
 
@@ -52,10 +55,10 @@ The _Leveraging Data as a Strategic Asset_ Cross Agency Priority (CAP) Goal comm
 * Shondelle Wilson-Frederick, Lieutenant Commander, Statistician & National Program Lead, U.S. Public Health Service, Centers for Medicare and Medicaid Services, Data and Policy Analytics Group, Office of Minority Health, Department of Health and Human Services
 
 ##### Access, Use, and Augmentation Working Group 
-*Matt Greene, Supervisory Education Research Analyst, Department of Education, Office of Planning, Evaluation and Policy Development – Working Group Chair*
+*Tiffany Julian, Data Scientist, Information Technology Services Program, National Center for Science and Engineering Statistics, National Science Foundation – Working Group Chair*
 * Jessica Graber, Research Survey Statistician, Center for Survey Measurement, Research and Methodology Directorate, U.S. Census Bureau, Department of Commerce
+* Matt Greene, Supervisory Education Research Analyst, Department of Education, Office of Planning, Evaluation and Policy Development – *(Working Group Chair through 07/22/19)*
 * Dan Janes, Program Director, National Institute of General Medical Sciences, National Institutes of Health, Department of Health and Human Services
-* Tiffany Julian, Data Scientist, Information Technology Services Program, National Center for Science and Engineering Statistics, National Science Foundation
 * Lee Kelly, IT Specialist, Office of Environmental Information, Office of Information Security and Privacy, Environmental Protection Agency
 * Anne Parker, Program Manager, Business Performance Analytics Lab, RAAS Strategy and Business Solutions, Internal Revenue Service, Department of Treasury
 * Stacy Sneeringer, Research Economist, Resource and Rural Economics Division, Structure, Technology, & Productivity Branch, Economic Research Service, Department of Agriculture
@@ -71,7 +74,7 @@ The _Leveraging Data as a Strategic Asset_ Cross Agency Priority (CAP) Goal comm
 * Casey Eggleston, Research Mathematical Statistician, Center for Survey Measurement, U.S. Census Bureau, Department of Commerce 
 * Grace Levin, Management Analyst, Office of Management Policy, Rightsizing, and Innovation, Department of State *(through 02/15/19)*
 * Hilary Leeds, Program Analyst, Office of the Director, Office of Science Policy, Division of Scientific Data Sharing Policy, National Institutes of Health, Department of Health and Human Services
-* Genevieve Soule, Social Science Analyst, Occupational Safety and Health Administration, Directorate of Technical Support and Emergency Management, Office of Evaluations, Department of Labor
+* Genevieve Soule, Social Science Analyst, Office of Enforcement and Compliance Insurance, Environmental Protection Agency
 
 ##### Commercialization, Innovation, and Public Use Working Group
 *Ed Kearns, Chief Data Officer, National Oceanic and Atmospheric Administration, Department of Commerce – Working Group Chair*
