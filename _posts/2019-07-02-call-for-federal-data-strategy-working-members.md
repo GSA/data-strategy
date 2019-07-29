@@ -19,7 +19,7 @@ Team members will continue to work on site at their home agencies, which will be
 
 ### **If interested:**
 
-Submit a resume, statement of interest and letter of recommendation from your supervisor to: [MBX.OMB.LeveragingData@OMB.eop.gov](mailto:MBX.OMB.LeveragingData@OMB.eop.gov) by **July 31, 2019**.
+Submit a resume, statement of interest and letter of recommendation from your supervisor to: [MBX.OMB.LeveragingData@OMB.eop.gov](mailto:MBX.OMB.LeveragingData@OMB.eop.gov) by **August 9, 2019**.
 
 **Work may include:**
 
@@ -44,7 +44,7 @@ Submit a resume, statement of interest and letter of recommendation from your su
 4. **Other duties as assigned.**
 
 ### Timeline:
-* Application submission: July 1 – July 31, 2019; Applicants notified by August 31, 2019
+* Application submission: July 1 – August 9, 2019; Applicants notified by August 31, 2019
 * Orientation for team members by October 1, 2019
 
 
