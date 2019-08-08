@@ -4,12 +4,12 @@ permalink: /feedback/
 layout: page
 ---
 
-## How can I provide feedback on the Federal Data Strategy?
+## Thank you for your input to the Federal Data Strategy Draft Year-1 Action Plan.
 
-There are several opportunities for stakeholders to provide feedback on the Federal Data Strategy. We accept written comments through various feedback channels, including the Federal Register, web form submissions, and the Federal Data Strategy GitHub site. Stakeholders may also participate in open forums for discussing the Federal Data Strategy.   
+Our third feedback round concluded on July 8, 2019, and we are now working to incorporate your feedback into the Year-1 Action Plan.
  
-Our comment process is iterative.  As we release draft products, we accept comments for incorporation in the next release of products. Following the public comments received so far, the Federal Data Strategy team has developed Principles, Practices and the Draft Year-1 Action Plan.  
+The Federal Data Strategy Team would like to thank you for your feedback to the Principles, Practices, and Year-1 Action Plan. 
  
-If you'd like to be notified about the next iteration of the Federal Data Strategy, please [sign up for our news updates](https://public.govdelivery.com/accounts/USGSA/subscribers/new?topic_id=USGSA_756).
+If you'd like to be notified about updates to the Federal Data Strategy, please [sign up for our news updates](https://public.govdelivery.com/accounts/USGSA/subscribers/new?topic_id=USGSA_756).
 
 

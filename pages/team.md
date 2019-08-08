@@ -57,11 +57,11 @@ The _Leveraging Data as a Strategic Asset_ Cross Agency Priority (CAP) Goal comm
 ##### Access, Use, and Augmentation Working Group 
 *Tiffany Julian, Data Scientist, Information Technology Services Program, National Center for Science and Engineering Statistics, National Science Foundation – Working Group Chair*
 * Jessica Graber, Research Survey Statistician, Center for Survey Measurement, Research and Methodology Directorate, U.S. Census Bureau, Department of Commerce
-* Matt Greene, Supervisory Education Research Analyst, Department of Education, Office of Planning, Evaluation and Policy Development – *(Working Group Chair through 07/22/19)*
+* Matt Greene, Supervisory Education Research Analyst, Department of Education, Office of Planning, Evaluation and Policy Development – *(Working Group Chair through 7/22/19)*
 * Dan Janes, Program Director, National Institute of General Medical Sciences, National Institutes of Health, Department of Health and Human Services
 * Lee Kelly, IT Specialist, Office of Environmental Information, Office of Information Security and Privacy, Environmental Protection Agency
 * Anne Parker, Program Manager, Business Performance Analytics Lab, RAAS Strategy and Business Solutions, Internal Revenue Service, Department of Treasury
-* Stacy Sneeringer, Research Economist, Resource and Rural Economics Division, Structure, Technology, & Productivity Branch, Economic Research Service, Department of Agriculture
+* Stacy Sneeringer, Research Economist, Resource and Rural Economics Division, Structure, Technology, & Productivity Branch, Economic Research Service, Department of Agriculture *(through 8/6/19)*
 * Kim Valentine, Geospatial Data Manager, Office of the Assistant Chief Information Officer, National Oceanic and Atmospheric Administration, Department of Commerce
 * Zachary Trautt, Materials Research Engineer, Materials Measurement Science Division, National Institute of Standards and Technology
 
