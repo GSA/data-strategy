@@ -6,7 +6,7 @@ layout: action-plan
 
 # What is the Year-1 Action Plan?
 
-[View Draft Action Plan](#federal-data-strategy-action-plan){: .usa-button}
+[View Draft Action Plan](#draft-action-steps){: .usa-button}
 [Download Draft Action Plan PDF]({{ site.baseurl }}/assets/docs/draft-2019-2020-federal-data-strategy-action-plan.pdf){: .usa-button}
 
 Government agencies will implement the Federal Data Strategy through steps identified in annual government-wide Action Plans. These plans will identify priority Action Steps for a given year, incrementally build from year to year, and complement as needed requirements of new statute and policy.  
