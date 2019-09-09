@@ -48,7 +48,7 @@ To use the power of the semantic and probabilistic matching, the data had to be 
 ## New Insights: Americans’ Store Food Purchases Are Not That Healthy
 
 {:.post-image-box .post-image-box-center}
-![ ]({{ site.baseurl }}/assets/img/posts/2019-09-06-image002.png "Retail food sales in the United States do not align with Federal dietary recommendations.")
+![Bar chart showing the Healthy Eating Index (HEI-2015)]({{ site.baseurl }}/assets/img/posts/2019-09-06-image002.png "Retail food sales in the United States do not align with Federal dietary recommendations.")
 
 ERS researchers scored nutritional quality using the Healthy Eating Index (HEI) developed by the National Cancer Institute and FNS-CNPP. This index summarizes how well a set of foods conforms to the recommendations in the Dietary Guidelines for Americans. The highest possible score is 100, indicating conformance to Federal recommendations for 13 dietary components. 
 
