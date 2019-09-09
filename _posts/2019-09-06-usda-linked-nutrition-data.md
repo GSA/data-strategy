@@ -31,7 +31,7 @@ Once the match criteria were choosen, the team faced additional challenges from 
 * *Text descriptions:* Both databases use different words or strings of words to mean the same thing.  For example, “fresh” in the IRI data may describe a produce item, while the USDA data would use “raw.”  The USDA data tends to begin text descriptions with major foods such as “broccoli,”  “beef,” or “pepper, red,”  while the IRI text descriptions typically begin with a brand name,  put the words in the order we say them, and often includes  include package sizes  (e.g. “Fresh Farm Red Pepper, 3 pack”).  The IRI data also has more data columns with product description information.
 
 {:.post-image-box .post-image-box-center}
-![ ]({{ site.baseurl }}/assets/img/posts/2019-09-06-image001.png "Diagram of the files.")  
+![Diagram showing pruchase-to-plate relationship between dictionaries and databases]({{ site.baseurl }}/assets/img/posts/2019-09-06-image001.png "Diagram of the files.")  
 
 ## Probabilistic and Semantic Matching 
 
