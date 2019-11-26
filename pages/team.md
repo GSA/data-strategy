@@ -54,6 +54,7 @@ The _Leveraging Data as a Strategic Asset_ Cross Agency Priority (CAP) Goal comm
 **Sharon Boivin**, Senior Advisor, Office of the Chief Data Officer, U.S. Department of Education  
 **Trey Bradley**, Strategic Data Initiatives Program Manager, Office of Shared Solutions & Performance Improvement, U.S. General Services Administration  
 **Noah Brod**, Economic Development Specialist, Small Business Administration  
+**Leremy Colf**, Director of Disaster Science, U.S. Department of Health and Human Services  
 **Chris Campbell**, Director of Enterprise Data Management and Chief Data Architect, U.S. Department of Homeland Security  
 **Nikki Churchwell**, Management and Program Analyst, Office of Finance and Operations, U.S. Department of Education  
 **Colleen Collins**, Portfolio Manager, Food and Nutrition Service, U.S. Department of Agriculture  
@@ -72,9 +73,11 @@ The _Leveraging Data as a Strategic Asset_ Cross Agency Priority (CAP) Goal comm
 **Dan Janes**, Program Director, National Institutes of Health, U.S. Department of Health and Human Services  
 **Ed Kearns**, Chief Data Officer, National Oceanic and Atmospheric Administration, U.S. Department of Commerce  
 **Lee Kelly**, Division Director, Office of Information Security and Privacy, U.S. Environmental Protection Agency  
+**Julia Lane**, Senior Research Fellow, U.S. Department of Commerce  
 **Hilary Leeds**, Health Science Policy Analyst, National Institutes of Health, U.S. Department of Health and Human Services
 **Grace Levin**, Management Analyst, U.S. State Department  
 **Anne Levine**, Acting Chief Data Officer, Federal Communications Commission  
+**Lisa Mancino**, Senior Agricultural Economist, U.S. Department of Agriculture  
 **Jessica Nicholson**, Senior Economist, U.S. Bureau of Economic Analysis, U.S. Department of Commerce  
 **Glenda Noel**, Program and Management Analyst, U.S. Environmental Protection Agency  
 **Anne Parker**, Program Manager, Internal Revenue Service, U.S. Department of the Treasury  
