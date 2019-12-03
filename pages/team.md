@@ -6,7 +6,7 @@ layout: page
 
 ### The Federal Data Strategy Development Team is comprised of a core group of cross-disciplinary data experts from across the Federal Government.
 
-The _Leveraging Data as a Strategic Asset_ Cross Agency Priority (CAP) Goal commits the Administration to developing a long-term comprehensive Federal Data Strategy. Senior officials from the Department of Commerce, the Small Business Administration, the Office of Management and Budget, and the Office of Science and Technology Policy co-lead the CAP Goal. Co-lead staff members serve as a project managers supporting and facilitating the development of the Federal Data Strategy with significant stakeholder input. Select Federal Data Working Group Chairs and Team Members conduct research and analysis; facilitate stakeholders; and distill feedback for the Federal Data Strategy. 
+The _Leveraging Data as a Strategic Asset_ Cross Agency Priority (CAP) Goal commits the Administration to developing a long-term comprehensive Federal Data Strategy. Senior officials from the Department of Commerce, the Small Business Administration, the Office of Management and Budget, and the Office of Science and Technology Policy co-lead the CAP Goal. The Federal Data Strategy Development Team conducts research and analysis; facilitate stakeholders; and distill feedback for the Federal Data Strategy. 
 
 ### Leveraging Data as a Strategic Asset CAP Goal Leads
 
@@ -33,7 +33,7 @@ The _Leveraging Data as a Strategic Asset_ Cross Agency Priority (CAP) Goal comm
 **Lucas Hitt**, Chief of the Communications Division, U.S. Bureau of Economic Analysis, U.S. Department of Commerce  
 **Viv Hutchison**, Branch Chief of Science Data Management, Department of Interior  
 **Tiffany Julian**, Data Scientist, National Center for Science and Engineering Statistics, National Science Foundation  
-**Jeongsoo Kim**, Social Science Analyst, Department of Health and Human Services on detail to Office of Management and Budget 
+**Jeongsoo Kim**, Social Science Analyst, Department of Health and Human Services on detail to Office of Management and Budget   
 **Shelly Martinez**, Senior Statistician, Office of Management and Budget, Executive Office of the President  
 **Lisa Mavrogianis**, Open Data Lead, U.S. Department of Veterans Affairs  
 **Elizabeth McGill**, Public Health Analyst, Department of Health and Human Services  
