@@ -52,7 +52,7 @@ It wasn’t long, however, before Peter stepped back to reassess. Over the cours
 
 The Bloomberg team is working with Baltimore non-profits to help test the MVP during the upcoming spring, summer, and fall months. The nicer weather sees an uptick in community cleanups and volunteerism, as well as an increase in usage of green spaces. Bloomberg maintains active volunteer partnerships with Blue Water Baltimore, Parks & People, Civic Works and Living Classrooms. With this feedback, the team hopes to improve the MVP and cleanups, focusing on underserved areas. 
 
-The Bloomberg team enjoyed working with [The Opportunity Project](https://opportunity.census.gov/projects.html) and looks forward to future collaborations. 
+The Bloomberg team enjoyed working with [The Opportunity Project](https://opportunity.census.gov/projects/) and looks forward to future collaborations.
 
 ## Postscript
 

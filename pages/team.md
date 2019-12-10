@@ -6,50 +6,50 @@ layout: page
 
 ### The Federal Data Strategy Development Team is comprised of a core group of cross-disciplinary data experts from across the Federal Government.
 
-The _Leveraging Data as a Strategic Asset_ Cross Agency Priority (CAP) Goal commits the Administration to developing a long-term comprehensive Federal Data Strategy. Senior officials from the Department of Commerce, the Small Business Administration, the Office of Management and Budget, and the Office of Science and Technology Policy co-lead the CAP Goal. Co-lead staff members serve as a project managers supporting and facilitating the development of the Federal Data Strategy with significant stakeholder input. Select Federal Data Working Group Chairs and Team Members conduct research and analysis; facilitate stakeholders; and distill feedback for the Federal Data Strategy. 
+The _Leveraging Data as a Strategic Asset_ Cross Agency Priority (CAP) Goal commits the Administration to developing a long-term comprehensive Federal Data Strategy. Senior officials from the Department of Commerce, the Small Business Administration, the Office of Management and Budget, and the Office of Science and Technology Policy co-lead the CAP Goal. The Federal Data Strategy Development Team conducts research and analysis; facilitate stakeholders; and distill feedback for the Federal Data Strategy. 
 
 ### Leveraging Data as a Strategic Asset CAP Goal Leads
 
-**Karen Dunn Kelley**, Deputy Secretary, Department of Commerce  
-**Kelvin Droegemeier**, Director, Office of Science and Technology Policy  
-**Suzette Kent**, Federal Chief Information Officer, Office of the Federal Chief Information Officer, Office of Management and Budget  
-**Nancy Potok**, Chief Statistician of the U.S., Office of Information and Regulatory Affairs, Office of Management and Budget  
-**Maria Roat**, Chief Information Officer, Small Business Administration  
+**Karen Dunn Kelley**, Deputy Secretary, U.S. Department of Commerce  
+**Kelvin Droegemeier**, Director, Office of Science and Technology Policy, Executive Office of the President    
+**Suzette Kent**, Federal Chief Information Officer, Office of the Federal Chief Information Officer, Office of Management and Budget, Executive Office of the President  
+**Nancy Potok**, Chief Statistician of the U.S., Office of Information and Regulatory Affairs, Office of Management and Budget,  Executive Office of the President   
+**Maria Roat**, Chief Information Officer, U.S. Small Business Administration  
 
 ### Federal Data Strategy Development Team
 
-**Bronson Armstrong**, White House Leadership Development Fellow, Department of Defense on detail to Office of Management and Budget  
-**Matt Austin**, NOAA Data strategy Coordinator, Department of Commerce  
-**Tom Beach**, Chief Data Strategist and Portfolio Manager, U.S. Patent and Trademark Office, U.S. Department of Commerce  
-**Debbie Brodt-Gilesm**, Data Science and Innovation Group Manager, Department of Energy  
+**Bronson Armstrong**, White House Leadership Development Fellow, U.S. Department of Defense, on detail to Office of Management and Budget, Executive Office of the President  
+**Matt Austin**, NOAA Data strategy Coordinator, U.S. Department of Commerce  
+**Debbie Brodt-Gilesm**, Data Science and Innovation Group Manager, U.S. Department of Energy  
 **Melvin Brown II**, Director, Office of the Chief Information Officer, Small Business Administration  
-**Ryan Byrnes**, Visual Information Specialist, Department of Commerce  
-**Anna Calcagno**, Deputy Director, Office of Program Planning, Analysis, and Evaluation, Department of Health and Human Services  
-**Kyle Douglas**, Electronic Records Policy Analyst, National Archives and Records Administration  
-**Julie Driver**, Lead Management Analysis, Office Personnel Management on detail to Office of Management and Budget  
-**Jennifer Goode**, Program Manager, Open Government Program, Department of Commerce  
-**Ana Greene**, Deputy Geospatial Information Officer, Environmental Protection Agency  
+**Ryan Byrnes**, Visual Information Specialist, U.S. Department of Commerce  
+**Anna Calcagno**, Deputy Director, Office of Program Planning, Analysis, and Evaluation, U.S. Department of Health and Human Services  
+**Kyle Douglas**, Senior Electronic Records Policy Analyst, U.S. National Archives and Records Administration  
+**Julie Driver**, Lead Management Analyst, U.S. Office of Personnel Management, on detail to Office of Management and Budget, Executive Office of the President    
+**Jennifer Goode**, Program Manager, Open Government Program, U.S.Department of Commerce  
+**Ana Greene**, Deputy Geospatial Information Officer, U.S.Environmental Protection Agency  
 **William Hawk**, Economist, U.S. Census Bureau, U.S. Department of Commerce  
 **Lucas Hitt**, Chief of the Communications Division, U.S. Bureau of Economic Analysis, U.S. Department of Commerce  
-**Viv Hutchison**, Branch Chief of Science Data Management, Department of Interior  
+**Viv Hutchison**, Branch Chief for Science Data Management, U.S. Department of Interior  
 **Tiffany Julian**, Data Scientist, National Center for Science and Engineering Statistics, National Science Foundation  
-**Jeongsoo Kim**, Social Science Analyst, Department of Health and Human Services on detail to Office of Management and Budget 
+**Jeongsoo Kim**, Senior Health Policy Analyst, U.S. Department of Health and Human Services, on detail to the Office of Management and Budget, Executive Office of the President     
 **Shelly Martinez**, Senior Statistician, Office of Management and Budget, Executive Office of the President  
 **Lisa Mavrogianis**, Open Data Lead, U.S. Department of Veterans Affairs  
-**Elizabeth McGill**, Public Health Analyst, Department of Health and Human Services  
+**Elizabeth McGill**, Public Health Analyst, U.S. Department of Health and Human Services  
 **Lisette Montalvo**, Data Governance Council Secretariat, U.S. Department of Veterans Affairs  
 **Erik Noble**, Senior Policy Advisor, Office of Science and Technology Policy, Executive Office of the President  
-**Dana Pitts**, Associate Director for Communications Science, Department of Health and Human Services  
+**Dana Pitts**, Associate Director for Communications Science, U.S. Department of Health and Human Services  
 **Regina Powers**, Economist, Office of the Under Secretary for Economic Affairs, U.S. Department of Commerce  
 **Bryant Renaud**, Performance Analyst, Office of Management and Budget, Executive Office of the President  
-**Parth Tikiwala**, Business Data Management Specialist, National Archives and Records Administration on detail to Office of Management and Budget  
-**Erin Simpler**, Business Intelligence Analyst, Consumer Financial Protection Bureau  
-**Teresa Smith**, Chief Data Office/Director of Strategic Data Services, Department of Defense  
+**Parth Tikiwala**, Business Data Management Specialist, U.S.National Archives and Records Administration, on detail to Office of Management and Budget, Executive Office of the President    
+**Erin Simpler Kellett**, Business Intelligence Analyst, Consumer Financial Protection Bureau  
+**Teresa Smith**, Chief Data Office/Director of Strategic Data Services, U.S. Department of Defense  
 **Rebecca Williams**, Digital Service Expert, Office of Management and Budget, Executive Office of the President  
 
 # Federal Data Strategy Development Alumni
 
 **Ken Ambrose**, Senior Policy Analyst, Health Resources and Services Administration, U.S. Department of Health and Human Services  
+**Tom Beach**, Chief Data Strategist and Portfolio Manager, U.S. Patent and Trademark Office, U.S. Department of Commerce  
 **Marika Bertram**, Data Analysis and Evaluation, U.S. Department of Housing and Urban Development  
 **Sharon Boivin**, Senior Advisor, Office of the Chief Data Officer, U.S. Department of Education  
 **Trey Bradley**, Strategic Data Initiatives Program Manager, Office of Shared Solutions & Performance Improvement, U.S. General Services Administration  
