@@ -24,15 +24,15 @@ The _Leveraging Data as a Strategic Asset_ Cross Agency Priority (CAP) Goal comm
 **Melvin Brown II**, Director, Office of the Chief Information Officer, Small Business Administration  
 **Ryan Byrnes**, Visual Information Specialist, U.S. Department of Commerce  
 **Anna Calcagno**, Deputy Director, Office of Program Planning, Analysis, and Evaluation, U.S.Department of Health and Human Services  
-**Kyle Douglas**, Electronic Records Policy Analyst, U.S. National Archives and Records Administration  
-**Julie Driver**, Lead Management Analysis, U.S. Office Personnel Management, on detail to Office of Management and Budget, Executive Office of the President    
+**Kyle Douglas**, Senior Electronic Records Policy Analyst, U.S. National Archives and Records Administration  
+**Julie Driver**, Lead Management Analyst, U.S. Office of Personnel Management, on detail to Office of Management and Budget, Executive Office of the President    
 **Jennifer Goode**, Program Manager, Open Government Program, U.S.Department of Commerce  
 **Ana Greene**, Deputy Geospatial Information Officer, U.S.Environmental Protection Agency  
 **William Hawk**, Economist, U.S. Census Bureau, U.S. Department of Commerce  
 **Lucas Hitt**, Chief of the Communications Division, U.S. Bureau of Economic Analysis, U.S. Department of Commerce  
-**Viv Hutchison**, Branch Chief of Science Data Management, Department of Interior  
+**Viv Hutchison**, Branch Chief for Science Data Management, Department of Interior  
 **Tiffany Julian**, Data Scientist, National Center for Science and Engineering Statistics, National Science Foundation  
-**Jeongsoo Kim**, Social Science Analyst, U.S. Department of Health and Human Services, on detail to the Office of Management and Budget, Executive Office of the President     
+**Jeongsoo Kim**, Senior Health Policy Analyst, U.S. Department of Health and Human Services, on detail to the Office of Management and Budget, Executive Office of the President     
 **Shelly Martinez**, Senior Statistician, Office of Management and Budget, Executive Office of the President  
 **Lisa Mavrogianis**, Open Data Lead, U.S. Department of Veterans Affairs  
 **Elizabeth McGill**, Public Health Analyst, U.S. Department of Health and Human Services  
@@ -42,7 +42,7 @@ The _Leveraging Data as a Strategic Asset_ Cross Agency Priority (CAP) Goal comm
 **Regina Powers**, Economist, Office of the Under Secretary for Economic Affairs, U.S. Department of Commerce  
 **Bryant Renaud**, Performance Analyst, Office of Management and Budget, Executive Office of the President  
 **Parth Tikiwala**, Business Data Management Specialist, U.S.National Archives and Records Administration, on detail to Office of Management and Budget, Executive Office of the President    
-**Erin Simpler**, Business Intelligence Analyst, Consumer Financial Protection Bureau  
+**Erin Simpler Kellett**, Business Intelligence Analyst, Consumer Financial Protection Bureau  
 **Teresa Smith**, Chief Data Office/Director of Strategic Data Services, U.S. Department of Defense  
 **Rebecca Williams**, Digital Service Expert, Office of Management and Budget, Executive Office of the President  
 
