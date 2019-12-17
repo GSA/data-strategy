@@ -4,7 +4,7 @@ permalink: /team/
 layout: page
 ---
 
-### The Federal Data Strategy Development Team is comprised of a core group of cross-disciplinary data experts from across the Federal Government.
+## The Federal Data Strategy Development Team is comprised of a core group of cross-disciplinary data experts from across the Federal Government.
 
 The _Leveraging Data as a Strategic Asset_ Cross Agency Priority (CAP) Goal commits the Administration to developing a long-term comprehensive Federal Data Strategy. Senior officials from the Department of Commerce, the Small Business Administration, the Office of Management and Budget, and the Office of Science and Technology Policy co-lead the CAP Goal. The Federal Data Strategy Development Team conducts research and analysis; facilitate stakeholders; and distill feedback for the Federal Data Strategy. 
 
@@ -46,7 +46,7 @@ The _Leveraging Data as a Strategic Asset_ Cross Agency Priority (CAP) Goal comm
 **Teresa Smith**, Chief Data Office/Director of Strategic Data Services, U.S. Department of Defense  
 **Rebecca Williams**, Digital Service Expert, Office of Management and Budget, Executive Office of the President  
 
-# Federal Data Strategy Development Alumni
+### Federal Data Strategy Development Alumni
 
 **Ken Ambrose**, Senior Policy Analyst, Health Resources and Services Administration, U.S. Department of Health and Human Services  
 **Tom Beach**, Chief Data Strategist and Portfolio Manager, U.S. Patent and Trademark Office, U.S. Department of Commerce  
