@@ -20,6 +20,7 @@ The _Leveraging Data as a Strategic Asset_ Cross Agency Priority (CAP) Goal comm
 
 **Bronson Armstrong**, White House Leadership Development Fellow, U.S. Department of Defense, on detail to Office of Management and Budget, Executive Office of the President  
 **Matt Austin**, NOAA Data strategy Coordinator, U.S. Department of Commerce  
+**Trey Bradley**, Strategic Data Initiatives Program Manager, Office of Shared Solutions & Performance Improvement, U.S. General Services Administration  
 **Debbie Brodt-Gilesm**, Data Science and Innovation Group Manager, U.S. Department of Energy  
 **Melvin Brown II**, Director, Office of the Chief Information Officer, Small Business Administration  
 **Ryan Byrnes**, Visual Information Specialist, U.S. Department of Commerce  
@@ -52,7 +53,6 @@ The _Leveraging Data as a Strategic Asset_ Cross Agency Priority (CAP) Goal comm
 **Tom Beach**, Chief Data Strategist and Portfolio Manager, U.S. Patent and Trademark Office, U.S. Department of Commerce  
 **Marika Bertram**, Data Analysis and Evaluation, U.S. Department of Housing and Urban Development  
 **Sharon Boivin**, Senior Advisor, Office of the Chief Data Officer, U.S. Department of Education  
-**Trey Bradley**, Strategic Data Initiatives Program Manager, Office of Shared Solutions & Performance Improvement, U.S. General Services Administration  
 **Noah Brod**, Economic Development Specialist, Small Business Administration  
 **Leremy Colf**, Director of Disaster Science, U.S. Department of Health and Human Services  
 **Chris Campbell**, Director of Enterprise Data Management and Chief Data Architect, U.S. Department of Homeland Security  
