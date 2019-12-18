@@ -17,6 +17,16 @@
   display: none;
 }
 
+.frontpage-boxes .usa-width-one-fourth {
+  border : 1px solid #ccc;
+  height : 20rem;
+}
+
+.usa-nav-link.old-link {
+  text-decoration: line-through;
+  color : #ccc;
+}
+
 .news.usa-content {
   padding-top : 0;
 }
