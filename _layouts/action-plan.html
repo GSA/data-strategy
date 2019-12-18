@@ -3,9 +3,10 @@ layout: default
 ---
 
 <main class="usa-grid usa-section usa-content usa-layout-docs" id="main-content">
-  <aside class="usa-width-one-fourth usa-layout-docs-sidenav">
-    
 
+{% unless page.nav == "hide"  %}
+<aside class="usa-width-one-fourth usa-layout-docs-sidenav">
+    
 <nav>
   <ul class="usa-sidenav-list">
 
@@ -154,6 +155,7 @@ layout: default
 </nav>
 
   </aside>
+{% endunless %}
 
   <div class="usa-width-three-fourths usa-layout-docs-main_content">
     {{ content }}
