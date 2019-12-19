@@ -11,6 +11,9 @@ The [Centers for Medicare & Medicaid Services’ Office of Minority Health](http
 
 With its Mapping Medicare Disparities Tool, CMS OMH harnessed the power of millions of data records while protecting the privacy of individuals, to build an easy-to-use tool for better understanding this important real-world problem.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jHkIaylNACU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 ## Build a tool for understanding the data
 
 {:.post-image-box .post-image-box-right .half-width}
