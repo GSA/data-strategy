@@ -126,6 +126,7 @@ By July 2020, all agencies will update existing comprehensive data inventories i
 | Update comprehensive data inventories for overall completeness and priority data asset sprints | Metadata quality improvements | Minimally every 3 months, as often as possible | Agency public data.json APIs | Required for all agencies |
 | Update comprehensive data inventory to conform to standard metadata                            | Completion                    | 6 months                                       | Agency public data.json APIs | Required for all agencies |
 
+[Back to top](#main-content)
 
 ## Community of Practice Actions
 
@@ -140,14 +141,228 @@ By January 2020, OMB will launch, and agency CDOs will participate in, a CDO Cou
 
 The CDO Council will share responsibility with other government-wide councils that conduct statutory, data-related activities, such as the Interagency Council on Statistical Policy (ICSP) and the Evaluation Officer Council. OMB expects that the activities of these multiple councils will be coordinated through the OMB Federal Data Policy Committee, to be established under Action 12.
 
-| Milestone                              | Measurement                             | Target Date | Reporting Mechanism          | Required or Encouraged |
-|----------------------------------------|-----------------------------------------|-------------|------------------------------|------------------------|
-| Launch CDO Council                     | Number of meetings held                 | 1 month     | Agency public data.json APIs | OMB                    |
-| Create resources                       | Number of resources published           | 12 months   | Agency public data.json APIs | CDOs                   |
-| Encourage use of resources by agencies | Track adoption of resources by agencies | 12 months   |                              | CDOs                   |
+| Milestone                              | Measurement                             | Target Date | Responsible Party |
+|----------------------------------------|-----------------------------------------|-------------|-------------------|
+| Launch CDO Council                     | Number of meetings held                 | 1 month     | OMB               |
+| Create resources                       | Number of resources published           | 12 months   | CDOs              |
+| Encourage use of resources by agencies | Track adoption of resources by agencies | 12 months   | CDOs              |
+
+### Action 8: Improve Data and Model Resources for AI Research and Development
+ 
+Implementation of the Executive Order on Maintaining American Leadership in Artificial Intelligence (AI),  is designed to improve the data and computing resources for AI research and development by February 2020. The Executive Order, issued February 2019, includes an objective to “Enhance access to high-quality and fully traceable federal data, models, and computing resources to increase the value of such resources for AI R&D, while maintaining safety, security, privacy, and confidentiality protections consistent with applicable laws and policies.” The Federal Government intends to achieve this objective by:
+
+* Investigating barriers to access or quality limitations of Federal data and models that impede AI R&D and testing. A Request for Information (RFI) was issued as a Federal Register Notice by OMB  inviting the public to identify needs for additional access to, or improvements in the quality of, Federal data and models that would improve the nation's AI R&D and testing efforts.
+* Addressing identified barriers by updating Federal data and source code inventory guidance for agencies to utilize in enhancing the discovery and usability of Federal data and models in AI R&D. The implementation guidance provides supports agencies in: 
+	* Prioritizing the data assets and models under their purview for discovery, access, and enhancement; 
+	* Assessing the level of effort needed to make necessary improvements in data sets and models, against available resources; and
+	* Developing justifications for additional resources. 
+* Incorporating updated inventory technical schema formats into Action 11 (Develop a Repository of Federal Enterprise Data Resources) and Action 15 (Identify Priority Data Assets for Agency Open Data Plans) of the 2020 Action Plan.
+* Selecting pilot(s) to demonstrate how to enhance access to discoverable and useable Federal data and models, including mature, high-quality Federal training data assets.
+
+| Milestone                                                                  | Measurement       | Target Date | Responsible Party |
+|----------------------------------------------------------------------------|-------------------|-------------|-------------------|
+| Identify barriers to access and quality limitations                        | Completion of RFI | 2 months    | OMB*              |
+| Provide technical schema formats on inventories                            | Completion        | 12 months   | OMB*              |
+| Pilot demonstration of how access to data useful for AI should be enhanced | Completion        | 12 months   | CDOs              |
+
+### Action 9: Improve Financial Management Data Standards
+
+The PMA includes a series of CAP Goals that address “functional priority areas for transformation” across government, several of which address improved financial management practices. Three specific CAP Goals have been selected for inclusion in the 2020 Action Plan due to their focus on financial management data assets. By August 2020, the Federal Government, through implementation of the identified CAP Goals below, will have improved the management and use of several financial management data assets.
+
+* **Getting Payments Right**: CAP Goal 9 directs agencies to save taxpayer money by making payments correctly and collecting money back from incorrect payments. Agencies will accomplish this by employing strategic use of financial data and other mitigation strategies at the point in the payment process where the improper payment is occurring, and clarifying and streamlining reporting and compliance requirements to focus on actions that make a difference.
+* **Results Oriented Accountability for Grants**:  Agencies will maximize the value of grant funding by applying a risk-based, data-driven framework that balances compliance requirements with demonstrating successful results for the American taxpayer.
+* **Promote public trust in the stewardship of taxpayer dollars**: The Federal Government will engage stakeholders and decision-makers to develop a draft Federal Financial Data Strategy to open, connect, and demonstrate value  while promoting public trust in financial management transparency and accountability in a way that meets user needs while minimizing reporting burden and orienting the business of government around data.
+
+| Milestone                                                   | Measurement                                                           | Target Date                     | Responsible Party                                          |
+|-------------------------------------------------------------|-----------------------------------------------------------------------|---------------------------------|------------------------------------------------------------|
+| Getting Payments Right                                      | Metrics related to this CAP Goal are being tracked on performance.gov | See timeline on performance.gov | Getting Payments Right Executive Steering Committee        |
+| Results Oriented Accountability for Grants                  | Metrics related to this CAP Goal are being tracked on performance.gov | See timeline on performance.gov | CAP Goal 8 Executive Steering Committee                    |
+| Promote public trust in the stewardship of taxpayer dollars | Publication of strategy                                               | September 2020                  | Financial Data Transformation Executive Steering Committee |
+
+### Action 10: Integrate Geospatial Data Practices into the Federal Data Enterprise
+
+By December 2020, the Federal Geographic Data Committee (FGDC), in coordination with the OMB Federal Data Policy Committee (FDPC), will improve the value of, and access to, geospatial data and services for use across the Federal data enterprise and the public through the implementation of the Geospatial Data Act (GDA). Through this action, FGDC members will coordinate with their agency DGB, their Senior Agency Official for Geospatial Information (SAOGI), and the FDPC on the use and integration of geospatial data into broader Federal efforts.
+
+The Federal Government, through the FGDC with input from and in partnership with representatives from state, local, and tribal governments, the private sector, and institutions of higher education, will develop the National Spatial Data Infrastructure (NSDI) strategic plan to ensure geospatial data from multiple Federal and non-Federal sources are available and easily integrated to enhance decision-making.
+
+The SAOGI at OMB will assist the FGDC in ensuring FGDC cross-representation on appropriate data oversight bodies to help spatially enable the Federal data enterprise. FGDC members will work with the other oversight bodies to establish a process to develop consistent identification of the spatial attributes of both spatial datasets (data with feature geometry) and non-spatial datasets with location attributes (e.g., address, coordinates, county name). This engagement will lay the foundation that enables the relating or joining of data with like spatial attributes to add contextual value and provide a catalyst for innovative data use and spatial analytics.
+
+The FGDC will operate an electronic service known as the GeoPlatform and provide access to geospatial data and related metadata for all National Geospatial Data Assets (NGDA), excluding public disclosure of any information that reasonably could be expected to cause damage to the national interest, security, or defense of the nation; and provide standards-compliant metadata and standards-compliant web services for all NGDA data assets, registered with data.gov and available as web services through the GeoPlatform.
+
+The Federal Government’s lead agencies for NGDA data assets will identify, inventory, and publish the status and standards being used for each of the NGDA data themes and content and services metadata, consistent with international standards, excluding public disclosure of any information that reasonably could be expected to cause damage to the national interest, security, or defense of the nation.
+
+| Milestone                                                                                      | Measurement                                                                                                                                                                          | Target Date | Responsible Party                                         |
+|------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|-----------------------------------------------------------|
+| Establish the NSDI strategic plan                                                              | Completion                                                                                                                                                                           | 12 months   | SAOGI at OMB, FGDC, FGDC NGDA Lead Covered Agencies, GSA  |
+| Publish a GeoPlatform providing standards-compliant web services for NGDAs                     | Completion                                                                                                                                                                           | 12 months   | SAOGI at OMB, FGDC, FGDC NGDA Lead Covered Agencies, GSAĘ |
+| Engage with other relevant councils                                                            | Number of engagements                                                                                                                                                                | 12 months   | SAOGI at OMB, FGDC, FGDC NGDA Lead Covered Agencies, GSAĘ |
+| Publish NGDA data theme data assets with standards compliant metadata and webservice endpoints | Percentage of NGDA data assets that are compliant                                                                                                                                    | 12 months   | SAOGI at OMB, FGDC, FGDC NGDA Lead Covered Agencies, GSAĘ |
+| Track NGDAs for implementation of standards                                                    | Percentages of NGDAs with: i) metadata standards, ii) established content standards, iii) standards in process, iv) data assets not requiring standards, v) no established standards | 12 months   | SAOGI at OMB, FGDC, FGDC NGDA Lead Covered Agencies, GSAĘ |
+
+[Back to top](#main-content)
+
+## Shared Solution Actions
+
+Shared Solution Actions are described as government-wide data services and represent discrete pilot projects or efforts led by a single agency or existing council for the benefit of all agencies. The ten Shared Solution Actions identified in the 2020 Action Plan are designed to provide government-wide direction, tools, and/or services for implementing the strategy that other agencies will be able to leverage in the future. Many of the Shared Solution Actions have received financial resources as part of the CAP Goal: Leveraging Data as a Strategic Asset and are already underway. Similar to the Agency Actions and the Community of Practice Actions, the Shared Solution Actions will also support agencies as they implement existing policies and laws. For example, the Curated Data Skills Catalog to be developed under Action 13 will be available for use by all agencies in support of implementation of both the Evidence Act and the Executive Order on Maintaining American Leadership in Artificial Intelligence, both of which require an assessment of staff capacity for various data-related functions. The graphic below maps each of the ten Shared Solution Actions to a set of relevant laws and guidance. 
+
+![Shared Solution Actions]({{ site.baseurl }}/assets/img/2020-action-plan/shared-solution-actions.png "Shared Solution Actions")  
+
+### Action 11: Develop a Repository of Federal Enterprise Data Resources
+
+By December 2020, the General Services Administration (GSA), the Office of Government Information Services of the National Archives, and OMB will collaborate with stakeholders to develop the website resources.data.gov, a government-wide repository of policies, standards, tools, best practices, and case studies that is required under the Evidence Act.  This repository, titled Federal Enterprise Data Resources, has been established to provide centralized access to resources related to Federal data management and use in support of agencies as they seek to execute both the FDS and the requirements of the Evidence Act.  The repository will include the following types of resources:  
+
+* **Case Studies**: Examples of what agencies are currently implementing
+* **Data.gov Schema**: The standard metadata schema required for inclusion in data.gov, the Federal data catalog  
+* **Federal Data Strategy**: Guiding principles and best practices and associated implementation tools
+* **Playbooks**: Decision points, checklists, and questions that help organizations navigate options
+* **Requirements**: Definitions, laws, policies, and regulations
+* **Skill Builders**: Professional development resources and curriculums to improve data-related skills
+* **Standards**: Guidance on preferred technical formats, licensing, and resources related to implementing data standards
+* **Tools**: Tools available to agencies to help execute data goals
+
+| Milestone                                                                   | Measurement                                           | Target Date | Responsible Party                                                                    |
+|-----------------------------------------------------------------------------|-------------------------------------------------------|-------------|--------------------------------------------------------------------------------------|
+| Make regular updates to resources.data.gov in response to stakeholder input | Frequency of feature updates and site improvements    | 12 months   | GSA                                                                                  |
+| Track growth and success of the site                                        | Number of resources available by type, resource usage | 12 months   | GSA                                                                                  |
+| Engage stakeholders to prioritize content                                   | Number of stakeholder engagement activities           | 12 months   | GSA, the Office of Government Information Services of the National Archives, and OMB |
 
 
-[Back to top](#draft-action-steps) 
+### Action 12: Create OMB Federal Data Policy Committee
+
+By January 2020, OMB will establish the FDPC that will help agencies deliver on mission and effectively steward taxpayer dollars by enhancing OMB’s coordination of Federal data policy, governance, and resource considerations. OMB has statutory responsibility and coordinates many government-wide priorities and functions, many of which have a data-related dimension. The FDPC will be a mechanism to coordinate OMB’s own data policy development and implementation activities for the Federal Government, including those necessary for the executive branch to meet existing and new legal requirements as well as addressing emerging priority data governance areas such as preparing data for use in artificial intelligence. Over time, the FDPC will also provide a forum for OMB offices to address selected data issues that cross agencies or span executive councils’ responsibilities. The FDPC is responsible for government-wide management, governance, and resource  priorities for data management standardization and use, including by contributing to the FDS’s annual action plans and align transformation efforts to reduce costs, duplication, and burden. The FDPC will be comprised of senior staff representing OMB’s statutory and programmatic areas, including offices responsible for evaluation, financial management, information technology, performance management, privacy, procurement, regulations, resource management, and statistical policy. The FDPC’s charter will specify roles and responsibilities. OMB’s approach to working across its functional areas will furthermore serve as a model for individual agencies to bridge their own functional silos. 
+
+| Milestone                                              | Measurement                                                                               | Target Date | Responsible Party |
+|--------------------------------------------------------|-------------------------------------------------------------------------------------------|-------------|-------------------|
+| Launch FDPC                                            | Number of meetings held                                                                   | 1 month     | OMB               |
+| Set priorities for 2020                                | Completion of written priorities endorsed by membership                                   | 3 months    | OMB               |
+| Carry out at least 1 data policy coordination activity | Number of data policy related memorandum and circulars updated, streamlined, or rescinded | 12 months   | OMB               |
+
+
+### Action 13: Develop a Curated Data Skills Catalog
+
+By November 2020, GSA will complete a curated data skills catalog of learning opportunities to help agencies develop competencies for managing data as a strategic asset and making data-driven decisions. This skills catalog will be aligned to Federal needs for information about existing learning providers, programs, courses, certifications and other credentials, and opportunities for employees to practice and apply new skills. 
+
+The catalog will incorporate Federal and non-Federal stakeholder input and will be released in multiple stages to allow useful content to be available as soon as it is ready rather than in a single, delayed release. Demand for skills identified in other parts of the FDS, including Action 4, will inform the priorities for how the catalog is built. 
+
+This resource will incorporate information about significant roles in the data ecosystem into its organization and take into account skills, experience, and responsibilities of key job functions as well as support the results of data maturity assessments agencies will do as part of Action 3. 
+
+The contents of the catalog will initially be available to the CDOs of each agency as well as other relevant Federal communities as it is being built. Contributions to its development will be encouraged from other groups throughout the process. 
+
+| Milestone                                                     | Measurement                                                                             | Target Date | Responsible Party |
+|---------------------------------------------------------------|-----------------------------------------------------------------------------------------|-------------|-------------------|
+| Share draft catalog contents with CDOs and other stakeholders | Completion                                                                              | 2 months    | GSA               |
+| Collect input and make revisions                              | Number of stakeholder engagement activities; Improvements added                         | 6 months    | GSA               |
+| Publish the catalogue on resources.data.gov                   | Posted to resources.data.gov; Number of resources available in the catalog by data role | 11 months   | GSA               |
+| Transfer responsibility for maintenance to the CDO council    | Completion                                                                              | 12 months   | CDO Council       |
+
+
+### Action 14: Develop a Data Ethics Framework 
+By December 2020, GSA will develop a data ethics framework to help agencies systematically identify and assess the potential benefits and risks associated with the data they acquire, manage, and use. This framework is intended to help agency staff, managers, and leaders make considered data acquisition, management, and use decisions to address ethical issues they may encounter throughout the data lifecycle. The framework will be broad and flexible – outlining and describing high-level principles that can be applied to specific circumstances, such as preparing data for the responsible and ethical use of evolving technologies, including mitigating bias when developing AI and machine learning methods and systems.
+
+Once the completed framework and associated implementation tools are published, they will be promoted government-wide for agency use via the CDO Council, ICSP, and various other channels. Fully integrating a data ethics perspective into all aspects of agencies’ data management efforts will require substantial and long-term cultural change. It would involve staff at all levels undergoing training to support and refresh data literacy skills and reinforce protocols related to data privacy, confidentiality, and the ethical collection, use, storage, and dissemination of data. Leadership support, spearheaded by CDOs and Statistical Officials, is crucial, as is agency input into the design of tailored ethics frameworks and their implementation.
+
+Initial work to develop a data ethics framework has already begun with a review of data ethics frameworks developed by other countries, organizations, and advocacy groups to identify common elements and themes to inform development of a U.S. data ethics framework. Next, an inter-agency team will conduct iterative Federal and non-Federal stakeholder engagement. This process will employ a variety of consultation, design, and assessment approaches to ensure broad input into the framework, such as:
+
+* *Framework prototypes*: Creating prototypes based on ideas from various user communities on the design, construction, and structure of the framework.
+* *Open and targeted feedback*: Sharing draft concepts and a draft framework to enable stakeholders to meaningfully engage and provide input.
+* *Pilots*: Encouraging agencies to pilot a prototype framework using their own data management processes and provide specific feedback about its utility, completeness, and drawbacks.
+* *Use cases*: Developing use cases to illustrate the application of the framework across the data lifecycle. 
+
+| Milestone                                                                | Measurement                  | Target Date             | Responsible Party             |       |
+|--------------------------------------------------------------------------|------------------------------|-------------------------|-------------------------------|-------|
+| Initial examination of ethical issues encountered across data life cycle |                              | 6 months                | GSA with CDO Council and ICSP |       |
+| Release initial data ethics framework and use cases                      | Posted to resources.data.gov | 12 months               | GSA                           |       |
+| Transfer responsibility for review and update                            |                              | Ongoing every 24 months | "CDO Council                  | ICSP" |
+
+
+### Action 15: Develop a Data Protection Toolkit 
+
+By December 2020, the Federal Committee on Statistical Methodology (FCSM), with direction from the ICSP, and the Department of Education will develop a data protection toolkit. The way the Federal Government provides, maintains, and uses data has a unique place in society because use of Federal data has a tremendous impact on the public, businesses, and our democratic process. This trust includes protecting or excluding private information when releasing data publicly. By developing this critical community resource, the Federal Government is demonstrating commitment to strengthening privacy and confidentially promises now and into the future.
+
+This action is designed to address the need to maintain confidentiality and data privacy when providing access to Federal data assets due to the threat of the growing threat of re-identification risk to individuals and businesses from combining publicly available data. Once completed, the data protection toolkit can be used by agencies to develop and implement cost-effective data protection programs. This web-based toolkit will provide a repository for best practices regarding confidentiality and data privacy practices based on existing and emerging standards in partnership with agencies, academia, and industry. The toolkit is intended to serve as a central resource for guidance, tools, and templates to help agencies avoid the unintentional release of data assets that could be used to re-identify individual people or entities. 
+
+In addition to developing the toolkit, the FCSM will update the 2005 Report on Statistical Disclosure Limitation Methodology , which has served as a primary reference for agencies on approaches for maintaining confidentiality and data privacy in Federal data releases. The revision will include more detailed guidance for agencies on assessing, managing, and mitigating the risk that individuals or enterprises are re-identified. 
+
+| Milestone                                                               | Measurement                  | Target Date | Responsible Party |
+|-------------------------------------------------------------------------|------------------------------|-------------|-------------------|
+| Release initial toolkit                                                 | Posted to resources.data.gov | 12 months   | FCSM              |
+| Release updated Report on Statistical Disclosure Limitation Methodology | Posted to resources.data.gov | 12 months   | FCSM              |
+
+### Action 16: Pilot a One-stop Standard Research Application 
+
+By March 2020, the Federal Statistical Research Data Center Program Management Office of the U.S. Census Bureau, under the direction of the ICSP, will pilot the first phase of a one-stop portal that reduces the burden on researchers requesting access to restricted Census Bureau data assets. The current process for obtaining restricted data from multiple agencies for research and evidence-building purposes is fragmented, uncoordinated, and requires following a different application process for each agency. Standardizing the application process will eliminate confusion, reduce complexity, improve the user experience, and reduce the wait time to access data, which can range from months to years. 
+
+Agencies with active researcher access programs will collaborate with each other and their stakeholder communities to reduce the burden resulting from duplicative and non-standard access request application forms. This standard approach will assist agencies in setting consistent access protocols as required by the Evidence Act. In addition to informing future phases of this pilot, these efficiencies will improve and expand access to data for evidence-building while promoting transparency.
+
+| Milestone                                                                                          | Measurement                  | Target Date | Responsible Party |
+|----------------------------------------------------------------------------------------------------|------------------------------|-------------|-------------------|
+| Create pilot portal                                                                                | Completion                   | 3 months    | Census Bureau     |
+| Recruit users to try the portal and give feedback                                                  | Number of users              | 4 months    | Census Bureau     |
+| Publish report describing success of the project and feedback that will inform future improvements | Posted to resources.data.gov | 12 months   | Census Bureau     |
+
+### Action 17: Pilot an Automated Tool for Information Collection Reviews that Supports Data Inventory Creation and Updates
+
+By July 2020, the National Center for Education Statistics (NCES) within the U.S. Department of Education will complete a pilot of an automated tool that leverages agency Information Collection Review (ICR) processes and documentation to build agency data inventories and update metadata in agency data inventories. Under the Paperwork Reduction Act,  all agencies must undergo an ICR in order to gain approval from OMB to collect information from the public. For many agencies, a substantial fraction of data inventory items originate with an information collection.
+
+The automated tool generated under this action will include an electronic template and database management system that facilitates the development and standardization of the content of ICRs developed by agencies for OMB review. The template will have fields that include metadata needed in the agency data inventory that will be tagged in the underlying database. After the agency CDO certifies, and OMB approves, the ICR, the tagged items can be extracted for the agency data inventory. This automated tool will support the inventory requirements under the Evidence Act by organizing metadata captured as part of the information collection design phase into agency inventories. However, this template will only collect some of the information needed for a complete inventory. Metadata resulting from the completed collection (e.g., response rates, variable names, labels, URL for report and data) will need to be acquired through other means before the inventory update can be completed.
+
+This action will begin a multi-year process of deploying an automated approach to populating needed information on agency data inventories using information that is already required to approve ICRs through what has traditionally been a separate process. This project will help address public, cross-agency, and intra-agency needs for data discovery and access by leveraging these existing processes and information. In so doing, the amount of metadata generated by agencies will go beyond the minimum standards currently required,  and better enable prospective data users to understand the degree to which an already collected data asset can meet their needs. Agency input will be used to inform development and expansion of this pilot. 
+
+| Milestone                                                    | Measurement                                 | Target Date | Responsible Party |
+|--------------------------------------------------------------|---------------------------------------------|-------------|-------------------|
+| Develop pilot tool                                           | Completion                                  | 6 months    | NCES              |
+| Test tool with at least two agencies                         | Completion                                  | 12 months   | NCES              |
+| Engage stakeholders for feedback on the tool                 | Number of stakeholder engagement activities | 12 months   | NCES              |
+| Publish report describing agency tests and stakeholder input | Posted to resources.data.gov                | 12 months   | NCES              |
+
+### Action 18: Pilot Enhanced Data Management Tool for agencies
+
+By September 2020, GSA will have developed and piloted an improved tool for metadata management, data hosting, and API capabilities in support of open data and Federal data catalog requirements under the Evidence Act. Currently, most agencies have to identify their own solution for managing their data inventories, metadata, and APIs. This project will provide agencies with an option to use a centrally developed and hosted data management tool, designed to reduce cost and workload at any individual agency.
+
+GSA will create a government-wide platform pilot with a shared code base and cloud hosting that is customizable to support agency needs, leveraging Data.gov’s existing open source codebase. This approach can provide agencies with a cost-effective option to manage metadata and data assets, host data assets for public access, assist in the improvement in the quality of metadata and result in increased use and improved user experience for the public and for agencies.
+
+| Milestone                                                                           | Measurement                                                  | Target Date | Responsible Party |
+|-------------------------------------------------------------------------------------|--------------------------------------------------------------|-------------|-------------------|
+| Demonstrate pilot and initial feature set with a pilot agency                       | Completion                                                   | 3 months    | GSA               |
+| Infrastructure/security roadmap for production platform                             | Completion                                                   | 3 months    | GSA               |
+| Achieve interoperability with continually updated Federal open data metadata schema | Completion                                                   | 6 months    | GSA               |
+| Develop business plan and cost model                                                | Posted to resources.data.gov                                 | 6 months    | GSA               |
+| Onboard agency customers                                                            | Number of agencies onboarded                                 | 9 months    | GSA               |
+| Demonstrate increased data asset availability and improved usage                    | Number of datasets and usage of data assets through platform | 12 months   | GSA               |
+
+### Action 19: Develop Data Quality Measuring and Reporting Guidance 
+
+By December 2020, the FCSM, under direction of the ICSP, will:
+
+* Identify best practices for measuring and reporting on the quality of data outputs created from multiple sources or from secondary use of data assets; 
+* Develop documentation best practices for agencies to apply to administrative or programmatic data likely to be secondarily useful, such as for evidence building; and
+* Create tools to help agencies follow practices to support effective secondary uses of data.
+
+Assessing the fitness for specific uses of data is critical to leveraging data effectively. Such an assessment answers the question: Does a data asset have an appropriate level of accuracy, timeliness, and relevance to support the intended use? This action facilitates such assessments by articulating best practices for reporting on the quality of data outputs. Such best practices may include, for example, documentation of a data asset’s representativeness, precision, and coherence. Consistent reporting on such elements allows stakeholders to make informed choices about their use of the data outputs. The action builds on FCSM’s past and current efforts to assess the utility of administrative data for statistical uses, measure data quality in statistical outputs, and establish best practices for reporting on data quality to the public.
+
+The action promotes the effective application of these data best practices by encouraging agencies that originate data to maintain metadata that supports data quality measurement. Such metadata may include, for example, information about potential and actual data providers, ways in which data is gathered, and adjustments made to the data during processing. By pairing the guidance with tools such as metadata templates, the action aims to cultivate data quality reporting in a coordinated Federal Government context.
+
+| Milestone                                                              | Measurement                  | Target Date | Responsible Party |
+|------------------------------------------------------------------------|------------------------------|-------------|-------------------|
+| Completion of report on best practices for reporting on output quality | Posted to resources.data.gov | 6 months    | FCSM              |
+| Completion of metadata guidance for use by data originators            | Posted to resources.data.gov | 12 months   | FCSM              |
+| Develop tools to aid metadata maintenance                              | Posted to resources.data.gov | 12 months   | FCSM              |
+
+### Action 20: Develop a Data Standards Repository
+
+By December 2020, GSA will collaborate with OMB, in consultation with the National Institute of Standards and Technology, to create a data standards repository to accelerate the creation and adoption of data standards across agencies. It will include information about the different types of existing standards of all types (e.g., metadata, content, classification), including policies related to using voluntary consensus standards, information about standards-developing organizations and communities of practices inside and outside of government, and a catalog of data standards already in use by the Federal Government. The repository will connect to resources.data.gov and will leverage existing repositories of standards-developing methods and tools, and efforts such as the U.S. Data Federation, the National Information and Exchange Model (niem.gov), and Federal and non-Federal partner community repositories such as the Common Education Data Standards (ceds.ed.gov), Fair Sharing (fairsharing.org), and Registry of Research Data Repositories (re3data.org). The data standards repository will be designed as a user-friendly website in support of both more and less technical users.
+
+| Milestone                                                    | Measurement | Target Date | Responsible Party |
+|--------------------------------------------------------------|-------------|-------------|-------------------|
+| Develop repository with communities, frameworks, and schemas | Completion  | 12 months   | GSA and OMBĘ      |
+
+## Looking Forward 
+
+The FDS, presented in final form in OMB Memorandum M-19-18, Federal Data Strategy - A Framework for Consistency, describes a ten-year vision for how the Federal Government will accelerate the use of data to deliver on mission, serve the public, and steward resources—while protecting security, privacy, and confidentiality. Fully implementing the 40 practices described in the strategy will require a sustained, iterative, and systematic effort over a ten-year period. The Action Plans produced each year will identify priority actions for a given year and incrementally build on progress from year to year, capitalizing on the successes of previous efforts, aligning with ongoing Federal Government programs and policies, and complementing new statutory requirements. In this way, the strategy recognizes the dynamic environment in which agencies must implement the strategy. The production of annual Action Plans allows the implementation of the strategy to adapt each year to adjust to new laws, requirements, and priorities that will impact agencies’ capacity to leverage data as a strategic asset. 
+
+Future annual Action Plans will build on the 2020 Action Plan to further develop a coordinated approach to Federal data stewardship. Feedback from stakeholders has and will continue to identify key topic areas for future annual Action Plans, such as attention to data quality, increasing opportunities for safe data-sharing, increasing data literacy throughout the Federal workforce, and addressing organizational culture in support of leveraging data as a strategic asset. Future annual Action Plans will build on and expand the efforts taken by agencies to advance the mission of the FDS to leverage the full value of Federal data, in alignment with American values, for mission, service, and the public good.
+
+[Back to top](#main-content) 
 
 
 {:.footnotes}
