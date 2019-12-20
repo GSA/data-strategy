@@ -4,251 +4,152 @@ permalink: /action-plan/
 layout: action-plan
 ---
 
-# What is the Year-1 Action Plan?
+# 2020 Action Plan
 
-[View Draft Action Plan](#draft-action-steps){: .usa-button}
-[Download Draft Action Plan PDF]({{ site.baseurl }}/assets/docs/draft-2019-2020-federal-data-strategy-action-plan.pdf){: .usa-button}
-
-Government agencies will implement the Federal Data Strategy through steps identified in annual government-wide Action Plans. These plans will identify priority Action Steps for a given year, incrementally build from year to year, and complement as needed requirements of new statute and policy.  
-
-The priority of the draft 2019-2020 Federal Data Strategy Action Plan (hereinafter Year-1 Action Plan) is to align existing efforts and establish a firm basis of tools, processes, and capacities to leverage data as a strategic asset. The draft Year-1 Action Plan describes the steps that are viewed as fundamental during the first year to execute the full breadth of the Federal Data Strategy over time. They are informed by and built upon previous efforts, align with ongoing Federal Government programs and policies, and complement new statutory requirements.
-  
-The goal of the draft Year-1 Action Plan is to begin to implement the Federal Data Strategy through a set of fundamental actions. Specifically:
-
-* Designated entities will develop and share government-wide resources and/or tools for implementing the Federal Data Strategy related to governance, ethical data management and use, data protection, workforce training, streamlined access to federal data assets, and the establishment of data inventories and data cataloging.
-* Specific federal communities will improve the management and use of specific data asset portfolios including geospatial data and financial management data.    
-* Federal agencies will begin working across silos to determine how they can better support their missions and serve stakeholders by making better use of the Federal Government’s full portfolio of data assets. Agencies will be investing in necessary infrastructure improvements, including workforce training and improvements related to data protection and access. 
-
-The draft Year-1 Action Plan consists of 16 fundamental Action Steps. Each action step describes the action to be taken and desired result, identifies an entity responsible for executing the action, lists related Federal Data Strategy Practices, establishes the identified metrics for measuring progress during the first year of implementation, and includes a timeline for completion of the action. Shared Action Steps, with the exception of Action 1 and 5, have received financial resources as part of the Cross-Agency Priority Goal: Leveraging Data as a Strategic Asset. All other Action Steps are expected to be completed with current agency funding resources.
-
-The draft Year-1 Action Plan includes three categories of actions, described below.
-
-* **Shared** actions are led by a single agency or existing council for the benefit of all agencies and with available cross-agency resources. They provide government-wide thought leadership, direction, tools, and/or services for implementing the Federal Data Strategy. Funding is identified to implement each of the identified shared actions through the President’s Management Agenda. 
-* **Community** actions are taken by a group of agencies around a common topic, usually through an established cross-agency council or other existing coordinating mechanism, and with available cross-agency resources. They represent ongoing, mature, cross-agency priorities that will use the Federal Data Strategy Practices and implementation guidance to more quickly and consistently achieve their goals.
-* **Agency-specific** actions are taken by an individual agency and are designed to build capacity using currently available agency resources. They set expectations for progress and success in implementing the Practices.
-
-By focusing on a handful of specific actions at each level of data management and use, this Action Plan establishes an array of foundational actions designed to align activities and set a firm foundation of tools, processes, and capacity to leverage data as a strategic asset.
-
-[Download Draft Year One Action Plan PDF]({{ site.baseurl }}/assets/docs/draft-2019-2020-federal-data-strategy-action-plan.pdf){: .usa-button}
-
-## Draft Action Steps
-
-* **[Shared Actions: Government-wide Data Services](#shared-actions-government-wide-data-services)**
-* **[Community Actions: Cross-Agency Collaboration](#community-actions-cross-agency-collaboration)** 
-* **[Agency-Specific Actions: Agency Activities](#agency-specific-actions-agency-activities)**  
-
-## Shared Actions: Government-wide Data Services
-
-### Action 1: Create an OMB Data Council
-
-By November 2019, the Office of Management and Budget will establish a cross-office Data Council that will coordinate across statutory offices on information policy development and implementation activities and provide guidance on government-wide data standards and improvements required by statute, such as the Digital Accountability and Transparency Act, the Foundations for Evidence-Based Policymaking Act (hereinafter “Evidence Act”), and the Geospatial Data Act. The OMB Data Council will also provide to agencies a coordinated voice (or response) and common guidance regarding the implementation of the Federal Data Strategy. OMB’s efforts to ensure relevant participants are engaged in data governance will be a model for individual agencies. The OMB Data Council will provide a way to address issues that cross agencies’ and OMB’s statutory functions to help inform government-wide management and budget priorities for data management and use.
-
-* **Responsible**: Office of Management and Budget 
-* **Supported practice(s)**: Prioritize Data Governance
-* **Measurement**: Internal Data Council established (Y/N) and Consistent governance approach developed (Y/N)
-* **Timeline**: Completed within 3 months
-
-### Action 2: Develop a Curated Data Science Training and Credentialing Catalog
-
-By February 2020, Federal agencies will have access to a curated catalog of federal and non-federal training offerings in data science, aligned to federal needs. 
-
-The General Services Administration (GSA), with federal and non-federal stakeholder input, will create an inventory of data science training and credentialing opportunities used by and available to federal agencies. The catalog will relate training and credentialing to career paths, including on-ramps for federal employees at various stages of development and interest and will describe the required education and expertise to advance to the next stage of training. The catalog will provide federal employees with the beginnings of a roadmap for how data science training and credentialing can match their development goals. This Action will work in tandem with Action 14 to ensure agencies have sufficient hiring and reskilling options to leverage data as a strategic asset. 
-
-This shared action has received financial resources as part of the Cross-Agency Priority Goal: Leveraging Data as a Strategic Asset and a GSA responsible party has been assigned. 
-
-* **Responsible**: General Services Administration
-* **Supported practice(s)**: Increase Capacity for Data Management and Analysis
-* **Measurement**: Number of agencies and employees that use the catalog 
-* **Timeline**: Completed within 6 months 
-
-### Action 3: Develop a Data Ethics Framework
-
-By November 2019, the Federal Government will have available a consistent framework for evaluating ethical repercussions and tradeoffs associated with data management and use.
-
-GSA will work with academia, professional associations, and federal data stakeholders to create a Data Ethics Framework that provides key decision points and considerations for ethical data management and use that go beyond legal requirements and supports the Federal Data Strategy principles. Specifically, GSA will research relevant ethical frameworks for data management and use, will then conduct stakeholder feedback on a draft Data Ethics Framework alongside academic and professional association partners, and finally will publish and promote the Data Ethics Framework for the Federal Government. This framework will build on fitness for use assessments, including potential use in automated technologies, such as Artificial Intelligence (AI). This framework will be updated as needed in future Action Plans.
+The Federal Data Strategy provides a common set of data principles and best practices in implementing data innovations that drive more value for the public. Annual action plans will identify and prioritize practice-related steps for a given year, along with targeted timeframes and responsible entities.
  
-This shared action has received financial resources as part of the Cross-Agency Priority Goal: Leveraging Data as a Strategic Asset and a GSA responsible party has been assigned.
+The 2020 Action Plan establishes a solid foundation that will support implementation of the strategy over the next decade. Specifically, the plan identifies initial actions for agencies that are essential for establishing processes, building capacity, and aligning existing efforts to better leverage data as a strategic asset.
  
-* **Responsible**: General Services Administration 
-* **Supported practice(s)**: Prioritize Data Governance and others
-* **Measurement**: Data Ethics Framework Created (Y/N)
-* **Timeline**: Completed within 3 months 
-
-### Action 4: Develop a Data Protection Toolkit
+In addition, the 2020 Action Plan includes a series of pilot projects already underway at individual agencies and a set of government-wide efforts designed to support all agencies through the development of tools and resources.
  
-By August 2020, the Federal Government will have developed a consistent approach for measuring and mitigating the risk of re-identification from the release of disparate data sets, often referred to as the “mosaic effect.” 
+Annual Action Plans are developed iteratively with stakeholder feedback and input incorporated along the way. If you’d like to be notified about updates or ways to be involved, please sign up for our news updates. A downloadable PDF will be available soon.
 
-The Federal Committee on Statistical Methodology will update Statistical Working Paper 22: Report on Statistical Disclosure Limitation Methodology and will collaborate with the Department of Education to create a re-identification risk assessment toolkit for federal agencies. It will include templates based on best practices for assessing, managing, and mitigating the risk that individuals or enterprises are re-identified from the release of confidential federal data. It also will array a suite of approaches for safely accessing data while accounting for confidentiality concerns, from fully open to restricted access in data enclaves. The toolkit will be designed as a user-friendly website in support of both more and less technical users.
+## Preamble
+* **[Special Thanks to Our Contributors](#)**  
+* **[Data, Accountability, and Transparency: Creating a Data Strategy and Infrastructure for the Future](#)**  
+* **[How We Will Get There: The Dynamic Nature of the Federal Data Strategy](#)**  
 
-This shared action has received financial resources as part of the Cross-Agency Priority Goal: Leveraging Data as a Strategic Asset and a Federal Committee on Statistical Methodology responsible party has been assigned.
+## Action Plan Categories
+* **[Agency Actions](#agency-actions)**  
+* **[Community of Practice Actions ](#community-of-practice-actions)** 
+* **[Shared Solution Actions ](#shared-solution-actions)**
 
-* **Responsible**: Federal Committee on Statistical Methodology, with direction from the Interagency Council on Statistical Policy, and the Department of Education
-* **Supported practice(s)**: Review Data Releases for Disclosure Risk; Diversify Data Access Methods
-* **Measurement**: Reference material published within 12 months (Y/N)
-* **Timeline**: Completed within 12 months
+## Agency Actions
 
-### Action 5: Develop a Repository of Federal Data Strategy Resources and Tools
+Six Agency Actions are identified as foundational steps to support agencies in establishing plans, processes, and priorities for better managing data assets while considering how the agency’s data assets could be leveraged to advance the agency’s mission. Because agencies have different levels of maturity in their current management and use of data, agencies are expected to have different starting points for executing the six Agency Actions. Each agency should first establish a baseline for each action by assessing the agency’s current status, and then develop and implement a plan to fully achieve each action over the course of the next year. The strategy is supported by tools and resources to aid in the execution of the Agency Actions. Resources will be posted to the repository, Federal Enterprise Data Resources, at resources.data.gov throughout the course of the year.
 
-By November 2019, GSA will create a government-wide repository of tools and resources to assist agencies with implementing the Federal Data Strategy, as well as companion efforts, such as implementing the Evidence Act. The repository may include more detailed practice descriptions, case studies that demonstrate the practices “in action,” and tool kits for implementing individual or groups of practices. The Federal Data Strategy is seeking comments on priorities for populating the repository.
+Many of the Agency Actions build on and complement efforts that are already underway in response to other requirements or laws. The graphic below maps each of the six Agency Actions to a set of relevant laws and guidance documents. While future Action Plans will make similar connections between Agency Actions and relevant laws and requirements, all Agency Actions are designed to support agencies in leveraging their data assets.  
 
-* **Responsible**: General Services Administration  
-* **Supported practice(s)**: All practices
-* **Measurement**: Number of agencies that access and use the tool within 3/6/9/12 months
-* **Timeline**: Completed within 3 months 
+![Agency-Specific Actions]({{ site.baseurl }}/assets/img/2020-action-plan/agency-actions.png "Agency-Specific Actions")  
 
-### Action 6: Pilot a One-stop Standard Research Application
+### Action 1: Identify Data Needs to Answer Priority Agency Questions
+
+By September 2020, all agencies will take initial steps to identify the data needed to answer priority questions of interest to the agency.[^5]
+
+For the past several years through the budget formulation process,  OMB has encouraged agencies to develop multi-year learning agendas. A multi-year learning agenda enables agencies to systematically identify the most critical short- and long-term questions relevant to the programs, policies, and regulations of an agency. The Evidence Act now requires the development of learning agendas,  directing CFO Act agencies to generate a multi-year learning agenda in conjunction with their strategic plans. Agencies develop learning agendas in consultation with both internal and external stakeholders, using the process to generate and organize priority agency questions that can be pursued through activities that include statistics, program evaluation, research, performance management, and policy analysis. Adopting this approach of identifying priority agency questions at the outset helps to establish a process through which an agency can allocate its statistical, performance management, research and evaluation efforts, and funding to the most critical questions that face the agency. 
+
+This approach represents a paradigm shift in how agencies leverage data assets. Rather than constraining research based on data, the learning agenda process ensures that a research agenda starts with the priority agency questions. Once the priority agency questions have been identified, then the agency must contemplate what data are needed to answer the priority agency questions. This critical next step is also explicitly required under the Evidence Act, which states that learning agendas must include “a list of data the agency intends to collect, use, or acquire to facilitate the use of evidence in policymaking.”  Exhibit 6 maps the process by which an agency might approach identifying data needs to answer priority agency questions.
+
+![Data Collection Tree]({{ site.baseurl }}/assets/img/2020-action-plan/data-collection-tree.png "Data Collection Tree")  
+
+The data required to answer a priority agency question might already exist — either in that agency, at another agency, or within a non-Federal entity (e.g., private firm or state/local government). The development and expansion of high-quality data inventories and data catalogs across agencies, as required by the Evidence Act and supported by Actions 6 and 17, will increase agencies’ capacity to determine whether the data required to answer priority agency questions is already collected and maintained within the Federal Government. Under circumstances where the data needed already exist, the next step would be to either directly access the data holdings, or to develop an acquisition strategy to access the needed data. Alternatively, the data required might not exist or might not be accessible because of legal or other barriers, and a new collection effort may be justified. Many agencies already have processes and procedures by which they assess the availability of data to answer priority agency questions, even if the agency does not yet have a formalized learning agenda in place. 
+
+| Milestone                                                                                                                                                               | Measurement | Target Date | Reporting Mechanism                                   | Required or Encouraged                                                           |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|-------------|-------------------------------------------------------|----------------------------------------------------------------------------------|
+| Consult with key agency leaders, such as Chief Data Officers, Evaluation Officers and Statistical Officials to identify data needed to answer priority agency questions | Completion  | 10 months   | FY 2022 Annual Performance Plan and Budget Submission | Required for CFO Act Agencies only.Encouraged for all agencies.(see OMB M-19-23) |
+| Identify data needs for answering priority questions in the interim learning agenda                                                                                     | Completion  | 10 months   | FY 2022 Annual Performance Plan and Budget Submission | Required for CFO Act Agencies only.Encouraged for all agencies.(see OMB M-19-23) |
+| Develop a plan to engage the stakeholders needed to access or acquire the data needed to answer priority questions                                                      | Completion  | 10 months   | FY 2022 Annual Performance Plan and Budget Submission | Required for CFO Act Agencies only.Encouraged for all agencies.(see OMB M-19-23) |
+
+
+### Action 2: Institutionalize Agency Data Governance
+
+All agencies were required by M-19-23 to establish an inclusive and empowered Data Governance Body (DGB) by September 30, 2019, to be chaired by the Chief Data Officer, with participation from relevant senior-level staff in agency business units, data functions, and financial management. 
+
+By January 2020, all agencies will publish documentation related to the DGB (e.g., membership, charter, meeting cadence, and minutes) on their agency data web page (at https://[agency].gov/data) and by November 2020, all agencies will have begun enterprise-wide data governance activities such as capital planning for enterprise data assets and infrastructure, emerging priority data governance areas such as preparing data for use in artificial intelligence, and an agency data strategy or road map, or master data management program.
+
+The DGB should use data maturity models to assess agency capabilities (see Action 3: Assess Data and Related Infrastructure Maturity), and should also seek broad agency input before recommending data investment priorities. The DGB membership should be updated as needed. 
+
+Agencies may refer to A Playbook in Support of the Federal Data Strategy: Getting Started on Prioritizing Data Governance and Assessing Maturity for guidance and support in accomplishing this action as well as Action 3. 
+
+| Milestone                                                                                                                  | Measurement              | Target Date                                                  | Reporting Mechanism                                                          | Required or Encouraged      |
+|----------------------------------------------------------------------------------------------------------------------------|--------------------------|--------------------------------------------------------------|------------------------------------------------------------------------------|-----------------------------|
+| Publish agency data governance materials (membership, charter, meeting cadence) on [agency].gov/data web page              | Completion               | 1 months                                                     | Post to agency/data web page                                                 | Required for all agencies   |
+| After you complete your assessment of current staff data skills and literacy (see Action 3), dedicate staff to support DGB | Number of FTEs dedicated | 9 months                                                     | FY 2022 Annual Performance Plan and Budget Submission                        | Encouraged for all agencies |
+| Document how the DGB receives its authority                                                                                | Completion               | 9 months                                                     | FY 2022 Annual Performance Plan and Budget Submission                        | Encouraged for all agencies |
+| Put in place a data strategy or road map                                                                                   | Completion               | 1 activity per quarter, any order encouraged of all agencies | strategy.data.gov & in agency Information Resource Management Strategic Plan | Encouraged for all agencies |
+| Develop a plan for capital planning for enterprise data assets and infrastructure                                          | Completion               | 1 activity per quarter, any order encouraged of all agencies | strategy.data.gov & in agency Information Resource Management Strategic Plan | Encouraged for all agencies |
+| Adopt a master data management program                                                                                     | Completion               | 1 activity per quarter, any order encouraged of all agencies | strategy.data.gov & in agency Information Resource Management Strategic Plan | Encouraged for all agencies |
+
+### Action 3: Assess Data and Related Infrastructure Maturity
+
+By May 2020, all agencies will should conduct an initial maturity assessment focusing on data and related data infrastructure (e.g., organizational structures and knowledge bases, policies) to set a baseline for future improvements. 
+
+Maturity assessments allow an organization to evaluate itself against documented best practices, determine gaps, and identify priority areas for improvement. A maturity assessment analyzes all aspects of agency policies, procedures, and operations related to data and data infrastructure, including data governance, data management, data culture, data systems and tools, data analytics, staff skills and capacity, resource capacity, and compliance with law and policy. The results of a maturity assessment feed into the data governance and management processes to inform investment decisions and to prioritize subsequent actions. A maturity assessment should be proactively communicated and explained to employees and repeated periodically, as determined by the agency, to measure progress and prioritize next steps. 
+
+The maturity model used to conduct the maturity assessment should be chosen by the DGB established under Action 2. This assessment will identify readiness to meet other requirements of the strategy and related legal requirements and can be used to make investment decisions and to prioritize subsequent actions. Agencies may refer to A Playbook in Support of the Federal Data Strategy: Getting Started on Prioritizing Data Governance and Assessing Maturity for guidance and support in accomplishing this action as well as Action 2.
+
+| Milestone                                                                                                                                  | Measurement                        | Target Date | Reporting Mechanism | Required or Encouraged      |
+|--------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------|-------------|---------------------|-----------------------------|
+| Select an operational maturity assessment model for data and data infrastructure                                                           | Completion                         | 6 months    | strategy.data.gov   | Required for all agencies   |
+| Agency Chief Data Officer and other senior-level staff participate in any training or technical assistance related to maturity assessments | Number of people attended training | 9 months    | strategy.data.gov   | Encouraged for all agencies |
+| Document the outcome of the initial data maturity assessment                                                                               | Completion                         | 9 months    | strategy.data.gov   | Encouraged for all agencies |
+
+### Action 4: Identify Opportunities to Increase Staff Data Skills
  
-By August 2020, the Federal Government will pilot a one-stop standard application for accessing federal data assets for research and other evidence building purposes. 
+By Month 2020, all CFO Act agencies, pursuant to M-19-23 and the Evidence Act, will have documented information on their plans to carry out a capacity assessment to assess the coverage, quality, methods, effectiveness, and independence of the statistics, evaluation, research, and analysis efforts of the agency. These assessments may be further leveraged by agencies to identify critical data skills, assess their staffs’ capacities for those skills, identify any gaps, and take actions to ensure that their Federal workforces are well-prepared to support evidence-building activities. 
 
-The Federal Statistical Research Data Center Program Management Office at the U.S. Census Bureau, in collaboration with member agencies and others with active researcher access programs, will develop an automated and streamlined research application (analogous to TSA Pre-check or Global Entry) that would provide a standardized approach for qualified and trained researchers to access agency data that cannot be made public and would reduce the paperwork burden resulting from duplicative forms. This approach would have the added benefit of also holistically setting consistent and appropriate access requirements and data security and privacy protocols in accordance with applicable laws and regulations. 
-This shared action has received financial resources as part of the Cross-Agency Priority Goal: Leveraging Data as a Strategic Asset and a U.S. Census Bureau responsible party has been assigned. 
+The staff data skills assessment should align with, and be a part of, ongoing human capital management efforts designed to ensure agencies have skills and competencies needed to effectively accomplish agency mission. This alignment is important since achieving parity between an agency’s data skill needs and its workforce capacity requires repeating this process over time. The assessment has four major components:
 
-* **Responsible**: The Federal Statistical Research Data Center Program Management Office, U.S. Census Bureau, Department of Commerce under the direction of the Interagency Council on Statistical Policy.
-* **Supported practice(s)**: Diversify Data Access Methods 
-* **Measurement**: Number of agencies’ requirements harmonized into application
-* **Timeline**: Completed within 12 months
+1.	Identify critical data skills needed for the agency
+2.	Assess the current staff capacity for those data skills 
+3.	Perform a data skills gap analysis to prioritize the agency’s needs
+4.	Identify and execute approaches to fill those needs
 
-### Action 7: Pilot an Automated Inventory Tool for Data.gov
+The identification of critical data skills will naturally be informed by the determination of agency priority questions, including those gathered during the development of the learning agenda (see Action 1) and will be addressed in the agency maturity assessment (Action 3). Thoughtful consideration should also be given to identifying a minimum level of data literacy among all staff, including for those performing roles not traditionally considered data related. The agency should assess the data skills possessed by the current workforce and seek to understand data literacy rates among its staff. The gap analysis should determine how much more of each critical skill is required among staff and facilitate a prioritization of needed skills relative to available resources. Options for increasing staff skills capacity may include new analysis or other software tools, easy-to-use dashboards, additional training and educational opportunities, on-the-job rotational learning experiences, participation in data-related communities of practice, and introducing hiring and retention strategies to address gaps.
 
-By August 2020, the Federal Government will have an automated tool that leverages agency Information Collection Review (ICR) processes and documentation under the Paperwork Reduction Act and possibly other existing sources, to populate metadata, or information about each dataset, on agency enterprise data inventories. This automation tool will complement the inventory requirements under the Evidence Act. 
+Note: This action can also serve as one input to the capacity assessment required by CFO Act agencies under the Evidence Act, in coordination with Evaluation Officers.
 
-This action will begin a multi-year process of deploying an automated approach to populating needed information on agency data inventories in order to address public, cross-agency and intra-agency needs for data discovery and access, leveraging existing processes to the extent feasible. Discovery includes the capacity to identify duplication in a manner that helps to avert unnecessary collections and promotes collaboration to leverage single collections for multiple benefits. Discovery and access both include sufficient metadata to understand whether the data is collected under a pledge of confidentiality or privacy and, if so, whether restricted access versions of the data are available. Inputs to the automated data collection inventory include, but are not limited to, existing processes such as the ICR process required of agencies and OMB under the Paperwork Reduction Act, with a particular focus on OMB control numbers as an identifier and ICR packages as sources of metadata. 
+| Milestone                                                                                                                            | Measurement                        | Target Date | Reporting Mechanism | Required or Encouraged                                        |
+|--------------------------------------------------------------------------------------------------------------------------------------|------------------------------------|-------------|---------------------|---------------------------------------------------------------|
+| Perform an assessment of current staff data literacy and data skills                                                                 | Completion                         | 6 months    | strategy.data.gov   | Required for CFO Act Agencies onlyEncouraged for all agencies |
+| Conduct a gap analysis between the current staff's skills and the skills the agency requires                                         | Number of people attended training | 9 months    | strategy.data.gov   | Required for CFO Act Agencies onlyEncouraged for all agencies |
+| Based on the assessment, establish a baseline and develop a performance  plan to close the identified data skills and literacy  gaps | Completion                         | 12 months   | strategy.data.gov   | Required for CFO Act Agencies onlyEncouraged for all agencies |
 
-This shared action has received financial resources as part of the Cross-Agency Priority Goal: Leveraging Data as a Strategic Asset and a Department of Education responsible party has been assigned and work is currently underway to execute this goal.
 
-* **Responsible**: National Center for Education Statistics, Department of Education 
-* **Supported practice(s)**: Inventory Datasets 
-* **Measurement**: 	
-	- New capture and review tool developed and tested at two agencies (Y/N)
-	- Multi-agency stakeholder input on functionality of user interface obtained (Y/N)
-* **Timeline**: Completed within 12 months 
+### Action 5: Identify Priority Data Assets for Agency Open Data Plans
 
-### Action 8: Pilot Standard Data Catalogs for Data.gov
+By January 2020, all agencies will identify their initial list of priority data assets for agency open data plans.  This list will describe data assets that the agency considers especially valuable to the public interest and therefore intends to make available as open government data. Agency open data plans will include (1) processes and procedures that require data collection mechanisms created on or after January 13, 2019, facilitate open formats, and facilitate collaboration with non-Government entities (including businesses), researchers, and the public for the purpose of understanding how data users value and use government data; (2) identify methods to collect and analyze digital information on data asset usage by users within and outside of the agency, including designating a point of contact within the agency to assist the public and  to respond to quality issues, usability issues, recommendations for improvements, and complaints about adherence to open data requirements within a reasonable period of time; (3) develop a process to evaluate and improve the timeliness, completeness, consistency, accuracy, usefulness, and availability of open Government data assets; and (4) includes requirements for meeting the goals of the agency open data plan, including the acquisition.
 
-By February 2020, the Federal Government will have an improved standard Federal Data Catalog kit pilot for metadata management and data hosting capabilities, in support of legally required federal data catalog requirements. This automation tool will complement the inventory and Federal Data Catalogue requirements under the Foundations for Evidence-based Policymaking Act.
+A playbook and use cases that describe prioritization methodologies and examples of open data access to support this action are available at resources.data.gov.
 
-The General Services Administration will create a government-wide data catalog platform pilot with a shared code base and cloud hosting that agencies can install quickly and cheaply, and that is customizable enough to support agency needs, leveraging Data.gov’s existing open source codebase and modern container/plugin techniques. This approach will provide cost savings across the Federal Government’s hosting and management of data catalogs, create more complete and sophisticated federal data catalogs with advanced features such as automated quality assurance, and result in increased use and improved user experience for the public and agencies.
+| Milestone                                                                                                                                                          | Measurement                               | Target Date                                                                                 | Reporting Mechanism                                   | Required or Encouraged    |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------|---------------------------------------------------------------------------------------------|-------------------------------------------------------|---------------------------|
+| Publish an Open Data Plan for sharing priority agency data assets, developed with stakeholder engagement, including data assets that support AI R&D (see Action 6) | Completion                                | After OMB Open Data Plan Guidance is issued; Annually on Agency IRM Strategic Plan schedule | Agency Information Resource Management Strategic Plan | Required for all agencies |
+| Execute a process to evaluate and improve the timeliness, completeness, consistency, accuracy, usefulness, and availability of open Government data assets         | Qualitative and quantitative improvements | 12 months                                                                                   | strategy.data.gov & agency public data.json APIs      | Required for all agencies |
 
-This shared action has received financial resources as part of the Cross-Agency Priority Goal: Leveraging Data as a Strategic Asset and a GSA responsible party has been assigned and work is currently underway to execute this goal. 
+### Action 6: Publish and Update Data Inventories 
  
-* **Responsible**: General Services Administration  
-* **Supported practice(s)**: Inventory Datasets 
-* **Measurement**: 	
-  - Number of CFO agencies that implement the tool within 3/6/9/12 months
-  - Number of additional datasets on or available through Data.gov 
-* **Timeline**: Completed within 6 months 
+By July 2020, all agencies will update existing comprehensive data inventories in accordance with updated standard metadata that facilitates ingestion by data.gov and search engine optimization. At least every 90 days, all agencies will identify missing or incomplete listings in their comprehensive data inventories and ensure metadata is comprehensive for priority data assets, such as data assets included in agency Open Data Plans, identified in Community of Practice Actions 8, 9, and 10, or as identified by the Chief Data Officer Council (CDO Council). 
 
-[Back to top](#draft-action-steps) 
+| Milestone                                                                                      | Measurement                   | Target Date                                    | Reporting Mechanism          | Required or Encouraged    |
+|------------------------------------------------------------------------------------------------|-------------------------------|------------------------------------------------|------------------------------|---------------------------|
+| Update comprehensive data inventories for overall completeness and priority data asset sprints | Metadata quality improvements | Minimally every 3 months, as often as possible | Agency public data.json APIs | Required for all agencies |
+| Update comprehensive data inventory to conform to standard metadata                            | Completion                    | 6 months                                       | Agency public data.json APIs | Required for all agencies |
 
-## Community Actions: Cross-Agency Collaboration 
 
-### Action 9: Improve Data Resources for AI Research and Development
+## Community of Practice Actions
+
+Community of Practice Actions are taken by a specific agency or group of agencies related to a common topic, usually through an established interagency council or other existing coordinating mechanism. Community of Practice Actions seek to integrate and coordinate ongoing efforts related to existing laws, regulations, and executive orders that are particularly relevant to the strategy. For this initial Action Plan, the four Community of Practice Actions included were identified as key opportunities for agencies to build upon ongoing efforts to improve and better coordinate data-related initiatives across agencies. In particular, the Community of Practice Actions included in the 2020 Action Plan capitalize on current work related to the Executive Order on Maintaining American Leadership in Artificial Intelligence, the Geospatial Data Act of 2018, the Evidence Act, and efforts related to the management and use of several financial management data assets across government. These four actions, undertaken with cross-agency collaboration, will speed and streamline the execution of existing requirements, as depicted in Exhibit 7 below.
+
+![Community of Practice Action]({{ site.baseurl }}/assets/img/2020-action-plan/community-of-practice-actions.png "Community of Practice Action")  
+
+
+### Action 7: Launch a Federal Chief Data Officer Council
  
-By February 2020, the Federal Government, through the implementation of Executive Order on Maintaining American Leadership in Artificial Intelligence, will have improved the data and computing resources for AI Research and Development, by:
+By January 2020, OMB will launch, and agency CDOs will participate in, a CDO Council, as required by the Evidence Act and detailed in OMB M-19-23. The CDO Council will meet regularly, establish its priorities, and begin to develop resources as required by the Evidence Act to support CDOs in fulfilling their responsibilities under the Evidence Act. Resources may be developed in concert with the FDS team and other councils and will represent government-wide best practices for the generation, use, protection, and dissemination of data; promote and encourage data sharing agreements between agencies; and identify ways in which agencies can improve upon the production of evidence for use in policymaking. The CDO Council’s resources will reflect consultation with the public and engagement with private users of government data and other stakeholders on how to improve access to Federal data assets. In addition, the CDO Council will identify and evaluate new technology solutions for improving the collection and use of data. 
 
-* All agencies shall review their Federal data and models to identify opportunities to increase access and use by the greater non-Federal AI research community in a manner that benefits that community, while protecting safety, security, privacy, and confidentiality based on OMB guidance and in response to public feedback (see Action 16). Specifically, agencies shall improve data and model inventory documentation to enable discovery and usability, and shall prioritize improvements to access and quality of AI data and models based on the AI research community’s user feedback. 
-* **Responsible**: All Agencies  
-* **Supported practice(s)**: Promote Wide Access
-* **Measurement**: See data.gov and code.gov  
-* **Timeline**: Completed within 6 months
+The CDO Council will share responsibility with other government-wide councils that conduct statutory, data-related activities, such as the Interagency Council on Statistical Policy (ICSP) and the Evaluation Officer Council. OMB expects that the activities of these multiple councils will be coordinated through the OMB Federal Data Policy Committee, to be established under Action 12.
 
-### Action 10: Improve Financial Management Data Standards
+| Milestone                              | Measurement                             | Target Date | Reporting Mechanism          | Required or Encouraged |
+|----------------------------------------|-----------------------------------------|-------------|------------------------------|------------------------|
+| Launch CDO Council                     | Number of meetings held                 | 1 month     | Agency public data.json APIs | OMB                    |
+| Create resources                       | Number of resources published           | 12 months   | Agency public data.json APIs | CDOs                   |
+| Encourage use of resources by agencies | Track adoption of resources by agencies | 12 months   |                              | CDOs                   |
 
-By August 2020, the Federal Government, through the implementation of the President’s Management Agenda, will have improved the management and use of several financial management data assets, by:
-
-* Getting Payments Right: The Federal Government will reduce the amount of cash lost to the taxpayer through incorrect payments; clarify and streamline reporting and compliance requirements to focus on actions that make a difference; and partner with states to address improper payments in programs that they administer using federal funds.
-* Result Oriented Accountability for Grants: The Federal Government will rebalance compliance efforts with a focus on results for the American taxpayer; standardize grant reporting data and improve data collection in ways that will increase efficiency, promote evaluation, reduce reporting burden, and benefit the American taxpayer; measure progress and share lessons learned and best practices to inform future efforts, and support innovation to achieve results.
-* Federal IT Spending Transparency: The Federal Government will improve business, financial, and acquisition outcomes; enable federal executives to make data-driven decisions and analyze trade-offs between cost, quality, and value of IT investments; reduce agency burden for reporting IT budget, spend, and performance data by automating the use of authoritative data sources; and enable IT benchmarking across Federal Government agencies and with other public and private sector organizations.
-* **Responsible**: President’s Management Council 
-* **Supported practice(s)**: Prioritize Data Governance; Leverage Data Standards
-* **Measurement**: See Performance.gov/PMA/PMA for detailed metrics 
-* **Timeline**: Completed within 12 months
-
-### Action 11: Improve Geospatial Data Standards
-
-By August 2020, the Federal Government will have improved geospatial data standards for all Federal Geospatial Data Committee (FGDC) data themes.
-
-The Geospatial Data Act requires the FGDC to establish standards for each of the National Geospatial Data Asset data themes and content standards for metadata, consistent with international standards and with public feedback, excluding public disclosure of any information that reasonably could be expected to cause damage to the national interest, security, or defense of the nation.
-
-* **Responsible**: Federal Geospatial Data Committee
-* **Supported practice(s)**: Prioritize Data Governance; Leverage Data Standards
-* **Measurement**: 	
-    - Number of FGDC data themes with improved geospatial data standards 
-    - Established content standards for metadata (Y/N)
-* **Timeline**: Completed within 12 months 
 
 [Back to top](#draft-action-steps) 
 
 
-## Agency-Specific Actions: Agency Activities
-
-### Action 12: Constitute a Diverse Data Governance Body
-
-By September 2019, all agencies will have established an appropriately inclusive and empowered data governance body to ensure that agency resources are aligned with agency priorities based on a maturity assessment and mission needs.
-
-All agencies will charter and constitute a data governance body driven by chief data officers (as required by the Evidence Act) with participation from Senior Executives in agency business units, and agency-wide data support functions such as policy leaders, general counsels, privacy officers, statistical advisors, evaluation officers, and chief information officers. Convening appropriate senior level staff and technical experts to discuss data resources, set policy, and recommend future investments may have many benefits including: increasing transparency and trust about the data brought to bear in decision-making, aligning goals and procedures to protect privacy and secure data, and reducing the resources needed for data management through new efficiencies. An agency data governance structure—variously called data governance board, data council, and data stewardship committee—identifies the scope of the data that needs to be managed and specifies policies, standards, reporting structures, and roles for data management. The board uses data maturity models to assess agency capabilities and seeks meaningful and broad agency input before recommending data investment priorities. It ensures the monitoring of and compliance with policies, standards, and responsibilities throughout the information lifecycle.
-
-* **Responsible**: All agencies 
-* **Supported practice(s)**: Prioritize Data Governance
-* **Measurement**: 
-   - Established diverse and empowered governance board (Y/N)
-   - Number of actions taken by body each quarter
-* **Timeline**: Completed within 1 month
-
-### Action 13: Assess Data and Related Infrastructure Maturity
-
-By May 2020, all agencies will conduct an initial maturity assessment focusing on data and data infrastructure (e.g. organizational structures and knowledge bases, policies, workforce skills) needed to answer agency priority questions and to set a baseline for future improvements. This assessment will identify readiness to meet other requirements of the Federal Data Strategy and related legal requirements. It can be used to make investment decisions and to prioritize subsequent action steps.
- 
-* **Responsible**: All agencies
-* **Supported practice(s)**: Assess Maturity
-* **Measurement**: 	
-    - Agency chief data officer and others have participated in any federally-provided training or technical assistance (Y/N)
-    - Assessment documented and available (Y/N)
-* **Timeline**: Completed within 9 months 
-
-### Action 14: Identify Opportunities to Increase Staff Data Skills
-
-By May 2020, agencies will have begun to identify critical data skills required to support high quality analysis and evaluation, data management, and privacy protection.   
-
-Data-driven decision-making requires not only accessible, high quality data but also a workforce with adequate knowledge of data security practices and data skills, including data science, statistics, and program evaluation, to leverage insights from data while also safeguarding protected information. In an increasingly complex and data-saturated decision landscape, even staff who traditionally have not employed data in their day-to-day functioning will be better able to meet critical business needs by attaining at least basic data literacy skills. 
- 
-Achieving parity between skill needs and workforce capacity is an ongoing process involving several sequential steps:
-
-1. Identifying critical data skills for the agency (and relevant sub-units) in the areas of analysis and evaluation, data management, and privacy protection; 
-2. Assessing current staff capacity for critical data skills including by surveying survey staff for unseen skills (and skills that may not be related to employees’ job series); and 
-3. Developing an initial plan to address gaps between critical data skill needs and current capacity.
-
-The identification of critical data skills will naturally be informed by the determination of agency key questions, and aided by the Data Science catalog created by GSA, but thoughtful consideration should be given to the less visible data skill needs of staff performing non-traditional data roles (such as IT, communications, and finance) as well as the needs of staff fulfilling more traditional programming and analysis functions. An initial plan to address identified skill gaps should establish a mechanism for providing the time and resources staff need to learn and apply new skills. This plan should leverage options for increasing staff capacity, such as acquiring easy-to-use tools and dashboards, making available additional training and educational opportunities, taking advantage of on-the-job learning experiences, participating in intentional data communities, and capitalizing on hiring and retention flexibilities.
-
-* **Responsible**: All agencies
-* **Supported practice(s)**: Use Data to Guide Decision-Making and Increase Capacity for Data Management and Analysis
-* **Measurement**: Agency has identified critical data skills, assessed current staff capacity, and developed an initial plan to reskill their workforce or hire to meet their data demands (Y/N)
-* **Timeline**: Completed within 9 months
-
-### Action 15: Identify Data Needs to Answer Key Agency Questions
-
-By August 2020, all agencies will take initial steps to identify the data needed to answer key questions of interest to the agency.
-
-The learning agenda process is one critical tool to help agencies identify and prioritize the data needed to answer key agency questions by engaging senior leaders and stakeholders. By focusing on the priority questions, agencies will consider what data are currently available; any issues around data quality or coverage; and if data are not available, how they might be collected or acquired.
-
-* **Responsible**: All agencies
-* **Supported practice(s)**: Identify Data Needs to Answer Key Agency Questions; Champion Data Use; Prioritize Data Governance; Govern Data to Protect Confidentiality and Privacy
-* **Measurement**: 
-    - Agency has engaged stakeholders and consulted with key leaders, such as Chief Data Officers, to begin identifying the data needed to answer key agency questions (Y/N)
-    - Agency has categorized data needs for key questions by data type (Y/N)
-* **Timeline**: Completed within 12 months 
-
-### Action 16: Identify Priority Datasets for Agency Open Data Plans
-
-By August 2020, agencies will identify then use their initial list of highest priority datasets as the focus for enhancing their data inventories and catalogs and approaches to secure data access and sharing.
-
-Agencies will identify an initial set of priority agency datasets that are key to mission success and/or a priority for stakeholders outside of the agency. These datasets can be the initial focus for testing and implementing improvements to agency comprehensive data inventories and catalogs, as required by the Evidence Act, as well as for improving secure processes for data access and sharing, for concretely engaging stakeholders to help them understand and use federal data, and for obtaining effective feedback on the agency’s planning processes to improve open data access.
-
-* **Responsible**: All agencies
-* **Supported practice(s)**: Promote Wide Access 
-* **Measurement**: 
-    - Priority agency datasets identified with stakeholder input (Y/N)
-    - Plan for sharing priority agency datasets developed with the engagement of stakeholders (Y/N)
-* **Timeline**: Completed within 12 months 
-
-[Back to top](#draft-action-steps) 
+{:.footnotes}
+#### Footnotes
+[^5]: The provisions under Title I of the Evidence Act apply to the 24 agencies identified in the Chief Financial Officers Act of 1990 (CFO Act) in 31 U.S.C. §901(b), but OMB Memorandum M-19-23 strongly recommends participation of all non-CFO Act agencies, and sub-agencies, operational divisions, and bureaus of CFO Act agencies.  Thus, this requirement is only mandatory for agencies that are subject to the Evidence Act’s mandatory requirements but encouraged for all others. 
