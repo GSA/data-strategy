@@ -4,7 +4,7 @@ permalink: /team/
 layout: page
 ---
 
-### The Federal Data Strategy Development Team is comprised of a core group of cross-disciplinary data experts from across the Federal Government.
+## The Federal Data Strategy Development Team is comprised of a core group of cross-disciplinary data experts from across the Federal Government.
 
 The _Leveraging Data as a Strategic Asset_ Cross Agency Priority (CAP) Goal commits the Administration to developing a long-term comprehensive Federal Data Strategy. Senior officials from the Department of Commerce, the Small Business Administration, the Office of Management and Budget, and the Office of Science and Technology Policy co-lead the CAP Goal. The Federal Data Strategy Development Team conducts research and analysis; facilitate stakeholders; and distill feedback for the Federal Data Strategy. 
 
@@ -20,6 +20,7 @@ The _Leveraging Data as a Strategic Asset_ Cross Agency Priority (CAP) Goal comm
 
 **Bronson Armstrong**, White House Leadership Development Fellow, U.S. Department of Defense, on detail to Office of Management and Budget, Executive Office of the President  
 **Matt Austin**, NOAA Data strategy Coordinator, U.S. Department of Commerce  
+**Trey Bradley**, Strategic Data Initiatives Program Manager, Office of Shared Solutions & Performance Improvement, U.S. General Services Administration  
 **Debbie Brodt-Gilesm**, Data Science and Innovation Group Manager, U.S. Department of Energy  
 **Melvin Brown II**, Director, Office of the Chief Information Officer, Small Business Administration  
 **Ryan Byrnes**, Visual Information Specialist, U.S. Department of Commerce  
@@ -46,13 +47,12 @@ The _Leveraging Data as a Strategic Asset_ Cross Agency Priority (CAP) Goal comm
 **Teresa Smith**, Chief Data Office/Director of Strategic Data Services, U.S. Department of Defense  
 **Rebecca Williams**, Digital Service Expert, Office of Management and Budget, Executive Office of the President  
 
-# Federal Data Strategy Development Alumni
+### Federal Data Strategy Development Alumni
 
 **Ken Ambrose**, Senior Policy Analyst, Health Resources and Services Administration, U.S. Department of Health and Human Services  
 **Tom Beach**, Chief Data Strategist and Portfolio Manager, U.S. Patent and Trademark Office, U.S. Department of Commerce  
 **Marika Bertram**, Data Analysis and Evaluation, U.S. Department of Housing and Urban Development  
 **Sharon Boivin**, Senior Advisor, Office of the Chief Data Officer, U.S. Department of Education  
-**Trey Bradley**, Strategic Data Initiatives Program Manager, Office of Shared Solutions & Performance Improvement, U.S. General Services Administration  
 **Noah Brod**, Economic Development Specialist, Small Business Administration  
 **Leremy Colf**, Director of Disaster Science, U.S. Department of Health and Human Services  
 **Chris Campbell**, Director of Enterprise Data Management and Chief Data Architect, U.S. Department of Homeland Security  
