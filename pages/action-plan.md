@@ -15,9 +15,9 @@ In addition, the 2020 Action Plan includes a series of pilot projects already un
 Annual Action Plans are developed iteratively with stakeholder feedback and input incorporated along the way. If you’d like to be notified about updates or ways to be involved, please sign up for our news updates. A downloadable PDF will be available soon.
 
 ## Preamble
-* **[Special Thanks to Our Contributors](#)**  
-* **[Data, Accountability, and Transparency: Creating a Data Strategy and Infrastructure for the Future](#)**  
-* **[How We Will Get There: The Dynamic Nature of the Federal Data Strategy](#)**  
+* **[Special Thanks to Our Contributors]({{ site.baseurl }}/action-plan/special-thanks/)**  
+* **[Data, Accountability, and Transparency: Creating a Data Strategy and Infrastructure for the Future]({{ site.baseurl }}/action-plan/creating-a-strategy/)**  
+* **[How We Will Get There: The Dynamic Nature of the Federal Data Strategy]({{ site.baseurl }}/action-plan/how-we-will-get-there/)**  
 
 ## Action Plan Categories
 * **[Agency Actions](#agency-actions)**  
