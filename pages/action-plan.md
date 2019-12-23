@@ -317,7 +317,7 @@ This action will begin a multi-year process of deploying an automated approach t
 | Engage stakeholders for feedback on the tool                 | Number of stakeholder engagement activities | 12 months   | NCES              |
 | Publish report describing agency tests and stakeholder input | Posted to [resources.data.gov](https://resources.data.gov)                | 12 months   | NCES              |
 
-### Action 18: Pilot Enhanced Data Management Tool for agencies
+### Action 18: Pilot Enhanced Data Management Tool for Federal Agencies
 
 By September 2020, GSA will have developed and piloted an improved tool for metadata management, data hosting, and API capabilities in support of open data and Federal data catalog requirements under the Evidence Act. Currently, most agencies have to identify their own solution for managing their data inventories, metadata, and APIs. This project will provide agencies with an option to use a centrally developed and hosted data management tool, designed to reduce cost and workload at any individual agency.
 
