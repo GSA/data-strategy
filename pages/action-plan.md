@@ -390,4 +390,4 @@ Future annual Action Plans will build on the 2020 Action Plan to further develop
 [^18]: 44 U.S.C. §3511(c)(2).
 [^19]: See Report on Statistical Disclosure Limitation Methodology available at: [nces.ed.gov/FCSM/pdf/spwp22.pdf](https://nces.ed.gov/FCSM/pdf/spwp22.pdf)
 [^20]: 44 U.S.C. §3501 et seq.
-[^21]: Government-wide metadata standards are available at resources,data.gov
+[^21]: Government-wide metadata standards are available at [resources.data.gov](https://resources.data.gov)
