@@ -14,7 +14,7 @@ In addition, the 2020 Action Plan includes a series of pilot projects already un
  
 Annual Action Plans are developed iteratively with stakeholder feedback and input incorporated along the way. If you’d like to be notified about updates or ways to be involved, please sign up for our news updates. A downloadable PDF will be available soon.
 
-[Download PDF - Detailed Explainer Document]({{ site.baseurl }}/assets/docs/2019-2020-federal-data-strategy-explainer.pdf){: .usa-button}
+[Download PDF - Revisions Based on Feedback]({{ site.baseurl }}/assets/docs/2019-2020-federal-data-strategy-revisions-based-on-feedback.pdf){: .usa-button}
 
 ## Preamble
 * **[Special Thanks to Our Contributors]({{ site.baseurl }}/action-plan/special-thanks/)**  
@@ -66,6 +66,7 @@ The DGB should use data maturity models to assess agency capabilities (see Actio
 
 Agencies may refer to *A Playbook in Support of the Federal Data Strategy: Getting Started on Prioritizing Data Governance and Assessing Maturity* for guidance and support in accomplishing this action as well as Action 3.[^9]
 
+{:.action-two-milestone-table}
 | Milestone                                                                                                                  | Measurement              | Target Date                                                  | Reporting Mechanism                                                          | Required or Encouraged      |
 |----------------------------------------------------------------------------------------------------------------------------|--------------------------|--------------------------------------------------------------|------------------------------------------------------------------------------|-----------------------------|
 | Publish agency data governance materials (membership, charter, meeting cadence) on [agency].gov/data web page              | Completion               | 1 months                                                     | Post to agency/data web page                                                 | Required for all agencies   |

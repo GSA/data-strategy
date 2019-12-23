@@ -75,7 +75,7 @@ The revised 2020 Action Plan offers additional context, clarity, and detail. The
     
 [Download PDF - Draft 2020 Action Plan]({{ site.baseurl }}/assets/docs/draft-2019-2020-federal-data-strategy-action-plan.pdf){: .usa-button}
   
-[Download PDF - Detailed Explainer Document]({{ site.baseurl }}/assets/docs/2019-2020-federal-data-strategy-explainer.pdf){: .usa-button}
+[Download PDF - Revisions Based on Feedback]({{ site.baseurl }}/assets/docs/2019-2020-federal-data-strategy-revisions-based-on-feedback.pdf){: .usa-button}
 
 
 </div>
