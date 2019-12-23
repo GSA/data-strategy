@@ -7,24 +7,22 @@ layout: page
 
 ## What are the Practices?
 
-The Federal Data Strategy offers a balanced and holistic approaches to deriving value from the entire Federal Government data asset portfolio while protecting security, privacy, and confidentiality and addressing lifecycle management, maturity models, risk/utility models, tiered access, and secondary data use.
- 
-The Federal Data Strategy’s Practices were developed after the release of draft Practices subject to public comment.  These revised Practices are designed to inform agency actions on a regular basis, to be continually relevant, and to be sufficiently general so as to broadly apply at all federal agencies and across all missions. The Practices represent aspirational goals that, when fully realized, will continually challenge and guide agencies, practitioners, and policymakers to improve the government’s approach to data stewardship and the leveraging of data to create value.
+The Practices represent aspirational, actionable goals that, when fully realized, will continually challenge and guide agencies, practitioners, and policymakers to improve the government’s approach to data stewardship and to leveraging data to create value. 
 
-The Practices are organized in three categories that reflect the importance of tailoring the management of data to the uses of the data, such as answering questions critical to the Federal Government or meeting stakeholder needs. By prioritizing uses of the data, the Federal Government can derive more value from otherwise unanticipated or secondary uses of data assets and more strategically execute data management improvements. Specifically, the Practice categories are:
+The Practices are organized into three categories:
+* *Building a Culture that Values Data and Promotes Public Use (Practices 1-10)*
+* *Governing, Managing, and Protecting Data (Practices 11-26)*
+* *Promoting Efficient and Appropriate Data Use (Practices 27-39)*
 
-* Building a Culture that Values Data and Promotes Public Use (Practices 1-10)
-* Governing, Managing, and Protecting Data (Practices 11-26)
-* Promoting Efficient and Appropriate Data Use (Practices 27-40)
+[Learn about the history of the Practices]({{ site.baseurl }}/background/#how-were-the-practices-created){: .usa-button}
 
-The importance of protecting individual privacy is integrated and emphasized throughout the Practices.
-
+[Download Practices PDF]({{ site.baseurl }}/assets/docs/federal-data-strategy-practices.pdf){: .usa-button}
 
 ## Practices
 
 ### Building a Culture that Values Data and Promotes Public Use
 
-Practices 1-10 derive value by articulating data uses for agency decision-making and accountability and supporting commercialization, innovation, and public use. To improve data management, agencies should consider potential uses of data and the benefits of those uses for answering key agency questions and meeting stakeholder needs. To derive value from these potential uses, agencies need leadership champions, management buy-in, and staff capacity to conduct the data driven decision-making cycle that prioritizes the informative value of data. When using data to answer key questions and address stakeholder needs, agencies should use data sources that are the most fit for the particular purpose. When allocating resources, agencies should prioritize data that identifies problems, informs solutions, and provides transparency for results delivered. Agencies shall: 
+Practices 1-10 derive value by articulating data uses for agency decision-making and accountability and supporting commercialization, innovation, and public use. Agencies shall: 
 
 1. **Identify Data Needs to Answer Key Agency Questions**: Use the learning agenda[^1]  process to identify and prioritize the agency's key questions and the data needed to answer them. 
 2. **Assess and Balance the Needs of Stakeholders**: Identify and engage stakeholders throughout the data lifecycle to identify stakeholder needs and to incorporate stakeholder feedback into government priorities to maximize entrepreneurship, innovation, scientific discovery, economic growth, and the public good.
@@ -39,7 +37,7 @@ Practices 1-10 derive value by articulating data uses for agency decision-making
 
 ### Governing, Managing, and Protecting Data
 
-Practices 11-26 derive value from data by bringing leaders with diverse perspectives and expertise together to plan for using the data appropriately and responsibly. A data governance structure helps agencies use data to answer important questions while meeting legal and ethical requirements essential to maintaining public trust, including protecting privacy and ensuring confidentiality. Agency questions and user needs should drive specific governance, management, and data protection priorities. Data governance and management also allow agencies to assess data quality and the agency’s capacity to acquire, manage, protect and use data to address mission priorities, as well as to prioritize data investments. A broad spectrum of leaders and skill sets within and across agencies will be key to successful implementation of these Practices, and inter-agency collaboration will be essential for consistency across the government. Agencies shall:
+Practices 11-26 derive value from data by bringing leaders with diverse perspectives and expertise together to plan for using the data appropriately and responsibly. Agencies shall:
 
 {:start="11"}
 
@@ -62,7 +60,7 @@ Practices 11-26 derive value from data by bringing leaders with diverse perspect
 
 ### Promoting Efficient and Appropriate Data Use
 
-Practices 27-40 derive value from data by providing access to data resources, promoting appropriate use of data resources, and providing guidance on approaches for data augmentation. Access to data resources includes Practices related to sharing data assets, including open data and tiered access to protected data, disclosure review, and interoperability of federal data. Use of data resources includes Practices related to data documentation, emerging technologies for protecting confidential data, and federal data expertise. Data augmentation includes Practices related to data quality, metadata standards, and secure data linkage. Agency leadership and practitioners within programs will be key to these activities, many of which involve working across agencies and with experts across industry. Agencies shall:
+Practices 27-40 derive value from data by providing access to data resources, promoting appropriate use of data resources, and providing guidance on approaches for data augmentation. Agencies shall: 
 
 {:start="27"}
 
@@ -81,18 +79,8 @@ Practices 27-40 derive value from data by providing access to data resources, pr
 39. **Support Federal Stakeholders**: Engage with relevant agencies to share expert knowledge of data assets, promote wider use, improve usability and quality, and meet mission goals.
 40. **Support Non-Federal Stakeholders**: Engage with industry, academic, and other non-federal users of data to share expert knowledge of data assets, promote wider use, improve usability and quality, and advance innovation and commercialization.
 
-[Download Final Practices PDF]({{ site.baseurl }}/assets/docs/federal-data-strategy-practices.pdf){: .usa-button}
+[Download Practices PDF]({{ site.baseurl }}/assets/docs/federal-data-strategy-practices.pdf){: .usa-button}
 
-
-## How were the Practices created?
-
-On behalf of the Federal Data Strategy team, the Department of Commerce published a Request for Comments (RFC) in the Federal Register on October 16, 2018. The RFC included a set of six specific questions about the draft Practices and asked the public to provide specific Action Steps that should be associated with a particular Practice. Comments were also submitted through the Federal Data Strategy website. The RFC closed on November 16, and the website closed to comments on November 23, 2018.
-
-In developing the final set of Practices for Leveraging Data as a Strategic Asset, the draft Practices were revised in response to public comment and expert review, including adding new Practices suggested by reviewers; merging Practices where overlap or duplication was identified; and incorporating alternative or additional concepts to improve specific Practices, as suggested by commenters.  The draft Practices had been grouped according to five broad objectives, however, after feedback from stakeholders, the revised Practices have been organized under three umbrella categories: *Building a Culture that Values Data and Promotes Public Use; Governing, Managing, and Protecting Data; and Promoting Efficient and Appropriate Data Use*. 
-
-[Download PDF - Draft Practices ]({{ site.baseurl }}/assets/docs/federal-data-strategy-draft-practices.pdf){: .usa-button}
-
-[Download PDF - Revising the Practices Based on Feedback]({{ site.baseurl }}/assets/docs/revising-the-practices-based-on-feedback.pdf){: .usa-button}
 
 {:.footnotes}
 #### Footnotes

@@ -1,6 +1,6 @@
 ---
 title: Welcome
-permalink: /
+permalink: /frontpage/
 layout: frontpage
 ---
 
