@@ -24,10 +24,28 @@
    background-color : #fff;
   text-align : center;
   vertical-align: center;
-line-height : 19rem;
+  line-height : 19rem;
   font-size : 1.8rem;
   font-family: Merriweather,Georgia,Cambria,Times New Roman,Times,serif;
+  display : block;
+  width : 100%;
+  margin-bottom : 2rem;
 }
+
+@media screen and (min-width: 600px) {
+.frontpage-boxes .usa-width-one-fourth {
+  display : block;
+  width: 47.58542%;
+}
+}
+
+@media screen and (min-width: 1201px) {
+.frontpage-boxes .usa-width-one-fourth {
+  display : block;
+  width: 23.23176%;
+}
+}
+
 
 .frontpage-boxes .usa-width-one-fourth:hover {
   background-color : #112e51;
