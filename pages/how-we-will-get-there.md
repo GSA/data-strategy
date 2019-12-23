@@ -17,7 +17,7 @@ Each annual Action Plan will consist of actions that incorporate one or more of 
 
 ## Collective Resources, Continuous Learning, & Constant Feedback
 To further support agencies in executing the FDS, the FDS team has identified opportunities for collective resources, continuous learning tools, and stakeholder feedback opportunities including:
-1.	An online repository of policies, standards, tools, best practices, and case studies, known as Federal Enterprise Data Resources and located at resources.data.gov, has been established to provide centralized access to resources related to Federal data management and use;
+1.	An online repository of policies, standards, tools, best practices, and case studies, known as Federal Enterprise Data Resources and located at [resources.data.gov](https://resources.data.gov), has been established to provide centralized access to resources related to Federal data management and use;
 2.	Resources and “proof point” examples to incubate small data projects within agencies including, the GEAR Center, the Incubator Playbook (a collection of tools available to agencies for data incubation projects), and a body of crowd-sourced use cases and “proof points”; 
 3.	Companion resources to implement every Agency Action step; and 
 4.	Shared Solution Action steps to prototype calls for platforms needed to implement the FDS. 
@@ -38,14 +38,14 @@ The 2020 Action Plan is designed to be cross-cutting and to support agencies in 
 
 The 2020 Action Plan includes 20 actions broken into three distinct categories: Agency Actions, Community of Practice Actions, and Shared Solution Actions. 
 
-* **6 Agency Actions** are executed by each agency and are designed to advance each agency’s ability to fully leverage its data as a strategic asset. Agency Actions set expectations for progress and success in implementing the strategy by building a foundation for the management of data throughout the lifecycle within agencies.  Implementation guidance will be routinely updated on strategy.data.gov, and resources to support implementation will be regularly posted to the repository at resources.data.gov. 
+* **6 Agency Actions** are executed by each agency and are designed to advance each agency’s ability to fully leverage its data as a strategic asset. Agency Actions set expectations for progress and success in implementing the strategy by building a foundation for the management of data throughout the lifecycle within agencies.  Implementation guidance will be routinely updated on [resources.data.gov](https://strategy.data.gov), and resources to support implementation will be regularly posted to the repository at [resources.data.gov](https://strategy.data.gov). 
 * **4 Community of Practice Actions** are taken by a specific group of agencies around a common topic, usually through an established interagency council or other existing coordinating mechanism. Community of Practice Actions seek to integrate and coordinate ongoing efforts related to existing laws, regulations, and executive orders that are particularly relevant to the strategy.
 * **10 Shared Solution Actions** are distinct projects or efforts that are led by a single agency or existing interagency council for the benefit of all agencies. Shared Solution Actions provide government-wide thought leadership, direction, tools, governance, and services for implementing the strategy that can be leveraged by all agencies. Many of the Shared Solution Actions have received financial resources as part of the CAP Goal: *Leveraging Data as a Strategic Asset*[^4] and are already underway.
 
 For each action, the 2020 Action Plan includes: a description of the desired result of successful execution of the action, the identification of an entity responsible for executing the action, a set of metrics for measuring progress during the first year, and the expected timeline for completion of the action. 
 
 {:.post-image-box .post-image-box-center .no-border}
-![Year 1 Actions Matrix]({{ site.baseurl }}/assets/img/2020-action-plan/year-1-actions-matrix.png "Year 1 Actions Matrix")
+![Year 1 Actions Matrix]({{ site.baseurl }}/assets/img/2020-action-plan/federal-data-strategy-year-1-actions.png "Year 1 Actions Matrix")
 
 
 {:.footnotes}

@@ -14,6 +14,8 @@ In addition, the 2020 Action Plan includes a series of pilot projects already un
  
 Annual Action Plans are developed iteratively with stakeholder feedback and input incorporated along the way. If you’d like to be notified about updates or ways to be involved, please sign up for our news updates. A downloadable PDF will be available soon.
 
+[Download PDF - Detailed Explainer Document]({{ site.baseurl }}/assets/docs/2019-2020-federal-data-strategy-explainer.pdf){: .usa-button}
+
 ## Preamble
 * **[Special Thanks to Our Contributors]({{ site.baseurl }}/action-plan/special-thanks/)**  
 * **[Data, Accountability, and Transparency: Creating a Data Strategy and Infrastructure for the Future]({{ site.baseurl }}/action-plan/creating-a-strategy/)**  
@@ -23,6 +25,9 @@ Annual Action Plans are developed iteratively with stakeholder feedback and inpu
 * **[Agency Actions](#agency-actions)**  
 * **[Community of Practice Actions ](#community-of-practice-actions)** 
 * **[Shared Solution Actions ](#shared-solution-actions)**
+
+## Conclusion
+* **[Looking Forward](#looking-forward)**
 
 ## Agency Actions
 
@@ -64,11 +69,11 @@ Agencies may refer to *A Playbook in Support of the Federal Data Strategy: Getti
 | Milestone                                                                                                                  | Measurement              | Target Date                                                  | Reporting Mechanism                                                          | Required or Encouraged      |
 |----------------------------------------------------------------------------------------------------------------------------|--------------------------|--------------------------------------------------------------|------------------------------------------------------------------------------|-----------------------------|
 | Publish agency data governance materials (membership, charter, meeting cadence) on [agency].gov/data web page              | Completion               | 1 months                                                     | Post to agency/data web page                                                 | Required for all agencies   |
-| After you complete your assessment of current staff data skills and literacy (see Action 3), dedicate staff to support DGB | Number of FTEs dedicated | 9 months                                                     | FY 2022 Annual Performance Plan and Budget Submission                        | Encouraged for all agencies |
-| Document how the DGB receives its authority                                                                                | Completion               | 9 months                                                     | FY 2022 Annual Performance Plan and Budget Submission                        | Encouraged for all agencies |
+| After you complete your assessment of current staff data skills and literacy (see Action 3), dedicate staff to support DGB | Number of FTEs dedicated | 9 months                                                     | [strategy.data.gov](https://strategy.data.gov)                        | Encouraged for all agencies |
+| Document how the DGB receives its authority                                                                                | Completion               | 9 months                                                     | [strategy.data.gov](https://strategy.data.gov)                        | Encouraged for all agencies |
 | Put in place a data strategy or road map                                                                                   | Completion               | 1 activity per quarter, any order encouraged of all agencies | [strategy.data.gov](https://strategy.data.gov) & in agency Information Resource Management Strategic Plan | Encouraged for all agencies |
-| Develop a plan for capital planning for enterprise data assets and infrastructure                                          | Completion               | 1 activity per quarter, any order encouraged of all agencies | [strategy.data.gov](https://strategy.data.gov) & in agency Information Resource Management Strategic Plan | Encouraged for all agencies |
-| Adopt a master data management program                                                                                     | Completion               | 1 activity per quarter, any order encouraged of all agencies | [strategy.data.gov](https://strategy.data.gov) & in agency Information Resource Management Strategic Plan | Encouraged for all agencies |
+| Develop a plan for capital planning for enterprise data assets and infrastructure                                          | Completion               | (See Above) | (See Above) | Encouraged for all agencies |
+| Adopt a master data management program                                                                                     | Completion               | (See Above) | (See Above) | Encouraged for all agencies |
 
 ### Action 3: Assess Data and Related Infrastructure Maturity
 
@@ -86,7 +91,7 @@ The maturity model used to conduct the maturity assessment should be chosen by t
 
 ### Action 4: Identify Opportunities to Increase Staff Data Skills
  
-By Month 2020, all CFO Act agencies, pursuant to M-19-23 and the Evidence Act, will have documented information on their plans to carry out a capacity assessment to assess the coverage, quality, methods, effectiveness, and independence of the statistics, evaluation, research, and analysis efforts of the agency. These assessments may be further leveraged by agencies to identify critical data skills, assess their staffs’ capacities for those skills, identify any gaps, and take actions to ensure that their Federal workforces are well-prepared to support evidence-building activities. 
+By September 2020, all CFO Act agencies, pursuant to M-19-23 and the Evidence Act, will have documented information on their plans to carry out a capacity assessment to assess the coverage, quality, methods, effectiveness, and independence of the statistics, evaluation, research, and analysis efforts of the agency. These assessments may be further leveraged by agencies to identify critical data skills, assess their staffs’ capacities for those skills, identify any gaps, and take actions to ensure that their Federal workforces are well-prepared to support evidence-building activities. 
 
 The staff data skills assessment should align with, and be a part of, ongoing human capital management efforts designed to ensure agencies have skills and competencies needed to effectively accomplish agency mission. This alignment is important since achieving parity between an agency’s data skill needs and its workforce capacity requires repeating this process over time. The assessment has four major components:
 
@@ -101,9 +106,9 @@ Note: This action can also serve as one input to the capacity assessment require
 
 | Milestone                                                                                                                            | Measurement                        | Target Date | Reporting Mechanism | Required or Encouraged                                        |
 |--------------------------------------------------------------------------------------------------------------------------------------|------------------------------------|-------------|---------------------|---------------------------------------------------------------|
-| Perform an assessment of current staff data literacy and data skills                                                                 | Completion                         | 6 months    | [strategy.data.gov](https://strategy.data.gov)   | Required for CFO Act Agencies onlyEncouraged for all agencies |
-| Conduct a gap analysis between the current staff's skills and the skills the agency requires                                         | Number of people attended training | 9 months    | [strategy.data.gov](https://strategy.data.gov)   | Required for CFO Act Agencies onlyEncouraged for all agencies |
-| Based on the assessment, establish a baseline and develop a performance  plan to close the identified data skills and literacy  gaps | Completion                         | 12 months   | [strategy.data.gov](https://strategy.data.gov)   | Required for CFO Act Agencies onlyEncouraged for all agencies |
+| Perform an assessment of current staff data literacy and data skills                                                                 | Completion                         | 6 months    | [strategy.data.gov](https://strategy.data.gov)   | Required for CFO Act Agencies only <br> Encouraged for all agencies |
+| Conduct a gap analysis between the current staff's skills and the skills the agency requires                                         | Number of people attended training | 9 months    | [strategy.data.gov](https://strategy.data.gov)   | Required for CFO Act Agencies only <br> Encouraged for all agencies |
+| Based on the assessment, establish a baseline and develop a performance  plan to close the identified data skills and literacy  gaps | Completion                         | 12 months   | [strategy.data.gov](https://strategy.data.gov)   | Required for CFO Act Agencies only <br> Encouraged for all agencies |
 
 
 ### Action 5: Identify Priority Data Assets for Agency Open Data Plans
@@ -119,7 +124,7 @@ A playbook and use cases that describe prioritization methodologies and examples
 
 ### Action 6: Publish and Update Data Inventories 
  
-By July 2020, all agencies will update existing comprehensive data inventories in accordance with updated standard metadata that facilitates ingestion by data.gov and search engine optimization. At least every 90 days, all agencies will identify missing or incomplete listings in their comprehensive data inventories and ensure metadata is comprehensive for priority data assets, such as data assets included in agency Open Data Plans, identified in Community of Practice Actions 8, 9, and 10, or as identified by the Chief Data Officer Council (CDO Council). 
+By July 2020, all agencies will update existing comprehensive data inventories in accordance with updated standard metadata that facilitates ingestion by [data.gov](https://www.data.gov) and search engine optimization. At least every 90 days, all agencies will identify missing or incomplete listings in their comprehensive data inventories and ensure metadata is comprehensive for priority data assets, such as data assets included in agency Open Data Plans, identified in Community of Practice Actions 8, 9, and 10, or as identified by the Chief Data Officer Council (CDO Council). 
 
 | Milestone                                                                                      | Measurement                   | Target Date                                    | Reporting Mechanism          | Required or Encouraged    |
 |------------------------------------------------------------------------------------------------|-------------------------------|------------------------------------------------|------------------------------|---------------------------|
@@ -189,17 +194,17 @@ The Federal Government, through the FGDC with input from and in partnership with
 
 The SAOGI at OMB will assist the FGDC in ensuring FGDC cross-representation on appropriate data oversight bodies to help spatially enable the Federal data enterprise. FGDC members will work with the other oversight bodies to establish a process to develop consistent identification of the spatial attributes of both spatial datasets (data with feature geometry) and non-spatial datasets with location attributes (e.g., address, coordinates, county name). This engagement will lay the foundation that enables the relating or joining of data with like spatial attributes to add contextual value and provide a catalyst for innovative data use and spatial analytics.
 
-The FGDC will operate an electronic service known as the GeoPlatform and provide access to geospatial data and related metadata for all National Geospatial Data Assets (NGDA), excluding public disclosure of any information that reasonably could be expected to cause damage to the national interest, security, or defense of the nation; and provide standards-compliant metadata and standards-compliant web services for all NGDA data assets, registered with data.gov and available as web services through the GeoPlatform.
+The FGDC will operate an electronic service known as the GeoPlatform and provide access to geospatial data and related metadata for all National Geospatial Data Assets (NGDA), excluding public disclosure of any information that reasonably could be expected to cause damage to the national interest, security, or defense of the nation; and provide standards-compliant metadata and standards-compliant web services for all NGDA data assets, registered with [data.gov](https://www.data.gov) and available as web services through the GeoPlatform.
 
 The Federal Government’s lead agencies for NGDA data assets will identify, inventory, and publish the status and standards being used for each of the NGDA data themes and content and services metadata, consistent with international standards, excluding public disclosure of any information that reasonably could be expected to cause damage to the national interest, security, or defense of the nation.
 
 | Milestone                                                                                      | Measurement                                                                                                                                                                          | Target Date | Responsible Party                                         |
 |------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|-----------------------------------------------------------|
 | Establish the NSDI strategic plan                                                              | Completion                                                                                                                                                                           | 12 months   | SAOGI at OMB, FGDC, FGDC NGDA Lead Covered Agencies, GSA  |
-| Publish a GeoPlatform providing standards-compliant web services for NGDAs                     | Completion                                                                                                                                                                           | 12 months   | SAOGI at OMB, FGDC, FGDC NGDA Lead Covered Agencies, GSAĘ |
-| Engage with other relevant councils                                                            | Number of engagements                                                                                                                                                                | 12 months   | SAOGI at OMB, FGDC, FGDC NGDA Lead Covered Agencies, GSAĘ |
-| Publish NGDA data theme data assets with standards compliant metadata and webservice endpoints | Percentage of NGDA data assets that are compliant                                                                                                                                    | 12 months   | SAOGI at OMB, FGDC, FGDC NGDA Lead Covered Agencies, GSAĘ |
-| Track NGDAs for implementation of standards                                                    | Percentages of NGDAs with: i) metadata standards, ii) established content standards, iii) standards in process, iv) data assets not requiring standards, v) no established standards | 12 months   | SAOGI at OMB, FGDC, FGDC NGDA Lead Covered Agencies, GSAĘ |
+| Publish a GeoPlatform providing standards-compliant web services for NGDAs                     | Completion                                                                                                                                                                           | 12 months   | SAOGI at OMB, FGDC, FGDC NGDA Lead Covered Agencies, GSA  |
+| Engage with other relevant councils                                                            | Number of engagements                                                                                                                                                                | 12 months   | SAOGI at OMB, FGDC, FGDC NGDA Lead Covered Agencies, GSA  |
+| Publish NGDA data theme data assets with standards compliant metadata and webservice endpoints | Percentage of NGDA data assets that are compliant                                                                                                                                    | 12 months   | SAOGI at OMB, FGDC, FGDC NGDA Lead Covered Agencies, GSA  |
+| Track NGDAs for implementation of standards                                                    | Percentages of NGDAs with: i) metadata standards, ii) established content standards, iii) standards in process, iv) data assets not requiring standards, v) no established standards | 12 months   | SAOGI at OMB, FGDC, FGDC NGDA Lead Covered Agencies, GSA  |
 
 [Back to top](#main-content)
 
@@ -214,7 +219,7 @@ Shared Solution Actions are described as government-wide data services and repre
 By December 2020, the General Services Administration (GSA), the Office of Government Information Services of the National Archives, and OMB will collaborate with stakeholders to develop the website [resources.data.gov](https://resources.data.gov), a government-wide repository of policies, standards, tools, best practices, and case studies that is required under the Evidence Act.[^16] This repository, titled *Federal Enterprise Data Resources*, has been established to provide centralized access to resources related to Federal data management and use in support of agencies as they seek to execute both the FDS and the requirements of the Evidence Act.[^17] The repository will include the following types of resources:  
 
 * **Case Studies**: Examples of what agencies are currently implementing
-* **Data.gov Schema**: The standard metadata schema required for inclusion in data.gov, the Federal data catalog[^18]
+* **Data.gov Schema**: The standard metadata schema required for inclusion in [data.gov](https://www.data.gov), the Federal data catalog[^18]
 * **Federal Data Strategy**: Guiding principles and best practices and associated implementation tools
 * **Playbooks**: Decision points, checklists, and questions that help organizations navigate options
 * **Requirements**: Definitions, laws, policies, and regulations
@@ -270,11 +275,11 @@ Initial work to develop a data ethics framework has already begun with a review 
 * *Pilots*: Encouraging agencies to pilot a prototype framework using their own data management processes and provide specific feedback about its utility, completeness, and drawbacks.
 * *Use cases*: Developing use cases to illustrate the application of the framework across the data lifecycle. 
 
-| Milestone                                                                | Measurement                  | Target Date             | Responsible Party             |       |
-|--------------------------------------------------------------------------|------------------------------|-------------------------|-------------------------------|-------|
-| Initial examination of ethical issues encountered across data life cycle |                              | 6 months                | GSA with CDO Council and ICSP |       |
-| Release initial data ethics framework and use cases                      | Posted to [resources.data.gov](https://resources.data.gov) | 12 months               | GSA                           |       |
-| Transfer responsibility for review and update                            |                              | Ongoing every 24 months | "CDO Council                  | ICSP" |
+| Milestone                                                                | Measurement                  | Target Date             | Responsible Party             |
+|--------------------------------------------------------------------------|------------------------------|-------------------------|-------------------------------|
+| Initial examination of ethical issues encountered across data life cycle |                              | 6 months                | GSA with CDO Council and ICSP |
+| Release initial data ethics framework and use cases                      | Posted to [resources.data.gov](https://resources.data.gov) | 12 months               | GSA |
+| Transfer responsibility for review and update                            |                              | Ongoing every 24 months | CDO Council, ICSP      |
 
 
 ### Action 15: Develop a Data Protection Toolkit 
@@ -321,7 +326,7 @@ This action will begin a multi-year process of deploying an automated approach t
 
 By September 2020, GSA will have developed and piloted an improved tool for metadata management, data hosting, and API capabilities in support of open data and Federal data catalog requirements under the Evidence Act. Currently, most agencies have to identify their own solution for managing their data inventories, metadata, and APIs. This project will provide agencies with an option to use a centrally developed and hosted data management tool, designed to reduce cost and workload at any individual agency.
 
-GSA will create a government-wide platform pilot with a shared code base and cloud hosting that is customizable to support agency needs, leveraging Data.gov’s existing open source codebase. This approach can provide agencies with a cost-effective option to manage metadata and data assets, host data assets for public access, assist in the improvement in the quality of metadata and result in increased use and improved user experience for the public and for agencies.
+GSA will create a government-wide platform pilot with a shared code base and cloud hosting that is customizable to support agency needs, leveraging [data.gov](https://www.data.gov)’s existing open source codebase. This approach can provide agencies with a cost-effective option to manage metadata and data assets, host data assets for public access, assist in the improvement in the quality of metadata and result in increased use and improved user experience for the public and for agencies.
 
 | Milestone                                                                           | Measurement                                                  | Target Date | Responsible Party |
 |-------------------------------------------------------------------------------------|--------------------------------------------------------------|-------------|-------------------|
