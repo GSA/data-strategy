@@ -18,8 +18,21 @@
 }
 
 .frontpage-boxes .usa-width-one-fourth {
-  border : 1px solid #ccc;
+  border : 1px solid #02bfe7;
   height : 20rem;
+  color : #112e51;
+   background-color : #fff;
+  text-align : center;
+  vertical-align: center;
+line-height : 19rem;
+  font-size : 1.8rem;
+  font-family: Merriweather,Georgia,Cambria,Times New Roman,Times,serif;
+}
+
+.frontpage-boxes .usa-width-one-fourth:hover {
+  background-color : #112e51;
+  cursor: pointer;
+  color : #02bfe7;
 }
 
 .usa-nav-link.old-link {
