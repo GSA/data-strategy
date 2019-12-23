@@ -101,6 +101,10 @@
  margin-bottom : 1em;
 }
 
+.post-image-box.no-border {
+  border : 0;
+}
+
 
 .post-body .block-clear {
   display : block;
