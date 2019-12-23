@@ -1,6 +1,6 @@
 ---
 title: 2020 Action Plan - Special Thanks to Our Contributors
-permalink: /action-plan/special-thanks
+permalink: /action-plan/special-thanks/
 layout: action-plan
 ---
 
