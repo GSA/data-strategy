@@ -73,11 +73,9 @@ Many commenters provided feedback on the 16 Actions included in the draft Action
     
 The revised 2020 Action Plan offers additional context, clarity, and detail. The 16 original Action Steps were reorganized, and four additional Action Steps were added based on stakeholder feedback. The revised 2020 Action Plan features a new forward, an expanded introduction, more detailed descriptions of the Action Steps, and a discussion of the role of future Action Plans
     
-[Download PDF of DRAFT 2020 ACTION PLAN]({{ site.baseurl }}/assets/docs/draft-2019-2020-federal-data-strategy-action-plan.pdf){: .usa-button}
-
-[Download PDF of FINAL 2020 ACTION PLAN](){: .usa-button}
-    
-[Download Detailed Explainer Document](){: .usa-button}
+[Download PDF - Draft 2020 Action Plan]({{ site.baseurl }}/assets/docs/draft-2019-2020-federal-data-strategy-action-plan.pdf){: .usa-button}
+  
+[Download PDF - Detailed Explainer Document]({{ site.baseurl }}/assets/docs/2019-2020-federal-data-strategy-explainer.pdf){: .usa-button}
 
 
 </div>
