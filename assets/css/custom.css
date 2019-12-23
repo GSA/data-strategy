@@ -17,6 +17,47 @@
   display: none;
 }
 
+.frontpage-boxes .usa-width-one-fourth {
+  border : 1px solid #02bfe7;
+  height : 20rem;
+  color : #112e51;
+   background-color : #fff;
+  text-align : center;
+  vertical-align: center;
+  line-height : 19rem;
+  font-size : 1.8rem;
+  font-family: Merriweather,Georgia,Cambria,Times New Roman,Times,serif;
+  display : block;
+  width : 100%;
+  margin-bottom : 2rem;
+}
+
+@media screen and (min-width: 600px) {
+.frontpage-boxes .usa-width-one-fourth {
+  display : block;
+  width: 47.58542%;
+}
+}
+
+@media screen and (min-width: 1201px) {
+.frontpage-boxes .usa-width-one-fourth {
+  display : block;
+  width: 23.23176%;
+}
+}
+
+
+.frontpage-boxes .usa-width-one-fourth:hover {
+  background-color : #112e51;
+  cursor: pointer;
+  color : #02bfe7;
+}
+
+.usa-nav-link.old-link {
+  text-decoration: line-through;
+  color : #ccc;
+}
+
 .news.usa-content {
   padding-top : 0;
 }
@@ -91,6 +132,10 @@
  margin-bottom : 1em;
 }
 
+.post-image-box.no-border {
+  border : 0;
+}
+
 
 .post-body .block-clear {
   display : block;
@@ -130,6 +175,10 @@ div.footnotes {
     background-image: url("../img/incubator-bg.png");
     background-repeat: no-repeat;
     height : 188px;
+}
+
+.incubator-separator {
+  border-top : 2rem solid #112e51;
 }
 
 .incubator-page-list .usa-media_block-img.svg-icon {
@@ -209,8 +258,60 @@ div.footnotes {
   font-weight: bold;
 }
 
+
+table.action-two-milestone-table tr:nth-child(4) td:nth-child(3), 
+table.action-two-milestone-table tr:nth-child(5) td:nth-child(3),
+table.action-two-milestone-table tr:nth-child(4) td:nth-child(4), 
+table.action-two-milestone-table tr:nth-child(5) td:nth-child(4){
+  border-bottom : 1px solid #fff;
+}
+
+table.action-two-milestone-table tr:nth-child(4) td,
+table.action-two-milestone-table tr:nth-child(5) td,
+table.action-two-milestone-table tr:nth-child(6) td {
+  background-color : #fff;
+}
+
 .timeline .usa-grid {
     height : 400px;
+}
+
+
+.overview-mission {
+  padding : 1rem; 
+}
+
+.overview-mission h4 {
+  padding-top : 0;
+  margin-top : 0;
+}
+
+.overview-mission { 
+    background-color : #305584;
+    color : #fff;
+}
+
+.overview-principles {
+  margin-top : 2rem;
+  margin-bottom : 2rem !important;
+  display : block;
+}
+
+.overview-principles button,
+.overview-principles .usa-accordion-content {
+  background-color : #3879BC;
+  color : #fff;
+  padding : 1rem;
+}
+
+.overview-governing-managing-protecting-head button, 
+.overview-governing-managing-protecting-body button {
+  background-color : #C2D5F6;
+}
+
+.overview-promoting-efficient-head button, 
+.overview-promoting-efficient-body button {
+  background-color : #E2B0A7;
 }
 
 .dataTables_filter label input[type="search"] {

@@ -21,7 +21,7 @@ The _Leveraging Data as a Strategic Asset_ Cross Agency Priority (CAP) Goal comm
 **Bronson Armstrong**, White House Leadership Development Fellow, U.S. Department of Defense, on detail to Office of Management and Budget, Executive Office of the President  
 **Matt Austin**, NOAA Data strategy Coordinator, U.S. Department of Commerce  
 **Trey Bradley**, Strategic Data Initiatives Program Manager, Office of Shared Solutions & Performance Improvement, U.S. General Services Administration  
-**Debbie Brodt-Gilesm**, Data Science and Innovation Group Manager, U.S. Department of Energy  
+**Debbie Brodt-Giles**, Data Science and Innovation Group Manager, U.S. Department of Energy  
 **Melvin Brown II**, Director, Office of the Chief Information Officer, Small Business Administration  
 **Ryan Byrnes**, Visual Information Specialist, U.S. Department of Commerce  
 **Anna Calcagno**, Deputy Director, Office of Program Planning, Analysis, and Evaluation, U.S. Department of Health and Human Services  
@@ -74,7 +74,7 @@ The _Leveraging Data as a Strategic Asset_ Cross Agency Priority (CAP) Goal comm
 **Ed Kearns**, Chief Data Officer, National Oceanic and Atmospheric Administration, U.S. Department of Commerce  
 **Lee Kelly**, Division Director, Office of Information Security and Privacy, U.S. Environmental Protection Agency  
 **Julia Lane**, Senior Research Fellow, U.S. Department of Commerce  
-**Hilary Leeds**, Health Science Policy Analyst, National Institutes of Health, U.S. Department of Health and Human Services
+**Hilary Leeds**, Health Science Policy Analyst, National Institutes of Health, U.S. Department of Health and Human Services  
 **Grace Levin**, Management Analyst, U.S. State Department  
 **Anne Levine**, Acting Chief Data Officer, Federal Communications Commission  
 **Lisa Mancino**, Senior Agricultural Economist, U.S. Department of Agriculture  
@@ -83,11 +83,11 @@ The _Leveraging Data as a Strategic Asset_ Cross Agency Priority (CAP) Goal comm
 **Anne Parker**, Program Manager, Internal Revenue Service, U.S. Department of the Treasury  
 **Natalie Rico**, Senior Policy Analyst, Office of Management and Budget, Executive Office of the President  
 **Joseph Semsar**, Chief of Staff to the Deputy Secretary, U.S. Department of Commerce  
-**Stacy Sneeringer**, Research Economist, Economic Research Service, U.S. Department of Agriculture
+**Stacy Sneeringer**, Research Economist, Economic Research Service, U.S. Department of Agriculture  
 **Rachel Snyderman**, Program Examiner, Office of Management and Budget, Executive Office of the President  
 **Genevieve Soule**, Program Analyst, Office of Enforcement and Compliance Assurance, U.S. Environmental Protection Agency  
 **Leanne Tang**, Lead System Architect and Developer, National Agricultural Statistics Service, U.S. Department of Agriculture  
-**Neesha J. Thomas**, Consultant, National Institutes of Health, U.S. Department of Health and Human Services  
+**Re’Neesha J. Thomas**, Consultant, National Institutes of Health, U.S. Department of Health and Human Services  
 **Zachary Trautt**, Materials Research Engineer, National Institute of Standards and Technology, U.S. Department of Commerce  
 **Kim Valentine**, Acting Deputy Geospatial Information Officer, National Oceanic and Atmospheric Administration, U.S. Department of Commerce  
 **Khoa Vo**, White House Leadership Fellow, Office of Management and Budget, Executive Office of the President  

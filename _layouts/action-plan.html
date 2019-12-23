@@ -3,73 +3,79 @@ layout: default
 ---
 
 <main class="usa-grid usa-section usa-content usa-layout-docs" id="main-content">
-  <aside class="usa-width-one-fourth usa-layout-docs-sidenav">
-    
 
+{% unless page.nav == "hide"  %}
+<aside class="usa-width-one-fourth usa-layout-docs-sidenav">
+    
 <nav>
   <ul class="usa-sidenav-list">
 
 
   <li>
-    <a href="#draft-action-steps" class="usa-current">
-      Draft Action Plan
+    <a href="{{ site.baseurl }}/action-plan/" class="usa-current">
+      2020 Action Plan
     </a>
     
     <ul class="usa-sidenav-sub_list">
-      
   
   <li>
-    <a href="#shared-actions-government-wide-data-services" class="action-plan-subheader">
-      Shared Actions: Government-wide Data Services
+    <a href="{{ site.baseurl }}/action-plan/special-thanks/" class="action-plan-subheader">
+      Special Thanks
+    </a>
+  </li>
+
+  <li>
+    <a href="{{ site.baseurl }}/action-plan/creating-a-strategy/" class="action-plan-subheader">
+      Creating a Strategy
+    </a>
+  </li>
+
+  <li>
+    <a href="{{ site.baseurl }}/action-plan/how-we-will-get-there/" class="action-plan-subheader">
+      How We Will Get There
+    </a>
+  </li>
+  
+  <li>
+    <a href="{{ site.baseurl }}/action-plan/#agency-actions" class="action-plan-subheader">
+      Agency Actions
     </a>
     
     <ul class="usa-sidenav-sub_list">
 
 	  <li>
-	    <a href="#action-1-create-an-omb-data-council">
-	      Action 1: Create an OMB Data Council
+	    <a href="{{ site.baseurl }}/action-plan/#action-1-identify-data-needs-to-answer-priority-agency-questions">
+	      Action 1: Identify Data Needs to Answer Priority Agency Questions
 	    </a>
 	  </li>
 
 	  <li>
-	    <a href="#action-2-develop-a-curated-data-science-training-and-credentialing-catalog">
-	      Action 2: Develop a Curated Data Science Training and Credentialing Catalog
+	    <a href="{{ site.baseurl }}/action-plan/#action-2-institutionalize-agency-data-governance">
+	      Action 2: Institutionalize Agency Data Governance
 	    </a>
 	  </li>
 
 	  <li>
-	    <a href="#action-3-develop-a-data-ethics-framework">
-	      Action 3: Develop a Data Ethics Framework
+	    <a href="{{ site.baseurl }}/action-plan/#action-3-assess-data-and-related-infrastructure-maturity">
+	      Action 3: Assess Data and Related Infrastructure Maturity
 	    </a>
 	  </li>	  
 
 	  <li>
-	    <a href="#action-4-develop-a-data-protection-toolkit">
-	      Action 4: Develop a Data Protection Toolkit
+	    <a href="{{ site.baseurl }}/action-plan/#action-4-identify-opportunities-to-increase-staff-data-skills">
+	      Action 4: Identify Opportunities to Increase Staff Data Skills
 	    </a>
 	  </li>	
 
 	  <li>
-	    <a href="#action-5-develop-a-repository-of-federal-data-strategy-resources-and-tools">
-	      Action 5: Develop a Repository of Federal Data Strategy Resources and Tools
+	    <a href="{{ site.baseurl }}/action-plan/#action-5-identify-priority-data-assets-for-agency-open-data-plans">
+	      Action 5: Identify Priority Data Assets for Agency Open Data Plans
 	    </a>
 	  </li>	
 
 	  <li>
-	    <a href="#action-6-pilot-a-one-stop-standard-research-application">
-	      Action 6: Pilot a One-stop Standard Research Application
-	    </a>
-	  </li>	
-
-	  <li>
-	    <a href="#action-7-pilot-an-automated-inventory-tool-for-datagov">
-	      Action 7: Pilot an Automated Inventory Tool for Data.gov
-	    </a>
-	  </li>	
-
-	  <li>
-	    <a href="#action-8-pilot-standard-data-catalogs-for-datagov">
-	      Action 8: Pilot Standard Data Catalogs for Data.gov
+	    <a href="{{ site.baseurl }}/action-plan/#action-6-publish-and-update-data-inventories">
+	      Action 6: Publish and Update Data Inventories
 	    </a>
 	  </li>	
 
@@ -78,82 +84,124 @@ layout: default
   </li>
   
   <li>
-    <a href="#community-actions-cross-agency-collaboration" class="action-plan-subheader">
-      Community Actions: Cross-Agency Collaboration
+    <a href="{{ site.baseurl }}/action-plan/#community-of-practice-actions" class="action-plan-subheader">
+      Community of Practice Actions
     </a>
     
     <ul class="usa-sidenav-sub_list">
 
 	  <li>
-	    <a href="#action-9-improve-data-resources-for-ai-research-and-development">
-	      Action 9: Improve Data Resources for AI Research and Development
+	    <a href="{{ site.baseurl }}/action-plan/#action-7-launch-a-federal-chief-data-officer-council">
+	      Action 7: Launch a Federal Chief Data Officer Council
 	    </a>
-	  </li>
+	  </li>	
 
 	  <li>
-	    <a href="#action-10-improve-financial-management-data-standards">
-	      Action 10: Improve Financial Management Data Standards
+	    <a href="{{ site.baseurl }}/action-plan/#action-8-improve-data-and-model-resources-for-ai-research-and-development">
+	      Action 8: Improve Data and Model Resources for AI Research and Development
 	    </a>
-	  </li>
-
-	  <li>
-	    <a href="#action-11-improve-geospatial-data-standards">
-	      Action 11: Improve Geospatial Data Standards
-	    </a>
-	  </li>	  
+	  </li>	 
 	  	  
+	  <li>
+	    <a href="{{ site.baseurl }}/action-plan/#action-9-improve-financial-management-data-standards">
+	      Action 9: Improve Financial Management Data Standards
+	    </a>
+	  </li>	 
+
+	  <li>
+	    <a href="{{ site.baseurl }}/action-plan/#action-10-integrate-geospatial-data-practices-into-the-federal-data-enterprise">
+	      Action 10: Integrate Geospatial Data Practices into the Federal Data Enterprise
+	    </a>
+	  </li>	 	  
+
     </ul>
 
 
   </li>
   
   <li>
-    <a href="#agency-specific-actions-agency-activities" class="action-plan-subheader">
-      Agency-Specific Actions: Agency Activities
+    <a href="{{ site.baseurl }}/action-plan/#shared-solution-actions" class="action-plan-subheader">
+      Shared Solution Actions
     </a>
     
     <ul class="usa-sidenav-sub_list">
 
 	  <li>
-	    <a href="#action-12-constitute-a-diverse-data-governance-body">
-	      Action 12: Constitute a Diverse Data Governance Body
+	    <a href="{{ site.baseurl }}/action-plan/#action-11-develop-a-repository-of-federal-enterprise-data-resources">
+	      Action 11: Develop a Repository of Federal Enterprise Data Resources
 	    </a>
 	  </li>
 
 	  <li>
-	    <a href="#action-13-assess-data-and-related-infrastructure-maturity">
-	      Action 13: Assess Data and Related Infrastructure Maturity
+	    <a href="{{ site.baseurl }}/action-plan/#action-12-create-omb-federal-data-policy-committee">
+	      Action 12: Create OMB Federal Data Policy Committee
 	    </a>
 	  </li>
 
 	  <li>
-	    <a href="#action-14-identify-opportunities-to-increase-staff-data-skills">
-	      Action 14: Identify Opportunities to Increase Staff Data Skills
+	    <a href="{{ site.baseurl }}/action-plan/#action-13-develop-a-curated-data-skills-catalog">
+	      Action 13: Develop a Curated Data Skills Catalog
+	    </a>
+	  </li>
+
+	  <li>
+	    <a href="{{ site.baseurl }}/action-plan/#action-14-develop-a-data-ethics-framework">
+	      Action 14: Develop a Data Ethics Framework
+	    </a>
+	  </li>
+
+	  <li>
+	    <a href="{{ site.baseurl }}/action-plan/#action-15-develop-a-data-protection-toolkit">
+	      Action 15: Develop a Data Protection Toolkit
+	    </a>
+	  </li>
+
+	  <li>
+	    <a href="{{ site.baseurl }}/action-plan/#action-16-pilot-a-one-stop-standard-research-application">
+	      Action 16: Pilot a One-stop Standard Research Application
+	    </a>
+	  </li>
+
+	  <li>
+	    <a href="{{ site.baseurl }}/action-plan/#action-17-pilot-an-automated-tool-for-information-collection-reviews-that-supports-data-inventory-creation-and-updates">
+	      Action 17: Pilot an Automated Tool for Information Collection Reviews that Supports Data Inventory Creation and Updates
+	    </a>
+	  </li>
+
+	  <li>
+	    <a href="{{ site.baseurl }}/action-plan/#action-18-pilot-enhanced-data-management-tool-for-federal-agencies">
+	      Action 18: Pilot Enhanced Data Management Tool for Federal Agencies
 	    </a>
 	  </li>	  
 
 	  <li>
-	    <a href="#action-15-identify-data-needs-to-answer-key-agency-questions">
-	      Action 15: Identify Data Needs to Answer Key Agency Questions
+	    <a href="{{ site.baseurl }}/action-plan/#action-19-develop-data-quality-measuring-and-reporting-guidance">
+	      Action 19: Develop Data Quality Measuring and Reporting Guidance
 	    </a>
-	  </li>	
+	  </li>
 
 	  <li>
-	    <a href="#action-16-identify-priority-datasets-for-agency-open-data-plans">
-	      Action 16: Identify Priority Datasets for Agency Open Data Plans
+	    <a href="{{ site.baseurl }}/action-plan/#action-20-develop-a-data-standards-repository">
+	      Action 20: Develop a Data Standards Repository
 	    </a>
-	  </li>	
+	  </li>
+
 
 
     </ul>
 
   </li>
-   
+  <li>
+    <a href="{{ site.baseurl }}/action-plan/#looking-forward" class="action-plan-subheader">
+      Looking Forward
+    </a>
+  </li>   
 
   </ul>
 </nav>
 
   </aside>
+{% endunless %}
 
   <div class="usa-width-three-fourths usa-layout-docs-main_content">
     {{ content }}
