@@ -87,7 +87,7 @@ The _Leveraging Data as a Strategic Asset_ Cross Agency Priority (CAP) Goal comm
 **Rachel Snyderman**, Program Examiner, Office of Management and Budget, Executive Office of the President  
 **Genevieve Soule**, Program Analyst, Office of Enforcement and Compliance Assurance, U.S. Environmental Protection Agency  
 **Leanne Tang**, Lead System Architect and Developer, National Agricultural Statistics Service, U.S. Department of Agriculture  
-**Re’Neesh J. Thomas**, Consultant, National Institutes of Health, U.S. Department of Health and Human Services  
+**Re’Neesha J. Thomas**, Consultant, National Institutes of Health, U.S. Department of Health and Human Services  
 **Zachary Trautt**, Materials Research Engineer, National Institute of Standards and Technology, U.S. Department of Commerce  
 **Kim Valentine**, Acting Deputy Geospatial Information Officer, National Oceanic and Atmospheric Administration, U.S. Department of Commerce  
 **Khoa Vo**, White House Leadership Fellow, Office of Management and Budget, Executive Office of the President  
