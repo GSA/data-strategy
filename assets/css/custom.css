@@ -264,19 +264,30 @@ div.footnotes {
 
 
 .overview-mission {
-  background-color : #305584;
   padding : 1rem; 
-  padding-top : .1rem;
-  color : #fff;
+}
+
+.overview-mission h4 {
+  padding-top : 0;
+  margin-top : 0;
+}
+
+.overview-mission { 
+    background-color : #305584;
+    color : #fff;
 }
 
 .overview-principles {
-  background-color : #3879BC;
   margin-top : 2rem;
-  color : #fff;
-  padding : 1rem;
   margin-bottom : 2rem !important;
   display : block;
+}
+
+.overview-principles button,
+.overview-principles .usa-accordion-content {
+  background-color : #3879BC;
+  color : #fff;
+  padding : 1rem;
 }
 
 .overview-governing-managing-protecting-head button, 
