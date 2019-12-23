@@ -262,6 +262,33 @@ div.footnotes {
     height : 400px;
 }
 
+
+.overview-mission {
+  background-color : #305584;
+  padding : 1rem; 
+  padding-top : .1rem;
+  color : #fff;
+}
+
+.overview-principles {
+  background-color : #3879BC;
+  margin-top : 2rem;
+  color : #fff;
+  padding : 1rem;
+  margin-bottom : 2rem !important;
+  display : block;
+}
+
+.overview-governing-managing-protecting-head button, 
+.overview-governing-managing-protecting-body button {
+  background-color : #C2D5F6;
+}
+
+.overview-promoting-efficient-head button, 
+.overview-promoting-efficient-body button {
+  background-color : #E2B0A7;
+}
+
 .dataTables_filter label input[type="search"] {
  border-right : 1px solid #000;
   display : block;

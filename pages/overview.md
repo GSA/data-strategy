@@ -27,37 +27,3 @@ The Strategy comprises of four components to guide federal data management and u
 Agencies will implement the Federal Data Strategy by adhering to the requirements of the Action Steps in yearly Action Plans in accordance with OMB guidance. 
 
 
-
-
-<div class="overview-mission">
-	<h4>Mission</h4>
-	The mission of the Federal Data Strategy is to fully leverage the value of federal data for mission, service, and the public good by guiding the Federal Government in practicing ethical governance, conscious design, and a learning culture. 
-</div>
-
-
-<div class="overview-principles">
-	<div class="overview-principles-head">
-		<strong>Guiding Principles</strong>: Ethical Governance, Conscious Design, Learning Culture
-	</div>
-	<div class="overview-principles-body" markdown="1">
-#### Principles
-Ethical Governance
-1.	Uphold Ethics
-2.	Exercise Responsibility
-3.	Promote Transparency
-
-Conscious Design
-4.	Ensure Relevance
-5.	Harness Existing Data
-6.	Anticipate Future Uses
-7.	Demonstrate Responsiveness
-
-Learning Culture
-8.	Invest in Learning
-9.	Develop Data Leaders
-10.	Practice Accountability
-</div>
-</div>
-</div>
-</section>
-
