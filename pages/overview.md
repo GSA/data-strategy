@@ -11,7 +11,8 @@ layout: overview
 
 ### Components of the Federal Data Strategy
 
-[ GRAPHIC ]
+{:.post-image-box .post-image-box-center .no-border}
+![Federal Data Strategy Framework]({{ site.baseurl }}/assets/img/2020-action-plan/federal-data-strategy-framework.png "Federal Data Strategy Framework")
 
 The Strategy comprises of four components to guide federal data management and use:
 
