@@ -92,7 +92,7 @@ The maturity model used to conduct the maturity assessment should be chosen by t
 
 ### Action 4: Identify Opportunities to Increase Staff Data Skills
  
-By September 2020, all CFO Act agencies, pursuant to M-19-23 and the Evidence Act, will have documented information on their plans to carry out a capacity assessment to assess the coverage, quality, methods, effectiveness, and independence of the statistics, evaluation, research, and analysis efforts of the agency. These assessments may be further leveraged by agencies to identify critical data skills, assess their staffs’ capacities for those skills, identify any gaps, and take actions to ensure that their Federal workforces are well-prepared to support evidence-building activities. 
+By July 2020, all CFO Act agencies, pursuant to M-19-23 and the Evidence Act, will have documented information on their plans to carry out a capacity assessment to assess the coverage, quality, methods, effectiveness, and independence of the statistics, evaluation, research, and analysis efforts of the agency. These assessments may be further leveraged by agencies to identify critical data skills, assess their staffs’ capacities for those skills, identify any gaps, and take actions to ensure that their Federal workforces are well-prepared to support evidence-building activities. 
 
 The staff data skills assessment should align with, and be a part of, ongoing human capital management efforts designed to ensure agencies have skills and competencies needed to effectively accomplish agency mission. This alignment is important since achieving parity between an agency’s data skill needs and its workforce capacity requires repeating this process over time. The assessment has four major components:
 
