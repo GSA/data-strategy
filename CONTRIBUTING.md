@@ -27,7 +27,7 @@ repositories.
 All changes should be done in a [pull
 request](https://help.github.com/en/articles/creating-a-pull-request) to the
 `develop` branch. This way suggestions and edits from team members and the
-public can be previewed on the staging site before going live.
+public can be previewed on the [staging site](https://strategy-staging.data.gov/) before going live.
 
 To view your preview link, at the bottom of the pull request are status checks,
 including one from Federalist with a "details" link to your preview. For more
