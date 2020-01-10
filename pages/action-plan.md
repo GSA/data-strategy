@@ -78,7 +78,7 @@ Agencies may refer to *A Playbook in Support of the Federal Data Strategy: Getti
 
 ### Action 3: Assess Data and Related Infrastructure Maturity
 
-By May 2020, all agencies will should conduct an initial maturity assessment focusing on data and related data infrastructure (e.g., organizational structures and knowledge bases, policies) to set a baseline for future improvements. 
+By September 2020, all agencies will should conduct an initial maturity assessment focusing on data and related data infrastructure (e.g., organizational structures and knowledge bases, policies) to set a baseline for future improvements. 
 
 Maturity assessments allow an organization to evaluate itself against documented best practices, determine gaps, and identify priority areas for improvement. A maturity assessment analyzes all aspects of agency policies, procedures, and operations related to data and data infrastructure, including data governance, data management, data culture, data systems and tools, data analytics, staff skills and capacity, resource capacity, and compliance with law and policy. The results of a maturity assessment feed into the data governance and management processes to inform investment decisions and to prioritize subsequent actions. A maturity assessment should be proactively communicated and explained to employees and repeated periodically, as determined by the agency, to measure progress and prioritize next steps. 
 
@@ -88,11 +88,11 @@ The maturity model used to conduct the maturity assessment should be chosen by t
 |--------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------|-------------|---------------------|-----------------------------|
 | Select an operational maturity assessment model for data and data infrastructure                                                           | Completion                         | 6 months    | [strategy.data.gov](https://strategy.data.gov)   | Required for all agencies   |
 | Agency Chief Data Officer and other senior-level staff participate in any training or technical assistance related to maturity assessments | Number of people attended training | 9 months    | [strategy.data.gov](https://strategy.data.gov)   | Encouraged for all agencies |
-| Document the outcome of the initial data maturity assessment                                                                               | Completion                         | 9 months    | [strategy.data.gov](https://strategy.data.gov)   | Encouraged for all agencies |
+| Conduct and document the outcome of the initial data maturity assessment                                                                               | Completion                         | 9 months    | [strategy.data.gov](https://strategy.data.gov)   | Encouraged for all agencies |
 
 ### Action 4: Identify Opportunities to Increase Staff Data Skills
  
-By July 2020, all CFO Act agencies, pursuant to M-19-23 and the Evidence Act, will have documented information on their plans to carry out a capacity assessment to assess the coverage, quality, methods, effectiveness, and independence of the statistics, evaluation, research, and analysis efforts of the agency. These assessments may be further leveraged by agencies to identify critical data skills, assess their staffs’ capacities for those skills, identify any gaps, and take actions to ensure that their Federal workforces are well-prepared to support evidence-building activities. 
+By July 2020, all CFO Act agencies will have performed a capacity assessment to assess the coverage, quality, methods, effectiveness, of current staff data literacy and data skills. These assessments may be further leveraged by agencies to identify critical data skills, assess their staffs’ capacities for those skills, identify any gaps, and take actions to ensure that their Federal workforces are well-prepared to support evidence-building activities pursuant to M-19-23 and the Evidence Act. 
 
 The staff data skills assessment should align with, and be a part of, ongoing human capital management efforts designed to ensure agencies have skills and competencies needed to effectively accomplish agency mission. This alignment is important since achieving parity between an agency’s data skill needs and its workforce capacity requires repeating this process over time. The assessment has four major components:
 
