@@ -102,7 +102,7 @@ The Data Incubator was a workstream of the Federal Data Strategy that highlighte
       <div class="usa-media_block-body">
         <h3>Gathering Hypotheses</h3>
         <p>
-          The Data Incubator Project gathered and publicly shared a <a href="{{ site.baseurl }}/resources/">Use Case List</a>, highlighting examples of how data can be leveraged as a strategic asset to achieve agency mission and public interest outcomes.
+          The Data Incubator Project gathered and publicly shared a <a href="{{ site.baseurl }}/use-cases/">Use Case List</a>, highlighting examples of how data can be leveraged as a strategic asset to achieve agency mission and public interest outcomes.
         </p>
       </div>
     </div>
