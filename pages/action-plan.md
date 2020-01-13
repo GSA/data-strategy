@@ -14,6 +14,10 @@ In addition, the 2020 Action Plan includes a series of pilot projects already un
  
 Annual Action Plans are developed iteratively with stakeholder feedback and input incorporated along the way. If you’d like to be notified about updates or ways to be involved, please sign up for our news updates. A downloadable PDF will be available soon.
 
+*Download Final Federal Data Strategy & 2020 Action Plan PDF - Coming Soon!*
+
+[Download PDF - Draft 2019-2020 Action Plan]({{ site.baseurl }}/assets/docs/draft-2019-2020-federal-data-strategy-action-plan.pdf){: .usa-button}
+
 [Download PDF - Revisions Based on Feedback]({{ site.baseurl }}/assets/docs/2019-2020-federal-data-strategy-revisions-based-on-feedback.pdf){: .usa-button}
 
 ## Preamble
@@ -175,7 +179,7 @@ Implementation of the Executive Order on Maintaining American Leadership in Arti
 
 ### Action 9: Improve Financial Management Data Standards
 
-The PMA includes a series of CAP Goals that address “functional priority areas for transformation” across government, several of which address improved financial management practices. Three specific CAP Goals have been selected for inclusion in the 2020 Action Plan due to their focus on financial management data assets. By August 2020, the Federal Government, through implementation of the identified CAP Goals below, will have improved the management and use of several financial management data assets.
+The PMA includes a series of CAP Goals that address “functional priority areas for transformation” across government, several of which address improved financial management practices. Three specific CAP Goals have been selected for inclusion in the 2020 Action Plan due to their focus on financial management data assets. By September 2020, the Federal Government, through implementation of the identified CAP Goals below, will have improved the management and use of several financial management data assets.
 
 * **Getting Payments Right**: CAP Goal 9 directs agencies to save taxpayer money by making payments correctly and collecting money back from incorrect payments. Agencies will accomplish this by employing strategic use of financial data and other mitigation strategies at the point in the payment process where the improper payment is occurring, and clarifying and streamlining reporting and compliance requirements to focus on actions that make a difference.
 * **Results Oriented Accountability for Grants**:  Agencies will maximize the value of grant funding by applying a risk-based, data-driven framework that balances compliance requirements with demonstrating successful results for the American taxpayer.
@@ -185,7 +189,7 @@ The PMA includes a series of CAP Goals that address “functional priority areas
 |-------------------------------------------------------------|-----------------------------------------------------------------------|---------------------------------|------------------------------------------------------------|
 | Getting Payments Right                                      | Metrics related to this CAP Goal are being tracked on [performance.gov](https://performance.gov)[^13] | See timeline on [performance.gov](https://performance.gov) | Getting Payments Right Executive Steering Committee        |
 | Results Oriented Accountability for Grants                  | Metrics related to this CAP Goal are being tracked on [performance.gov](https://performance.gov)[^14] | See timeline on [performance.gov](https://performance.gov) | CAP Goal 8 Executive Steering Committee                    |
-| Promote public trust in the stewardship of taxpayer dollars | Publication of strategy                                               | September 2020                  | Financial Data Transformation Executive Steering Committee[^15]|
+| Promote public trust in the stewardship of taxpayer dollars | Publication of draft strategy                                               | September 2020                  | Financial Data Transformation Executive Steering Committee[^15]|
 
 ### Action 10: Integrate Geospatial Data Practices into the Federal Data Enterprise
 
