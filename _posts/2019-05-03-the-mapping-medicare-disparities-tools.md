@@ -7,7 +7,7 @@ tags: [Principle 1 Uphold Ethics, Principle 3 Promote Transparency, Principle 5 
 published: true
 ---
 
-The [Centers for Medicare & Medicaid Services’ Office of Minority Health](https://www.cms.gov/About-CMS/Agency-Information/OMH/index.html) (CMS OMH) is focused on eliminating health disparities by improving the health of minority populations. The path to healthcare equity starts with a better understanding and awareness of health disparities. Without the knowledge about the size of the problem or its root causes, it is difficult to develop solutions.
+The [Centers for Medicare & Medicaid Services’ Office of Minority Health](https://www.cms.gov/About-CMS/Agency-Information/OMH) (CMS OMH) is focused on eliminating health disparities by improving the health of minority populations. The path to healthcare equity starts with a better understanding and awareness of health disparities. Without the knowledge about the size of the problem or its root causes, it is difficult to develop solutions.
 
 With its Mapping Medicare Disparities Tool, CMS OMH harnessed the power of millions of data records while protecting the privacy of individuals, to build an easy-to-use tool for better understanding this important real-world problem.
 

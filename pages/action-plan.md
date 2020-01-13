@@ -14,6 +14,10 @@ In addition, the 2020 Action Plan includes a series of pilot projects already un
  
 Annual Action Plans are developed iteratively with stakeholder feedback and input incorporated along the way. If you’d like to be notified about updates or ways to be involved, please sign up for our news updates. A downloadable PDF will be available soon.
 
+*Download Final Federal Data Strategy & 2020 Action Plan PDF - Coming Soon!*
+
+[Download PDF - Draft 2019-2020 Action Plan]({{ site.baseurl }}/assets/docs/draft-2019-2020-federal-data-strategy-action-plan.pdf){: .usa-button}
+
 [Download PDF - Revisions Based on Feedback]({{ site.baseurl }}/assets/docs/2019-2020-federal-data-strategy-revisions-based-on-feedback.pdf){: .usa-button}
 
 ## Preamble
@@ -51,9 +55,9 @@ The data required to answer a priority agency question might already exist — e
 
 | Milestone                                                                                                                                                               | Measurement | Target Date | Reporting Mechanism                                   | Required or Encouraged                                                           |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|-------------|-------------------------------------------------------|----------------------------------------------------------------------------------|
-| Consult with key agency leaders, such as Chief Data Officers, Evaluation Officers and Statistical Officials to identify data needed to answer priority agency questions | Completion  | 10 months   | Interim Learning Agenda or FY 2022 Budget Submission | Required for CFO Act Agencies only <br> Encouraged for all agencies <br> (see OMB M-19-23) |
-| Identify data needs for answering priority questions in the interim learning agenda                                                                                     | Completion  | 10 months   | Interim Learning Agenda or FY 2022 Budget Submission | Required for CFO Act Agencies only <br> Encouraged for all agencies <br> (see OMB M-19-23) |
-| Develop a plan to engage the stakeholders needed to access or acquire the data needed to answer priority questions                                                      | Completion  | 10 months   | Interim Learning Agenda or FY 2022 Budget Submission | Required for CFO Act Agencies only <br> Encouraged for all agencies <br> (see OMB M-19-23) |
+| Consult with key agency leaders, such as Chief Data Officers, Evaluation Officers and Statistical Officials to identify data needed to answer priority agency questions | Completion  | September 30, 2020   | Interim Learning Agenda or FY 2022 Budget Submission | Required for CFO Act Agencies only <br> Encouraged for all agencies <br> (see OMB M-19-23) |
+| Identify data needs for answering priority questions in the interim learning agenda                                                                                     | Completion  | September 30, 2020   | Interim Learning Agenda or FY 2022 Budget Submission | Required for CFO Act Agencies only <br> Encouraged for all agencies <br> (see OMB M-19-23) |
+| Develop a plan to engage the stakeholders needed to access or acquire the data needed to answer priority questions                                                      | Completion  | September 30, 2020   | Interim Learning Agenda or FY 2022 Budget Submission | Required for CFO Act Agencies only <br> Encouraged for all agencies <br> (see OMB M-19-23) |
 
 
 ### Action 2: Institutionalize Agency Data Governance
@@ -69,9 +73,9 @@ Agencies may refer to *A Playbook in Support of the Federal Data Strategy: Getti
 {:.action-two-milestone-table}
 | Milestone                                                                                                                  | Measurement              | Target Date                                                  | Reporting Mechanism                                                          | Required or Encouraged      |
 |----------------------------------------------------------------------------------------------------------------------------|--------------------------|--------------------------------------------------------------|------------------------------------------------------------------------------|-----------------------------|
-| Publish agency data governance materials (membership, charter, meeting cadence) on [agency].gov/data web page              | Completion               | 1 months                                                     | Post to agency/data web page                                                 | Required for all agencies   |
-| After you complete your assessment of current staff data skills and literacy (see Action 3), dedicate staff to support DGB | Number of FTEs dedicated | 9 months                                                     | [strategy.data.gov](https://strategy.data.gov)                        | Encouraged for all agencies |
-| Document how the DGB receives its authority                                                                                | Completion               | 9 months                                                     | [strategy.data.gov](https://strategy.data.gov)                        | Encouraged for all agencies |
+| Publish agency data governance materials (membership, charter, meeting cadence) on [agency].gov/data web page              | Completion               | January 31, 2020                                                     | Post to agency/data web page                                                 | Required for all agencies   |
+| After you complete your assessment of current staff data skills and literacy (see Action 3), dedicate staff to support DGB | Number of FTEs dedicated | September 30, 2020                                                     | [strategy.data.gov](https://strategy.data.gov)                        | Encouraged for all agencies |
+| Document how the DGB receives its authority                                                                                | Completion               | September 30, 2020                                                     | [strategy.data.gov](https://strategy.data.gov)                        | Encouraged for all agencies |
 | Put in place a data strategy or road map                                                                                   | Completion               | 1 activity per quarter, any order encouraged of all agencies | [strategy.data.gov](https://strategy.data.gov) & in agency Information Resource Management Strategic Plan | Encouraged for all agencies |
 | Develop a plan for capital planning for enterprise data assets and infrastructure                                          | Completion               | (See Above) | (See Above) | Encouraged for all agencies |
 | Adopt a master data management program                                                                                     | Completion               | (See Above) | (See Above) | Encouraged for all agencies |
@@ -86,13 +90,13 @@ The maturity model used to conduct the maturity assessment should be chosen by t
 
 | Milestone                                                                                                                                  | Measurement                        | Target Date | Reporting Mechanism | Required or Encouraged      |
 |--------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------|-------------|---------------------|-----------------------------|
-| Select an operational maturity assessment model for data and data infrastructure                                                           | Completion                         | 6 months    | [strategy.data.gov](https://strategy.data.gov)   | Required for all agencies   |
-| Agency Chief Data Officer and other senior-level staff participate in any training or technical assistance related to maturity assessments | Number of people attended training | 9 months    | [strategy.data.gov](https://strategy.data.gov)   | Encouraged for all agencies |
-| Conduct and document the outcome of the initial data maturity assessment                                                                               | Completion                         | 9 months    | [strategy.data.gov](https://strategy.data.gov)   | Encouraged for all agencies |
+| Select an operational maturity assessment model for data and data infrastructure                                                           | Completion                         | June 30, 2020    | [strategy.data.gov](https://strategy.data.gov)   | Required for all agencies   |
+| Agency Chief Data Officer and other senior-level staff participate in any training or technical assistance related to maturity assessments | Number of people attended training | September 30, 2020    | [strategy.data.gov](https://strategy.data.gov)   | Encouraged for all agencies |
+| Conduct and document the outcome of the initial data maturity assessment                                                                               | Completion                         | September 30, 2020    | [strategy.data.gov](https://strategy.data.gov)   | Encouraged for all agencies |
 
 ### Action 4: Identify Opportunities to Increase Staff Data Skills
  
-By July 2020, all CFO Act agencies will have performed a capacity assessment to assess the coverage, quality, methods, effectiveness, of current staff data literacy and data skills. These assessments may be further leveraged by agencies to identify critical data skills, assess their staffs’ capacities for those skills, identify any gaps, and take actions to ensure that their Federal workforces are well-prepared to support evidence-building activities pursuant to M-19-23 and the Evidence Act. 
+By June 2020, all CFO Act agencies will have performed a capacity assessment to assess the coverage, quality, methods, effectiveness, of current staff data literacy and data skills. These assessments may be further leveraged by agencies to identify critical data skills, assess their staffs’ capacities for those skills, identify any gaps, and take actions to ensure that their Federal workforces are well-prepared to support evidence-building activities pursuant to M-19-23 and the Evidence Act. 
 
 The staff data skills assessment should align with, and be a part of, ongoing human capital management efforts designed to ensure agencies have skills and competencies needed to effectively accomplish agency mission. This alignment is important since achieving parity between an agency’s data skill needs and its workforce capacity requires repeating this process over time. The assessment has four major components:
 
@@ -107,9 +111,9 @@ Note: This action can also serve as one input to the capacity assessment require
 
 | Milestone                                                                                                                            | Measurement                        | Target Date | Reporting Mechanism | Required or Encouraged                                        |
 |--------------------------------------------------------------------------------------------------------------------------------------|------------------------------------|-------------|---------------------|---------------------------------------------------------------|
-| Perform an assessment of current staff data literacy and data skills                                                                 | Completion                         | 6 months    | [strategy.data.gov](https://strategy.data.gov)   | Required for CFO Act Agencies only <br> Encouraged for all agencies |
-| Conduct a gap analysis between the current staff's skills and the skills the agency requires                                         | Number of people attended training | 9 months    | [strategy.data.gov](https://strategy.data.gov)   | Required for CFO Act Agencies only <br> Encouraged for all agencies |
-| Based on the assessment, establish a baseline and develop a performance  plan to close the identified data skills and literacy  gaps | Completion                         | 12 months   | [strategy.data.gov](https://strategy.data.gov)   | Required for CFO Act Agencies only <br> Encouraged for all agencies |
+| Perform an assessment of current staff data literacy and data skills                                                                 | Completion                         | June 30, 2020    | [strategy.data.gov](https://strategy.data.gov)   | Required for CFO Act Agencies only <br> Encouraged for all agencies |
+| Conduct a gap analysis between the current staff's skills and the skills the agency requires                                         | Number of people attended training | September 30, 2020    | [strategy.data.gov](https://strategy.data.gov)   | Required for CFO Act Agencies only <br> Encouraged for all agencies |
+| Based on the assessment, establish a baseline and develop a performance  plan to close the identified data skills and literacy  gaps | Completion                         | December 31, 2020   | [strategy.data.gov](https://strategy.data.gov)   | Required for CFO Act Agencies only <br> Encouraged for all agencies |
 
 
 ### Action 5: Identify Priority Data Assets for Agency Open Data Plans
@@ -121,7 +125,7 @@ A playbook and use cases that describe prioritization methodologies and examples
 | Milestone                                                                                                                                                          | Measurement                               | Target Date                                                                                 | Reporting Mechanism                                   | Required or Encouraged    |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------|---------------------------------------------------------------------------------------------|-------------------------------------------------------|---------------------------|
 | Publish an Open Data Plan for sharing priority agency data assets, developed with stakeholder engagement, including data assets that support AI R&D (see Action 6) | Completion                                | After OMB Open Data Plan Guidance is issued; Annually on Agency IRM Strategic Plan schedule | Agency Information Resource Management Strategic Plan | Required for all agencies |
-| Execute a process to evaluate and improve the timeliness, completeness, consistency, accuracy, usefulness, and availability of open Government data assets         | Qualitative and quantitative improvements | 12 months                                                                                   | [strategy.data.gov](https://strategy.data.gov) & agency public data.json APIs      | Required for all agencies |
+| Execute a process to evaluate and improve the timeliness, completeness, consistency, accuracy, usefulness, and availability of open Government data assets         | Qualitative and quantitative improvements | December 31, 2020                                                                                   | [strategy.data.gov](https://strategy.data.gov) & agency public data.json APIs      | Required for all agencies |
 
 ### Action 6: Publish and Update Data Inventories 
  
@@ -130,7 +134,7 @@ By July 2020, all agencies will update existing comprehensive data inventories i
 | Milestone                                                                                      | Measurement                   | Target Date                                    | Reporting Mechanism          | Required or Encouraged    |
 |------------------------------------------------------------------------------------------------|-------------------------------|------------------------------------------------|------------------------------|---------------------------|
 | Update comprehensive data inventories for overall completeness and priority data asset sprints | Metadata quality improvements | Minimally every 3 months, as often as possible | Agency public data.json APIs | Required for all agencies |
-| Update comprehensive data inventory to conform to standard metadata                            | Completion                    | 6 months                                       | Agency public data.json APIs | Required for all agencies |
+| Update comprehensive data inventory to conform to standard metadata                            | Completion                    | July 31, 2020                                       | Agency public data.json APIs | Required for all agencies |
 
 [Back to top](#main-content)
 
@@ -149,9 +153,9 @@ The CDO Council will share responsibility with other government-wide councils th
 
 | Milestone                              | Measurement                             | Target Date | Responsible Party |
 |----------------------------------------|-----------------------------------------|-------------|-------------------|
-| Launch CDO Council                     | Number of meetings held                 | 1 month     | OMB               |
-| Create resources                       | Number of resources published           | 12 months   | CDOs              |
-| Encourage use of resources by agencies | Track adoption of resources by agencies | 12 months   | CDOs              |
+| Launch CDO Council                     | Number of meetings held                 | January 31, 2020     | OMB               |
+| Create resources                       | Number of resources published           | December 31, 2020   | CDOs              |
+| Encourage use of resources by agencies | Track adoption of resources by agencies | December 31, 2020   | CDOs              |
 
 ### Action 8: Improve Data and Model Resources for AI Research and Development
  
@@ -167,15 +171,15 @@ Implementation of the Executive Order on Maintaining American Leadership in Arti
 
 | Milestone                                                                  | Measurement       | Target Date | Responsible Party |
 |----------------------------------------------------------------------------|-------------------|-------------|-------------------|
-| Identify barriers to access and quality limitations                        | Completion of RFI | 2 months    | OMB*              |
-| Provide technical schema formats on inventories                            | Completion        | 12 months   | OMB*              |
-| Pilot demonstration of how access to data useful for AI should be enhanced | Completion        | 12 months   | CDOs              |
+| Identify barriers to access and quality limitations                        | Completion of RFI | February 29, 2020    | OMB*              |
+| Provide technical schema formats on inventories                            | Completion        | December 31, 2020  | OMB*              |
+| Pilot demonstration of how access to data useful for AI should be enhanced | Completion        | December 31, 2020   | CDOs              |
 
 &#42; *In consultation with the National Science and Technology Council Machine Learning and AI Subcommittee and the CDO Council.*
 
 ### Action 9: Improve Financial Management Data Standards
 
-The PMA includes a series of CAP Goals that address “functional priority areas for transformation” across government, several of which address improved financial management practices. Three specific CAP Goals have been selected for inclusion in the 2020 Action Plan due to their focus on financial management data assets. By August 2020, the Federal Government, through implementation of the identified CAP Goals below, will have improved the management and use of several financial management data assets.
+The PMA includes a series of CAP Goals that address “functional priority areas for transformation” across government, several of which address improved financial management practices. Three specific CAP Goals have been selected for inclusion in the 2020 Action Plan due to their focus on financial management data assets. By September 2020, the Federal Government, through implementation of the identified CAP Goals below, will have improved the management and use of several financial management data assets.
 
 * **Getting Payments Right**: CAP Goal 9 directs agencies to save taxpayer money by making payments correctly and collecting money back from incorrect payments. Agencies will accomplish this by employing strategic use of financial data and other mitigation strategies at the point in the payment process where the improper payment is occurring, and clarifying and streamlining reporting and compliance requirements to focus on actions that make a difference.
 * **Results Oriented Accountability for Grants**:  Agencies will maximize the value of grant funding by applying a risk-based, data-driven framework that balances compliance requirements with demonstrating successful results for the American taxpayer.
@@ -185,7 +189,7 @@ The PMA includes a series of CAP Goals that address “functional priority areas
 |-------------------------------------------------------------|-----------------------------------------------------------------------|---------------------------------|------------------------------------------------------------|
 | Getting Payments Right                                      | Metrics related to this CAP Goal are being tracked on [performance.gov](https://performance.gov)[^13] | See timeline on [performance.gov](https://performance.gov) | Getting Payments Right Executive Steering Committee        |
 | Results Oriented Accountability for Grants                  | Metrics related to this CAP Goal are being tracked on [performance.gov](https://performance.gov)[^14] | See timeline on [performance.gov](https://performance.gov) | CAP Goal 8 Executive Steering Committee                    |
-| Promote public trust in the stewardship of taxpayer dollars | Publication of strategy                                               | September 2020                  | Financial Data Transformation Executive Steering Committee[^15]|
+| Promote public trust in the stewardship of taxpayer dollars | Publication of draft strategy                                               | September 2020                  | Financial Data Transformation Executive Steering Committee[^15]|
 
 ### Action 10: Integrate Geospatial Data Practices into the Federal Data Enterprise
 
@@ -201,10 +205,10 @@ The Federal Government’s lead agencies for NGDA data assets will identify, inv
 
 | Milestone                                                                                      | Measurement                                                                                                                                                                          | Target Date | Responsible Party                                         |
 |------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|-----------------------------------------------------------|
-| Establish the NSDI strategic plan                                                              | Completion                                                                                                                                                                           | 12 months   | SAOGI at OMB, FGDC, FGDC NGDA Lead Covered Agencies, GSA  |
-| Publish a GeoPlatform providing standards-compliant web services for NGDAs                     | Completion                                                                                                                                                                           | 12 months   | SAOGI at OMB, FGDC, FGDC NGDA Lead Covered Agencies, GSA  |
-| Engage with other relevant councils                                                            | Number of engagements                                                                                                                                                                | 12 months   | SAOGI at OMB, FGDC, FGDC NGDA Lead Covered Agencies, GSA  |
-| Publish NGDA data theme data assets with standards compliant metadata and webservice endpoints | Percentage of NGDA data assets that are compliant                                                                                                                                    | 12 months   | SAOGI at OMB, FGDC, FGDC NGDA Lead Covered Agencies, GSA  |
+| Establish the NSDI strategic plan                                                              | Completion                                                                                                                                                                           | December 31, 2020   | SAOGI at OMB, FGDC, FGDC NGDA Lead Covered Agencies, GSA  |
+| Publish a GeoPlatform providing standards-compliant web services for NGDAs                     | Completion                                                                                                                                                                           | December 31, 2020   | SAOGI at OMB, FGDC, FGDC NGDA Lead Covered Agencies, GSA  |
+| Engage with other relevant councils                                                            | Number of engagements                                                                                                                                                                | December 31, 2020   | SAOGI at OMB, FGDC, FGDC NGDA Lead Covered Agencies, GSA  |
+| Publish NGDA data theme data assets with standards compliant metadata and webservice endpoints | Percentage of NGDA data assets that are compliant                                                                                                                                    | December 31, 2020   | SAOGI at OMB, FGDC, FGDC NGDA Lead Covered Agencies, GSA  |
 | Track NGDAs for implementation of standards                                                    | Percentages of NGDAs with: i) metadata standards, ii) established content standards, iii) standards in process, iv) data assets not requiring standards, v) no established standards | 12 months   | SAOGI at OMB, FGDC, FGDC NGDA Lead Covered Agencies, GSA  |
 
 [Back to top](#main-content)
@@ -230,9 +234,9 @@ By December 2020, the General Services Administration (GSA), the Office of Gover
 
 | Milestone                                                                   | Measurement                                           | Target Date | Responsible Party                                                                    |
 |-----------------------------------------------------------------------------|-------------------------------------------------------|-------------|--------------------------------------------------------------------------------------|
-| Make regular updates to [resources.data.gov](https://resources.data.gov) in response to stakeholder input | Frequency of feature updates and site improvements    | 12 months   | GSA                                                                                  |
-| Track growth and success of the site                                        | Number of resources available by type, resource usage | 12 months   | GSA                                                                                  |
-| Engage stakeholders to prioritize content                                   | Number of stakeholder engagement activities           | 12 months   | GSA, the Office of Government Information Services of the National Archives, and OMB |
+| Make regular updates to [resources.data.gov](https://resources.data.gov) in response to stakeholder input | Frequency of feature updates and site improvements    | December 31, 2020   | GSA                                                                                  |
+| Track growth and success of the site                                        | Number of resources available by type, resource usage | December 31, 2020   | GSA                                                                                  |
+| Engage stakeholders to prioritize content                                   | Number of stakeholder engagement activities           | December 31, 2020   | GSA, the Office of Government Information Services of the National Archives, and OMB |
 
 
 ### Action 12: Create OMB Federal Data Policy Committee
@@ -241,9 +245,9 @@ By January 2020, OMB will establish the FDPC that will help agencies deliver on 
 
 | Milestone                                              | Measurement                                                                               | Target Date | Responsible Party |
 |--------------------------------------------------------|-------------------------------------------------------------------------------------------|-------------|-------------------|
-| Launch FDPC                                            | Number of meetings held                                                                   | 1 month     | OMB               |
-| Set priorities for 2020                                | Completion of written priorities endorsed by membership                                   | 3 months    | OMB               |
-| Carry out at least 1 data policy coordination activity | Number of data policy related memorandum and circulars updated, streamlined, or rescinded | 12 months   | OMB               |
+| Launch FDPC                                            | Number of meetings held                                                                   | January 31, 2020     | OMB               |
+| Set priorities for 2020                                | Completion of written priorities endorsed by membership                                   | March 31, 2020    | OMB               |
+| Carry out at least 1 data policy coordination activity | Number of data policy related memorandum and circulars updated, streamlined, or rescinded | December 31, 2020   | OMB               |
 
 
 ### Action 13: Develop a Curated Data Skills Catalog
@@ -258,10 +262,10 @@ The contents of the catalog will initially be available to the CDOs of each agen
 
 | Milestone                                                     | Measurement                                                                             | Target Date | Responsible Party |
 |---------------------------------------------------------------|-----------------------------------------------------------------------------------------|-------------|-------------------|
-| Share draft catalog contents with CDOs and other stakeholders | Completion                                                                              | 2 months    | GSA               |
-| Collect input and make revisions                              | Number of stakeholder engagement activities; Improvements added                         | 6 months    | GSA               |
-| Publish the catalogue on [resources.data.gov](https://resources.data.gov)                   | Posted to [resources.data.gov](https://resources.data.gov); Number of resources available in the catalog by data role | 11 months   | GSA               |
-| Transfer responsibility for maintenance to the CDO council    | Completion                                                                              | 12 months   | CDO Council       |
+| Share draft catalog contents with CDOs and other stakeholders | Completion                                                                              | February 29, 2020    | GSA               |
+| Collect input and make revisions                              | Number of stakeholder engagement activities; Improvements added                         | June 30, 2020    | GSA               |
+| Publish the catalogue on [resources.data.gov](https://resources.data.gov)                   | Posted to [resources.data.gov](https://resources.data.gov); Number of resources available in the catalog by data role | November 30, 2020   | GSA               |
+| Transfer responsibility for maintenance to the CDO council    | Completion                                                                              | December 31, 2020  | CDO Council       |
 
 
 ### Action 14: Develop a Data Ethics Framework 
@@ -278,8 +282,8 @@ Initial work to develop a data ethics framework has already begun with a review 
 
 | Milestone                                                                | Measurement                  | Target Date             | Responsible Party             |
 |--------------------------------------------------------------------------|------------------------------|-------------------------|-------------------------------|
-| Initial examination of ethical issues encountered across data life cycle |                              | 6 months                | GSA with CDO Council and ICSP |
-| Release initial data ethics framework and use cases                      | Posted to [resources.data.gov](https://resources.data.gov) | 12 months               | GSA |
+| Initial examination of ethical issues encountered across data life cycle |                              | June 30, 2020                | GSA with CDO Council and ICSP |
+| Release initial data ethics framework and use cases                      | Posted to [resources.data.gov](https://resources.data.gov) | December 31, 2020               | GSA |
 | Transfer responsibility for review and update                            |                              | Ongoing every 24 months | CDO Council, ICSP      |
 
 
@@ -293,8 +297,8 @@ In addition to developing the toolkit, the FCSM will update the 2005 Report on S
 
 | Milestone                                                               | Measurement                  | Target Date | Responsible Party |
 |-------------------------------------------------------------------------|------------------------------|-------------|-------------------|
-| Release initial toolkit                                                 | Posted to [resources.data.gov](https://resources.data.gov) | 12 months   | FCSM              |
-| Release updated Report on Statistical Disclosure Limitation Methodology | Posted to [resources.data.gov](https://resources.data.gov) | 12 months   | FCSM              |
+| Release initial toolkit                                                 | Posted to [resources.data.gov](https://resources.data.gov) | December 31, 2020   | FCSM              |
+| Release updated Report on Statistical Disclosure Limitation Methodology | Posted to [resources.data.gov](https://resources.data.gov) | December 31, 2020   | FCSM              |
 
 ### Action 16: Pilot a One-stop Standard Research Application 
 
@@ -304,9 +308,9 @@ Agencies with active researcher access programs will collaborate with each other
 
 | Milestone                                                                                          | Measurement                  | Target Date | Responsible Party |
 |----------------------------------------------------------------------------------------------------|------------------------------|-------------|-------------------|
-| Create pilot portal                                                                                | Completion                   | 3 months    | Census Bureau     |
-| Recruit users to try the portal and give feedback                                                  | Number of users              | 4 months    | Census Bureau     |
-| Publish report describing success of the project and feedback that will inform future improvements | Posted to [resources.data.gov](https://resources.data.gov) | 12 months   | Census Bureau     |
+| Create pilot portal                                                                                | Completion                   | March 31, 2020    | Census Bureau     |
+| Recruit users to try the portal and give feedback                                                  | Number of users              | April 30, 2020    | Census Bureau     |
+| Publish report describing success of the project and feedback that will inform future improvements | Posted to [resources.data.gov](https://resources.data.gov) | December 31, 2020   | Census Bureau     |
 
 ### Action 17: Pilot an Automated Tool for Information Collection Reviews that Supports Data Inventory Creation and Updates
 
@@ -318,10 +322,10 @@ This action will begin a multi-year process of deploying an automated approach t
 
 | Milestone                                                    | Measurement                                 | Target Date | Responsible Party |
 |--------------------------------------------------------------|---------------------------------------------|-------------|-------------------|
-| Develop pilot tool                                           | Completion                                  | 6 months    | NCES              |
-| Test tool with at least two agencies                         | Completion                                  | 12 months   | NCES              |
-| Engage stakeholders for feedback on the tool                 | Number of stakeholder engagement activities | 12 months   | NCES              |
-| Publish report describing agency tests and stakeholder input | Posted to [resources.data.gov](https://resources.data.gov)                | 12 months   | NCES              |
+| Develop pilot tool                                           | Completion                                  | July 31, 2020    | NCES              |
+| Test tool with at least two agencies                         | Completion                                  | December 31, 2020   | NCES              |
+| Engage stakeholders for feedback on the tool                 | Number of stakeholder engagement activities | December 31, 2020   | NCES              |
+| Publish report describing agency tests and stakeholder input | Posted to [resources.data.gov](https://resources.data.gov)                | December 31, 2020   | NCES              |
 
 ### Action 18: Pilot Enhanced Data Management Tool for Federal Agencies
 
@@ -331,12 +335,12 @@ GSA will create a government-wide platform pilot with a shared code base and clo
 
 | Milestone                                                                           | Measurement                                                  | Target Date | Responsible Party |
 |-------------------------------------------------------------------------------------|--------------------------------------------------------------|-------------|-------------------|
-| Demonstrate pilot and initial feature set with a pilot agency                       | Completion                                                   | 3 months    | GSA               |
-| Infrastructure/security roadmap for production platform                             | Completion                                                   | 3 months    | GSA               |
-| Achieve interoperability with continually updated Federal open data metadata schema | Completion                                                   | 6 months    | GSA               |
-| Develop business plan and cost model                                                | Posted to [resources.data.gov](https://resources.data.gov)                                 | 6 months    | GSA               |
-| Onboard agency customers                                                            | Number of agencies onboarded                                 | 9 months    | GSA               |
-| Demonstrate increased data asset availability and improved usage                    | Number of datasets and usage of data assets through platform | 12 months   | GSA               |
+| Demonstrate pilot and initial feature set with a pilot agency                       | Completion                                                   | March 31, 2020    | GSA               |
+| Infrastructure/security roadmap for production platform                             | Completion                                                   | March 31, 2020    | GSA               |
+| Achieve interoperability with continually updated Federal open data metadata schema | Completion                                                   | June 30, 2020    | GSA               |
+| Develop business plan and cost model                                                | Posted to [resources.data.gov](https://resources.data.gov)                                 | June 30, 2020    | GSA               |
+| Onboard agency customers                                                            | Number of agencies onboarded                                 | September 30, 2020    | GSA               |
+| Demonstrate increased data asset availability and improved usage                    | Number of datasets and usage of data assets through platform | December 31, 2020   | GSA               |
 
 ### Action 19: Develop Data Quality Measuring and Reporting Guidance 
 
@@ -352,9 +356,9 @@ The action promotes the effective application of these data best practices by en
 
 | Milestone                                                              | Measurement                  | Target Date | Responsible Party |
 |------------------------------------------------------------------------|------------------------------|-------------|-------------------|
-| Completion of report on best practices for reporting on output quality | Posted to [resources.data.gov](https://resources.data.gov) | 6 months    | FCSM              |
-| Completion of metadata guidance for use by data originators            | Posted to [resources.data.gov](https://resources.data.gov) | 12 months   | FCSM              |
-| Develop tools to aid metadata maintenance                              | Posted to [resources.data.gov](https://resources.data.gov) | 12 months   | FCSM              |
+| Completion of report on best practices for reporting on output quality | Posted to [resources.data.gov](https://resources.data.gov) | June 30, 2020    | FCSM              |
+| Completion of metadata guidance for use by data originators            | Posted to [resources.data.gov](https://resources.data.gov) | December 31, 2020   | FCSM              |
+| Develop tools to aid metadata maintenance                              | Posted to [resources.data.gov](https://resources.data.gov) | December 31, 2020   | FCSM              |
 
 ### Action 20: Develop a Data Standards Repository
 
@@ -362,7 +366,7 @@ By December 2020, GSA will collaborate with OMB, in consultation with the Nation
 
 | Milestone                                                    | Measurement | Target Date | Responsible Party |
 |--------------------------------------------------------------|-------------|-------------|-------------------|
-| Develop repository with communities, frameworks, and schemas | Completion  | 12 months   | GSA and OMB      |
+| Develop repository with communities, frameworks, and schemas | Completion  | December 31, 2020   | GSA and OMB      |
 
 ## Looking Forward 
 
