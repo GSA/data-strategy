@@ -189,7 +189,7 @@ The PMA includes a series of CAP Goals that address “functional priority areas
 |-------------------------------------------------------------|-----------------------------------------------------------------------|---------------------------------|------------------------------------------------------------|
 | Getting Payments Right                                      | Metrics related to this CAP Goal are being tracked on [performance.gov](https://performance.gov)[^13] | See timeline on [performance.gov](https://performance.gov) | Getting Payments Right Executive Steering Committee        |
 | Results Oriented Accountability for Grants                  | Metrics related to this CAP Goal are being tracked on [performance.gov](https://performance.gov)[^14] | See timeline on [performance.gov](https://performance.gov) | CAP Goal 8 Executive Steering Committee                    |
-| Promote public trust in the stewardship of taxpayer dollars | Publication of draft strategy                                               | September 2020                  | Financial Data Transformation Executive Steering Committee[^15]|
+| Promote public trust in the stewardship of taxpayer dollars | Publication of draft strategy                                               | September 30, 2020                  | Financial Data Transformation Executive Steering Committee[^15]|
 
 ### Action 10: Integrate Geospatial Data Practices into the Federal Data Enterprise
 
