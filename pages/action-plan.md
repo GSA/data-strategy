@@ -60,7 +60,7 @@ The data required to answer a priority agency question might already exist — e
 | Develop a plan to engage the stakeholders needed to access or acquire the data needed to answer priority questions                                                      | Completion  | September 30, 2020   | Interim Learning Agenda or FY 2022 Budget Submission | Required for CFO Act Agencies only <br> Encouraged for all agencies <br> (see OMB M-19-23) |
 
 
-### Action 2: Institutionalize Agency Data Governance
+### Action 2: Constitute a Diverse Data Governance Body
 
 All agencies were required by M-19-23 to establish an inclusive and empowered Data Governance Body (DGB) by September 30, 2019, to be chaired by the Chief Data Officer, with participation from relevant senior-level staff in agency business units, data functions, and financial management. 
 
