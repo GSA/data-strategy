@@ -12,9 +12,10 @@ The 2020 Action Plan establishes a solid foundation that will support implementa
  
 In addition, the 2020 Action Plan includes a series of pilot projects already underway at individual agencies and a set of government-wide efforts designed to support all agencies through the development of tools and resources.
  
-Annual Action Plans are developed iteratively with stakeholder feedback and input incorporated along the way. If you’d like to be notified about updates or ways to be involved, please sign up for our news updates. A downloadable PDF will be available soon.
+Annual Action Plans are developed iteratively with stakeholder feedback and input incorporated along the way. If you’d like to be notified about updates or ways to be involved, please sign up for our news updates.
 
-*Download Final Federal Data Strategy & 2020 Action Plan PDF - Coming Soon!*
+
+[Download PDF - Final Federal Data Strategy & 2020 Action Plan]({{ site.baseurl }}/assets/docs/2020-federal-data-strategy-action-plan.pdf){: .usa-button}
 
 [Download PDF - Draft 2019-2020 Action Plan]({{ site.baseurl }}/assets/docs/draft-2019-2020-federal-data-strategy-action-plan.pdf){: .usa-button}
 
