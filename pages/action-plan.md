@@ -12,9 +12,10 @@ The 2020 Action Plan establishes a solid foundation that will support implementa
  
 In addition, the 2020 Action Plan includes a series of pilot projects already underway at individual agencies and a set of government-wide efforts designed to support all agencies through the development of tools and resources.
  
-Annual Action Plans are developed iteratively with stakeholder feedback and input incorporated along the way. If you’d like to be notified about updates or ways to be involved, please sign up for our news updates. A downloadable PDF will be available soon.
+Annual Action Plans are developed iteratively with stakeholder feedback and input incorporated along the way. If you’d like to be notified about updates or ways to be involved, please sign up for our news updates.
 
-*Download Final Federal Data Strategy & 2020 Action Plan PDF - Coming Soon!*
+
+[Download PDF - Final Federal Data Strategy & 2020 Action Plan]({{ site.baseurl }}/assets/docs/2020-federal-data-strategy-action-plan.pdf){: .usa-button}
 
 [Download PDF - Draft 2019-2020 Action Plan]({{ site.baseurl }}/assets/docs/draft-2019-2020-federal-data-strategy-action-plan.pdf){: .usa-button}
 
@@ -60,7 +61,7 @@ The data required to answer a priority agency question might already exist — e
 | Develop a plan to engage the stakeholders needed to access or acquire the data needed to answer priority questions                                                      | Completion  | September 30, 2020   | Interim Learning Agenda or FY 2022 Budget Submission | Required for CFO Act Agencies only <br> Encouraged for all agencies <br> (see OMB M-19-23) |
 
 
-### Action 2: Institutionalize Agency Data Governance
+### Action 2: Constitute a Diverse Data Governance Body
 
 All agencies were required by M-19-23 to establish an inclusive and empowered Data Governance Body (DGB) by September 30, 2019, to be chaired by the Chief Data Officer, with participation from relevant senior-level staff in agency business units, data functions, and financial management. 
 
