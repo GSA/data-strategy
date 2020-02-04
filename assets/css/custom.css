@@ -353,6 +353,30 @@ margin-top : 0;
 #feedback-form input {margin-bottom: 1.5rem; width: 75%;}
 #feedback-form #fba-submit {width: auto;}
 
+main.page-progress p {
+  font-size : 2rem;
+}
+
+.metrics-highlight-row {
+  font-size : 2.5rem;
+}
+
+.metrics-highlight-box {
+  text-align: center;
+}
+
+.metrics-highlight-box .metric-callout {
+  font-size : 3em;
+  display : block;
+  font-weight: bold;
+  color : #112e51;
+}
+
+.metrics-highlight-box .metric-callout-connector {
+  padding-top : 4rem;
+  display : inline-block
+}
+
 
 @media screen and (min-width: 950px) {
 

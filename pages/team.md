@@ -13,7 +13,7 @@ The _Leveraging Data as a Strategic Asset_ Cross Agency Priority (CAP) Goal comm
 **Karen Dunn Kelley**, Deputy Secretary, U.S. Department of Commerce  
 **Kelvin Droegemeier**, Director, Office of Science and Technology Policy, Executive Office of the President    
 **Suzette Kent**, Federal Chief Information Officer, Office of the Federal Chief Information Officer, Office of Management and Budget, Executive Office of the President  
-**Nancy Potok**, Chief Statistician of the U.S., Office of Information and Regulatory Affairs, Office of Management and Budget,  Executive Office of the President   
+**Dominic Mancini**, Deputy Administrator of the Office of Information and Regulatory Affairs, Office of Management and Budget,  Executive Office of the President   
 **Maria Roat**, Chief Information Officer, U.S. Small Business Administration  
 
 ### Federal Data Strategy Development Team
