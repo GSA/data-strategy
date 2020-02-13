@@ -2,6 +2,7 @@
 title: Feedback Page
 permalink: /contact/
 layout: page
+redirect_from: /feedback/
 ---
 
 ## Contact
