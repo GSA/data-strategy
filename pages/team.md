@@ -95,10 +95,3 @@ The _Leveraging Data as a Strategic Asset_ Cross Agency Priority (CAP) Goal comm
 **Jennifer Wiltz**, Captain, Senior Medical Officer, Centers for Disease Control and Prevention, U.S. Department of Health and Human Services  
 **Grace Yuan**, Data Analytics Officer, National Science Foundation  
 **Lin Zhang**, Senior Enterprise Data Architect, U.S. Department of the Interior  
-
-### Contact
-For media inquiries, please reach out to OMB press at [media@omb.eop.gov](mailto:media@omb.eop.gov).
-
-For agency inquiries, please reach out to OMB staff at [datastrategy@omb.eop.gov](mailto:datastrategy@omb.eop.gov). 
-
-For website issues, [report a bug on GitHub](https://github.com/GSA/data-strategy/issues).
