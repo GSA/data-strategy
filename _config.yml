@@ -12,7 +12,7 @@ branch: master
 org_name: GSA
 
 # Configuration for Google Analytics, add your UA code here:
-# google_analytics_ua: UA-42145528-6 - moved to Tag Manager 
+# google_analytics_ua: UA-42145528-6 - moved to Tag Manager
 
 # Configuration for DAP, add your agency ID here:
 dap_agency: GSA
@@ -20,6 +20,9 @@ dap_agency: GSA
 permalink: pretty
 
 data_dir: data
+
+plugins:
+  - jekyll-redirect-from
 
 exclude:
   - Gemfile
