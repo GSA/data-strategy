@@ -16,6 +16,19 @@ jobs:
           paths:
             - vendor/bundle
       - run: bundle exec jekyll build
+      - run: bundle exec htmlproofer --check-html --disable-external --url-swap '^/:http://localhost:4000/' _site
+
+  broken-link-check:
+    docker:
+      - image: circleci/ruby:2.5
+    steps:
+      - checkout
+      - restore_cache:
+          keys:
+            - v1-bundle-{{ checksum "Gemfile.lock" }}
+            - v1-bundle-
+      - run: bundle install --path vendor/bundle
+      - run: bundle exec jekyll build
       - run: |
           bundle exec jekyll serve --incremental &
           sleep 1
@@ -27,3 +40,14 @@ workflows:
   commit:
     jobs:
       - build
+
+  weekly:
+    jobs:
+      - broken-link-check
+    triggers:
+      - schedule:
+          cron: "0 16 * * 1"
+          filters:
+            branches:
+              only:
+                - master
