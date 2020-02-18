@@ -387,6 +387,36 @@ main.page-progress p {
   display : inline-block
 }
 
+.milestone-current {
+  border-left: 20px solid #48B749;
+}
+
+.milestone-future {
+  border-left: 20px solid #E3E0E4;
+}
+
+.milestone-progress-row {
+  padding : 2rem 0 2rem 2rem;
+}
+
+.milestone-progress-row .milestone-status .milestone-status-classification,
+.milestone-progress-row .milestone-status .milestone-status-metric,
+.milestone-progress-row .milestone-status .milestone-status-next {
+  padding-bottom : 1rem;
+}
+
+.milestone-status-metric-number {
+  display : inline-block;
+  width : 33%;
+  font-size : 3rem;
+}
+
+.milestone-status-metric-details {
+  display : inline-block;
+  width : 66%;  
+}
+
+
 
 @media screen and (min-width: 950px) {
 
