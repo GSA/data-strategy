@@ -486,7 +486,18 @@ margin-top : 0;
   position: relative;  
 }
 
+ .supplemental-info {
+  color : #225D9D;
+  padding-top : 5rem;
+ }
 
+h4.supplemental-info {
+  color : #000;
+}
+
+.page-progress h4#footnotes {
+  margin-top : 5rem;
+}
 
 
 
@@ -530,5 +541,15 @@ margin-top : 0;
   .two-thirds-flow {
     margin-right : 38%;
   }
+
+  .milestone-quarter-heading {
+    font-size : 1.5rem;
+    transform:rotate(90deg);
+    transform-origin: left top 0;
+    position : absolute;
+    margin :0;
+    padding :0;
+  }
+
 
 }
