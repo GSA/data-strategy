@@ -1,0 +1,24 @@
+AGENCY,CFO Act agency? (Y/N),Does an agency/data webpage exist? (Y/N),Did an agency post DGB to [agency].gov/data web page? (Y/N),membership? (Y/N),Charter?(Y/N),Meeting cadence? (Y/N)
+Consumer Financial Protection Bureau,N,Y,Y,Y,Y,Y
+Department of Agriculture,Y,Y,Y,N,Y,N
+Department of Commerce,Y,Y,Y,Y,Y,N
+Department of Education,Y,Y,Y,Y,Y,Y
+Department of Justice,Y,Y,Y,Y,Y,N
+Department of Labor,Y,Y,Y,Y,Y,N
+Department of the Interior,Y,Y,Y,Y,Y,N
+Department of the Treasury,Y,N,Y,Y,Y,N
+Department of Veterans Affairs,Y,Y,Y,Y,N,N
+Farm Credit Administration,N,Y,Y,Y,Y,Y
+Federal Energy Regulatory Commision,N,Y,Y,N,N,N
+Federal Trade Commission,N,Y,Y,Y,N,Y
+Merit Systems Protection Board,N,Y,Y,Y,N,N
+National Endowment for the Arts,N,Y,Y,Y,Y,Y
+National Science Foundation,Y,Y,Y,Y,Y,Y
+Nuclear Regulatory Commission,Y,Y,Y,Y,Y,Y
+Office of Government Ethics,N,Y,Y,Y,Y,Y
+Pension Benefit Guaranty Coorporation,N,Y,Y,Y,Y,Y
+Selective Service System,N,Y,Y,Y,N,N
+Small Business Administration,Y,Y,Y,Y,Y,Y
+Social Security Administration,Y,Y,Y,Y,Y,Y
+Surface Transportation Board,N,Y,Y,Y,Y,N
+U.S. Agency for International Development,Y,Y,Y,Y,Y,Y
