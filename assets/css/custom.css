@@ -468,6 +468,10 @@ margin-top : 0;
   font-style: italic;
 }
 
+#milestone-7-1 .milestone-status-metric-details {
+  margin-top : 2rem;
+}
+
 .milestone-status-next {
   list-style: none;
 }
@@ -498,7 +502,6 @@ h4.supplemental-info {
 .page-progress h4#footnotes {
   margin-top : 5rem;
 }
-
 
 
 @media screen and (min-width: 950px) {
