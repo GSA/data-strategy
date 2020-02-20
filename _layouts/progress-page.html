@@ -240,9 +240,20 @@ layout: default
 
 
 	<h4 class="supplemental-info">Click below to download data.</h4>
-	<a href="" class="usa-button">Preview CSV</a> <a href="{{ site.baseurl }}/data/cdo-council-membership-status.csv" class="usa-button">Download CSV</a>
+	<a href="{{ site.baseurl }}/data/cdo-council-membership-status.csv" class="usa-button">Download CSV</a>
 
+<script type="text/javascript">
 
+$(document).ready(function() {
+    init_table({
+     csv_path: '../data/cdo-council-membership-status.csv',
+     element: 'table-container',
+     datatables_options: {"paging": false, "searching": false}
+    });
+} );
+</script>
+
+<div id="table-container"></div>
 
 	<h4 class="footnotes" id="footnotes">Footnotes</h4>
 	<div class="footnotes">
