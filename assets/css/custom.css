@@ -363,9 +363,8 @@ margin-top : 0;
 #feedback-form input {margin-bottom: 1.5rem; width: 75%;}
 #feedback-form #fba-submit {width: auto;}
 
-main.page-progress p {
-  font-size : 2rem;
-}
+
+
 
 .metrics-highlight-row {
   font-size : 2.5rem;
@@ -385,6 +384,123 @@ main.page-progress p {
 .metrics-highlight-box .metric-callout-connector {
   padding-top : 4rem;
   display : inline-block
+}
+
+.milestone-current {
+  border-left: 20px solid #48B749;
+}
+
+.milestone-future {
+  border-left: 20px solid #E3E0E4;
+}
+
+.milestone-progress-row {
+  padding : 3rem 0 2rem .5rem;
+}
+
+.milestone-progress-row.milestone-current {
+  border-bottom : 1px solid #E3E0E4;
+}
+
+
+.milestone-progress-row.milestone-future .milestone-meta {
+  border-bottom : 1px solid #E3E0E4;
+  padding-bottom : 3rem;
+  opacity: 0.5;
+}
+
+.milestone-progress-row.milestone-future:hover .milestone-meta,
+.milestone-progress-row.milestone-future:focus .milestone-meta {
+   opacity: 1;
+}
+
+.milestone-progress-row .milestone-status .milestone-status-classification,
+.milestone-progress-row .milestone-status .milestone-status-metric,
+.milestone-progress-row .milestone-status .milestone-status-next {
+  padding-bottom : 1rem;
+}
+
+
+.milestone-meta li {
+  list-style-type: none;
+  position: relative;
+  padding-left: 1.5rem;
+}
+
+.milestone-meta li:before {
+  content: "✓";
+  font-size: 2rem;
+  position: absolute;
+  top: 0;
+  left: -1rem;
+}
+
+.status-partial-complete .status-text,
+.status-partial-complete li:before {
+  color : #D7B429;
+}
+
+.status-complete .status-text,
+.status-complete li:before {
+  color : #48B749;
+}
+
+.milestone-future .milestone-meta li:before {
+  content : "";
+}
+
+
+.milestone-status-metric-number {
+  display : inline-block;
+  width : 33%;
+  font-size : 5rem;
+  font-weight: bold;
+  color : #48B749;
+  vertical-align: top;
+  padding : 0 3rem 
+  
+}
+
+.milestone-status-metric-details {
+  display : inline-block;
+  width : 66%;  
+  color : #59636F;
+  font-style: italic;
+}
+
+#milestone-7-1 .milestone-status-metric-details {
+  margin-top : 2rem;
+}
+
+.milestone-status-next {
+  list-style: none;
+}
+
+.milestone-status-next li:before {
+  font-size : 1.3em;
+  content: "";
+  border-color: transparent #225D9D;
+  border-style: solid;
+  border-width: 0.35em 0 0.35em 0.45em;
+  display: block;
+  height: 0;
+  width: 0;
+  left: -1em;
+  top: 0.9em;
+  position: relative;  
+}
+
+ .supplemental-info {
+  color : #225D9D;
+  padding-top : 5rem;
+ }
+
+h4.supplemental-info {
+  color : #000;
+}
+
+.page-progress h4#footnotes {
+  margin-top : 5rem;
 }
 
 
@@ -428,5 +544,15 @@ main.page-progress p {
   .two-thirds-flow {
     margin-right : 38%;
   }
+
+  .milestone-quarter-heading {
+    font-size : 1.5rem;
+    transform:rotate(90deg);
+    transform-origin: left top 0;
+    position : absolute;
+    margin :0;
+    padding :0;
+  }
+
 
 }
