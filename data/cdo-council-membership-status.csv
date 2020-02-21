@@ -1,4 +1,4 @@
-AGENCY,CFO Act agency? (Y/N),Does an agency/data web page exist? (Y/N),Did an agency post DGB to [agency].gov/data web page? (Y/N),Membership? (Y/N),Charter?(Y/N),Meeting cadence? (Y/N)
+AGENCY,CFO Act agency? (Y/N),Does an [agency].gov/data web page exist? (Y/N),Did an agency post DGB to [agency].gov/data web page? (Y/N),Membership? (Y/N),Charter?(Y/N),Meeting cadence? (Y/N)
 Consumer Financial Protection Bureau,N,Y,Y,Y,Y,Y
 Department of Agriculture,Y,Y,Y,N,Y,N
 Department of Commerce,Y,Y,Y,Y,Y,N
