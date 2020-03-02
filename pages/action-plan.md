@@ -167,7 +167,7 @@ Implementation of the Executive Order on Maintaining American Leadership in Arti
 	* Prioritizing the data assets and models under their purview for discovery, access, and enhancement; 
 	* Assessing the level of effort needed to make necessary improvements in data sets and models, against available resources; and
 	* Developing justifications for additional resources. 
-* Incorporating updated inventory technical schema formats into Action 11 (Develop a Repository of Federal Enterprise Data Resources) and Action 15 (Identify Priority Data Assets for Agency Open Data Plans) of the 2020 Action Plan.
+* Incorporating updated inventory technical schema formats into Action 11 (Develop a Repository of Federal Enterprise Data Resources) and Action 5 (Identify Priority Data Assets for Agency Open Data Plans) of the 2020 Action Plan.
 * Selecting pilot(s) to demonstrate how to enhance access to discoverable and useable Federal data and models, including mature, high-quality Federal training data assets.
 
 | Milestone                                                                  | Measurement       | Target Date | Responsible Party |
