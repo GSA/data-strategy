@@ -77,11 +77,13 @@ Agencies may refer to *A Playbook in Support of the Federal Data Strategy: Getti
 | Milestone                                                                                                                  | Measurement              | Target Date                                                  | Reporting Mechanism                                                          | Required or Encouraged      |
 |----------------------------------------------------------------------------------------------------------------------------|--------------------------|--------------------------------------------------------------|------------------------------------------------------------------------------|-----------------------------|
 | Publish agency data governance materials (membership, charter, meeting cadence) on [agency].gov/data web page              | Completion               | January 31, 2020                                                     | Post to agency/data web page                                                 | Required for all agencies   |
-| After you complete your assessment of current staff data skills and literacy (see Action 3), dedicate staff to support DGB | Number of FTEs dedicated | <s>September 30, 2020</s> **October 31, 2020**                                                     | [strategy.data.gov](https://strategy.data.gov)                        | Encouraged for all agencies |
+| After you complete your assessment of current staff data skills and literacy (see Action 3), dedicate staff to support DGB | Number of FTEs dedicated | <s>September 30, 2020</s> <b>October 31, 2020*</b>                                                     | [strategy.data.gov](https://strategy.data.gov)                        | Encouraged for all agencies |
 | Document how the DGB receives its authority                                                                                | Completion               | September 30, 2020                                                     | [strategy.data.gov](https://strategy.data.gov)                        | Encouraged for all agencies |
 | Put in place a data strategy or road map                                                                                   | Completion               | 1 activity per quarter, any order encouraged of all agencies | [strategy.data.gov](https://strategy.data.gov) & in agency Information Resource Management Strategic Plan | Encouraged for all agencies |
 | Develop a plan for capital planning for enterprise data assets and infrastructure                                          | Completion               | (See Above) | (See Above) | Encouraged for all agencies |
 | Adopt a master data management program                                                                                     | Completion               | (See Above) | (See Above) | Encouraged for all agencies |
+
+&#42; *Due to government-wide focus on COVID-19 response activities, the Federal Data Strategy team has extended this target date. Read the team's statement on our [News](strategy.data.gov/news) page.*
 
 ### Action 3: Assess Data and Related Infrastructure Maturity
 
@@ -93,9 +95,11 @@ The maturity model used to conduct the maturity assessment should be chosen by t
 
 | Milestone                                                                                                                                  | Measurement                        | Target Date | Reporting Mechanism | Required or Encouraged      |
 |--------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------|-------------|---------------------|-----------------------------|
-| Select an operational maturity assessment model for data and data infrastructure                                                           | Completion                         | <s>June 30, 2020</s> **July 31, 2020**    | [strategy.data.gov](https://strategy.data.gov)   | Required for all agencies   |
+| Select an operational maturity assessment model for data and data infrastructure                                                           | Completion                         | <s>June 30, 2020</s> <b>July 31, 2020*</b>    | [strategy.data.gov](https://strategy.data.gov)   | Required for all agencies   |
 | Agency Chief Data Officer and other senior-level staff participate in any training or technical assistance related to maturity assessments | Number of people attended training | September 30, 2020    | [strategy.data.gov](https://strategy.data.gov)   | Encouraged for all agencies |
 | Conduct and document the outcome of the initial data maturity assessment                                                                               | Completion                         | September 30, 2020    | [strategy.data.gov](https://strategy.data.gov)   | Encouraged for all agencies |
+
+&#42; *Due to government-wide focus on COVID-19 response activities, the Federal Data Strategy team has extended this target date. Read the team's statement on our [News](strategy.data.gov/news) page.*
 
 ### Action 4: Identify Opportunities to Increase Staff Data Skills
  
@@ -114,10 +118,11 @@ Note: This action can also serve as one input to the capacity assessment require
 
 | Milestone                                                                                                                            | Measurement                        | Target Date | Reporting Mechanism | Required or Encouraged                                        |
 |--------------------------------------------------------------------------------------------------------------------------------------|------------------------------------|-------------|---------------------|---------------------------------------------------------------|
-| Perform an assessment of current staff data literacy and data skills                                                                 | Completion                         | <s>June 30, 2020</s> **July 31, 2020**    | [strategy.data.gov](https://strategy.data.gov)   | Required for CFO Act Agencies only <br> Encouraged for all agencies |
+| Perform an assessment of current staff data literacy and data skills                                                                 | Completion                         | <s>June 30, 2020</s> <b>uly 31, 2020*</b>    | [strategy.data.gov](https://strategy.data.gov)   | Required for CFO Act Agencies only <br> Encouraged for all agencies |
 | Conduct a gap analysis between the current staff's skills and the skills the agency requires                                         | Completion | September 30, 2020    | [strategy.data.gov](https://strategy.data.gov)   | Required for CFO Act Agencies only <br> Encouraged for all agencies |
 | Based on the assessment, establish a baseline and develop a performance  plan to close the identified data skills and literacy  gaps | Completion                         | December 31, 2020   | [strategy.data.gov](https://strategy.data.gov)   | Required for CFO Act Agencies only <br> Encouraged for all agencies |
 
+&#42; *Due to government-wide focus on COVID-19 response activities, the Federal Data Strategy team has extended this target date. Read the team's statement on our [News](strategy.data.gov/news) page.*
 
 ### Action 5: Identify Priority Data Assets for Agency Open Data Plans
 
@@ -127,8 +132,10 @@ A playbook and use cases that describe prioritization methodologies and examples
 
 | Milestone                                                                                                                                                          | Measurement                               | Target Date                                                                                 | Reporting Mechanism                                   | Required or Encouraged    |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------|---------------------------------------------------------------------------------------------|-------------------------------------------------------|---------------------------|
-| Publish an Open Data Plan for sharing priority agency data assets, developed with stakeholder engagement, including data assets that support **COVID-19 response** and AI R&D (see Action 6) | Completion                                | After OMB Open Data Plan Guidance is issued; Annually on Agency IRM Strategic Plan schedule | Agency Information Resource Management Strategic Plan | Required for all agencies |
+| Publish an Open Data Plan for sharing priority agency data assets, developed with stakeholder engagement, including data assets that support <b>COVID-19 response*</b> and AI R&D (see Action 6) | Completion                                | After OMB Open Data Plan Guidance is issued; Annually on Agency IRM Strategic Plan schedule | Agency Information Resource Management Strategic Plan | Required for all agencies |
 | Execute a process to evaluate and improve the timeliness, completeness, consistency, accuracy, usefulness, and availability of open Government data assets         | Qualitative and quantitative improvements | December 31, 2020                                                                                   | [strategy.data.gov](https://strategy.data.gov) & agency public data.json APIs      | Required for all agencies |
+
+&#42; *Due to government-wide focus on COVID-19 response activities, the Federal Data Strategy team has included COVID-19 data assets as priority data assets for this milestone. Read the team's statement on our [News](strategy.data.gov/news) page.*
 
 ### Action 6: Publish and Update Data Inventories 
  
@@ -136,8 +143,10 @@ By July 2020, all agencies will update existing comprehensive data inventories i
 
 | Milestone                                                                                      | Measurement                   | Target Date                                    | Reporting Mechanism          | Required or Encouraged    |
 |------------------------------------------------------------------------------------------------|-------------------------------|------------------------------------------------|------------------------------|---------------------------|
-| Update comprehensive data inventories for overall completeness and priority **COVID-19 response** data asset sprints | Metadata quality improvements | Minimally every 3 months, as often as possible | Agency public data.json APIs | Required for all agencies |
-| Update comprehensive data inventory to conform to standard metadata                            | Completion                    | ~July 31, 2020~ **90 days after OMB/GSA standard metadata guidance is issued**                             | Agency public data.json APIs | Required for all agencies 
+| Update comprehensive data inventories for overall completeness and priority <b>COVID-19 response*</b> data asset sprints | Metadata quality improvements | Minimally every 3 months, as often as possible | Agency public data.json APIs | Required for all agencies |
+| Update comprehensive data inventory to conform to standard metadata                            | Completion                    | ~July 31, 2020~ <b>90 days after OMB/GSA standard metadata guidance is issued*</b>                             | Agency public data.json APIs | Required for all agencies 
+
+&#42; *Due to government-wide focus on COVID-19 response activities, the Federal Data Strategy team has included COVID-19 data assets as priority data assets for this milestone and clarified target dates based on OMB guidance dependencies. Read the team's statement on our [News](strategy.data.gov/news) page.*
 
 [Back to top](#main-content)
 
@@ -359,9 +368,12 @@ The action promotes the effective application of these data best practices by en
 
 | Milestone                                                              | Measurement                  | Target Date | Responsible Party |
 |------------------------------------------------------------------------|------------------------------|-------------|-------------------|
-| Completion of report on best practices for reporting on output quality | Posted to [resources.data.gov](https://resources.data.gov) | <s>June 30, 2020</s> **September 30,2020**    | FCSM              |
+| Completion of report on best practices for reporting on output quality | Posted to [resources.data.gov](https://resources.data.gov) | <s>June 30, 2020</s> <b>September 30,2020*</b>   | FCSM              |
 | Completion of metadata guidance for use by data originators            | Posted to [resources.data.gov](https://resources.data.gov) | December 31, 2020   | FCSM              |
 | Develop tools to aid metadata maintenance                              | Posted to [resources.data.gov](https://resources.data.gov) | December 31, 2020   | FCSM              |
+
+
+&#42; *Due to government-wide focus on COVID-19 response activities, the Federal Data Strategy team has extended this target date. Read the team's statement on our [News](strategy.data.gov/news) page.*
 
 ### Action 20: Develop a Data Standards Repository
 
