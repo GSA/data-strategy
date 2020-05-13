@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Due to COVID-19 response, 2020 Action Plan June Target Dates are extended
-date: 2020-05-14 18:00:00 -0500
+date: 2020-05-14 08:00:00 -0500
 category: news
 published: true
 ---
