@@ -143,7 +143,7 @@ By July 2020, all agencies will update existing comprehensive data inventories i
 
 | Milestone                                                                                      | Measurement                   | Target Date                                    | Reporting Mechanism          | Required or Encouraged    |
 |------------------------------------------------------------------------------------------------|-------------------------------|------------------------------------------------|------------------------------|---------------------------|
-| Update comprehensive data inventories for overall completeness and priority <b>COVID-19 response*</b> data asset sprints | Metadata quality improvements | Minimally every 3 months, as often as possible | Agency public data.json APIs | Required for all agencies |
+| Update comprehensive data inventories for overall completeness, AI R&D [^22] and priority <b>COVID-19 response*</b> data asset sprints | Metadata quality improvements | Minimally every 3 months, as often as possible | Agency public data.json APIs | Required for all agencies |
 | Update comprehensive data inventory to conform to standard metadata                            | Completion                    | <s>July 31, 2020</s> <b>90 days after OMB/GSA standard metadata guidance is issued*</b>                             | Agency public data.json APIs | Required for all agencies 
 
 &#42; *Due to government-wide focus on COVID-19 response activities, the Federal Data Strategy team has included COVID-19 response data assets as priority data assets for this milestone and clarified target dates based on OMB guidance dependencies. Read the team's statement on our [News]({{ site.baseurl }}/news) page.*
@@ -411,3 +411,4 @@ Future annual Action Plans will build on the 2020 Action Plan to further develop
 [^19]: See Report on Statistical Disclosure Limitation Methodology available at: [nces.ed.gov/FCSM/pdf/spwp22.pdf](https://nces.ed.gov/FCSM/pdf/spwp22.pdf)
 [^20]: 44 U.S.C. §3501 et seq.
 [^21]: Government-wide metadata standards are available at [resources.data.gov](https://resources.data.gov)
+[^22]: Implementation Guidance to Federal Agencies Regarding Enterprise Data and Source Code Inventories at [code.gov](https://code.gov/assets/data/ai_inventory-guidance.pdf)
