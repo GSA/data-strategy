@@ -79,6 +79,7 @@ The _Leveraging Data as a Strategic Asset_ Cross Agency Priority (CAP) Goal comm
 **Jessica Nicholson**, Senior Economist, U.S. Bureau of Economic Analysis, U.S. Department of Commerce  
 **Glenda Noel**, Program and Management Analyst, U.S. Environmental Protection Agency  
 **Anne Parker**, Program Manager, Internal Revenue Service, U.S. Department of the Treasury  
+**Regina Powers** Attorney Advisor, Office of the Assistant General Counsel for Legislation and Regulation, U.S. Department of Commerce  
 **Natalie Rico**, Senior Policy Analyst, Office of Management and Budget, Executive Office of the President  
 **Joseph Semsar**, Chief of Staff to the Deputy Secretary, U.S. Department of Commerce  
 **Stacy Sneeringer**, Research Economist, Economic Research Service, U.S. Department of Agriculture  
