@@ -36,7 +36,6 @@ The _Leveraging Data as a Strategic Asset_ Cross Agency Priority (CAP) Goal comm
 **Jeongsoo Kim**, Senior Health Policy Analyst, U.S. Department of Health and Human Services, on detail to the Office of Management and Budget, Executive Office of the President     
 **Shelly Martinez**, Senior Statistician, Office of Management and Budget, Executive Office of the President  
 **Lisa Mavrogianis**, Open Data Lead, U.S. Department of Veterans Affairs  
-**Elizabeth McGill**, Public Health Analyst, U.S. Department of Health and Human Services  
 **Lisette Montalvo**, Data Governance Council Secretariat, U.S. Department of Veterans Affairs  
 **Erik Noble**, Senior Policy Advisor, Office of Science and Technology Policy, Executive Office of the President  
 **Dana Pitts**, Associate Director for Communications Science, U.S. Department of Health and Human Services    
@@ -76,6 +75,7 @@ The _Leveraging Data as a Strategic Asset_ Cross Agency Priority (CAP) Goal comm
 **Grace Levin**, Management Analyst, U.S. State Department  
 **Anne Levine**, Acting Chief Data Officer, Federal Communications Commission  
 **Lisa Mancino**, Senior Agricultural Economist, U.S. Department of Agriculture  
+**Elizabeth McGill**, Public Health Analyst, U.S. Department of Health and Human Services  
 **Jessica Nicholson**, Senior Economist, U.S. Bureau of Economic Analysis, U.S. Department of Commerce  
 **Glenda Noel**, Program and Management Analyst, U.S. Environmental Protection Agency  
 **Anne Parker**, Program Manager, Internal Revenue Service, U.S. Department of the Treasury  
