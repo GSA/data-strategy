@@ -77,13 +77,14 @@ Agencies may refer to *A Playbook in Support of the Federal Data Strategy: Getti
 | Milestone                                                                                                                  | Measurement              | Target Date                                                  | Reporting Mechanism                                                          | Required or Encouraged      |
 |----------------------------------------------------------------------------------------------------------------------------|--------------------------|--------------------------------------------------------------|------------------------------------------------------------------------------|-----------------------------|
 | Publish agency data governance materials (membership, charter, meeting cadence) on [agency].gov/data web page              | Completion               | January 31, 2020                                                     | Post to agency/data web page                                                 | Required for all agencies   |
-| After you complete your assessment of current staff data skills and literacy (see Action 3), dedicate staff to support DGB | Number of FTEs dedicated | <s>September 30, 2020</s> <b>October 31, 2020*</b>                                                     | [strategy.data.gov](https://strategy.data.gov)                        | Encouraged for all agencies |
-| Document how the DGB receives its authority                                                                                | Completion               | September 30, 2020                                                     | [strategy.data.gov](https://strategy.data.gov)                        | Encouraged for all agencies |
-| Put in place a data strategy or road map                                                                                   | Completion               | 1 activity per quarter, any order encouraged of all agencies | [strategy.data.gov](https://strategy.data.gov) & in agency Information Resource Management Strategic Plan | Encouraged for all agencies |
+| After you complete your assessment of current staff data skills and literacy (see Action 3), dedicate staff to support DGB | Number of FTEs dedicated | <s>September 30, 2020</s> <b>October 31, 2020*</b>                                                     | Progress Reporting Tool&#42;&#42;                        | Encouraged for all agencies |
+| Document how the DGB receives its authority                                                                                | Completion               | September 30, 2020                                                     | Progress Reporting Tool&#42;&#42;                        | Encouraged for all agencies |
+| Put in place a data strategy or road map                                                                                   | Completion               | 1 activity per quarter, any order encouraged of all agencies | Progress Reporting Tool&#42;&#42; & in agency Information Resource Management Strategic Plan | Encouraged for all agencies |
 | Develop a plan for capital planning for enterprise data assets and infrastructure                                          | Completion               | (See Above) | (See Above) | Encouraged for all agencies |
 | Adopt a master data management program                                                                                     | Completion               | (See Above) | (See Above) | Encouraged for all agencies |
 
 &#42; *Due to government-wide focus on COVID-19 response activities, the Federal Data Strategy team has extended this target date. Read the team's statement on our [News]({{ site.baseurl }}/news) page.*
+&#42;&#42; *An agency’s Chief Data Officer (CDO) is considered the main point of contact for its progress reporting and each CDO receives a unique link for the Progress Report Tool.*
 
 ### Action 3: Assess Data and Related Infrastructure Maturity
 
@@ -95,11 +96,12 @@ The maturity model used to conduct the maturity assessment should be chosen by t
 
 | Milestone                                                                                                                                  | Measurement                        | Target Date | Reporting Mechanism | Required or Encouraged      |
 |--------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------|-------------|---------------------|-----------------------------|
-| Select an operational maturity assessment model for data and data infrastructure                                                           | Completion                         | <s>June 30, 2020</s> <b>July 31, 2020*</b>    | [strategy.data.gov](https://strategy.data.gov)   | Required for all agencies   |
-| Agency Chief Data Officer and other senior-level staff participate in any training or technical assistance related to maturity assessments | Number of people attended training | September 30, 2020    | [strategy.data.gov](https://strategy.data.gov)   | Encouraged for all agencies |
-| Conduct and document the outcome of the initial data maturity assessment                                                                               | Completion                         | September 30, 2020    | [strategy.data.gov](https://strategy.data.gov)   | Encouraged for all agencies |
+| Select an operational maturity assessment model for data and data infrastructure                                                           | Completion                         | <s>June 30, 2020</s> <b>July 31, 2020*</b>    | Progress Reporting Tool&#42;&#42;   | Required for all agencies   |
+| Agency Chief Data Officer and other senior-level staff participate in any training or technical assistance related to maturity assessments | Number of people attended training | September 30, 2020    | Progress Reporting Tool&#42;&#42;   | Encouraged for all agencies |
+| Conduct and document the outcome of the initial data maturity assessment                                                                               | Completion                         | September 30, 2020    | Progress Reporting Tool&#42;&#42;   | Encouraged for all agencies |
 
 &#42; *Due to government-wide focus on COVID-19 response activities, the Federal Data Strategy team has extended this target date. Read the team's statement on our [News]({{ site.baseurl }}/news) page.*
+&#42;&#42; *An agency’s Chief Data Officer (CDO) is considered the main point of contact for its progress reporting and each CDO receives a unique link for the Progress Report Tool.*
 
 ### Action 4: Identify Opportunities to Increase Staff Data Skills
  
@@ -118,11 +120,12 @@ Note: This action can also serve as one input to the capacity assessment require
 
 | Milestone                                                                                                                            | Measurement                        | Target Date | Reporting Mechanism | Required or Encouraged                                        |
 |--------------------------------------------------------------------------------------------------------------------------------------|------------------------------------|-------------|---------------------|---------------------------------------------------------------|
-| Perform an assessment of current staff data literacy and data skills                                                                 | Completion                         | <s>June 30, 2020</s> <b>July 31, 2020*</b>    | [strategy.data.gov](https://strategy.data.gov)   | Required for CFO Act Agencies only <br> Encouraged for all agencies |
-| Conduct a gap analysis between the current staff's skills and the skills the agency requires                                         | Completion | September 30, 2020    | [strategy.data.gov](https://strategy.data.gov)   | Required for CFO Act Agencies only <br> Encouraged for all agencies |
-| Based on the assessment, establish a baseline and develop a performance  plan to close the identified data skills and literacy  gaps | Completion                         | December 31, 2020   | [strategy.data.gov](https://strategy.data.gov)   | Required for CFO Act Agencies only <br> Encouraged for all agencies |
+| Perform an assessment of current staff data literacy and data skills                                                                 | Completion                         | <s>June 30, 2020</s> <b>July 31, 2020*</b>    | Progress Reporting Tool&#42;&#42;   | Required for CFO Act Agencies only <br> Encouraged for all agencies |
+| Conduct a gap analysis between the current staff's skills and the skills the agency requires                                         | Completion | September 30, 2020    | Progress Reporting Tool&#42;&#42;   | Required for CFO Act Agencies only <br> Encouraged for all agencies |
+| Based on the assessment, establish a baseline and develop a performance  plan to close the identified data skills and literacy  gaps | Completion                         | December 31, 2020   | Progress Reporting Tool&#42;&#42;   | Required for CFO Act Agencies only <br> Encouraged for all agencies |
 
 &#42; *Due to government-wide focus on COVID-19 response activities, the Federal Data Strategy team has extended this target date. Read the team's statement on our [News]({{ site.baseurl }}/news) page.*
+&#42;&#42; *An agency’s Chief Data Officer (CDO) is considered the main point of contact for its progress reporting and each CDO receives a unique link for the Progress Report Tool.*
 
 ### Action 5: Identify Priority Data Assets for Agency Open Data Plans
 
