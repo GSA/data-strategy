@@ -16,7 +16,9 @@ The Practices are organized into three categories:
 
 [Learn about the history of the Practices]({{ site.baseurl }}/background/#how-were-the-practices-created){: .usa-button}
 
-[Download Practices PDF]({{ site.baseurl }}/assets/docs/federal-data-strategy-practices.pdf){: .usa-button}
+[Download PDF – Federal Data Strategy Brochure]({{ site.baseurl }}/assets/docs/2020-federal-data-strategy-framework.pdf){: .usa-button}
+
+[Download PDF – Practices]({{ site.baseurl }}/assets/docs/federal-data-strategy-practices.pdf){: .usa-button}
 
 ## Practices
 
