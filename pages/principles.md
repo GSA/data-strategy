@@ -13,6 +13,8 @@ The Principles serve as motivational guidelines in the areas of Ethical Governan
 
 [Learn about the history of the Principles]({{ site.baseurl }}/background/#how-were-the-principles-created){: .usa-button}
 
+[Download PDF – Federal Data Strategy Brochure]({{ site.baseurl }}/assets/docs/2020-federal-data-strategy-framework.pdf){: .usa-button}
+
 [Download Principles PDF]({{ site.baseurl }}/assets/docs/federal-data-strategy-principles.pdf){: .usa-button}
 
 </div>
