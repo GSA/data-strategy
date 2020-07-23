@@ -1,6 +1,7 @@
 AGENCY,Did an agency post DGB to [agency].gov/data webpage? (Y/N),Membership? (Y/N),Charter?(Y/N),Meeting Cadence? (Y/N)
 Consumer Financial Protection Bureau,Y,Y,Y,Y
-Department of Agriculture,Y,Y,Y,N
+Court Services and Offender Supervision Agency for the District of Columbia,Y,N,N,N
+Department of Agriculture,Y,Y,Y,Y
 Department of Commerce,Y,Y,Y,Y
 Department of Education,Y,Y,Y,Y
 Department of Homeland Security,Y,Y,N,N
@@ -8,18 +9,24 @@ Department of Justice,Y,Y,Y,Y
 Department of Labor,Y,Y,Y,Y
 Department of the Interior,Y,Y,Y,Y
 Department of the Treasury,Y,Y,Y,Y
-Department of Veterans Affairs,Y,Y,N,N
+Department of Transportation,Y,N,N,N
+Department of Veterans Affairs,Y,Y,Y,N
+Equal Employment Opportunity Commission,Y,Y,Y,N
 Farm Credit Administration,Y,Y,Y,Y
+Farm Credit System Insurance Corporation ,Y,Y,Y,N
+Federal Communications Commission,Y,Y,Y,N
+Federal Deposit Insurance Corporation,Y,N,N,N
+Federal Retirement Thrift Investment Board,Y,N,N,N
 Federal Trade Commission,Y,Y,N,Y
 Merit Systems Protection Board,Y,Y,N,N
+National Aeronautics and Space Administration,Y,Y,Y,Y
+National Credit Union,Y,Y,Y,Y
 National Endowment for the Arts,Y,Y,Y,Y
 National Science Foundation,Y,Y,Y,Y
+National Transportation Safety Board,Y,Y,Y,Y
 Nuclear Regulatory Commission,Y,Y,Y,Y
-Office of Government Ethics,Y,Y,Y,Y
-Office of the Comptroller of the Currency,Y,Y,N,N
-Pension Benefit Guaranty Coorporation,Y,Y,Y,Y
+Nuclear Waste Technical Review Board,Y,Y,Y,Y
 Selective Service System,Y,Y,Y,Y
-Small Business Administration,Y,Y,Y,Y
 Social Security Administration,Y,Y,Y,Y
 Surface Transportation Board,Y,Y,Y,Y
 U.S. Agency for International Development,Y,Y,Y,Y
