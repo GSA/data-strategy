@@ -155,7 +155,7 @@ All agencies will update existing comprehensive data inventories in accordance w
 
 | Milestone                                                                                      | Measurement                   | Target Date                                    | Reporting Mechanism          | Required or Encouraged    |
 |------------------------------------------------------------------------------------------------|-------------------------------|------------------------------------------------|------------------------------|---------------------------|
-| Update comprehensive data inventories for overall completeness and priority <b>COVID-19 response*</b> data asset sprints | Metadata quality improvements | Minimally every 3 months, as often as possible | Agency public data.json APIs | Required for all agencies |
+| Update comprehensive data inventories for overall completeness and priority <b>COVID-19 response*</b> and AI R&D (see Action 6) data asset sprints | Metadata quality improvements | Minimally every 3 months, as often as possible | Agency public data.json APIs | Required for all agencies |
 | Update comprehensive data inventory to conform to standard metadata                            | Completion                    | <s>July 31, 2020</s> <b>90 days after OMB/GSA standard metadata guidance is issued*</b>                             | Agency public data.json APIs | Required for all agencies 
 
 &#42; *Due to government-wide focus on COVID-19 response activities, the Federal Data Strategy team has included COVID-19 response data assets as priority data assets for this milestone and clarified target dates based on OMB guidance dependencies. Read the team's statement on our [News]({{ site.baseurl }}/news) page.*
