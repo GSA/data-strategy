@@ -12,6 +12,6 @@ The new playbook includes examples and templates to help generate ideas for even
 
 Data innovation events are prime examples of investing in learning and developing data leaders, two of the foundational principles upon which the Federal Data Strategy is based. These types of events also exemplify a number of the Strategy’s practices including championing data use, connecting data functions across agencies, and supporting federal stakeholders.
 
-Download the Data Innovation Event Playbook from [resources.data.gov/playbooks](https://resources.data.gov/playbooks/).
+Download the Data Innovation Event Playbook from [https://resources.data.gov/keywords/playbook/](https://resources.data.gov/keywords/playbook/).
 
 For more information about the Federal Data Strategy and the 2020 Action Plan, visit [strategy.data.gov](https://strategy.data.gov).
