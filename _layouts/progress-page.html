@@ -438,48 +438,23 @@ layout: default
 		
 <h3 class="supplemental-info">Milestone 2.1 Status by Agency</h3>
 <a href="{{ site.baseurl }}/data/cdo-council-membership-status.csv" class="usa-button">Download CSV</a>
-<script type="text/javascript">
-$(document).ready(function() {
-    init_table({
-     csv_path: '../data/cdo-council-membership-status.csv',
-     element: 'table-container',
-     datatables_options: {"paging": false, "searching": false}
-    });
-} );
-</script>  
-<div id="table-container"></div>
+<div class="datatable" data-source="../data/cdo-council-membership-status.csv" id="datatable_1"></div>
 	
 	  
 <h2 id="milestone-3-1-supplemental">Milestone 3.1</h2>
 <p><a href="{{ site.baseurl }}/action-plan/#action-3-assess-data-and-related-infrastructure-maturity">Milestone 3.1</a>. <strong>By July 31, 2020</strong>, select an operational maturity assessment model for data and data infrastructure.</p>
 <p>Twenty-four agencies have selected an operational maturity assessment model for data and data infrastructure.</p>
 <a href="{{ site.baseurl }}/data/FDS-2020-Milestone-3-1.csv" class="usa-button">Download CSV</a>
-<script type="text/javascript">
-$(document).ready(function() {
-    init_table({
-     csv_path: '../data/FDS-2020-Milestone-3-1.csv',
-     element: 'table-container-2',
-     datatables_options: {"paging": false, "searching": false}
-    });
-} );
-</script>
-<div id="table-container-2"></div>
+
+<div class="datatable" data-source="../data/FDS-2020-Milestone-3-1.csv" id="datatable_2"></div>
 	  
 	
 <h2 id="milestone-4-1-supplemental">Milestone 4.1</h2>
 <p><a href="{{ site.baseurl }}/action-plan/#action-4-identify-opportunities-to-increase-staff-data-skills">Milestone 4.1</a>. <strong>By July 31, 2020</strong>, perform an assessment of current staff data literacy and data skills.</p>
 <p>Four agencies have performed an assessment of current staff data literacy and data skills.</p>
 <a href="{{ site.baseurl }}/data/FDS-2020-Milestone-4-1.csv" class="usa-button">Download CSV</a>
-<script type="text/javascript">
-$(document).ready(function() {
-    init_table({
-     csv_path: '../data/FDS-2020-Milestone-4-1.csv',
-     element: 'table-container-3',
-     datatables_options: {"paging": false, "searching": false}
-    });
-} );
-</script>
-<div id="table-container-3"></div>
+
+<div class="datatable" data-source="../data/FDS-2020-Milestone-4-1.csv" id="datatable_3"></div>
   
   
 <p><a href="#main-content">Return to top</a></p> 
@@ -507,3 +482,24 @@ $(document).ready(function() {
 	</div>
 	  
   </main>
+
+  <script type="text/javascript">
+
+  $(document).ready( function () {
+       $.each($('.datatable'), function () {
+          var dt_id = $(this).attr('id');
+          var dt_csv = $(this).data('source');
+
+          CsvToHtmlTable.init({           
+          csv_path: dt_csv,
+          element: dt_id, 
+          allow_download: true,
+          csv_options: {separator: ',', delimiter: '"'},
+          datatables_options: {"paging": false, "searching": false},
+          });
+
+      })
+  });
+
+
+</script>
