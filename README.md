@@ -27,8 +27,10 @@ This site is automatically published based on the branch.
 
 Branch    | Environment | URL
 ------    | ----------- | ---
-`develop` | staging     | [strategy-staging.data.gov](https://strategy-staging.data.gov/)
+`staging` | staging     | [strategy-staging.data.gov](https://strategy-staging.data.gov/)
 `master`  | production  | [strategy.data.gov](https://strategy.data.gov/)
+
+Feature branches should be based off of the master branch for day-to-day content changes. The staging site can be used for major changes as needed.
 
 
 ## Public domain
