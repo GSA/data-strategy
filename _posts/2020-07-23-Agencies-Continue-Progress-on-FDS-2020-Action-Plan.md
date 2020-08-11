@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Federal Data Strategy Publishes New Playbook
+title: Federal Agencies Continue Making Progress on the Federal Data Strategy 2020 Action Plan
 date: 2020-07-23 18:00:00 -0500
 category: news
 published: true
