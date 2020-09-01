@@ -14,7 +14,7 @@ Your feedback is important to making this resource meaningful and actionable. Th
 
 **Questions to consider:**
 
-* What is missing or should be removed from the high-level Tenets? (Section 4: Data Ethic Tenets)
+* What is missing or should be removed from the high-level Tenets? (Section 4: Data Ethics Tenets)
 * Are the recommendations for each Data Ethics Tenet sufficient and actionable for federal purposes? Are there additional legal authorities or best practices that should be added? (Section 4: Data Ethics Tenets) 
 * Do the Use Cases resonate and do the “conversational questions” help to demonstrate the application of data ethics throughout the data lifecycle? (Section 5: Use Cases)
 
