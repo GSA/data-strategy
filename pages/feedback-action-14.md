@@ -8,6 +8,8 @@ layout: page
 
 As part of the Federal Data Strategy 2020 Action Plan ([Action 14](../../action-plan/#action-14-develop-a-data-ethics-framework)), the General Services Administration (GSA) was tasked with developing a Data Ethics Framework (Framework) that can be used by agency staff, managers, and leaders to help guide the ethical management and use of data throughout the data lifecycle. To develop the draft Framework, GSA collaborated with an Inter-Agency Team comprised of 14 government leaders who are experts in their respective data-focused domains.
 
+[Download PDF - Draft Data Ethics Framework]({{ site.baseurl }}/assets/docs/data-ethics-framework-action-14-draft-2020-sep-2.pdf){: .usa-button}
+
 **Your Opportunity to Comment:** The GSA is now requesting feedback from subject matter experts, data ethics leaders, federal councils, and the public to further build and refine the Framework. The draft Framework will be available for Open Comment from **Wednesday, September 2nd to Wednesday, September 16th, 2020**.
 
 Your feedback is important to making this resource meaningful and actionable. The final Framework will be posted to Resources.data.gov by December 31, 2020 for use across the Federal Government.
