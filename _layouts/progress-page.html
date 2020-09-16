@@ -490,11 +490,15 @@ layout: default
           var dt_csv = $(this).data('source');
 
           CsvToHtmlTable.init({           
-          csv_path: dt_csv,
-          element: dt_id, 
-          allow_download: true,
-          csv_options: {separator: ',', delimiter: '"'},
-          datatables_options: {"paging": false, "searching": false},
+            csv_path: dt_csv,
+            element: dt_id,
+            allow_download: true,
+            csv_options: {separator: ',', delimiter: '"'},
+            datatables_options: {
+              "info": false,
+              "paging": false,
+              "searching": false,
+            },
           });
 
       })
