@@ -364,7 +364,19 @@ margin-top : 0;
 #feedback-form #fba-submit {width: auto;}
 
 
+.touchpoints-survey { 
+  border : 1px solid #ccc;
+}
 
+.touchpoints-survey #fba-modal-dialog {
+  max-width : none;
+  background-color: #fafafa;
+}
+
+.touchpoints-survey #fba-modal-dialog label, 
+.touchpoints-survey #fba-modal-dialog textarea {
+  max-width : 75rem;
+}
 
 .metrics-highlight-row {
   font-size : 2.5rem;

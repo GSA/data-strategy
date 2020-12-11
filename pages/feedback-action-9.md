@@ -22,14 +22,13 @@ Promoting public trust in the stewardship of taxpayer dollars is woven throughou
 
 ### How To Give Feedback
 
-Review the draft Federal Financial Data Strategy document, below
+Review the draft Federal Financial Data Strategy document by downloading the PDF below or viewing the [three slides](#draft-federal-financial-data-strategy) at the bottom of this page. 
 
-[Download PDF - Federal Financial Data Strategy]({{ site.baseurl }}/assets/docs/federal-financial-data-strategy-action-9-draft.pdf){: .usa-button}
+[Download PDF - Draft Federal Financial Data Strategy]({{ site.baseurl }}/assets/docs/federal-financial-data-strategy-action-9-draft.pdf){: .usa-button}
 
 If you wish to provide feedback, please use the comment box below.  It is important to note what section of the draft strategy you are commenting on, to ensure your feedback is incorporated accurately. If you have more than one comment, please submit each separately.  If you have a general comment, please note that before providing your feedback.  
 
-**Submit Your Comments Below:**
-<div id="touchpoint-action-9"></div>
+<div class="touchpoints-survey" id="touchpoint-action-9"></div>
 
 ### Stay Up-to-Date
 
@@ -37,6 +36,18 @@ We have multiple ways for you to stay updated on the progress of the Leveraging 
 * Sign up for the [Newsletter](https://public.govdelivery.com/accounts/USGSA/subscribers/new?topic_id=USGSA_756)
 * Bookmark our [Performance.gov page on Leveraging Data as a Strategic Asset](https://www.performance.gov/CAP/leveragingdata/)
 * Follow updates on our progress on [Twitter](https://twitter.com/PerformanceGov?lang=en) & [LinkedIn](https://www.linkedin.com/company/performance-gov/).
+
+### Draft Federal Financial Data Strategy
+
+#### Page 1 - Federal Financial Data Strategy Overview
+![Draft Federal Financial Data Strategy document - page 1](/assets/img/2020-action-plan/federal-financial-data-strategy-action-9-draft-pg1.png "Draft Federal Financial Data Strategy document - page 1")
+
+#### Page 2 - Federal Financial Data Strategy
+![Draft Federal Financial Data Strategy document - page 2](/assets/img/2020-action-plan/federal-financial-data-strategy-action-9-draft-pg2.png "Draft Federal Financial Data Strategy document - page 2")
+
+#### Page 3 - Key Stakeholders
+![Draft Federal Financial Data Strategy document - page 3](/assets/img/2020-action-plan/federal-financial-data-strategy-action-9-draft-pg3.png "Draft Federal Financial Data Strategy document - page 3")
+
 
 
 <script src="https://touchpoints.app.cloud.gov/touchpoints/29830144/js" async></script>
