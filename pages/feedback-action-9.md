@@ -40,13 +40,13 @@ We have multiple ways for you to stay updated on the progress of the Leveraging 
 ### Draft Federal Financial Data Strategy
 
 #### Page 1 - Federal Financial Data Strategy Overview
-![Draft Federal Financial Data Strategy document - page 1](/assets/img/2020-action-plan/federal-financial-data-strategy-action-9-draft-pg1.png "Draft Federal Financial Data Strategy document - page 1")
+![Draft Federal Financial Data Strategy document - page 1]({{ site.baseurl }}/assets/img/2020-action-plan/federal-financial-data-strategy-action-9-draft-pg1.png "Draft Federal Financial Data Strategy document - page 1")
 
 #### Page 2 - Federal Financial Data Strategy
-![Draft Federal Financial Data Strategy document - page 2](/assets/img/2020-action-plan/federal-financial-data-strategy-action-9-draft-pg2.png "Draft Federal Financial Data Strategy document - page 2")
+![Draft Federal Financial Data Strategy document - page 2]({{ site.baseurl }}/assets/img/2020-action-plan/federal-financial-data-strategy-action-9-draft-pg2.png "Draft Federal Financial Data Strategy document - page 2")
 
 #### Page 3 - Key Stakeholders
-![Draft Federal Financial Data Strategy document - page 3](/assets/img/2020-action-plan/federal-financial-data-strategy-action-9-draft-pg3.png "Draft Federal Financial Data Strategy document - page 3")
+![Draft Federal Financial Data Strategy document - page 3]({{ site.baseurl }}/assets/img/2020-action-plan/federal-financial-data-strategy-action-9-draft-pg3.png "Draft Federal Financial Data Strategy document - page 3")
 
 
 
