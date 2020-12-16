@@ -24,7 +24,7 @@ Promoting public trust in the stewardship of taxpayer dollars is woven throughou
 
 Review the draft Federal Financial Data Strategy document by downloading the PDF below or viewing the [three slides](#draft-federal-financial-data-strategy) at the bottom of this page. 
 
-[Download PDF - Draft Federal Financial Data Strategy]({{ site.baseurl }}/assets/docs/federal-financial-data-strategy-action-9-draft.pdf){: .usa-button}
+[Download PDF - Draft Federal Financial Data Strategy]({{ site.baseurl }}/assets/docs/federal-financial-data-strategy-action-9-draft.pdf){: .usa-button target="_blank"}
 
 If you wish to provide feedback, please use the comment box below.  It is important to note what section of the draft strategy you are commenting on, to ensure your feedback is incorporated accurately. If you have more than one comment, please submit each separately.  If you have a general comment, please note that before providing your feedback.  
 
