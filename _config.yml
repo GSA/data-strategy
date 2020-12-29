@@ -16,6 +16,7 @@ org_name: GSA
 
 # Configuration for DAP, add your agency ID here:
 dap_agency: GSA
+dap_subagency: TTS
 
 permalink: pretty
 
