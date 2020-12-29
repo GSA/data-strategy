@@ -20,7 +20,7 @@ In June 2019, the Office of Management and Budget issued the Federal Data Strate
 
 * Open and improve the accessibility of data
 * Connect data to support mission and demonstrate performance
-* Unlock the spending and performance data to display and report the lifecycle of funding for Federal programs
+* Demonstrate Value, using the spending and performance data to display and report the lifecycle of funding for Federal programs
 
 ### How To Give Feedback
 
