@@ -12,7 +12,7 @@ layout: multi-section
 The use of data is transforming the world. The way the Federal Government provides, maintains, and uses data has a unique place in society, and maintaining trust in Federal data is pivotal to a democratic process. To meet the changing role of data and needs of democracy, the Federal Government created a coordinated and integrated data strategy that better enables data to deliver on mission, serve the public, and steward resources while respecting privacy and confidentiality.
 
 ### The mission of the Federal Data Strategy is to fully leverage the value of federal data for mission, service, and the public good by guiding the Federal Government in practicing ethical governance, conscious design, and a learning culture.
-* **[The Federal Data Strategy]({{ site.baseurl }}/overview)**, which compromises the Mission Statement, Principles, and Practices, provides a whole-of-government vision and offers guidance on how agencies should manage and use Federal data.
+* **[The Federal Data Strategy]({{ site.baseurl }}/overview)**, which comprises the Mission Statement, Principles, and Practices, provides a whole-of-government vision and offers guidance on how agencies should manage and use Federal data.
 * **[Annual Government-wide Action Plans]({{ site.baseurl }}/action-plan)** identify concrete steps for agencies in a given year, to achieve the long-term vision.
 
 The Federal Data Strategy is designed to derive value from data while supporting robust data governance and protecting security, privacy, and confidentiality. 
