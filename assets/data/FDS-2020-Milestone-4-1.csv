@@ -1,4 +1,4 @@
-﻿CFO Act Agencies ,Did the agency complete an assessment of current staff data literacy and data skills?
+CFO Act Agencies,Did the agency complete an assessment of current staff data literacy and data skills?
 Department of Agriculture,Complete
 Department of Commerce,Complete
 Department of Defense,Incomplete
@@ -10,10 +10,10 @@ Department of Housing and Urban Development,Incomplete
 Department of Justice,Incomplete
 Department of Labor,Incomplete
 Department of State,Incomplete
-Department of the Interior,Incomplete
-Department of the Treasury,Incomplete
+Department of the Interior,Complete
+Department of the Treasury,Complete
 Department of Transportation,Incomplete
-Department of Veterans Affairs,Incomplete
+Department of Veterans Affairs,Complete
 Environmental Protection Agency,Incomplete
 General Services Administration,Incomplete
 National Aeronautics and Space Administration,Incomplete
@@ -23,4 +23,4 @@ Office of Personnel Management,Incomplete
 Small Business Administration,Complete
 Social Security Administration,Incomplete
 U.S. Agency for International Development,Complete
-*Total Count of Agencies Completing Assessment:*,9
+*Total Count of Agencies Completing Assessment:*,13
