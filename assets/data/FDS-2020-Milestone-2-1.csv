@@ -1,1 +1,26 @@
-assets/data/FDS-2020-Milestone-2-1-v09042020.csv
+CFO Act Agencies,Did an agency post DGB to webpage?,Posted Membership on Webpage?,Posted Charter on Webpage?,Posted Meeting Cadence on Webpage?
+*Summary Count of Agencies Posting Data Governance Body Materials*:,37,40,38,31
+Department of Agriculture,Y,Y,Y,Y
+Department of Commerce,Y,Y,Y,Y
+Department of Defense,N,N,N,N
+Department of Education,Y,Y,Y,N
+Department of Energy,N,N,N,N
+Department of Health and Human Services,N,Y,Y,N
+Department of Homeland Security,Y,Y,N,N
+Department of Housing and Urban Development,N,N,N,N
+Department of Justice,Y,Y,Y,Y
+Department of Labor,Y,Y,Y,Y
+Department of State,Y,Y,Y,Y
+Department of the Interior,Y,Y,Y,Y
+Department of the Treasury,Y,Y,Y,Y
+Department of Transportation,Y,N,N,N
+Department of Veterans Affairs,Y,Y,Y,Y
+Environmental Protection Agency,N,Y,Y,Y
+General Services Administration,Y,Y,Y,Y
+National Aeronautics and Space Administration,Y,Y,Y,Y
+National Science Foundation,Y,Y,Y,Y
+Nuclear Regulatory Commission,Y,Y,Y,Y
+Office of Personnel Management,Y,Y,Y,Y
+Small Business Administration,Y,Y,Y,Y
+Social Security Administration,Y,Y,Y,Y
+U.S. Agency for International Development,Y,Y,Y,Y
