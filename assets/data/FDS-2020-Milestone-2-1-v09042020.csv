@@ -5,23 +5,23 @@ Department of Commerce,Y,Y,Y,Y
 Department of Defense,N,N,N,N
 Department of Education,Y,Y,Y,N
 Department of Energy,N,N,N,N
-Department of Health and Human Services,N,Y,N,N
-Department of Homeland Security,N,Y,N,N
+Department of Health and Human Services,N,Y,Y,N
+Department of Homeland Security,Y,Y,N,N
 Department of Housing and Urban Development,N,N,N,N
 Department of Justice,Y,Y,Y,Y
-Department of Labor,Y,Y,Y,N
-Department of State,Y,Y,Y,N
+Department of Labor,Y,Y,Y,Y
+Department of State,Y,Y,Y,Y
 Department of the Interior,Y,Y,Y,Y
 Department of the Treasury,Y,Y,Y,Y
-Department of Transportation,Y,Y,N,N
-Department of Veterans Affairs,Y,Y,Y,N
-Environmental Protection Agency,N,Y,N,N
-General Services Administration,N,Y,N,N
-National Aeronautics and Space Administration,Y,Y,Y,N
-National Science Foundation,Y,Y,Y,N
+Department of Transportation,Y,N,N,N
+Department of Veterans Affairs,Y,Y,Y,Y
+Environmental Protection Agency,N,Y,Y,Y
+General Services Administration,Y,Y,Y,Y
+National Aeronautics and Space Administration,Y,Y,Y,Y
+National Science Foundation,Y,Y,Y,Y
 Nuclear Regulatory Commission,Y,Y,Y,Y
-Office of Personnel Management,Y,Y,Y,N
-Small Business Administration,Y,Y,Y,N
+Office of Personnel Management,Y,Y,Y,Y
+Small Business Administration,Y,Y,Y,Y
 Social Security Administration,Y,Y,Y,Y
 U.S. Agency for International Development,Y,Y,Y,Y
-*Summary Count of Agencies Posting Data Governance Body Materials*:,33,35,31,14
+*Summary Count of Agencies Posting Data Governance Body Materials*:,37,40,38,31
