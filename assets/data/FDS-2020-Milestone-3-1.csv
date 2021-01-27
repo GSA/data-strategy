@@ -1,25 +1,26 @@
-﻿Agency,Milestone 3.1: Select an operational maturity assessment model for data and data infrastructure. Complete = An operational maturity assessment model has been selected.
-Administrative Conference of the United States,Complete
-Consumer Financial Protection Bureau,Complete
-Consumer Product Safety Commission,Complete
-Department of Agriculture,Complete
-Department of Education,Complete
-Department of the Interior,Complete
-Department of the Treasury,Complete
-Environmental Protection Agency,Complete
-Equal Employment Opportunity Commission,Complete
-Farm Credit Administration,Complete
-Federal Retirement Thrift Investment Board,Complete
-Federal Trade Commission,Complete
-General Services Administration,Complete
-National Credit Union Administration,Complete
-National Endowment for the Arts,Complete
-National Science Foundation,Complete
-National Transportation Safety Board,Complete
-Office of Government Ethics,Complete
-Office of Personnel Management,Complete
-Pension Benefit Guaranty Coorporation,Complete
-Selective Service System,Complete
-Small Business Administration,Complete
-U.S. Agency for International Development,Complete
-U.S. Trade and Development Agency,Complete
+CFO Act Agencies,Did the agency select a data maturity assessment model?
+Department of Agriculture,Selected
+Department of Commerce,Selected
+Department of Defense,Not Selected
+Department of Education,Selected
+Department of Energy,Selected
+Department of Health and Human Services,Not Selected
+Department of Homeland Security,Not Selected
+Department of Housing and Urban Development,Not Selected
+Department of Justice,Selected
+Department of Labor,Not Selected
+Department of State,Selected
+Department of the Interior,Selected
+Department of the Treasury,Selected
+Department of Transportation,Not Selected
+Department of Veterans Affairs,Selected
+Environmental Protection Agency,Selected
+General Services Administration,Selected
+National Aeronautics and Space Administration,Selected
+National Science Foundation,Selected
+Nuclear Regulatory Commission,Selected
+Office of Personnel Management,Selected
+Small Business Administration,Selected
+Social Security Administration,Selected
+U.S. Agency for International Development,Selected
+*Total Count of Agencies who have selected a Data Maturity Assessment Model*:,38
