@@ -25,12 +25,17 @@ See [CONTRIBUTING](CONTRIBUTING.md) for additional information.
 
 This site is automatically published based on the branch.
 
-Branch    | Environment | URL
-------    | ----------- | ---
-`staging` | staging     | [strategy-staging.data.gov](https://strategy-staging.data.gov/)
-`master`  | production  | [strategy.data.gov](https://strategy.data.gov/)
+Branch    | Environment | URL | Description
+------    | ----------- | --- | -----------
+`develop` | staging     | [strategy-staging.data.gov](https://strategy-staging.data.gov/) | Ad-hoc development and review of significant changes with partners.
+`main`  | production  | [strategy.data.gov](https://strategy.data.gov/) | Production instance.
 
-Feature branches should be based off of the master branch for day-to-day content changes. The staging site can be used for major changes as needed.
+Federalist automatically builds previews for all branches. Changes to `main` are
+automatically published to [strategy.data.gov](https://strategy.data.gov/).
+Feature branches should be branched from `main`.
+
+`develop` is used ad-hoc in order to preview significant changes with partners
+and is not part of the development workflow.
 
 
 ## Public domain
