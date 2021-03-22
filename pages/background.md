@@ -39,6 +39,7 @@ The Federal Data Strategy was developed iteratively. A team of 57 members from a
 
 At each step, the Federal Data Strategy development team published draft documents and asked for feedback and input. Then the team synthesized feedback along the way and updated the Federal Data Strategy and 2020 Action Plan with insights and recommendations from Federal stakeholders and the public.
 
+
 ## How were the Principles created?
 
 On behalf of the Federal Data Strategy development team, the Department of Commerce published a Request for Comments (RFC) in the Federal Register on June 27, 2018. The RFC included a set of 10 draft Principles for a comprehensive data strategy and asked the public to “review and provide feedback on their clarity, appropriateness, completeness, and potential duplications.” Comments were also submitted through the Federal Data Strategy website and GitHub. The RFC closed on July 27, 2018 and the website closed to comments on July 30. In addition, the team hosted a Federal Forum on July 25, 2018 and also attended a Public Forum to listen to the public’s comments on July 30, 2018. This process generated close to 100 comments related to the draft Principles. Feedback on the draft Principles was positive, and commenters offered many suggestions to improve the draft version, which have been incorporated in the 10 revised Principles.
@@ -53,7 +54,7 @@ On behalf of the Federal Data Strategy team, the Department of Commerce publishe
 In developing the final set of Practices for Leveraging Data as a Strategic Asset, the draft Practices were revised in response to public comment and expert review, including adding new Practices suggested by reviewers; merging Practices where overlap or duplication was identified; and incorporating alternative or additional concepts to improve specific Practices, as suggested by commenters. The draft Practices had been grouped according to five broad objectives, however, after feedback from stakeholders, the revised Practices have been organized under three umbrella categories: “Building a Culture that Values Data and Promotes Public Use”; “Governing, Managing, and Protecting Data”; and “Promoting Efficient and Appropriate Data Use”. The revised Practices are designed to inform agency actions on a regular basis, to be continually relevant, and to be sufficiently general so as to broadly apply at all Federal agencies and across all missions.
 
 
-### How was the 2020 Action Plan Created?
+## How was the 2020 Action Plan Created?
 
 On behalf of the Federal Data Strategy team, the Department of Commerce published a Request for Comments (RFC) in the Federal Register on October 16, 2018. The RFC asked the public to provide specific Action Steps that should be associated with a particular Federal Data Strategy Practice. Comments were also submitted through the Federal Data Strategy website and GitHub. On June 4, 2019, the Department of Commerce published another RFC in the Federal Register requesting comments on the draft 2020 Action Plan. Again, comments were also accepted through the Federal Data Strategy website and GitHub. In addition, stakeholders offered comments at a Federal Forum on June 25, 2019  and at a Public Forum on July 8, 2019.
     
