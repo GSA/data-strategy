@@ -324,6 +324,48 @@ table.action-two-milestone-table tr:nth-child(6) td {
   background-color : #E2B0A7;
 }
 
+.background-how {
+  margin-top : 2rem;
+  margin-bottom : 2rem !important;
+  display : block;
+}
+
+.background-who {
+  margin-top : 2rem;
+  margin-bottom : 2rem !important;
+  display : block;
+}
+
+.background-principles {
+  margin-top : 2rem;
+  margin-bottom : 2rem !important;
+  display : block;
+}
+
+.background-principles button {
+  background-color : #C2D5F6;
+}
+
+.background-practices {
+  margin-top : 2rem;
+  margin-bottom : 2rem !important;
+  display : block;
+}
+
+.background-practices button {
+  background-color : #E2B0A7;
+}
+ 
+.background-actions {
+  margin-top : 2rem;
+  margin-bottom : 2rem !important;
+  display : block;
+}
+
+.background-actions button {
+  background-color : #511119;
+}
+
 .dataTables_filter label input[type="search"] {
  border-right : 1px solid #000;
   display : block;
