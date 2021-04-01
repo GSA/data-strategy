@@ -20,11 +20,12 @@ The use of data is transforming the world. The way the Federal Government provid
 The Federal Data Strategy is designed to derive value from data while supporting robust data governance and protecting security, privacy, and confidentiality. 
 
 
+
 <div class="usa-grid">
 <div class="usa-width-one-whole">
-<ul class="usa-accordion-bordered usa-width-one-whole overview-principles">
+<ul class="usa-accordion-bordered usa-width-one-whole background-how">
   <li>
-    <button class="usa-accordion-button overview-principles-head" aria-expanded="false" aria-controls="a-a0"><strong>How was the Federal Data Strategy Initiated?</strong></button>
+    <button class="usa-accordion-button" aria-expanded="false" aria-controls="a-a0"><strong>How was the Federal Data Strategy Initiated?</strong></button>
     <div id="a-a0" class="usa-accordion-content">
 		<p>In March 2018, the President’s Management Agenda laid out a new Cross-Agency Priority (CAP) Goal: Leveraging Data as a Strategic Asset to develop and implement a comprehensive Federal Data Strategy.  Based on this initiative, with input from the full spectrum of government and non-government stakeholders, the first government-wide data strategy has been developed, along with the 2020 Action Plan for implementation.</p>
     </div>
@@ -35,7 +36,7 @@ The Federal Data Strategy is designed to derive value from data while supporting
 
 <div class="usa-grid">
 <div class="usa-width-one-whole">
-<ul class="usa-accordion-bordered usa-width-one-whole">
+<ul class="usa-accordion-bordered usa-width-one-whole background-who">
   <li>
     <button class="usa-accordion-button" aria-expanded="false" aria-controls="a-a1">Who Developed the Federal Data Strategy?</button>
     <div id="a-a1" class="usa-accordion-content">
@@ -46,6 +47,7 @@ The Federal Data Strategy is designed to derive value from data while supporting
 </ul>
 </div>
 </div>
+
 
 
 </div>
@@ -63,9 +65,10 @@ The Federal Data Strategy is designed to derive value from data while supporting
 The timeline of the development of the Federal Data Strategy. At each step, the development team published draft documents and asked for feedback and input. Then the team synthesized feedback along the way and updated the Federal Data Strategy and 2020 Action Plan with insights and recommendations from Federal stakeholders and the public.
 
 
+
 <div class="usa-grid">
 <div class="usa-width-one-whole">
-<ul class="usa-accordion-bordered usa-width-one-whole overview-governing-managing-protecting-head">
+<ul class="usa-accordion-bordered usa-width-one-whole background-principles">
   <li>
     <button class="usa-accordion-button" aria-expanded="false" aria-controls="b-a1">How were the Principles created?</button>
     <div id="b-a1" class="usa-accordion-content">
@@ -79,7 +82,7 @@ The timeline of the development of the Federal Data Strategy. At each step, the 
 
 <div class="usa-grid">
 <div class="usa-width-one-whole">
-<ul class="usa-accordion-bordered usa-width-one-whole overview-promoting-efficient-head">
+<ul class="usa-accordion-bordered usa-width-one-whole background-practices">
   <li>
     <button class="usa-accordion-button" aria-expanded="false" aria-controls="c-a1">How were the Practices created?</button>
     <div id="c-a1" class="usa-accordion-content">
@@ -93,7 +96,7 @@ The timeline of the development of the Federal Data Strategy. At each step, the 
 	
 <div class="usa-grid">
 <div class="usa-width-one-whole">
-<ul class="usa-accordion-bordered usa-width-one-whole overview-promoting-efficient-head">
+<ul class="usa-accordion-bordered usa-width-one-whole background-actions">
   <li>
     <button class="usa-accordion-button" aria-expanded="false" aria-controls="d-a1">How was the 2020 Action Plan Created?</button>
     <div id="d-a1" class="usa-accordion-content">
@@ -105,6 +108,7 @@ The timeline of the development of the Federal Data Strategy. At each step, the 
 </ul>
 </div>
 </div>
+
 
 
 </div>
