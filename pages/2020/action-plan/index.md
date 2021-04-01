@@ -1,5 +1,6 @@
 ---
 title: Action Plan
+permalink: /2020/action-plan/
 layout: action-plan
 ---
 
