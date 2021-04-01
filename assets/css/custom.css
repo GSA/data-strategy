@@ -330,10 +330,18 @@ table.action-two-milestone-table tr:nth-child(6) td {
   display : block;
 }
 
+.background-how button {
+  background-color : #C2D5F6;
+}
+
 .background-who {
   margin-top : 2rem;
   margin-bottom : 2rem !important;
   display : block;
+}
+
+.background-who button {
+  background-color : #C2D5F6;
 }
 
 .background-principles {
@@ -343,7 +351,7 @@ table.action-two-milestone-table tr:nth-child(6) td {
 }
 
 .background-principles button {
-  background-color : #C2D5F6;
+  background-color : #E2B0A7;
 }
 
 .background-practices {
@@ -364,6 +372,7 @@ table.action-two-milestone-table tr:nth-child(6) td {
 
 .background-actions button {
   background-color : #511119;
+  color : #fff;
 }
 
 .dataTables_filter label input[type="search"] {
