@@ -1,1 +1,1069 @@
+---
+layout: default
+permalink: /2020/progress/
+---
 
+ <div class="usa-overlay"></div>
+
+  <main class="usa-grid usa-section page-{{ page.title | downcase }}" id="main-content">
+
+	<h2>2020 Action Plan Progress</h2>
+
+	<p>The Federal Data Strategy provides a common set of data <a href="{{ site.baseurl }}/principles/">principles</a> and best <a href="{{ site.baseurl }}/practices/">practices</a>. The <a href="{{ site.baseurl }}/action-plan/">2020 Action Plan</a> identifies milestones that are essential for establishing processes, building capacity, and aligning existing efforts. This initial plan builds a solid foundation that will support implementation of the strategy over the next decade. This page will showcase progress, measurements, and metrics collected and reported on 65 milestones from 20 actions. We will track progress on the 2020 Action Plan milestones continuously throughout the year. As milestones are completed, information will be uploaded to this page. Once this page is fully operational, you will be able to check agency activity on every milestone.</p>
+	  
+	<p>This page was last updated on January 29, 2021. If your agency's progress since that day is not reflected in the information below, please send an email to the Federal Data Strategy team at <a href="mailto:datastrategy@omb.eop.gov">datastrategy@omb.eop.gov</a>.</p>
+
+	<p><em><a href="https://public.govdelivery.com/accounts/USGSA/subscribers/new?topic_id=USGSA_756">Sign up for our newsletter to get updates!</a></em></p>
+	  
+	<div style="width: 100%; background-color: lightgray; border: thin solid;">
+		&nbsp;&nbsp;Dashboard may not load for some users. We are working to resolve this issue.
+	</div>
+	  
+	<iframe src="https://d2d.gsa.gov/tableau-report-for-embed/8898?:render=false" id="progress-chart-supplementary-info" frameborder="0" style="height:1130px;width:1050px;"></iframe>
+
+	  
+	 <p><a href="#milestone-q1">Jump to Quarter 1, 2020 (January &ndash; March) Milestones</a><br>
+		<a href="#milestone-q2">Jump to Quarter 2, 2020 (April &ndash; June) Milestones</a><br>
+		<a href="#milestone-q3">Jump to Quarter 3, 2020 (July &ndash; September) Milestones</a><br>
+		<a href="#milestone-q4">Jump to Quarter 4, 2020 (October &ndash; December) Milestones</a><br>
+		<a href="#milestone-recurring">Jump to Recurring Milestones</a></p>
+	  
+	<h3 class="milestone-quarter-heading" id="milestone-q1">Quarter 1, 2020 (January &ndash; March)</h3>
+
+	<div id="action-2-1" class="usa-grid milestone-progress-row milestone-current status-partial-complete">
+		<ul class="usa-width-one-third milestone-meta">
+			<li class="status-checkmark"><a href="{{ site.baseurl }}/action-plan/#action-2-constitute-a-diverse-data-governance-body">Milestone 2.1</a>. <strong>By January 31, 2020</strong>, publish agency data governance materials (membership, charter, meeting cadence) on [agency].gov/data web page.</li>
+		</ul>
+		<div class="usa-width-two-thirds milestone-status">
+			<div class="milestone-status-classification">
+				This milestone has been <span class="status-text">partially <strong>COMPLETED</strong></span>. The number of agencies<sup><a href="#fn:1">1</a></sup> that published is:
+			</div>
+			<div class="milestone-status-metric">
+				<div class="milestone-status-metric-number">
+					33 ➧
+				</div>
+				<div class="milestone-status-metric-details">
+					(Click <a href="#milestone-2-1-supplemental">here</a> to learn more about these 33 agencies including use cases and to download data (csv). This number will be updated regularly.)   
+				</div>
+			</div>
+			<ul class="milestone-status-next">
+				<li>Next step: Based on capacity assessments, agencies will dedicate staff to support data governance bodies by September 30, 2020.<sup><a href="#fn:2">2</a></sup></li>
+			</ul>
+		</div>
+	  </div>
+
+	<div id="action-7-1" class="usa-grid milestone-progress-row milestone-current status-complete">
+		<ul class="usa-width-one-third milestone-meta">
+			<li class="status-checkmark"><a href="{{ site.baseurl }}/action-plan/#action-7-launch-a-federal-chief-data-officer-council">Milestone 7.1</a>. <strong>By January 31, 2020</strong>, launch the Federal CDO Council.</li>
+		</ul>
+		<div class="usa-width-two-thirds milestone-status">
+			<div class="milestone-status-classification">
+				This milestone has been <span class="status-text"><strong>COMPLETED</strong></span>.  OMB launched the Federal CDO Council on January 31, 2020.  The number of Chief Data Officers and their representatives gathered was:<sup><a href="#fn:3">3</a></sup>
+			</div>
+			<div class="milestone-status-metric">
+				<div class="milestone-status-metric-number">
+					65 ➧
+				</div>
+				<div class="milestone-status-metric-details">
+					(Click <a href="{{ site.baseurl }}/news/2020/01/31/federal-chief-data-officers-council-holds-inaugural-meeting/ ">here</a> to learn more about the CDO Council meeting.) 
+				</div>
+			</div>
+			<ul class="milestone-status-next">
+				<li>Next step: The CDO Council will continue to meet to develop a governance framework, define priorities, and create subcommittees to work on specific areas of interest.</li>
+			</ul>
+		</div>
+	</div>
+
+	<div id="action-8-1" class="usa-grid milestone-progress-row milestone-current status-complete">
+		<ul class="usa-width-one-third milestone-meta">
+			<li class="status-checkmark"><a href="{{ site.baseurl }}/action-plan/#action-8-improve-data-and-model-resources-for-ai-research-and-development">Milestone 8.1</a>. <strong>By February 29, 2020</strong>, identify barriers to access and quality limitations.</li>
+		</ul>
+		<div class="usa-width-two-thirds milestone-status">
+			<div class="milestone-status-classification">
+				This milestone has been <span class="status-text"><strong>COMPLETED</strong></span>. OMB published a <a href="https://www.regulations.gov/document?D=OMB-2019-0003-0001">Request for Information: Identifying Priority Access or Quality Improvements for Federal Data and Models for Artificial Intelligence Research and Development, and Testing</a> on August 22, 2019. The RFI received 28 comments. The ability to preserve a respondent’s privacy was the largest barrier identified and there were also many comments requesting more high quality and curated open data, including requests for data cleaning, normalized fields, and metadata improvements that would facilitate fitness for use and provenance tracking.  
+			</div>
+			<ul class="milestone-status-next">
+				<li>Next Step: For additional information on the American AI Initiative, see <a href="https://AI.gov">AI.gov</a> and the <a href="https://www.whitehouse.gov/wp-content/uploads/2020/02/American-AI-Initiative-One-Year-Annual-Report.pdf">American Artificial Intelligence Initiative: Year One Annual Report.</a></li>
+			</ul>
+		</div>
+	</div>
+	  
+	<div id="action-12-1" class="usa-grid milestone-progress-row milestone-current status-complete">
+		<ul class="usa-width-one-third milestone-meta">			
+			<li class="status-checkmark"><a href="{{ site.baseurl }}/action-plan/#action-12-create-omb-federal-data-policy-committee">Milestone 12.1</a>. <strong>By January 31, 2020</strong>, launch the OMB Federal Data Policy Committee.</li>
+		</ul>
+		<div class="usa-width-two-thirds milestone-status">
+			<div class="milestone-status-classification">
+				This milestone has been <span class="status-text"><strong>COMPLETED</strong></span>. OMB has launched the Federal Data Policy Committee (FDPC). It has met monthly since November 2019. 
+			</div>
+			<ul class="milestone-status-next">
+				<li>Next step: The FDPC will use briefings to assist in setting priorities for this year. </li>
+			</ul>
+		</div>
+	</div>
+
+	<div id="action-12-2" class="usa-grid milestone-progress-row milestone-current status-complete">
+		<ul class="usa-width-one-third milestone-meta">
+			<li><a href="{{ site.baseurl }}/action-plan/#action-12-create-omb-federal-data-policy-committee">Milestone 12.2</a>. <strong>By March 31, 2020</strong>, set priorities for 2020 (FDPC).</li>
+		</ul>
+		<div class="usa-width-two-thirds milestone-status">
+			<div class="milestone-status-classification">
+				This milestone has been <span class="status-text"><strong>COMPLETED</strong></span>. The OMB Federal Data Policy Committee has set priorities by membership endorsement.  
+			</div>
+			<ul class="milestone-status-next">
+				<li>Next step: Update, streamline, or rescind a data policy-related memorandum or circular.</li>
+			</ul>
+		</div>
+	</div>		
+
+	<div id="action-13-1" class="usa-grid milestone-progress-row milestone-current status-complete">
+		<ul class="usa-width-one-third milestone-meta">
+			<li class="status-checkmark"><a href="{{ site.baseurl }}/action-plan/#action-13-develop-a-curated-data-skills-catalog">Milestone 13.1</a>. <strong>By February 29, 2020</strong>, share draft catalog contents with CDOs and other stakeholders.</li>
+		</ul>
+		<div class="usa-width-two-thirds milestone-status">
+			<div class="milestone-status-classification">
+				This milestone has been <span class="status-text"><strong>COMPLETED</strong></span>. OMB distributed the goals for the framework to several representatives of the Chief Data Officer (CDO) Council, the Interagency Council on Statistical Policy (ICSP), and the Chief Human Capital Officers (CHCO) Council for initial review. The framework will provide structure for the living content of the data skills catalog.  
+			</div>
+			<ul class="milestone-status-next">
+				<li>Next step: The CDOs, ICSP, CHCOs, and GSA along with OMB will review and discuss the framework goals over the next few weeks and make updates. </li>
+			</ul>
+		</div>
+	</div>
+
+	<div id="action-16-1" class="usa-grid milestone-progress-row milestone-current status-complete">
+		<ul class="usa-width-one-third milestone-meta">
+			<li><a href="{{ site.baseurl }}/action-plan/#action-16-pilot-a-one-stop-standard-research-application">Milestone 16.1</a>. <strong>By March 31, 2020</strong>, create pilot portal for a one-stop standard research application.</li>
+		</ul>
+		<div class="usa-width-two-thirds milestone-status">
+			<div class="milestone-status-classification">
+				This milestone has been <span class="status-text"><strong>COMPLETED</strong></span>. The Census Bureau, with the Interagency Council on Statistical Policy, piloted the ‘ResearchDataGov’ portal, acquiring it as a service provided by the University of Michigan. Federal Statistical Research Data Centers, in conjunction with the Census Bureau, are directing researchers to the site for requesting access to restricted data from participating agencies<sup><a href="#fn:5">5</a></sup>.  
+			</div>
+			<ul class="milestone-status-next">
+				<li>Next step: Recruit users to try the portal and give feedback.</li>
+			</ul>
+		</div>
+	</div>	
+
+	<div id="action-18-1" class="usa-grid milestone-progress-row milestone-current status-complete">
+		<ul class="usa-width-one-third milestone-meta">
+			<li><a href="{{ site.baseurl }}/action-plan/#action-18-pilot-enhanced-data-management-tool-for-federal-agencies">Milestone 18.1</a>. <strong>By March 31, 2020</strong>, demonstrate pilot and initial feature set with a pilot agency.</li>
+		</ul>
+		<div class="usa-width-two-thirds milestone-status">
+			<div class="milestone-status-classification">
+				This milestone has been <span class="status-text"><strong>COMPLETED</strong></span>. GSA demonstrated a pilot and initial feature set to interested agencies. Data.gov currently facilitates a metadata management tool at <a href="https://resources.data.gov/tools/inventory-data-gov-guide/">inventory.data.gov</a>, which 18 agencies use. After initial feature presentation, user interviews, and a survey, 25 agency data practitioners expressed interest in an advanced tool expanding upon <a href="https://resources.data.gov/tools/inventory-data-gov-guide/">inventory.data.gov</a>. Follow-up user testing will be conducted in April 2020 to define specific capabilities of metadata management tool for agency use.
+			</div>
+			<ul class="milestone-status-next">
+				<li>Next step: Complete user testing.</li>
+			</ul>
+		</div>
+	</div>	
+
+	<div  id="action-18-2" class="usa-grid milestone-progress-row milestone-current status-partial-complete">
+		<ul class="usa-width-one-third milestone-meta">
+			<li><a href="{{ site.baseurl }}/action-plan/#action-18-pilot-enhanced-data-management-tool-for-federal-agencies">Milestone 18.2</a>. <strong>By March 31, 2020</strong>, Infrastructure/security roadmap for production platform.</li>
+		</ul>
+		<div class="usa-width-two-thirds milestone-status">
+			<div class="milestone-status-classification">
+				This milestone has been <span class="status-text">partially <strong>COMPLETED</strong></span>. GSA has an ongoing infrastructure/security roadmap for a new Authority to Operate for <a href="https://www.data.gov/">data.gov</a> in preparation for the current ATO’s expiration in 2021. Work has begun on the new System Security Plan. The metadata management tool being developed will leverage <a href="https://www.data.gov/">data.gov</a>’s ATO.
+			</div>
+			<ul class="milestone-status-next">
+				<li>Next step: Continue developing the metadata management tool and incorporate security accreditation plans that leverage <a href="https://www.data.gov/">data.gov</a>'s ongoing ATO work.</li>
+			</ul>
+		</div>
+	</div>	
+
+	<h3 class="milestone-quarter-heading" id="milestone-q2">Quarter 2, 2020 (April &ndash; June)</h3>
+
+	<div id="action-13-2" class="usa-grid milestone-progress-row milestone-current status-complete">
+		<ul class="usa-width-one-third milestone-meta">
+			<li><a href="{{ site.baseurl }}/action-plan/#action-13-develop-a-curated-data-skills-catalog">Milestone 13.2</a>. <strong>By June 30, 2020</strong>, collect input and make revisions (data skills catalog).</li>
+		</ul>
+		<div class="usa-width-two-thirds milestone-status">
+			<div class="milestone-status-classification">
+				This milestone has been <span class="status-text"><strong>COMPLETED</strong></span>. The Federal Data Strategy team developing the data skills catalogue has collected input from five stakeholder engagement activities with these stakeholder groups: Chief Data Officer Council, Interagency Council on Statistical Policy, Chief Learning Officer Council, and Chief Human Capital Officer Council. The team made approximately 30 improvements/changes based on comments received from 12 federal agencies.
+			</div>
+			<ul class="milestone-status-next">
+				<li>Next step: Publish the catalogue on <a href="https://resources.data.gov/">resources.data.gov</a>.</li>
+			</ul>
+		</div>
+	</div>
+
+	<div id="action-14-1" class="usa-grid milestone-progress-row milestone-current status-complete">
+		<ul class="usa-width-one-third milestone-meta">
+			<li><a href="{{ site.baseurl }}/action-plan/#action-14-develop-a-data-ethics-framework">Milestone 14.1</a>. <strong>By June 30, 2020</strong>, initial examination of ethical issues encountered across data life cycle.</li>
+		</ul>
+		<div class="usa-width-two-thirds milestone-status">
+			<div class="milestone-status-classification">
+				This milestone has been <span class="status-text"><strong>COMPLETED</strong></span>. GSA, working with the Interagency Council on Statistical Policy and Chief Data Officer Council, has successfully completed initial examination of ethical issues likely to be encountered across the data lifecycle.
+			</div>
+			<ul class="milestone-status-next">
+				<li>Next step: GSA will circulate the federal data ethics framework initial draft for expert and stakeholder feedback.</li>
+			</ul>
+		</div>
+	</div>
+	  
+	<div id="action-16-2" class="usa-grid milestone-progress-row milestone-current status-complete">
+		<ul class="usa-width-one-third milestone-meta">
+			<li><a href="{{ site.baseurl }}/action-plan/#action-16-pilot-a-one-stop-standard-research-application">Milestone 16.2</a>. <strong>By April 30, 2020</strong>, recruit users to try the portal and give feedback.</li>
+		</ul>
+		<div class="usa-width-two-thirds milestone-status">
+			<div class="milestone-status-classification">
+				This milestone has been <span class="status-text"><strong>COMPLETED</strong></span>. The Federal Statistical Research Data Center program, under the direction of the Interagency Council on Statistical Policy, piloted the <a href="https://www.icpsr.umich.edu/web/pages/appfed/index.html">One-stop Standard Research Application portal</a>. Since its inception, well over 1,000 users have engaged. User feedback is ongoing as planning shifts to the next phase of implementation.
+			</div>
+			<ul class="milestone-status-next">
+				<li>Next step: Publish a report describing project success and feedback that will inform future improvements.</li>
+			</ul>
+		</div>
+	</div>
+	  
+	<div id="action-18-3" class="usa-grid milestone-progress-row milestone-current status-complete">
+		<ul class="usa-width-one-third milestone-meta">
+			<li><a href="{{ site.baseurl }}/action-plan/#action-18-pilot-enhanced-data-management-tool-for-federal-agencies">Milestone 18.3</a>. <strong>By June 30, 2020</strong>, achieve interoperability with continually updated Federal open data metadata schema.</li>
+		</ul>
+		<div class="usa-width-two-thirds milestone-status">
+			<div class="milestone-status-classification">
+				This milestone has been <span class="status-text"><strong>COMPLETED</strong></span>. GSA ensured that all necessary interoperability has been completed, consistent with the current Federal Open Data schema.
+			</div>
+		</div>
+	</div>
+
+	<div id="action-18-4" class="usa-grid milestone-progress-row milestone-current status-complete">
+		<ul class="usa-width-one-third milestone-meta">
+			<li><a href="{{ site.baseurl }}/action-plan/#action-18-pilot-enhanced-data-management-tool-for-federal-agencies">Milestone 18.4</a>. <strong>By June 30, 2020</strong>, develop business plan and cost model.</li>
+		</ul>
+		<div class="usa-width-two-thirds milestone-status">
+			<div class="milestone-status-classification">
+				This milestone has been <span class="status-text"><strong>COMPLETED</strong></span>. GSA developed a business plan and cost model, and uploaded them to <a href="https://resources.data.gov/">resources.data.gov</a>.
+			</div>
+			<ul class="milestone-status-next">
+				<li>Next step: Onboard agency customers.</li>
+			</ul>
+		</div>
+	</div>
+		
+	<h3 class="milestone-quarter-heading" id="milestone-q3">Quarter 3, 2020 (July &ndash; September)</h3>
+	
+	<div id="action-1-1" class="usa-grid milestone-progress-row milestone-current status-partial-complete">
+		<ul class="usa-width-one-third milestone-meta">
+			<li><a href="{{ site.baseurl }}/action-plan/#action-1-identify-data-needs-to-answer-priority-agency-questions">Milestone 1.1</a>. <strong>By September 30, 2020</strong>, consult with key agency leaders, such as Chief Data Officers, Evaluation Officers and Statistical Officials to identify data needed to answer priority agency questions.</li>
+		</ul>
+		<div class="usa-width-two-thirds milestone-status">
+			<div class="milestone-status-classification">
+				This milestone has been <span class="status-text"><strong>partially COMPLETED</strong></span>. As of September 30, 2020:
+			</div>
+			<div class="milestone-status-metric">
+				<div class="milestone-status-metric-number">
+					17 ➧
+				</div>
+				<div class="milestone-status-metric-details">
+					CFO-Act agencies have consulted with key agency leaders, such as Chief Data Officers, Evaluation Officers and Statistical Officers to identify data needed to answer priority agency questions.   
+				</div>
+			</div>
+		</div>
+	</div>
+	  
+	<div id="action-1-2" class="usa-grid milestone-progress-row milestone-current status-partial-complete">
+		<ul class="usa-width-one-third milestone-meta">
+			<li><a href="{{ site.baseurl }}/action-plan/#action-1-identify-data-needs-to-answer-priority-agency-questions">Milestone 1.2</a>. <strong>By September 30, 2020</strong>, identify data needs for answering priority questions in the interim learning agenda.</li>
+		</ul>
+		<div class="usa-width-two-thirds milestone-status">
+			<div class="milestone-status-classification">
+				This milestone has been <span class="status-text"><strong>partially COMPLETED</strong></span>. As of September 30, 2020:
+			</div>
+			<div class="milestone-status-metric">
+				<div class="milestone-status-metric-number">
+					19 ➧
+				</div>
+				<div class="milestone-status-metric-details">
+					CFO-Act agencies identified data needs for answering priority questions in the interim learning agenda. Three  CFO- Act Agencies are in Progress.   
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	<div id="action-1-3" class="usa-grid milestone-progress-row milestone-current status-partial-complete">
+		<ul class="usa-width-one-third milestone-meta">
+			<li><a href="{{ site.baseurl }}/action-plan/#action-1-identify-data-needs-to-answer-priority-agency-questions">Milestone 1.3</a>. <strong>By September 30, 2020</strong>, develop a plan to engage the stakeholders needed to access or acquire the data needed to answer priority questions.</li>
+		</ul>
+		<div class="usa-width-two-thirds milestone-status">
+			<div class="milestone-status-classification">
+				This milestone has been <span class="status-text"><strong>partially COMPLETED</strong></span>. OMB is currently reviewing this milestone.
+			</div>
+		</div>
+	</div>
+	  
+	<div id="action-2-3" class="usa-grid milestone-progress-row milestone-current status-partial-complete">
+		<ul class="usa-width-one-third milestone-meta">
+			<li><a href="{{ site.baseurl }}/action-plan/#action-2-constitute-a-diverse-data-governance-body">Milestone 2.3</a>. <strong>By September 30, 2020</strong>, document how the DGB receives its authority.</li>
+		</ul>
+		<div class="usa-width-two-thirds milestone-status">
+			<div class="milestone-status-classification">
+				This milestone has been <span class="status-text"><strong>partially COMPLETED</strong></span>. As of September 30, 2020:
+			</div>
+			<div class="milestone-status-metric">
+				<div class="milestone-status-metric-number">
+					36 ➧
+				</div>
+				<div class="milestone-status-metric-details">
+					agencies have documented how their DGB receives its authority.   
+				</div>
+			</div>
+		</div>
+	</div>
+	  
+	<div id="action-3-1" class="usa-grid milestone-progress-row milestone-current status-partial-complete">
+		<ul class="usa-width-one-third milestone-meta">
+			<li><a href="{{ site.baseurl }}/action-plan/#action-3-assess-data-and-related-infrastructure-maturity">Milestone 3.1</a>. <strong>By July 31, 2020</strong>, select an operational maturity assessment model for data and data infrastructure.</li>
+		</ul>
+		<div class="usa-width-two-thirds milestone-status">
+			<div class="milestone-status-classification">
+				This milestone has been <span class="status-text"><strong>partially COMPLETED</strong></span>. As of July 31, 2020:
+			</div>
+			<div class="milestone-status-metric">
+				<div class="milestone-status-metric-number">
+					24 ➧
+				</div>
+				<div class="milestone-status-metric-details">
+					agencies have selected an operational maturity assessment model for data and data infrastructure.   
+				</div>
+			</div>
+		</div>
+	</div>
+	  
+	<div id="action-3-2" class="usa-grid milestone-progress-row milestone-current status-partial-complete">
+		<ul class="usa-width-one-third milestone-meta">
+			<li><a href="{{ site.baseurl }}/action-plan/#action-3-assess-data-and-related-infrastructure-maturity">Milestone 3.2</a>. <strong>By September 30, 2020</strong>, agency Chief Data Officer and other senior-level staff participate in any training or technical assistance related to maturity assessments.</li>
+		</ul>
+		<div class="usa-width-two-thirds milestone-status">
+			<div class="milestone-status-classification">
+				This milestone has been <span class="status-text"><strong>partially COMPLETED</strong></span>. As of September 30, 2020:
+			</div>
+			<div class="milestone-status-metric">
+				<div class="milestone-status-metric-number">
+					32 ➧
+				</div>
+				<div class="milestone-status-metric-details">
+					agencies have participated in trainings related to maturity assessments. An average of 17 agency staff (including agency Chief Data Officer and other senior-level staff) have participated in such trainings.   
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	<div id="action-3-3" class="usa-grid milestone-progress-row milestone-current status-partial-complete">
+		<ul class="usa-width-one-third milestone-meta">
+			<li><a href="{{ site.baseurl }}/action-plan/#action-3-assess-data-and-related-infrastructure-maturity">Milestone 3.3</a>. <strong>By September 30, 2020</strong>, conduct and document the outcome of the initial data maturity assessment.</li>
+		</ul>
+		<div class="usa-width-two-thirds milestone-status">
+			<div class="milestone-status-classification">
+				This milestone has been <span class="status-text"><strong>partially COMPLETED</strong></span>. As of September 30, 2020:
+			</div>
+			<div class="milestone-status-metric">
+				<div class="milestone-status-metric-number">
+					20 ➧
+				</div>
+				<div class="milestone-status-metric-details">
+					agencies have conducted and documented the outcome of their initial data maturity assessment.   
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	<div id="action-4-1" class="usa-grid milestone-progress-row milestone-current status-partial-complete">
+		<ul class="usa-width-one-third milestone-meta">
+			<li><a href="{{ site.baseurl }}/action-plan/#action-4-identify-opportunities-to-increase-staff-data-skills">Milestone 4.1</a>. <strong>By July 31, 2020</strong>, perform an assessment of current staff data literacy and data skills.</li>
+		</ul>
+		<div class="usa-width-two-thirds milestone-status">
+			<div class="milestone-status-classification">
+				This milestone has been <span class="status-text"><strong>partially COMPLETED</strong></span>. As of July 31, 2020:
+			</div>
+			<div class="milestone-status-metric">
+				<div class="milestone-status-metric-number">
+					9 ➧
+				</div>
+				<div class="milestone-status-metric-details">
+					agencies have performed an assessment of current staff data literacy data skills.   
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	<div id="action-4-2" class="usa-grid milestone-progress-row milestone-current status-partial-complete">
+		<ul class="usa-width-one-third milestone-meta">
+			<li><a href="{{ site.baseurl }}/action-plan/#action-4-identify-opportunities-to-increase-staff-data-skills">Milestone 4.2</a>. <strong>By September 30, 2020</strong>, conduct a gap analysis between the current staff’s skills and the skills the agency requires.</li>
+		</ul>
+		<div class="usa-width-two-thirds milestone-status">
+			<div class="milestone-status-classification">
+				This milestone has been <span class="status-text"><strong>partially COMPLETED</strong></span>. As of September 30, 2020:
+			</div>
+			<div class="milestone-status-metric">
+				<div class="milestone-status-metric-number">
+					5 ➧
+				</div>
+				<div class="milestone-status-metric-details">
+					agencies have conducted a gap analysis between current staff’s skills and the skills the agency requires.   
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	<div id="action-9-3" class="usa-grid milestone-progress-row milestone-current status-partial-complete">
+		<ul class="usa-width-one-third milestone-meta">
+			<li><a href="{{ site.baseurl }}/action-plan/#action-9-improve-financial-management-data-standards">Milestone 9.3</a>. <strong>By September 30, 2020</strong>, promote public trust in the stewardship of taxpayer dollars.</li>
+		</ul>
+		<div class="usa-width-two-thirds milestone-status">
+			<div class="milestone-status-classification">
+				Due to government-wide focus on COVID-19 response activities, this milestone has been delayed.
+			</div>
+		</div>
+	</div>
+	  
+	<div id="action-9-4" class="usa-grid milestone-progress-row milestone-current status-complete">
+		<ul class="usa-width-one-third milestone-meta">
+			<li><a href="{{ site.baseurl }}/action-plan/#action-9-improve-financial-management-data-standards">Milestone 9.4</a>. <strong>By September 30, 2020</strong>, develop an IT spending transparency maturity assessment model.</li>
+		</ul>
+		<div class="usa-width-two-thirds milestone-status">
+			<div class="milestone-status-classification">
+				This milestone has been <span class="status-text"><strong>COMPLETED</strong></span>. An IT spending transparency maturity assessment model has been developed. Note: This activity and milestone have been transferred to the 2020 Action Plan from the “<a href="https://www.performance.gov/CAP/tbm/">Improving Outcomes Through Federal IT Spending Transparency</a>” CAP Goal team.
+			</div>
+		</div>
+	</div>
+	  
+	<div id="action-17-1" class="usa-grid milestone-progress-row milestone-current status-complete">
+		<ul class="usa-width-one-third milestone-meta">
+			<li><a href="{{ site.baseurl }}/action-plan/#action-17-pilot-an-automated-tool-for-information-collection-reviews-that-supports-data-inventory-creation-and-updates">Milestone 17.1</a>. <strong>By July 31, 2020</strong>, develop pilot tool (automated tool for information collection reviews that support data inventory creation and updates).</li>
+		</ul>
+		<div class="usa-width-two-thirds milestone-status">
+			<div class="milestone-status-classification">
+			This milestone has been <span class="status-text"><strong>COMPLETED</strong></span>. NCES has completed the development of a pilot tool that supports automated Information Collection Reviews as well as the identification and export of data elements required for a data inventory. The team will be testing the tool with at least two agencies to meet their next milestone by the end of the calendar year.
+			</div>
+		</div>
+	</div>
+	
+	<div id="action-18-5" class="usa-grid milestone-progress-row milestone-current status-complete">
+		<ul class="usa-width-one-third milestone-meta">
+			<li><a href="{{ site.baseurl }}/action-plan/#action-18-pilot-enhanced-data-management-tool-for-federal-agencies">Milestone 18.5</a>. <strong>By September 30, 2020</strong>, onboard agency customers (pilot enhanced data management tool for federal agencies).</li>
+		</ul>
+		<div class="usa-width-two-thirds milestone-status">
+			<div class="milestone-status-classification">
+				This milestone has been <span class="status-text"><strong>COMPLETED</strong></span>.
+			</div>
+			<div class="milestone-status-metric">
+				<div class="milestone-status-metric-number">
+					30 ➧
+				</div>
+				<div class="milestone-status-metric-details">
+					agency customers have been onboarded for a pilot enhanced data management tool for federal agencies.   
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	<div id="action-19-1" class="usa-grid milestone-progress-row milestone-current status-complete">
+		<ul class="usa-width-one-third milestone-meta">
+			<li><a href="{{ site.baseurl }}/action-plan/#action-19-develop-data-quality-measuring-and-reporting-guidance">Milestone 19.1</a>. <strong>By September 30, 2020</strong>, completion of report on best practices for reporting on output quality (develop data quality measuring and reporting guidance).</li>
+		</ul>
+		<div class="usa-width-two-thirds milestone-status">
+			<div class="milestone-status-classification">
+				This milestone has been <span class="status-text"><strong>COMPLETED</strong></span>. The report on best practices for reporting on output quality (from developing data quality measuring and reporting guidance) has been completed. Access the report at: <a href="https://resources.data.gov/">resources.data.gov</a>.
+			</div>
+		</div>
+	</div>
+	  
+	<h3 class="milestone-quarter-heading" id="milestone-q4">Quarter 4, 2020 (October &ndash; December)</h3>
+	
+	<div id="action-2-2" class="usa-grid milestone-progress-row milestone-current status-partial-complete">
+		<ul class="usa-width-one-third milestone-meta">
+			<li><a href="{{ site.baseurl }}/action-plan/#action-2-constitute-a-diverse-data-governance-body">Milestone 2.2</a>. <strong>By October 31, 2020</strong>, dedicate staff to support data governance body.</li>			
+		</ul>
+		<div class="usa-width-two-thirds milestone-status">
+			<div class="milestone-status-classification">
+				This milestone has been <span class="status-text">partially <strong>COMPLETED</strong></span>.
+			</div>
+			<div class="milestone-status-metric">
+				<div class="milestone-status-metric-number">
+					24 ➧
+				</div>
+				<div class="milestone-status-metric-details">
+					Agencies have dedicated staff to support their DGB, with an average of 2.7 full-time equivalent (FTE) staff.
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	<div id="action-4-3" class="usa-grid milestone-progress-row milestone-current status-partial-complete">
+		<ul class="usa-width-one-third milestone-meta">
+			<li><a href="{{ site.baseurl }}/action-plan/#action-4-identify-opportunities-to-increase-staff-data-skills">Milestone 4.3</a>. <strong>By December 31, 2020</strong>, establish a baseline and develop a performance plan to close the identified data skills and literacy gaps.</li>
+		</ul>
+		<div class="usa-width-two-thirds milestone-status">
+			<div class="milestone-status-classification">
+				This milestone has been <span class="status-text">partially <strong>COMPLETED</strong></span>.
+			</div>
+			<div class="milestone-status-metric">
+				<div class="milestone-status-metric-number">
+					6 ➧
+				</div>
+				<div class="milestone-status-metric-details">
+					Agencies have established a baseline and developed a performance plan to close the identified data skills and literacy gaps.
+				</div>
+			</div>
+		</div>
+	</div>
+	  
+	<div id="action-5-1" class="usa-grid milestone-progress-row milestone-current status-partial-complete">
+		<ul class="usa-width-one-third milestone-meta">
+			<li><a href="{{ site.baseurl }}/action-plan/#action-5-identify-priority-data-assets-for-agency-open-data-plans">Milestone 5.1</a>. Publish an Open Data Plan for sharing priority agency data assets, developed with stakeholder engagement, including data assets that support COVID-19 response and AI R&amp;D (see Action 6).</li>			
+		</ul>
+		<div class="usa-width-two-thirds milestone-status">
+			<div class="milestone-status-classification">
+				This milestone is <span class="status-text"><strong>Pending Guidance</strong></span>.
+			</div>
+			<div class="milestone-status-metric">
+				<div class="milestone-status-metric-details">
+					This milestone is PENDING OMB Open Data Guidance.
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	<div id="action-5-2" class="usa-grid milestone-progress-row milestone-current status-partial-complete">
+		<ul class="usa-width-one-third milestone-meta">
+			<li><a href="{{ site.baseurl }}/action-plan/#action-5-identify-priority-data-assets-for-agency-open-data-plans">Milestone 5.2</a>. <strong>By December 31, 2020</strong>, execute a process to evaluate and improve the timeliness, completeness, consistency, accuracy, usefulness, and availability of open Government data assets.</li>			
+		</ul>
+		<div class="usa-width-two-thirds milestone-status">
+			<div class="milestone-status-classification">
+				This milestone has been <span class="status-text"><strong>Pending Guidance</strong></span>.
+			</div>
+			<div class="milestone-status-metric">
+				<div class="milestone-status-metric-details">
+					This milestone is PENDING OMB Open Data Guidance.
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	<div id="action-6-2" class="usa-grid milestone-progress-row milestone-current status-partial-complete">
+		<ul class="usa-width-one-third milestone-meta">
+			<li><a href="{{ site.baseurl }}/action-plan/#action-6-publish-and-update-data-inventories">Milestone 6.2</a>. Update comprehensive data inventory to conform to standard metadata.</li>			
+		</ul>
+		<div class="usa-width-two-thirds milestone-status">
+			<div class="milestone-status-classification">
+				This milestone has been <span class="status-text"><strong>Pending Guidance</strong></span>.
+			</div>
+			<div class="milestone-status-metric">
+				<div class="milestone-status-metric-details">
+					This milestone is PENDING OMB/GSA standard metadata guidance.
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	<div id="action-7-2" class="usa-grid milestone-progress-row milestone-current status-complete">
+		<ul class="usa-width-one-third milestone-meta">
+			<li><a href="{{ site.baseurl }}/action-plan/#action-7-launch-a-federal-chief-data-officer-council">Milestone 7.2</a>. <strong>By December 31, 2020</strong>, create resources.</li>			
+		</ul>
+		<div class="usa-width-two-thirds milestone-status">
+			<div class="milestone-status-classification">
+				This milestone has been <span class="status-text"><strong>COMPLETED</strong></span>. The <a href="https://resources.data.gov/">resources.data.gov</a> webpage has:
+					<ul>
+						<li><strong>185 Use Cases</strong> &ndash; publicly-solicited hypotheses of how data can be used to improve outcomes;</li>
+						<li><strong>18 Proof Points</strong> &ndash; case studies on emergent data methods;</li>
+						<li><strong>3 Playbooks</strong> &ndash; operational checklists and question sets that help agencies achieve data-related functions;</li>
+						<li><strong>1 Repository</strong> &ndash; a one-stop shop for resources related to Federal data management and use at <a href="https://resources.data.gov/">resources.data.gov</a>.</li>
+					</ul>
+			</div>
+		</div>
+	</div>
+	
+	<div id="action-7-3" class="usa-grid milestone-progress-row milestone-current status-complete">
+		<ul class="usa-width-one-third milestone-meta">
+			<li><a href="{{ site.baseurl }}/action-plan/#action-7-launch-a-federal-chief-data-officer-council">Milestone 7.3</a>. <strong>By December 31, 2020</strong>, encourage use of resources by agencies.</li>			
+		</ul>
+		<div class="usa-width-two-thirds milestone-status">
+			<div class="milestone-status-classification">
+				This milestone has been <span class="status-text"><strong>COMPLETED</strong></span>. The CDO Council developed resources, including supporting agencies responses to COVID-19, and helped Council members share resources with each other on a wide array of topics through working groups and other Council communication channels. For example, six agencies collaborated to develop a &ldquo;getting started&rdquo; guide to using data to support agency re-opening decisions.
+			</div>
+		</div>
+	</div>
+	
+	<div id="action-8-2" class="usa-grid milestone-progress-row milestone-current status-partial-complete">
+		<ul class="usa-width-one-third milestone-meta">
+			<li><a href="{{ site.baseurl }}/action-plan/#action-8-improve-data-and-model-resources-for-ai-research-and-development">Milestone 8.2</a>. <strong>By December 31, 2020</strong>, provide technical schema formats on inventories.</li>			
+		</ul>
+		<div class="usa-width-two-thirds milestone-status">
+			<div class="milestone-status-classification">
+				This milestone has been <span class="status-text"><strong>Pending Guidance</strong></span>.
+			</div>
+			<div class="milestone-status-metric">
+				<div class="milestone-status-metric-details">
+					This milestone is PENDING OMB Open Data Plan Guidance.
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	<div id="action-8-3" class="usa-grid milestone-progress-row milestone-current status-partial-complete">
+		<ul class="usa-width-one-third milestone-meta">
+			<li><a href="{{ site.baseurl }}/action-plan/#action-8-improve-data-and-model-resources-for-ai-research-and-development">Milestone 8.3</a>. <strong>By December 31, 2020</strong>, pilot demonstration of how access to data useful for AI should be enhanced.</li>			
+		</ul>
+		<div class="usa-width-two-thirds milestone-status">
+			<div class="milestone-status-classification">
+				This milestone has been <span class="status-text">partially <strong>COMPLETED</strong></span>. The expanding Federal Agency use of technologies, along with their rapidly evolving capabilities, comes with heightened levels of responsibility for data and automated technology model management, transparency, and inspection. The Algorithmic Impact Assessment (AIA) prototype seeks to assess potential risks associated with certain AI development, deployment &amp; enhancement. The project is comprised of two phases: an exploratory phase (phase 1) and a development phase (phase 2). Phase 1 including research, focus groups, and stakeholder feedback from academia, private and public sector have been conducted to pilot a prototype of the Algorithmic Impact Assessment (AIA) tool, an open-source questionnaire fashioned after the Canadian Algorithmic Impact Assessment. Phase 2, coding and development, will commence on January 2021.
+			</div>
+		</div>
+	</div>
+	
+	<div id="action-9-1" class="usa-grid milestone-progress-row milestone-current status-partial-complete">
+		<ul class="usa-width-one-third milestone-meta">
+			<li><a href="{{ site.baseurl }}/action-plan/#action-9-improve-financial-management-data-standards">Milestone 9.1</a>, getting payments right.</li>			
+		</ul>
+		<div class="usa-width-two-thirds milestone-status">
+			<div class="milestone-status-classification">
+				This milestone has been <span class="status-text">partially <strong>COMPLETED</strong></span>. Progress under CAP Goal 9: Getting Payments Right has achieved significant gains and is being institutionalized across the federal government. Work progresses on a broad data strategy and an enterprise risk-management framework for agencies. Further progress will focus on access to relevant data, refinements to business processes, and reduction of improper payments in a cost-effective manner for the American taxpayer. Milestones and timeline related to this CAP Goal are being tracked at <a href="https://www.performance.gov/CAP/getting-payments-right/">performance.gov</a>.
+			</div>
+		</div>
+	</div>
+	
+	<div id="action-9-2" class="usa-grid milestone-progress-row milestone-current status-partial-complete">
+		<ul class="usa-width-one-third milestone-meta">
+			<li><a href="{{ site.baseurl }}/action-plan/#action-9-improve-financial-management-data-standards">Milestone 9.2</a>, results oriented accountability for grants.</li>			
+		</ul>
+		<div class="usa-width-two-thirds milestone-status">
+			<div class="milestone-status-classification">
+				This milestone has been <span class="status-text">partially <strong>COMPLETED</strong></span>. Progress under CAP Goal 8: Results Oriented Accountability for Grants continues, with a focus on applying a risk-based, data-driven framework that balances compliance requirements with demonstrating successful results for the American taxpayer. Milestones, timeline, and 2030 Vision related to this CAP Goal are being tracked at <a href="https://www.performance.gov/CAP/grants/">performance.gov</a>.
+			</div>
+		</div>
+	</div>
+	
+	<div id="action-10-1" class="usa-grid milestone-progress-row milestone-current status-complete">
+		<ul class="usa-width-one-third milestone-meta">
+			<li><a href="{{ site.baseurl }}/action-plan/#action-10-integrate-geospatial-data-practices-into-the-federal-data-enterprise">Milestone 10.1</a>. <strong>By December 31, 2020</strong>, establish the NSDI strategic plan.</li>
+		</ul>
+		<div class="usa-width-two-thirds milestone-status">
+			<div class="milestone-status-classification">
+				This milestone has been <span class="status-text"><strong>COMPLETED</strong></span>. The Federal Geographic Data Committee released the <a href="https://www.fgdc.gov/nsdi-plan">National Spatial Data Infrastructure (NSDI) Strategic Plan for 2021&ndash;2024</a> in November of 2020, fulfilling this requirement of the Geospatial Data Act. The plan was endorsed by the National Geospatial Advisory Committee and implementation planning will begin in CY 2021.
+			</div>
+		</div>
+	</div>
+	
+	<div id="action-10-2" class="usa-grid milestone-progress-row milestone-current status-complete">
+		<ul class="usa-width-one-third milestone-meta">
+			<li><a href="{{ site.baseurl }}/action-plan/#action-10-integrate-geospatial-data-practices-into-the-federal-data-enterprise">Milestone 10.2</a>. <strong>By December 31, 2020</strong>, publish a GeoPlatform providing standards-compliant web services for NGDA.</li>			
+		</ul>
+		<div class="usa-width-two-thirds milestone-status">
+			<div class="milestone-status-classification">
+				This milestone has been <span class="status-text"><strong>COMPLETED</strong></span>. This milestone has been completed. The Federal Geographic Data Committee (FGDC) agencies fund operations, through the Department of Interior as the Managing Partner. The <a href="https://www.geoplatform.gov">Geoplatform.gov</a> shared service provides standards compliant geospatial web services for agency delivery of National Geospatial Data Assets (NGDA) data. As of December 2020, the Geoplatform supports standards compliant web services data delivery via three web service standards, Web Map Service (WMS), Web Feature Service (WFS), and Web Map Tile Service (WMTS).
+			</div>
+		</div>
+	</div>
+	
+	<div id="action-10-3" class="usa-grid milestone-progress-row milestone-current status-complete">
+		<ul class="usa-width-one-third milestone-meta">
+			<li><a href="{{ site.baseurl }}/action-plan/#action-10-integrate-geospatial-data-practices-into-the-federal-data-enterprise">Milestone 10.3</a>. <strong>By December 31, 2020</strong>, engage with other relevant councils.</li>	
+		</ul>
+		<div class="usa-width-two-thirds milestone-status">
+			<div class="milestone-status-classification">
+				This milestone has been <span class="status-text"><strong>COMPLETED</strong></span>. At least three members from the <a href="https://www.fgdc.gov/organization/steering-committee/steering-committee-membership">Federal Geographic Data Committee (FGDC)</a> participated in each of the 11 meetings (100%) of the Chief Data Officers Council (CDOC) since its first meeting in January 2020 and members will continue participating in FY 2021. The FGDC also selected Mr. Tony LaVoi, the Department of Commerce’s FGDC member and NOAA’s Acting Chief Data Officer, as its Ex Officio CDOC liaison, formalizing inter-committee representation.
+			</div>
+		</div>
+	</div>
+	
+	<div id="action-10-4" class="usa-grid milestone-progress-row milestone-current status-complete">
+		<ul class="usa-width-one-third milestone-meta">
+			<li><a href="{{ site.baseurl }}/action-plan/#action-10-integrate-geospatial-data-practices-into-the-federal-data-enterprise">Milestone 10.4</a>. <strong>By December 31, 2020</strong>, publish NGDA data theme data assets with standards compliant metadata and webservice endpoints.</li>			
+		</ul>
+		<div class="usa-width-two-thirds milestone-status">
+			<div class="milestone-status-classification">
+				This milestone has been <span class="status-text"><strong>COMPLETED</strong></span>. This action has been completed. Federal agencies managing National Geospatial Data Assets (NGDA) datasets, working in conjunction with Geoplatform.gov and data.gov, continue to develop metadata and webservice endpoints and the supporting federal service delivery business procedures to streamline the publication of geospatial data asset services. As of December 2020, of 173 <a href="https://www.fgdc.gov/what-we-do/manage-federal-geospatial-resources/a-16-portfolio-management/ngda-themes-and-datasets">NGDA datasets</a>, 167 of them (97%) were providing a metadata service endpoint, and 96 (55%), across 11 of 18 NGDA data themes were providing data service endpoints, in various standards compliant formats, through <a href="https://www.geoplatform.gov/">Geoplatform.gov</a>.
+			</div>
+		</div>
+	</div>
+	
+	<div id="action-10-5" class="usa-grid milestone-progress-row milestone-current status-complete">
+		<ul class="usa-width-one-third milestone-meta">
+			<li><a href="{{ site.baseurl }}/action-plan/#action-10-integrate-geospatial-data-practices-into-the-federal-data-enterprise">Milestone 10.5</a>. <strong>By December 31, 2020</strong>, track NGDA for implementation of standards.</li>
+		</ul>
+		<div class="usa-width-two-thirds milestone-status">
+			<div class="milestone-status-classification">
+				This milestone has been <span class="status-text"><strong>COMPLETED</strong></span>. The Federal Geographic Data Committee (FGDC) agencies that manage National Geospatial Data Assets (NGDA) datasets performed a geospatial standards baseline assessment. The baseline assessment data will be part of the FGDC’s future discussions on the management and reporting of geospatial standards and an input into the agencies’ and FGDC’s reporting under the Geospatial Data Act. As of December 17, 2020, with 83% of the NGDAs reporting, i) 97 % use metadata standards, ii) 83% use data content standards, and v) and less than 1.5% use neither metadata nor content standards. The baseline focused on reporting standards in use so data for measures iii) and iv) were not collected. A standards dashboard is currently in development.
+			</div>
+		</div>
+	</div>
+	
+	<div id="action-11-1" class="usa-grid milestone-progress-row milestone-current status-complete">
+		<ul class="usa-width-one-third milestone-meta">
+			<li><a href="{{ site.baseurl }}/action-plan/#action-11-develop-a-repository-of-federal-enterprise-data-resources">Milestone 11.1</a>. <strong>By December 31, 2020</strong>, make regular updates to <a href="https://resources.data.gov/">resources.data.gov</a> in response to stakeholder input.</li>			
+		</ul>
+		<div class="usa-width-two-thirds milestone-status">
+			<div class="milestone-status-classification">
+				This milestone has been <span class="status-text"><strong>COMPLETED</strong></span>. The repository was redesigned and relaunched in July 2020 based on stakeholder input. The update featured new ways to browse tools and resources by category and keyword, introduced a user-driven taxonomy and information architecture, integrated a user friendly CMS interface, and added new case studies, tools, and policy references to the repository. Updates to resources.data.gov is handled through a GitHub repository. Agencies, OMB, and members of the public can propose content as issues in the repository. The proposed content and resolution can be tracked through the closed issues in the repository dating from the original creation of the site in July 2019.<br><br>
+					Relevant web links:
+					<ul>
+						<li><a href="https://www.data.gov/meta/serving-the-needs-of-data-practitioners-with-a-new-resources-data-gov/">Data.gov</a></li>
+						<li><a href="https://digital.gov/2020/07/02/us-data-federation-graduates-10x-program/">Digital.gov</a></li>
+						<li><a href="https://18f.gsa.gov/2020/04/23/saving-time-and-improving-data-quality-for-the-national-school-lunch-breakfast-program/#whats-next-for-fns--the-us-data-federation">GSA.gov</a></li>
+						<li><a href="https://github.com/GSA/resources.data.gov/">GitHub</a></li>
+					</ul>
+			</div>
+		</div>
+	</div>
+	
+	<div id="action-11-2" class="usa-grid milestone-progress-row milestone-current status-complete">
+		<ul class="usa-width-one-third milestone-meta">
+			<li><a href="{{ site.baseurl }}/action-plan/#action-11-develop-a-repository-of-federal-enterprise-data-resources">Milestone 11.2</a>. <strong>By December 31, 2020</strong>, track growth and success of the site.</li>			
+		</ul>
+		<div class="usa-width-two-thirds milestone-status">
+			<div class="milestone-status-classification">
+				This milestone has been <span class="status-text"><strong>COMPLETED</strong></span>. Before the redesign the website was averaging between 5,000 and 10,000 page views per month. Since the re-design the website has received fairly consistent levels of traffic, averaging between 25,000 and 30,000 page views per month.
+			</div>
+		</div>
+	</div>
+	
+	<div id="action-11-3" class="usa-grid milestone-progress-row milestone-current status-complete">
+		<ul class="usa-width-one-third milestone-meta">
+			<li><a href="{{ site.baseurl }}/action-plan/#action-11-develop-a-repository-of-federal-enterprise-data-resources">Milestone 11.3</a>. <strong>By December 31, 2020</strong>, engage stakeholders to prioritize content.</li>
+		</ul>
+		<div class="usa-width-two-thirds milestone-status">
+			<div class="milestone-status-classification">
+				This milestone has been <span class="status-text"><strong>COMPLETED</strong></span>. In order to inform the redesign of the website the team conducted interviews with over 30 data practitioners, managers, and Chief Data Officers (CDOs) from 14 agencies. Since the website also serves as the repository of other Action Plan deliverables, the team has also supported the public feedback process for several other action items including Actions 9, 13, 14, and 20. The main stakeholder engagement events are monthly meetings of OMB, GSA, and the Office of Government Information Services. The meetings have been held monthly since they were instituted in July 2020. The meetings are opportunities for the three entities with responsibility for resources.data.gov to review proposed new content and updates to jointly decide on site changes according to the governance process for resources.data.gov.<br><br>
+					Relevant web links:
+					<ul>
+						<li><a href="https://resources.data.gov/about/governance/">Resources.data.gov</a></li>
+					</ul>
+			</div>
+		</div>
+	</div>
+	
+	<div id="action-12-3" class="usa-grid milestone-progress-row milestone-current status-complete">
+		<ul class="usa-width-one-third milestone-meta">
+			<li><a href="{{ site.baseurl }}/action-plan/#action-12-create-omb-federal-data-policy-committee">Milestone 12.3</a>. <strong>By December 31, 2020</strong>, carry out at least 1 data policy coordination activity.</li>			
+		</ul>
+		<div class="usa-width-two-thirds milestone-status">
+			<div class="milestone-status-classification">
+				This milestone has been <span class="status-text"><strong>COMPLETED</strong></span>. The FDPS voted on and endorsed two decision briefs; one from the Business Standards Council (BSC) and the second from National Archives and Records Administration (NARA).
+			</div>
+		</div>
+	</div>
+	
+	<div id="action-13-3" class="usa-grid milestone-progress-row milestone-current status-complete">
+		<ul class="usa-width-one-third milestone-meta">
+			<li><a href="{{ site.baseurl }}/action-plan/#action-13-develop-a-curated-data-skills-catalog">Milestone 13.3</a>. <strong>By November 30, 2020</strong>, publish the catalogue on <a href="https://resources.data.gov/">resources.data.gov</a>.</li>			
+		</ul>
+		<div class="usa-width-two-thirds milestone-status">
+			<div class="milestone-status-classification">
+				This milestone has been <span class="status-text"><strong>COMPLETED</strong></span>. The Curated Data Skills Catalog has been publised at: <a href="https://resources.data.gov/assets/documents/fds-data-skills-catalog.pdf">https://resources.data.gov/assets/documents/fds-data-skills-catalog.pdf</a>.
+			</div>
+		</div>
+	</div>
+	
+	<div id="action-13-4" class="usa-grid milestone-progress-row milestone-current status-complete">
+		<ul class="usa-width-one-third milestone-meta">
+			<li><a href="{{ site.baseurl }}/action-plan/#action-13-develop-a-curated-data-skills-catalog">Milestone 13.4</a>. <strong>By December 31, 2020</strong>, transfer responsibility for maintenance to the CDO council.</li>			
+		</ul>
+		<div class="usa-width-two-thirds milestone-status">
+			<div class="milestone-status-classification">
+				This milestone has been <span class="status-text"><strong>COMPLETED</strong></span>. The Curated Data Skills Catalog has been transferred to the CDO Council for maintenance.
+			</div>
+		</div>
+	</div>
+	
+	<div id="action-14-2" class="usa-grid milestone-progress-row milestone-current status-complete">
+		<ul class="usa-width-one-third milestone-meta">
+			<li><a href="{{ site.baseurl }}/action-plan/#action-14-develop-a-data-ethics-framework">Milestone 14.2</a>. <strong>By December 31, 2020</strong>, release initial data ethics framework and use cases.</li>			
+		</ul>
+		<div class="usa-width-two-thirds milestone-status">
+			<div class="milestone-status-classification">
+				This milestone has been <span class="status-text"><strong>COMPLETED</strong></span>. The Data Ethics Framework has been publised at: <a href="https://resources.data.gov/assets/documents/fds-data-ethics-framework.pdf">https://resources.data.gov/assets/documents/fds-data-ethics-framework.pdf</a>.
+			</div>
+		</div>
+	</div>
+	
+	<div id="action-14-3" class="usa-grid milestone-progress-row milestone-current status-complete">
+		<ul class="usa-width-one-third milestone-meta">
+			<li><a href="{{ site.baseurl }}/action-plan/#action-14-develop-a-data-ethics-framework">Milestone 14.3</a>. <strong>By December 31, 2020</strong>, transfer responsibility for review and update.</li>			
+		</ul>
+		<div class="usa-width-two-thirds milestone-status">
+			<div class="milestone-status-classification">
+				This milestone has been <span class="status-text"><strong>COMPLETED</strong></span>. The Data Ethics Framework has been transferred to the CDO Council and the Interagency Council on Statistical Policy (ICSP) for maintenance.
+			</div>
+		</div>
+	</div>
+	
+	<div id="action-15-1" class="usa-grid milestone-progress-row milestone-current status-complete">
+		<ul class="usa-width-one-third milestone-meta">
+			<li><a href="{{ site.baseurl }}/action-plan/#action-15-develop-a-data-protection-toolkit">Milestone 15.1</a>. <strong>By December 31, 2020</strong>, release initial toolkit.</li>			
+		</ul>
+		<div class="usa-width-two-thirds milestone-status">
+			<div class="milestone-status-classification">
+				This milestone has been <span class="status-text"><strong>COMPLETED</strong></span>. Data Protection Toolkit (DPT) has been posted to the <a href="https://nces.ed.gov/fcsm/dpt">Federal Committee for Statistical Methodology (FCSM)</a> website.
+			</div>
+		</div>
+	</div>
+	
+	<div id="action-15-2" class="usa-grid milestone-progress-row milestone-current status-complete">
+		<ul class="usa-width-one-third milestone-meta">
+			<li><a href="{{ site.baseurl }}/action-plan/#action-15-develop-a-data-protection-toolkit">Milestone 15.2</a>. <strong>By December 31, 2020</strong>, release updated <em>Report on Statistical Disclosure Limitation Methodology</em>.</li>	
+		</ul>
+		<div class="usa-width-two-thirds milestone-status">
+			<div class="milestone-status-classification">
+				This milestone has been <span class="status-text"><strong>COMPLETED</strong></span>. The updated content from the <em>Report on Statistical Disclosure Limitation Methodology</em> was migrated into the Data Protection Toolkit on September 22, 2020.
+			</div>
+		</div>
+	</div>
+	
+	<div id="action-16-3" class="usa-grid milestone-progress-row milestone-current status-complete">
+		<ul class="usa-width-one-third milestone-meta">
+			<li><a href="{{ site.baseurl }}/action-plan/#action-16-pilot-a-one-stop-standard-research-application">Milestone 16.3</a>. <strong>By December 31, 2020</strong>, publish report describing success of the project and feedback that will inform future improvements.</li>			
+		</ul>
+		<div class="usa-width-two-thirds milestone-status">
+			<div class="milestone-status-classification">
+				This milestone has been <span class="status-text"><strong>COMPLETED</strong></span>. The lessons learned report was delivered to OMB on December 14, 2020. The report includes an overview of the project and successes and challenges based on lessons learned sessions held with key stakeholder groups. Please access the report at <a href="https://resources.data.gov/">resources.data.gov</a>.
+			</div>
+		</div>
+	</div>
+	
+	<div id="action-17-2" class="usa-grid milestone-progress-row milestone-current status-complete">
+		<ul class="usa-width-one-third milestone-meta">
+			<li><a href="{{ site.baseurl }}/action-plan/#action-17-pilot-an-automated-tool-for-information-collection-reviews-that-supports-data-inventory-creation-and-updates">Milestone 17.2</a>. <strong>By December 31, 2020</strong>, test tool with at least two agencies.</li>			
+		</ul>
+		<div class="usa-width-two-thirds milestone-status">
+			<div class="milestone-status-classification">
+				This milestone has been <span class="status-text"><strong>COMPLETED</strong></span>. The OMB ICR Application has been piloted at two agencies.
+			</div>
+		</div>
+	</div>
+	
+	<div id="action-17-3" class="usa-grid milestone-progress-row milestone-current status-complete">
+		<ul class="usa-width-one-third milestone-meta">
+			<li><a href="{{ site.baseurl }}/action-plan/#action-17-pilot-an-automated-tool-for-information-collection-reviews-that-supports-data-inventory-creation-and-updates">Milestone 17.3</a>. <strong>By December 31, 2020</strong>, engage stakeholders for feedback on the tool.</li>			
+		</ul>
+		<div class="usa-width-two-thirds milestone-status">
+			<div class="milestone-status-classification">
+				This milestone has been <span class="status-text"><strong>COMPLETED</strong></span>. The project team has collected and analyzed feedback from 18 stakeholder engagement activities to guide modifications to the OMB ICR Application.
+			</div>
+		</div>
+	</div>
+	
+	<div id="action-17-4" class="usa-grid milestone-progress-row milestone-current status-complete">
+		<ul class="usa-width-one-third milestone-meta">
+			<li><a href="{{ site.baseurl }}/action-plan/#action-17-pilot-an-automated-tool-for-information-collection-reviews-that-supports-data-inventory-creation-and-updates">Milestone 17.4</a>. <strong>By December 31, 2020</strong>, publish report describing agency tests and stakeholder input.</li>			
+		</ul>
+		<div class="usa-width-two-thirds milestone-status">
+			<div class="milestone-status-classification">
+				This milestone has been <span class="status-text"><strong>COMPLETED</strong></span>. The project team has summarized the findings from the pilot tests and feedback received to date and produced a report.
+			</div>
+		</div>
+	</div>
+	
+	<div id="action-18-6" class="usa-grid milestone-progress-row milestone-current status-partial-complete">
+		<ul class="usa-width-one-third milestone-meta">
+			<li><a href="{{ site.baseurl }}/action-plan/#action-18-pilot-enhanced-data-management-tool-for-federal-agencies">Milestone 18.6</a>. <strong>By December 31, 2020</strong>, demonstrate increased data asset availability and improved usage.</li>
+		</ul>
+		<div class="usa-width-two-thirds milestone-status">
+			<div class="milestone-status-classification">
+				This milestone has been <span class="status-text">partially <strong>COMPLETED</strong></span>. The pilot enhanced data management tool (a new metadata entry form on inventory.data.gov) was deployed in October 2020. There has not been adequate time to measure increase in open datasets and/or public usage of datasets. Data.gov is currently working on a systematic improvement of site metrics, by developing a new dataset to provide consistent reporting on monthly agency publication of datasets and public usage of datasets on Data.gov.
+			</div>
+		</div>
+	</div>
+	
+	<div id="action-19-2" class="usa-grid milestone-progress-row milestone-current status-partial-complete">
+		<ul class="usa-width-one-third milestone-meta">
+			<li><a href="{{ site.baseurl }}/action-plan/#<<URL>>">Milestone 19.2</a>. <strong>By December 31, 2020</strong>, completion of metadata guidance for use by data originators.</li>			
+		</ul>
+		<div class="usa-width-two-thirds milestone-status">
+			<div class="milestone-status-classification">
+				This milestone has been <span class="status-text">partially <strong>COMPLETED</strong></span>. The metadata guidance for use by data originators is projected to be complete by January 31, 2021.
+			</div>
+		</div>
+	</div>
+	
+	<div id="action-19-3" class="usa-grid milestone-progress-row milestone-current status-partial-complete">
+		<ul class="usa-width-one-third milestone-meta">
+			<li><a href="{{ site.baseurl }}/action-plan/#<<URL>>">Milestone 19.3</a>. <strong>By December 31, 2020</strong>, develop tools to aid metadata maintenance.</li>			
+		</ul>
+		<div class="usa-width-two-thirds milestone-status">
+			<div class="milestone-status-classification">
+				This milestone has been <span class="status-text">partially <strong>COMPLETED</strong></span>. The tools to aid metadata maintenance are projected to be complete by January 31, 2021.
+			</div>
+		</div>
+	</div>
+	
+	<div id="action-20-1" class="usa-grid milestone-progress-row milestone-current status-complete">
+		<ul class="usa-width-one-third milestone-meta">
+			<li><a href="{{ site.baseurl }}/action-plan/#action-20-develop-a-data-standards-repository">Milestone 20.1</a>. <strong>By December 31, 2020</strong>, develop repository with communities, frameworks, and schemas.</li>			
+		</ul>
+		<div class="usa-width-two-thirds milestone-status">
+			<div class="milestone-status-classification">
+				This milestone has been <span class="status-text"><strong>COMPLETED</strong></span>. An initial beta release of the repository was launched in December 2020 with a limited selection of data standards content including a conceptual framework, communities, policies, and the first set of entries in the data standards catalog. Further stakeholder input and public comments were solicited with this release and subsequent updates are planned for early 2021 based on any feedback received.<br><br>
+					Relevant web links:
+					<ul>
+						<li><a href="https://resources.data.gov/standards">Resources.data.gov</a></li>
+					</ul>
+			</div>
+		</div>
+	</div>
+		
+	<h3 class="milestone-quarter-heading" id="milestone-recurring">Recurring</h3>
+	    
+	<div id="action-2-4" class="usa-grid milestone-progress-row milestone-current status-partial-complete">
+		<ul class="usa-width-one-third milestone-meta">
+			<li><a href="{{ site.baseurl }}/action-plan/#action-2-constitute-a-diverse-data-governance-body">Milestone 2.4</a>. <strong>Between January 1 and December 31, 2020</strong>, put in place a data strategy or road map</li>			
+		</ul>
+		<div class="usa-width-two-thirds milestone-status">
+			<div class="milestone-status-classification">
+				This milestone has been <span class="status-text">partially <strong>COMPLETED</strong></span>.
+			</div>
+			<div class="milestone-status-metric">
+				<div class="milestone-status-metric-number">
+					10 ➧
+				</div>
+				<div class="milestone-status-metric-details">
+					Agencies have put a data strategy or road map in place.
+				</div>
+			</div>
+		</div>
+	</div>
+	  
+	<div id="action-2-5" class="usa-grid milestone-progress-row milestone-current status-partial-complete">
+		<ul class="usa-width-one-third milestone-meta">
+			<li><a href="{{ site.baseurl }}/action-plan/#action-2-constitute-a-diverse-data-governance-body">Milestone 2.5</a>. <strong>Between January 1 and December 31, 2020</strong>, develop a plan for capital planning for enterprise data assets and infrastructure OR&hellip; (see 2.6)</li>			
+		</ul>
+		<div class="usa-width-two-thirds milestone-status">
+			<div class="milestone-status-classification">
+				This milestone has been <span class="status-text">partially <strong>COMPLETED</strong></span>.
+			</div>
+			<div class="milestone-status-metric">
+				<div class="milestone-status-metric-number">
+					10 ➧
+				</div>
+				<div class="milestone-status-metric-details">
+					Agencies have developed a plan for capital planning for enterprise data assets and infrastructure.
+				</div>
+			</div>
+		</div>
+	</div>
+	  
+	<div id="action-2-6" class="usa-grid milestone-progress-row milestone-current status-partial-complete">
+		<ul class="usa-width-one-third milestone-meta">
+			<li><a href="{{ site.baseurl }}/action-plan/#action-2-constitute-a-diverse-data-governance-body">Milestone 2.6</a>. <strong>Between January 1 and December 31, 2020</strong>, (from 2.5) &hellip;adopt a Master Data Management program.</li>			
+		</ul>
+		<div class="usa-width-two-thirds milestone-status">
+			<div class="milestone-status-classification">
+				This milestone has been <span class="status-text">partially <strong>COMPLETED</strong></span>.
+			</div>
+			<div class="milestone-status-metric">
+				<div class="milestone-status-metric-number">
+					7 ➧
+				</div>
+				<div class="milestone-status-metric-details">
+					Agencies have adopted a master data management program.
+				</div>
+			</div>
+		</div>
+	</div>
+	  
+	<div id="action-6-1" class="usa-grid milestone-progress-row milestone-current status-partial-complete">
+		<ul class="usa-width-one-third milestone-meta">
+			<li><a href="{{ site.baseurl }}/action-plan/#action-6-publish-and-update-data-inventories">Milestone 6.1</a>. <strong>Between January 1 and December 31, 2020</strong>, update comprehensive data inventories for overall completeness and priority dataset sprints.</li>
+		</ul>
+		<div class="usa-width-two-thirds milestone-status">
+			<div class="milestone-status-classification">
+				This milestone has been <span class="status-text">partially <strong>COMPLETED</strong></span>.
+			</div>
+			<div class="milestone-status-metric">
+				<div class="milestone-status-metric-number">
+					33 ➧
+				</div>
+				<div class="milestone-status-metric-details">
+					Agencies published a total of 391,352 datasets in comprehensive data inventories between January 1 and December 31, 2020. Learn more at <a href="https://labs.data.gov/dashboard">labs.data.gov/dashboard</a>. 
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<p>As milestones are completed, information will be uploaded to this page.<br>
+	<a href="https://public.govdelivery.com/accounts/USGSA/subscribers/new?topic_id=USGSA_756">Sign up for our newsletter to get updates!</a></p>
+	
+	<p><a href="#main-content">Return to top</a></p>
+
+		
+<h1>Supplemental Milestone Data &amp; Examples</h1>
+
+<h2 id="milestone-2-1-supplemental">Federal Data Strategy Action Plan, Action 2: Constitute a Diverse Governance Body (DGB)</h2>
+<p><a href="{{ site.baseurl }}/action-plan/#action-2-constitute-a-diverse-data-governance-body">Milestone 2.1</a>. <strong>By December 31, 2020</strong>, publish agency data governance materials (membership, charter, meeting cadence) on [agency].gov/data web page.</p>
+<p>These three agency websites are useful examples that can guide development of your agency’s data webpage.</p>
+<ol>
+	<li><a href="https://www.ssa.gov/data/">https://www.ssa.gov/data/</a></li>
+	<li><a href="https://www.doi.gov/data">https://www.doi.gov/data</a></li>
+	<li><a href="https://www.ed.gov/data">https://www.ed.gov/data</a></li>
+</ol>
+
+<h3 class="supplemental-info">Milestone 2.1: Publish agency data governance materials on web page</h3>
+<div class="datatable" data-source="{{ site.baseurl }}/assets/data/FDS-2020-Milestone-2-1.csv" id="datatable_1"></div>
+<p>*Milestone 2.1 is required for all agencies. This table reports agency-level details for all CFO Act Agencies and summarizes the count of non-CFO Act agencies to complete this milestone.</p>
+
+<p>&nbsp;</p>
+	  
+<h2 id="milestone-3-1-supplemental">Federal Data Strategy Action Plan, Action 3: Assess Data and Related Infrastructure Maturity</h2>
+<p><a href="{{ site.baseurl }}/action-plan/#action-3-assess-data-and-related-infrastructure-maturity">Milestone 3.1</a>. <strong>By December 31, 2020</strong>, select an operational maturity assessment model for data and data infrastructure.</p>
+<h3 class="supplemental-info">Milestone 3.1: Select an operational maturity assessment model for data and data infrastructure</h3>
+<div class="datatable" data-source="{{ site.baseurl }}/assets/data/FDS-2020-Milestone-3-1.csv" id="datatable_2"></div>
+<p>*Milestone 3.1 is required for all agencies. This table reports agency-level details for all CFO Act Agencies and summarizes the count of non-CFO Act agencies to complete this milestone.</p>
+	
+<p>&nbsp;</p>
+	
+<h2 id="milestone-4-1-supplemental">Federal Data Strategy Action Plan, Action 4: Identify Opportunities to Increase Staff Data Skills</h2>
+<p><a href="{{ site.baseurl }}/action-plan/#action-4-identify-opportunities-to-increase-staff-data-skills">Milestone 4.1</a>. <strong>By December 31, 2020</strong>, perform an assessment of current staff data literacy and data skills.</p>
+<h3 class="supplemental-info">Milestone 4.1: Perform an assessment of current staff data literacy and data skills</h3>
+<div class="datatable" data-source="{{ site.baseurl }}/assets/data/FDS-2020-Milestone-4-1.csv" id="datatable_3"></div>
+<p>*Milestone 4.1 is required for CFO Act Agencies only and encouraged for all agencies. This table reports agency-level details only for required agencies.</p>  
+  
+<p><a href="#main-content">Return to top</a></p>
+	
+	  
+	<h4 class="footnotes" id="footnotes">Footnotes</h4>
+	<div class="footnotes">
+		<ol>
+			<li id="fn:1">
+				<p>The universe is those agencies that reported designated CDOs to OMB.</p>
+			</li>
+			<li id="fn:2">
+				<p>Milestone 2.4. Put in place a data strategy or road map; Milestone 2.5. Develop capital planning for enterprise data assets and infrastructure; Milestone 2.6. Adopt a master data management program (One of these three activities per quarter in any order).</p>
+			</li>
+			<li id="fn:3">
+				<p>The universe is those agencies that reported designated CDOs to OMB.</p>
+			</li>
+			<li id="fn:4">
+				<p>The count of agencies with comprehensive data inventories reflects information reported on the <a href="https://labs.data.gov/dashboard/offices/qa">Project Open Data Dashboard</a>.</p>
+			</li>
+			<li id="fn:5">
+				<p>The participating agencies are: Bureau of Economic Analysis, Bureau of Labor Statistics, Census Bureau, National Center for Health Statistics, National Center for Science and Engineering Statistics, Agency for Healthcare Research and Quality.</p>
+			</li>
+		</ol>
+	</div>
+	  
+  </main>
+
+  <script type="text/javascript">
+
+  $(document).ready( function () {
+       $.each($('.datatable'), function () {
+          var dt_id = $(this).attr('id');
+          var dt_csv = $(this).data('source');
+
+          CsvToHtmlTable.init({           
+            csv_path: dt_csv,
+            element: dt_id,
+            allow_download: true,
+            csv_options: {separator: ',', delimiter: '"'},
+            datatables_options: {
+              "info": false,
+              "paging": false,
+              "searching": false,
+            },
+          });
+
+      })
+  });
+
+
+</script>
