@@ -6,10 +6,10 @@ layout: home
 
 <section class="usa-section">
   <div class="usa-grid frontpage-boxes">
-    <a href="{{ site.baseurl }}/overview/" class="usa-width-one-fourth">Federal Data Strategy</a>
-    <a href="{{ site.baseurl }}/action-plan/" class="usa-width-one-fourth">2020 Action Plan </a>
-    <a href="{{ site.baseurl }}/resources/" class="usa-width-one-fourth">Resources</a>
-    <a href="{{ site.baseurl }}/team/" class="usa-width-one-fourth">Team</a>
+    <a href="{{ site.baseurl }}/overview/" class="usa-width-one-fourth">Overview</a>
+    <a href="{{ site.baseurl }}/action-plan/" class="usa-width-one-fourth">Annual Action Plan</a>
+    <a href="https://resources.data.gov/" class="usa-width-one-fourth">Resources.data.gov</a>
+    <a href="https://www.data.gov/" class="usa-width-one-fourth">Data.gov</a>
   </div>
 </section>
 
