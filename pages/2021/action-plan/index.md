@@ -57,14 +57,15 @@ The 2021 Action Plan builds on the 2020 Agency Actions and affords agencies the 
 
 Future annual Action Plans will further develop a coordinated and collaborative approach to Federal data stewardship. The newly formed CDO Council will continue to foster information-sharing and cross-agency collaboration among CDOs. Sustained cross-council collaboration will facilitate interagency partnership. Feedback from stakeholders will continue to highlight key topic areas for future annual Action Plans. These plans will build on the progress made by agencies and the CDO Council in advancing FDS’ mission: to leverage the full value of Federal data, in alignment with American values, for mission, service, and the public good.
 
-### Figure 2
+### Figure 2.
 ![FDS 2021 Actions by Practice Matrix]({{ site.baseurl }}/assets/img/fds-2021-actions-matrix.png "FDS 2021 Actions by Practice Matrix")
 
 {:.footnotes}
 #### Footnotes
+  <div class="usa-grid" markdown="1">
 [^1]: The Biden-Harris Administration Immediate Priorities are available at [https://www.whitehouse.gov/priorities/](https://www.whitehouse.gov/priorities/).
 [^2]: The Federal Data Strategy is available at: [https://strategy.data.gov/](https://strategy.data.gov/).
-
+  </div>
   
 </div>
 </section>
