@@ -1,7 +1,9 @@
 ---
-title: Action Plan
-layout: action-plan
+title: 2021 Action Plan
+permalink: /2021/action-plan/
+layout: multi-section
 ---
+
 
 # 2021 Action Plan
 
