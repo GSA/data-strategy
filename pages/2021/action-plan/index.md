@@ -28,6 +28,7 @@ M-19-18 calls for annual government-wide Action Plans to guide Federal agency im
 To achieve the 2030 Vision of the Federal Data Strategy, annual Action Plans must consider an incremental maturity ladder that generally moves from: **Foundational activities** of governance, planning, and infrastructure (~2020–2022), to **Enterprise activities** of standards, budgeting, and coordination (~2023–2025), to **Optimized activities** of self-service analytics (~2026–2028), to, finally, **Data Driven activities** of proactive evidence-based decisions and automated data improvements (~2029 and forward) (*see Figure 1*). This is an overarching ladder of what the Federal Data Strategy as whole can achieve over the next 10 years to advance data-driven government. Some agencies or portions of agencies may be further along the ladder in 2021 and many Federal programs and offices are actively engaging in **Data Driven activities** today. Agencies that may be able to move more quickly than outlined in the strategy are encouraged to continue promoting enhancement opportunities. However, the goal of the Federal Data Strategy is to ensure that these activities do not happen in a specialized or ad hoc way, but rather are integrated into agency culture and become standard practice across all federal government programs.
 
 ### Figure 1.
+![10 Year Vision]({{ site.baseurl }}/assets/img/10-year-vision.png "10 Year Vision")
 
 The 2021 Action Plan builds on the outcomes of the 2020 Action Plan in the foundational activities of governance, planning, and infrastructure, with a long-term vision in mind. During 2021, CDOs continue to grow in their new capacity and lead each agency to fulfill ambitious but achievable goals to better serve the public. 
 
@@ -52,6 +53,7 @@ The 2021 Action Plan builds on the 2020 Agency Actions and affords agencies the 
 Future annual Action Plans will further develop a coordinated and collaborative approach to Federal data stewardship. The newly formed CDO Council will continue to foster information-sharing and cross-agency collaboration among CDOs. Sustained cross-council collaboration will facilitate interagency partnership. Feedback from stakeholders will continue to highlight key topic areas for future annual Action Plans. These plans will build on the progress made by agencies and the CDO Council in advancing FDS’ mission: to leverage the full value of Federal data, in alignment with American values, for mission, service, and the public good.
 
 ### Figure 2
+![FDS 2021 Actions by Practice Matrix]({{ site.baseurl }}/assets/img/fds-2021-actions-matrix.png "FDS 2021 Actions by Practice Matrix")
 
 {:.footnotes}
 #### Footnotes
