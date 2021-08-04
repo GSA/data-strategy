@@ -62,10 +62,8 @@ Future annual Action Plans will further develop a coordinated and collaborative 
 
 {:.footnotes}
 #### Footnotes
-  <div class="usa-grid" markdown="1">
 [^1]: The Biden-Harris Administration Immediate Priorities are available at [https://www.whitehouse.gov/priorities/](https://www.whitehouse.gov/priorities/).
 [^2]: The Federal Data Strategy is available at: [https://strategy.data.gov/](https://strategy.data.gov/).
-  </div>
   
 </div>
 </section>
