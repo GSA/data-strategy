@@ -1,6 +1,6 @@
 ---
 title: 2020 Action Plan Successes and Lessons Learned
-permalink: /2021/action-plan/2020-successes-and-lessons.md
+permalink: /2021/action-plan/2020-successes-and-lessons/
 layout: multi-section
 ---
 
