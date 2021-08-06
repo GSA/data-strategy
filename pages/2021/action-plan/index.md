@@ -1,7 +1,7 @@
 ---
 title: 2021 Action Plan
 permalink: /2021/action-plan/
-layout: multi-section
+layout: page
 ---
 
 <section class="usa-section">
@@ -40,13 +40,13 @@ To achieve the 2030 Vision of the Federal Data Strategy, annual Action Plans mus
 The 2021 Action Plan builds on the outcomes of the 2020 Action Plan in the foundational activities of governance, planning, and infrastructure, with a long-term vision in mind. During 2021, CDOs continue to grow in their new capacity and lead each agency to fulfill ambitious but achievable goals to better serve the public. 
 
 
-## [2020 Action Plan Successes and Lessons Learned]({{ site.baseurl }}/pages/2021/action-plan/2020-successes-and-lessons.md)
+## [2020 Action Plan Successes and Lessons Learned]({{ site.baseurl }}/2021/action-plan/2020-successes-and-lessons.md)
 
 
-## [Agency Actions]({{ site.baseurl }}/pages/2021/action-plan/agency-actions.md)
+## [Agency Actions]({{ site.baseurl }}/2021/action-plan/agency-actions.md)
 
 
-## [Community of Practice and Shared Solutions Actions]({{ site.baseurl }}/pages/2021/action-plan/community-and-shared-actions.md)
+## [Community of Practice and Shared Solutions Actions]({{ site.baseurl }}/2021/action-plan/community-and-shared-actions.md)
 
 
 ## Looking Ahead
