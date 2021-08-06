@@ -4,10 +4,6 @@ permalink: /2021/action-plan/
 layout: page
 ---
 
-<section class="usa-section">
-<div class="usa-grid" markdown="1">
-
-
 # 2021 Action Plan
 
 [Download a PDF of the Draft Federal Data Strategy 2021 Action Plan]({{ site.baseurl }}/assets/docs/draft-2021-federal-data-strategy-action-plan.pdf){: .usa-button}
@@ -40,13 +36,13 @@ To achieve the 2030 Vision of the Federal Data Strategy, annual Action Plans mus
 The 2021 Action Plan builds on the outcomes of the 2020 Action Plan in the foundational activities of governance, planning, and infrastructure, with a long-term vision in mind. During 2021, CDOs continue to grow in their new capacity and lead each agency to fulfill ambitious but achievable goals to better serve the public. 
 
 
-## [2020 Action Plan Successes and Lessons Learned]({{ site.baseurl }}/2021/action-plan/2020-successes-and-lessons.md)
+## [2020 Action Plan Successes and Lessons Learned]({{ site.baseurl }}/2021/action-plan/2020-successes-and-lessons/)
 
 
-## [Agency Actions]({{ site.baseurl }}/2021/action-plan/agency-actions.md)
+## [Agency Actions]({{ site.baseurl }}/2021/action-plan/agency-actions/)
 
 
-## [Community of Practice and Shared Solutions Actions]({{ site.baseurl }}/2021/action-plan/community-and-shared-actions.md)
+## [Community of Practice and Shared Solutions Actions]({{ site.baseurl }}/2021/action-plan/community-and-shared-actions/)
 
 
 ## Looking Ahead
@@ -64,6 +60,4 @@ Future annual Action Plans will further develop a coordinated and collaborative 
 {:.footnotes}
 [^1]: The Biden-Harris Administration Immediate Priorities are available at [https://www.whitehouse.gov/priorities/](https://www.whitehouse.gov/priorities/).
 [^2]: The Federal Data Strategy is available at: [https://strategy.data.gov/](https://strategy.data.gov/).
-  
-</div>
-</section>
+
