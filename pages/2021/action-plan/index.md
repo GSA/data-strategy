@@ -61,6 +61,7 @@ Future annual Action Plans will further develop a coordinated and collaborative 
 ![FDS 2021 Actions by Practice Matrix]({{ site.baseurl }}/assets/img/fds-2021-actions-matrix.png "FDS 2021 Actions by Practice Matrix")
 
 #### Footnotes
+{:.footnotes}
 [^1]: The Biden-Harris Administration Immediate Priorities are available at [https://www.whitehouse.gov/priorities/](https://www.whitehouse.gov/priorities/).
 [^2]: The Federal Data Strategy is available at: [https://strategy.data.gov/](https://strategy.data.gov/).
   
