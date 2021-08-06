@@ -38,8 +38,8 @@ The 2020 Action Plan also involved several initiatives to establish uniform reso
 
 Many lessons learned during the implementation of the first Federal Data Strategy Action Plan have informed the 2021 Action Plan. Those lessons include:
 
-|---------------------|-----------------------------|
 | **In 2020 we learned…** |	**Therefore, in 2021 we will…** |
+|-------------------------|---------------------------------|
 | Agencies’ diverse needs, resources, and missions make a universal qualitative evaluation of milestone execution challenging |	Promote information sharing through interagency councils, such as the CDO Council, to identify and share what practices work best for different use cases |
 | Including statutory requirements in the action plan is helpful for comprehensive awareness and oversight, and minimizes potentially duplicative data-related activities	| Continue to include statutory requirements |
 | Coordination of actions undertaken by all Federal data communities and stakeholders can be challenging and it is unclear what benefit it adds to performance or knowledge sharing	| Track and highlight Community of Practice and Shared Solution Actions that have the greatest potential value to achieving the Federal Data Strategy | 
