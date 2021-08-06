@@ -10,7 +10,9 @@ layout: multi-section
 
 # 2021 Action Plan
 
+[Download a PDF of the Draft Federal Data Strategy 2021 Action Plan]({{ site.baseurl }}/assets/docs/draft-2021-federal-data-strategy-action-plan.pdf){: .usa-button}
 
+  
 ## Forward
 
 To account for the changing role of data and meet the needs of democracy, the federal government created a coordinated and integrated Federal Data Strategy that better enables data to be leveraged by agencies to deliver on mission, serve the public, and steward resources. Leads from the Office of Management and Budget, Office of Science and Technology Policy, Department of Commerce, and Small Business Administration built an interdisciplinary team that worked with private industry, academia, civil servants, and the public to build a robust integrated approach to managing and using data.
@@ -36,8 +38,6 @@ To achieve the 2030 Vision of the Federal Data Strategy, annual Action Plans mus
 ![10 Year Vision]({{ site.baseurl }}/assets/img/10-year-vision.png "10 Year Vision")
 
 The 2021 Action Plan builds on the outcomes of the 2020 Action Plan in the foundational activities of governance, planning, and infrastructure, with a long-term vision in mind. During 2021, CDOs continue to grow in their new capacity and lead each agency to fulfill ambitious but achievable goals to better serve the public. 
-
-[Download a PDF of the Draft Federal Data Strategy 2021 Action Plan]({{ site.baseurl }}/assets/docs/draft-2021-federal-data-strategy-action-plan.pdf){: .usa-button}
 
 
 ## [2020 Action Plan Successes and Lessons Learned]({{ site.baseurl }}/pages/2021/action-plan/2020-successes-and-lessons.md)
