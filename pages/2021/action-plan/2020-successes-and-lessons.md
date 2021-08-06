@@ -1,12 +1,8 @@
 ---
 title: 2020 Action Plan Successes and Lessons Learned
 permalink: /2021/action-plan/2020-successes-and-lessons/
-layout: multi-section
+layout: page
 ---
-
-<section class="usa-section">
-<div class="usa-grid" markdown="1">
-
 
 # 2021 Action Plan
 
@@ -51,7 +47,3 @@ Many lessons learned during the implementation of the first Federal Data Strateg
 [^1]: The 2020 Action Plan is available at: [strategy.data.gov/action-plan](https://strategy.data.gov/action-plan/)
 [^2]: The Staff Data Skills Catalog of agency program offerings is available at: [resources.data.gov/categories/skills-development/](https://resources.data.gov/categories/skills-development/)
 [^3]: The resources on Data.gov are available at: [resources.data.gov](https://resources.data.gov/)
-
-</div>
-</section>
-
