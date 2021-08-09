@@ -6,6 +6,9 @@ layout: page
 
 # 2021 Action Plan
 
+[< Back to main 2021 Action Plan page]({{ site.baseurl }}/2021/action-plan/)
+
+
 ## 2020 Action Plan Successes and Lessons Learned
 
 Major successes of the 2020 Action Plan[^1] in the areas of foundational governance, planning, and infrastructure activities lay the groundwork for implementing the Federal Data Strategy across all government offices by 2030. 
@@ -44,6 +47,6 @@ Many lessons learned during the implementation of the first Federal Data Strateg
 
 #### Footnotes
 {:.footnotes}
-[^1]: The 2020 Action Plan is available at: [strategy.data.gov/action-plan](https://strategy.data.gov/action-plan/)
-[^2]: The Staff Data Skills Catalog of agency program offerings is available at: [resources.data.gov/categories/skills-development/](https://resources.data.gov/categories/skills-development/)
-[^3]: The resources on Data.gov are available at: [resources.data.gov](https://resources.data.gov/)
+[^1]: The 2020 Action Plan is available at [strategy.data.gov/2020/action-plan](https://strategy.data.gov/2020/action-plan/).
+[^2]: The Staff Data Skills Catalog of agency program offerings is available at [resources.data.gov](https://resources.data.gov/categories/skills-development/).
+[^3]: The resources on Data.gov are available at [resources.data.gov](https://resources.data.gov/).
