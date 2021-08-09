@@ -92,9 +92,7 @@ In 2021, agencies should continue to take necessary steps to include all require
 #### Footnotes
 {:.footnotes}
 [^1]: Available at [whitehouse.gov](https://www.whitehouse.gov/wp-content/uploads/2019/07/M-19-23.pdf).
-[^2]: Pursuant to OMB’s *Guidelines for Ensuring and Maximizing the Quality, Objectivity, Utility, and Integrity of lnformation Disseminated by Federal Agencies*, 67 Fed. Reg. 8452 (Feb. 22, 2002), agencies have already developed agency-specific information quality guidelines for pre-dissemination review. OMB’s *Guidelines* are available at
-[federalregister.gov](https://www.federalregister.gov/documents/2002/02/22/R2-59/guidelines-for-ensuring-and-maximizing-the-quality-objectivity-utility-and-integrity-of-information).
+[^2]: Pursuant to OMB’s *Guidelines for Ensuring and Maximizing the Quality, Objectivity, Utility, and Integrity of lnformation Disseminated by Federal Agencies*, 67 Fed. Reg. 8452 (Feb. 22, 2002), agencies have already developed agency-specific information quality guidelines for pre-dissemination review. OMB’s *Guidelines* are available at [federalregister.gov](https://www.federalregister.gov/documents/2002/02/22/R2-59/guidelines-for-ensuring-and-maximizing-the-quality-objectivity-utility-and-integrity-of-information).
 [^3]: OMB Memorandum M-19-15, *Improving Implementation of the Information Quality Act 3* (Apr. 24, 2019), available at [whitehouse.gov](https://www.whitehouse.gov/wp-content/uploads/2019/04/M-19-15.pdf).
 [^4]: The Framework for Data Quality is available at [resources.data.gov](https://resources.data.gov/keywords/fcsm/).
 [^5]: See [resources.data.gov](https://resources.data.gov).
-
