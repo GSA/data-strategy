@@ -31,9 +31,9 @@ After assessing the quality and security of the data assets to be used in pursui
 
 | **Milestone** |	**Measurement** |	**Reporting Mechanism** |	**Target Date**	| **Required or Encouraged** |
 |---------------|-----------------|-------------------------|-----------------|----------------------------|
-| 1.1 Assess data assets for fitness of purpose, in support of Learning Agenda items |	Progress	| Progress Reporting Tool	| Measure Annually | Required for CFO Act Agencies only, encouraged for non-CFO Act agencies |
-| 1.2 Acquire or access data needed to answer priority questions |	Progress	| Progress Reporting Tool	| Measured Annually	| Required for CFO Act Agencies only, encouraged for non-CFO Act agencies |
-| 1.3 Indicate which data assets support Learning Agenda questions in comprehensive data inventory	| Progress	| Progress Reporting Tool	| Measured Annually	| Required for CFO Act Agencies only, encouraged for all non-CFO agencies |
+| **1.1** Assess data assets for fitness of purpose, in support of Learning Agenda items |	Progress	| Progress Reporting Tool	| Measure Annually | Required for CFO Act Agencies only, encouraged for non-CFO Act agencies |
+| **1.2** Acquire or access data needed to answer priority questions |	Progress	| Progress Reporting Tool	| Measured Annually	| Required for CFO Act Agencies only, encouraged for non-CFO Act agencies |
+| **1.3** Indicate which data assets support Learning Agenda questions in comprehensive data inventory	| Progress	| Progress Reporting Tool	| Measured Annually	| Required for CFO Act Agencies only, encouraged for all non-CFO agencies |
 
 
 ### Action 2: Mature Data Governance 
@@ -44,7 +44,7 @@ In 2021, agencies should continue to prioritize the data governance planning eff
 
 | **Milestone** |	**Measurement** |	**Reporting Mechanism** |	**Target Date**	| **Required or Encouraged** |
 |---------------|-----------------|-------------------------|-----------------|----------------------------|
-| 2.1 Data Governance Bodies document priority goals for calendar years 2021, 2022, and 2023 respectively |	Completion	| Progress Reporting Tool and Post to Agency/data web page	| September 30, 2021	| Required for all agencies |
+| **2.1** Data Governance Bodies document priority goals for calendar years 2021, 2022, and 2023 respectively |	Completion	| Progress Reporting Tool and Post to Agency/data web page	| September 30, 2021	| Required for all agencies |
 
 
 ### Action 3: Data and Infrastructure Maturity
@@ -55,8 +55,8 @@ In 2021, building on the prior year activities, agencies should use their data s
 
 | **Milestone** |	**Measurement** |	**Reporting Mechanism** |	**Target Date**	| **Required or Encouraged** |
 |---------------|-----------------|-------------------------|-----------------|----------------------------|
-| 3.1 Begin implementing enterprise data asset and infrastructure capital plans developed in 2020 |	Progress	| Progress Reporting Tool and FY2023 Budget Submission	| September 30, 2021	| Required for all agencies |
-| 3.2 Agency budget submissions should include data asset and infrastructure needs |	Completion	| FY 2023 Budget Submission	| As required by the FY2023 budget timeline | Required for all agencies |
+| **3.1** Begin implementing enterprise data asset and infrastructure capital plans developed in 2020 |	Progress	| Progress Reporting Tool and FY2023 Budget Submission	| September 30, 2021	| Required for all agencies |
+| **3.2** Agency budget submissions should include data asset and infrastructure needs |	Completion	| FY 2023 Budget Submission	| As required by the FY2023 budget timeline | Required for all agencies |
 
 
 ### Action 4: Increase Staff Data Skills 
@@ -67,8 +67,8 @@ Additionally, in 2021, agencies should begin work to fill immediate skills gaps 
 
 | **Milestone** |	**Measurement** |	**Reporting Mechanism** |	**Target Date**	| **Required or Encouraged** |
 |---------------|-----------------|-------------------------|-----------------|----------------------------|
-| 4.1 Incorporate data skills training and rotational experiences into agency professional development offerings |	Completion	| Progress Reporting Tool	| September 30, 2021	Required for CFO Act agencies only, encouraged for non-CFO Act agencies |
-| 4.2 Establish 2022 workforce goals and specify how they will be met (e.g., training or hiring goals), using data skills gap analysis and performance plans	| Progress |	Progress Reporting Tool	| December 31, 2021	| Required for CFO Act agencies, encouraged for non-CFO Act agencies |
+| **4.1** Incorporate data skills training and rotational experiences into agency professional development offerings |	Completion	| Progress Reporting Tool	| September 30, 2021	Required for CFO Act agencies only, encouraged for non-CFO Act agencies |
+| **4.2** Establish 2022 workforce goals and specify how they will be met (e.g., training or hiring goals), using data skills gap analysis and performance plans	| Progress |	Progress Reporting Tool	| December 31, 2021	| Required for CFO Act agencies, encouraged for non-CFO Act agencies |
 
 
 ### Action 5: Publish Agency Open Data Plans
@@ -77,7 +77,7 @@ In 2021, agencies should continue activities from the 2020 Action Plan, includin
 
 | **Milestone** |	**Measurement** |	**Reporting Mechanism** |	**Target Date**	| **Required or Encouraged** |
 |---------------|-----------------|-------------------------|-----------------|----------------------------|
-| 5.1 Publish an Open Data Plan that identifies specific priority data assets, including assets that support COVID-19 response and AI R&D |	Completion	| Strategic IRM plans and agency digital strategy web page	| Annually in accordance with OMB Guidance |	Required for all agencies |
+| **5.1** Publish an Open Data Plan that identifies specific priority data assets, including assets that support COVID-19 response and AI R&D |	Completion	| Strategic IRM plans and agency digital strategy web page	| Annually in accordance with OMB Guidance |	Required for all agencies |
 
 
 ### Action 6: Improve Data Inventories 
@@ -86,7 +86,7 @@ In 2021, agencies should continue to take necessary steps to include all require
 
 | **Milestone** |	**Measurement** |	**Reporting Mechanism** |	**Target Date**	| **Required or Encouraged** |
 |---------------|-----------------|-------------------------|-----------------|----------------------------|
-| 6.1 Update comprehensive public data inventory on data.gov	| Completion	| Agency public data.json APIs (labs.data.gov) and Progress Reporting Tool	| Quarterly	| Required for all agencies |
+| **6.1** Update comprehensive public data inventory on data.gov	| Completion	| Agency public data.json APIs (labs.data.gov) and Progress Reporting Tool	| Quarterly	| Required for all agencies |
 
 
 #### Footnotes
