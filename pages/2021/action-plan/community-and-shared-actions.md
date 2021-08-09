@@ -35,8 +35,7 @@ Agencies have made significant progress in leveraging data as a strategic asset 
 | **Milestone** |	**Measurement** |	**Reporting Mechanism** |	**Target Date**	| **Responsible Party** |
 |---------------|-----------------|-------------------------|-----------------|-----------------------|
 | **8.1** Demonstrate a dashboard prototype to the CDO Council and relevant interagency Councils	| Demonstration to CDO Council and relevant interagency councils	| Progress Reporting Tool	| September 30, 2021	| CDO Council |
-| **8.2** Document recommendations for government-wide infrastructure solutions and funding mechanisms	| Completion	| Progress Reporting Tool	| October 31, 2021	| CDO Council
-|
+| **8.2** Document recommendations for government-wide infrastructure solutions and funding mechanisms	| Completion	| Progress Reporting Tool	| October 31, 2021	| CDO Council |
 
 
 ### Action 9: Data Skills Workforce Development
