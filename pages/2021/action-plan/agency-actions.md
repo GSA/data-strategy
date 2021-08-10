@@ -61,7 +61,7 @@ In 2021, building on the prior-year activities, agencies should use their data s
 
 ### Action 4: Increase Staff Data Skills 
 
-The 2020 Action Plan set stretch goals for all agencies to perform an assessment of staff data literacy skills, to conduct a gap analysis between existing and agency-required skills, and to develop a performance plan to close the identified gaps. In 2021, agencies should prioritize completing assessments and performance plans, as directed in the 2020 Action Plan, and should consider following the best practices of agencies that have already successfully achieved these milestones. Agencies may find it useful to include the data skills gap analysis as part of the Capacity Assessment for Research, Evaluation, Statistics, and Other Analysis required by the Evidence Act. 
+The 2020 Action Plan set stretch goals for all agencies to perform an assessment of staff data literacy skills, to conduct a gap analysis between existing and agency-required skills, and to develop a performance plan to close the identified gaps. In 2021, agencies should prioritize completing assessments and performance plans, as directed in the 2020 Action Plan, and should consider following the best practices of agencies that have already successfully achieved these milestones. Agencies may find it useful to include the data skills gap analysis as part of the Capacity Assessment for Research, Evaluation, Statistics, and Other Analysis required by the [Foundations for Evidence-Based Policymaking Act of 2018](https://www.congress.gov/bill/115th-congress/house-bill/4174).
 
 Additionally, in 2021, agencies should begin work to fill immediate skills gaps by improving the data literacy of all employees, increasing professional development opportunities, and planning to hire staff with the requisite data skills. The Office of Personnel Management intends to issue a new data scientist job series in 2021 to facilitate the hiring of candidates with the appropriate skillsets. By the end of 2022, agencies should have a solid foundation throughout their workforce, including a minimum level of data literacy among all staff and a sufficient accumulation of data skills to allow for effective performance of all aspects of the data lifecycle.
 
@@ -77,7 +77,7 @@ In 2021, agencies should continue activities from the 2020 Action Plan, includin
 
 | **Milestone** |	**Measurement** |	**Reporting Mechanism** |	**Target Date**	| **Required or Encouraged** |
 |---------------|-----------------|-------------------------|-----------------|----------------------------|
-| **5.1** Publish an Open Data Plan that identifies specific priority data assets, including assets that support COVID-19 response and artificial inteligence research and development |	Completion	| Strategic IRM plans and agency digital strategy webpage	| Annually in accordance with OMB Guidance |	Required for all agencies |
+| **5.1** Publish an Open Data Plan that identifies specific priority data assets, including assets that support COVID-19 response and artificial inteligence research and development |	Completion	| Strategic [information resource management plans](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/circulars/A130/a130revised.pdf) and agency digital strategy webpage	| Annually in accordance with OMB Guidance |	Required for all agencies |
 
 
 ### Action 6: Improve Data Inventories 
@@ -86,7 +86,7 @@ In 2021, agencies should continue to take necessary steps to include all require
 
 | **Milestone** |	**Measurement** |	**Reporting Mechanism** |	**Target Date**	| **Required or Encouraged** |
 |---------------|-----------------|-------------------------|-----------------|----------------------------|
-| **6.1** Update comprehensive public data inventory on data.gov	| Completion	| Agency public data.json APIs (labs.data.gov) and Progress Reporting Tool	| Quarterly	| Required for all agencies |
+| **6.1** Update comprehensive public data inventory on data.gov	| Completion	| Agency public data.json application programming interfaces (APIs) at labs.data.gov and Progress Reporting Tool	| Quarterly	| Required for all agencies |
 
 
 #### Footnotes
