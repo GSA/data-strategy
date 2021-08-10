@@ -6,7 +6,7 @@ layout: page
 
 # 2021 Action Plan
 
-[< Back to main 2021 Action Plan page]({{ site.baseurl }}/2021/action-plan/)
+[Back to main 2021 Action Plan page]({{ site.baseurl }}/2021/action-plan/)
 
 
 ## 2020 Action Plan Successes and Lessons Learned
