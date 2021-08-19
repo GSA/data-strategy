@@ -86,7 +86,7 @@ In 2021, agencies should continue to take necessary steps to include all require
 
 | **Milestone** |	**Measurement** |	**Reporting Mechanism** |	**Target Date**	| **Required or Encouraged** |
 |---------------|-----------------|-------------------------|-----------------|----------------------------|
-| **6.1** Update comprehensive public data inventory on data.gov	| Completion	| Agency public data.json application programming interfaces (APIs) at labs.data.gov and Progress Reporting Tool	| Quarterly	| Required for all agencies |
+| **6.1** Update comprehensive public data inventory on data.gov	| Completion	| Agency public data.json Application Programming Interfaces (APIs) at labs.data.gov and Progress Reporting Tool	| Quarterly	| Required for all agencies |
 
 
 #### Footnotes
