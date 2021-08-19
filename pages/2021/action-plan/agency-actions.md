@@ -77,7 +77,7 @@ In 2021, agencies should continue activities from the 2020 Action Plan, includin
 
 | **Milestone** |	**Measurement** |	**Reporting Mechanism** |	**Target Date**	| **Required or Encouraged** |
 |---------------|-----------------|-------------------------|-----------------|----------------------------|
-| **5.1** Publish an Open Data Plan that identifies specific priority data assets, including assets that support COVID-19 response and artificial inteligence research and development |	Completion	| Strategic [information resource management plans](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/circulars/A130/a130revised.pdf) and agency digital strategy webpage	| Annually in accordance with OMB Guidance |	Required for all agencies |
+| **5.1** Publish an Open Data Plan that identifies specific priority data assets, including assets that support COVID-19 response and artificial inteligence research and development |	Completion	| [Information Resource Management (IRM) Strategic Plans](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/circulars/A130/a130revised.pdf) and agency digital strategy webpage	| Annually in accordance with OMB Guidance |	Required for all agencies |
 
 
 ### Action 6: Improve Data Inventories 
