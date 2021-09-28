@@ -86,7 +86,7 @@ DEPENDENCIES
   html-proofer (~> 3.14, >= 3.14.1)
   jekyll (~> 3.9, >= 3.9.0)
   jekyll-redirect-from (>= 0.16.0)
-  kramdown-parser-gfm
+  kramdown-parser-gfm (>= 1.1.0)
 
 BUNDLED WITH
    1.17.3
