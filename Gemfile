@@ -8,6 +8,6 @@ git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
 
 gem "jekyll", "~> 3.9", ">= 3.9.0"
 
-gem "html-proofer", "~> 3.14", ">= 3.14.1"
+gem "html-proofer", "~> 3.19", ">= 3.19.0"
 gem "jekyll-redirect-from", ">= 0.16.0"
 gem "kramdown-parser-gfm", ">= 1.1.0"
