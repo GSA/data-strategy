@@ -8,11 +8,11 @@ jobs:
       - checkout
       - restore_cache:
           keys:
-            - v1-bundle-{{ checksum "Gemfile.lock" }}
-            - v1-bundle-
+            - v2-bundle-{{ checksum "Gemfile.lock" }}
+            - v2-bundle-
       - run: bundle install --path vendor/bundle
       - save_cache:
-          key: v1-bundle-{{ checksum "Gemfile.lock" }}
+          key: v2-bundle-{{ checksum "Gemfile.lock" }}
           paths:
             - vendor/bundle
       - run: bundle exec jekyll build
@@ -25,8 +25,8 @@ jobs:
       - checkout
       - restore_cache:
           keys:
-            - v1-bundle-{{ checksum "Gemfile.lock" }}
-            - v1-bundle-
+            - v2-bundle-{{ checksum "Gemfile.lock" }}
+            - v2-bundle-
       - run: bundle install --path vendor/bundle
       - run: bundle exec jekyll build
       - run: |
