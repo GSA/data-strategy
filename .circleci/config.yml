@@ -3,7 +3,7 @@ version: 2
 jobs:
   build:
     docker:
-      - image: circleci/ruby:2.6
+      - image: cimg/ruby:2.6.2
     steps:
       - checkout
       - restore_cache:
@@ -16,7 +16,13 @@ jobs:
           paths:
             - vendor/bundle
       - run: bundle exec jekyll build
-      - run: bundle exec htmlproofer --check-html --disable-external --url-swap '^/:http://localhost:4000/' _site
+      - run: 
+          name: "Check URL's"
+          command: bundle exec htmlproofer --check-html --disable-external --url-swap '^/:http://localhost:4000/' _site
+          environment:
+            LC_ALL: "C.UTF-8"
+            LANG: "en_US.UTF-8"
+            LANGUAGE: "en_US.UTF-8"
 
   broken-link-check:
     docker:
@@ -29,10 +35,16 @@ jobs:
             - v2-bundle-
       - run: bundle install --path vendor/bundle
       - run: bundle exec jekyll build
-      - run: |
-          bundle exec jekyll serve --incremental &
-          sleep 1
-          bundle exec htmlproofer --check-html --url-swap '^/:http://localhost:4000/' _site
+      - run: 
+          name: "Check URL's"
+          command: |
+            bundle exec jekyll serve --incremental &
+            sleep 1
+            bundle exec htmlproofer --check-html --url-swap '^/:http://localhost:4000/' _site
+          environment:
+            LC_ALL: "C.UTF-8"
+            LANG: "en_US.UTF-8"
+            LANGUAGE: "en_US.UTF-8"
 
 
 workflows:
