@@ -6,7 +6,7 @@ layout: page
 
 # 2021 Action Plan
 
-[Download a PDF of the Draft Federal Data Strategy 2021 Action Plan]({{ site.baseurl }}/assets/docs/2021-Federal-Data-Strategy-Action-Plan.pdf){: .usa-button}
+[Download a PDF of the 2021 Federal Data Strategy Action Plan]({{ site.baseurl }}/assets/docs/2021-Federal-Data-Strategy-Action-Plan.pdf){: .usa-button}
 
   
 ## Forward
