@@ -73,7 +73,7 @@ The FGDC will also complete an analysis to identify high-value geospatial invest
 
 #### Footnotes
 {:.footnotes}
-[^1]: Available at [whitehouse.gov](https://www.whitehouse.gov/presidential-actions/executive-order-maintainingamerican-leadership-artificial-intelligence/).
-[^2]: Available at [whitehouse.gov](https://www.whitehouse.gov/presidential-actions/executive-order-promoting-use-trustworthy-artificial-intelligence-federal-government/).
+[^1]: Available at [federalregister.gov](https://www.federalregister.gov/documents/2019/02/14/2019-02544/maintaining-american-leadership-in-artificial-intelligence).
+[^2]: Available at [federalregister.gov](https://www.federalregister.gov/documents/2020/12/08/2020-27065/promoting-the-use-of-trustworthy-artificial-intelligence-in-the-federal-government).
 [^3]: Available at [geoplatform.gov](https://www.geoplatform.gov/).
 
