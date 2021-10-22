@@ -21,7 +21,7 @@ The 2021 Agency Actions build directly on the 2020 Actions to lay a firm agency-
 
 ### Action 1: Gather and Assess Data Identified for Priority Agency Questions
 
-In 2020, as part of developing Interim Learning Agendas, agencies began to consult with key agency leaders, such as CDOs, Executive Officers (EOs), and Statistical Officials (SOs), to identify data needed to answer priority agency questions. They also began to develop plans to acquire, access, and analyze that data. 
+In 2020, as part of developing Interim Learning Agendas, agencies began to consult with key agency leaders, such as CDOs, Evaluation Officers (EOs), and Statistical Officials (SOs), to identify data needed to answer priority agency questions. They also began to develop plans to acquire, access, and analyze that data. 
 
 In 2021, agency CDOs and SOs should remain actively involved in their agency’s strategic planning activities and in the development of Learning Agendas, led by EOs, as outlined in OMB Memorandum M-19-23, *Phase 1 Implementation of the Foundations for Evidence-Based Policymaking Act of 2018: Learning Agendas, Personnel, and Planning Guidance* (July 10, 2019).[^1] CDOs, EOs, and SOs should also begin to assess the quality of the data identified in Learning Agendas. 
 

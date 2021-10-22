@@ -28,5 +28,7 @@ Agencies will implement the Federal Data Strategy by adhering to the requirement
 
 [Download PDF – Federal Data Strategy Brochure]({{ site.baseurl }}/assets/docs/2020-federal-data-strategy-framework.pdf){: .usa-button}
 
-[Download PDF – Federal Data Strategy 2020 Action Plan]({{ site.baseurl }}/assets/docs/2020-federal-data-strategy-action-plan.pdf){: .usa-button}
+[Download PDF – 2021 Federal Data Strategy Action Plan]({{ site.baseurl }}/assets/docs/2021-Federal-Data-Strategy-Action-Plan.pdf){: .usa-button}
+  
+[Download PDF – 2020 Federal Data Strategy Action Plan]({{ site.baseurl }}/assets/docs/2020-federal-data-strategy-action-plan.pdf){: .usa-button}
 
