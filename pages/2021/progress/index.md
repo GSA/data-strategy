@@ -15,6 +15,6 @@ permalink: /2021/progress/
   
   <h3>Collecting Progress Reports</h3>
   
-  <p>Progress reports are currently being collected from federal agencies. Please check back in November for results.</p>
+  <p>Progress reports are currently being collected from federal agencies.</p>
 
-	<p><em><a href="https://public.govdelivery.com/accounts/USGSA/subscribers/new?topic_id=USGSA_756">Sign up for our newsletter to get updates!</a></em></p>
+  <p><em><a href="https://public.govdelivery.com/accounts/USGSA/subscribers/new?topic_id=USGSA_756">Sign up for our newsletter to get updates!</a></em></p>
