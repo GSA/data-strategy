@@ -9,7 +9,7 @@ layout: page
 [Download a PDF of the 2021 Federal Data Strategy Action Plan]({{ site.baseurl }}/assets/docs/2021-Federal-Data-Strategy-Action-Plan.pdf){: .usa-button}
 
   
-## Forward
+## Foreword
 
 To account for the changing role of data and meet the needs of democracy, the federal government created a coordinated and integrated Federal Data Strategy (FDS). Leaders from the Office of Management and Budget, Office of Science and Technology Policy, Department of Commerce, and Small Business Administration built an interdisciplinary team that worked with private industry, academia, civil servants, and the public to build a robust integrated approach to managing and using data. The result was a strategy that plans for agencies’ use of data for a variety of critical purposes: to generate evidence-based policy, to deliver on mission, to serve the public, and to steward resources. At the same time, the FDS emphasizes the vital need to protect security, privacy, and confidentiality.
 
