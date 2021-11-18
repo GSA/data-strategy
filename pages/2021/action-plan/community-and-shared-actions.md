@@ -21,7 +21,7 @@ Executive Order 13859, *Maintaining American Leadership in Artificial Intelligen
 | **Milestone** |	**Measurement** |	**Reporting Mechanism** |	**Target Date**	| **Responsible Party** |
 |---------------|-----------------|-------------------------|-----------------|-----------------------|
 | **7.1** Make the Algorithmic Assessment Tool publicly available for agency use |	Completion |	CIO Council web page and Resources.data.gov	| December 31, 2021	| CIO Council |
-| **7.2** Prepare an inventory of non-classified AI use cases, including current and planned uses	| Completion	| As determined by the CIO Council |	December 31, 2021	| Required for all agencies |
+| **7.2** Prepare an inventory of non-classified AI use cases, including current and planned uses	| Completion	| As determined by the CIO Council |	Reference AI Use Case Inventory Guidance	| Required for all agencies |
 | **7.3** Coordinate the sharing of AI use case inventories among agencies	| Completion	| Progress Reporting Tool	| Within 60 days of the completion of agency respective inventories	| CIO and Chief Data Officer Councils, as well as other interagency bodies |
 | **7.4** Make agency AI use cases available to the public, to the extent practicable and in accordance with applicable law and policy, including those concerning the protection of privacy and of sensitive law enforcement, national security, and other confidential information	| Completion	| Progress Reporting Tool	| Within 120 days of the completion of agency inventories	| Required for all agencies |
 
