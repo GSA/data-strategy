@@ -44,7 +44,7 @@ In 2021, agencies should continue to prioritize the data-governance planning eff
 
 | **Milestone** |	**Measurement** |	**Reporting Mechanism** |	**Target Date**	| **Required or Encouraged** |
 |---------------|-----------------|-------------------------|-----------------|----------------------------|
-| **2.1** Data Governance Bodies document priority goals for calendar years 2021, 2022, and 2023 respectively |	Completion	| Progress Reporting Tool & Post to Agency/data web page	| December 31, 2021	| Required for all agencies |
+| **2.1** Data Governance Bodies document priority goals for calendar years 2021, 2022, and 2023 respectively |	Completion	| Progress Reporting Tool	| December 31, 2021	| Required for all agencies |
 
 
 ### Action 3: Data and Infrastructure Maturity
