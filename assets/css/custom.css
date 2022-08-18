@@ -32,21 +32,6 @@
   margin-bottom : 2rem;
 }
 
-@media screen and (min-width: 600px) {
-.frontpage-boxes .usa-width-one-fourth {
-  display : block;
-  width: 47.58542%;
-}
-}
-
-@media screen and (min-width: 1201px) {
-.frontpage-boxes .usa-width-one-fourth {
-  display : block;
-  width: 23.23176%;
-}
-}
-
-
 .frontpage-boxes .usa-width-one-fourth:hover {
   background-color : #112e51;
   cursor: pointer;
@@ -566,6 +551,32 @@ h4.supplemental-info {
   margin-top : 5rem;
 }
 
+/* USWDS OVERRIDES */
+
+.usa-footer {
+  font-size: inherit;
+}
+.usa-identifier {
+  font-size: inherit;
+}
+.usa-identifier__container {
+    max-width: 1024px; /* to follow rest of site */
+}
+
+/* MEDIA QUERIES */
+@media screen and (min-width: 600px) {
+  .frontpage-boxes .usa-width-one-fourth {
+    display: block;
+    width: 47.58542%;
+  }
+}
+
+@media screen and (min-width: 1201px) {
+  .frontpage-boxes .usa-width-one-fourth {
+    display: block;
+    width: 23.23176%;
+  }
+}
 
 @media screen and (min-width: 950px) {
 
