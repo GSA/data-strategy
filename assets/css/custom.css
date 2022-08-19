@@ -559,8 +559,13 @@ h4.supplemental-info {
 .usa-identifier {
   font-size: inherit;
 }
+
+/* to follow rest of site width */
+.usa-footer>.grid-container,
+.usa-footer__nav,
+.usa-footer__secondary-section>.grid-container,
 .usa-identifier__container {
-    max-width: 1024px; /* to follow rest of site */
+    max-width: 1024px;
 }
 
 /* MEDIA QUERIES */
