@@ -54,6 +54,7 @@
         assign cache_bust = site.time | replace: ' ', '-' | replace: ':', '-'
     %}
 
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/uswds/css/uswds_3.1.0.min.css?v={{ cache_bust }}">
     <link rel="stylesheet" href="{{ site.baseurl }}/assets/uswds/css/uswds.min.css?v={{ cache_bust }}">
     <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/custom.css?v={{ cache_bust }}">
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/datatables.min.css"/>
