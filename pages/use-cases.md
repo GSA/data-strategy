@@ -15,18 +15,19 @@ We encourage you to explore the below Use Case data for ripe projects and data s
 <script type="text/javascript">
 
 $(document).ready(function() {
-    init_table({
+    CsvToHtmlTable.init({
      csv_path: '../data/use-cases.csv',
      element: 'table-container',
+     allow_download: true
     });
 } );
 </script>
 
 <div id="table-container"></div>
 
-You may download the use case submissions we received. 
+You may download the use case submissions we received.
 
-[Download Use Case Summaries PDF]({{ site.baseurl }}/assets/docs/use-case-summaries.pdf){: .usa-button} 
+[Download Use Case Summaries PDF]({{ site.baseurl }}/assets/docs/use-case-summaries.pdf){: .usa-button}
 [Download Use Case Raw Data CSV]({{ site.baseurl }}/data/use-cases.csv){: .usa-button}
 
 You may also review the public comments submitted via our companion Cross-Agency Priority Goal: Leveraging Data as a Strategic Asset Request for Comments (RFC) on FederalRegister.gov.
