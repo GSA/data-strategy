@@ -16,13 +16,13 @@ Federal data strategy website
 
 The rest of the lifecycle operations can be run with Make commands (ex `make install`)
 
-| Command   | Alias for                                    | Description                                                |
-| --------- | -------------------------------------------- | ---------------------------------------------------------- |
-| install   | `bundle install`                             | Install dependencies (pinned in Gemfile.lock, if it exists |
-| update    | `bundle update`                              | Update installed dependencies; Reacreate Gemfile.lock      |
-| build     | `bundle exec jekyll build`                   | Build the site                                             |
-| serve     | `bundle exec jekyll serve`                   | Serve a local build                                        |
-| testlinks | `bundle exec htmlproofer --check-html _site` | Check for broken links                                     |
+| Command   | Description                                                |
+| --------- | ---------------------------------------------------------- |
+| install   | Install dependencies (pinned in Gemfile.lock, if it exists |
+| update    | Update installed dependencies; Reacreate Gemfile.lock      |
+| build     | Build the site                                             |
+| serve     | Serve a local build                                        |
+| testlinks | Check for broken links                                     |
 
 ## Contributing
 
