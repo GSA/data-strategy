@@ -5,13 +5,4 @@ on: [push]
 jobs:
   build:
     name: Build Job
-    runs-on: ubuntu-latest
-    container:
-      image: ruby:3.1
-    steps:
-      - name: checkout
-        uses: actions/checkout@v2
-      - name: Install ruby dependencies
-        run: bundle install
-      - name: Build
-        run: rake build
+    uses: gsa/data.gov/.github/workflows/static-site-build-template.yml
