@@ -13,16 +13,16 @@ Federal data strategy website
     `gem install bundler`
 -   Clone this site to your local computer
 -   Switch into the root folder of this project on your machine
--   Install Jekyll and other dependencies  
-    `bundle install`
 
-The rest of the lifecycle operations can be run with Rake (ex `rake build`)
+The rest of the lifecycle operations can be run with Make commands (ex `make install`)
 
-| Command   | Description            |
-| --------- | ---------------------- |
-| build     | Build the site         |
-| serve     | Serve a local build    |
-| testLinks | Check for broken links |
+| Command   | Description                                                |
+| --------- | ---------------------------------------------------------- |
+| install   | Install dependencies (pinned in Gemfile.lock, if it exists |
+| update    | Update installed dependencies; Reacreate Gemfile.lock      |
+| build     | Build the site                                             |
+| serve     | Serve a local build                                        |
+| testlinks | Check for broken links                                     |
 
 ## Contributing
 
