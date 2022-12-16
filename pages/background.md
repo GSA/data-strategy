@@ -14,12 +14,11 @@ layout: multi-section
 The use of data is transforming the world. The way the Federal Government provides, maintains, and uses data has a unique place in society, and maintaining trust in Federal data is pivotal to a democratic process. To meet the changing role of data and needs of democracy, the Federal Government created a coordinated and integrated data strategy that better enables data to deliver on mission, serve the public, and steward resources while respecting privacy and confidentiality.
 
 ### The mission of the Federal Data Strategy is to fully leverage the value of federal data for mission, service, and the public good by guiding the Federal Government in practicing ethical governance, conscious design, and a learning culture.
-* **[The Federal Data Strategy]({{ site.baseurl }}/overview)**, which comprises the Mission Statement, Principles, and Practices, provides a whole-of-government vision and offers guidance on how agencies should manage and use Federal data.
-* **[Annual Government-wide Action Plans]({{ site.baseurl }}/action-plan)** identify concrete steps for agencies in a given year, to achieve the long-term vision.
 
-The Federal Data Strategy is designed to derive value from data while supporting robust data governance and protecting security, privacy, and confidentiality. 
+-   **[The Federal Data Strategy]({{ site.baseurl }}/overview)**, which comprises the Mission Statement, Principles, and Practices, provides a whole-of-government vision and offers guidance on how agencies should manage and use Federal data.
+-   **[Annual Government-wide Action Plans]({{ site.baseurl }}/action-plan)** identify concrete steps for agencies in a given year, to achieve the long-term vision.
 
-
+The Federal Data Strategy is designed to derive value from data while supporting robust data governance and protecting security, privacy, and confidentiality.
 
 <div class="usa-grid">
 <div class="usa-width-one-whole">
@@ -48,8 +47,6 @@ The Federal Data Strategy is designed to derive value from data while supporting
 </div>
 </div>
 
-
-
 </div>
 </section>
 
@@ -64,13 +61,11 @@ The Federal Data Strategy is designed to derive value from data while supporting
 
 The timeline of the development of the Federal Data Strategy. At each step, the development team published draft documents and asked for feedback and input. Then the team synthesized feedback along the way and updated the Federal Data Strategy and 2020 Action Plan with insights and recommendations from Federal stakeholders and the public.
 
-
-
 <div class="usa-grid">
 <div class="usa-width-one-whole">
 <ul class="usa-accordion-bordered usa-width-one-whole background-principles">
   <li>
-    <button class="usa-accordion-button" aria-expanded="false" aria-controls="b-a1">How were the Principles created?</button>
+    <button class="usa-accordion-button" name="how-were-the-principles-created" aria-expanded="false" aria-controls="b-a1">How were the Principles created?</button>
     <div id="b-a1" class="usa-accordion-content">
 		<p>On behalf of the Federal Data Strategy development team, the Department of Commerce published a Request for Comments (RFC) in the Federal Register on June 27, 2018. The RFC included a set of 10 draft Principles for a comprehensive data strategy and asked the public to “review and provide feedback on their clarity, appropriateness, completeness, and potential duplications.” Comments were also submitted through the Federal Data Strategy website and GitHub. The RFC closed on July 27, 2018 and the website closed to comments on July 30. In addition, the team hosted a Federal Forum on July 25, 2018 and also attended a Public Forum to listen to the public’s comments on July 30, 2018. This process generated close to 100 comments related to the draft Principles. Feedback on the draft Principles was positive, and commenters offered many suggestions to improve the draft version, which have been incorporated in the 10 revised Principles.</p>
 		<p>In developing the Principles for Levering Data as a Strategic Asset, the following draft Principles, originally published on June 27, 2018, were revised to incorporate alternative or additional concepts or specific word choices suggested by commenters. The category labels of the Principles were changed to “Ethical Governance,” “Conscious Design,” and “Culture of Learning,” providing an improved framework that better reflects the revised Principles. Also, a mission statement for the Federal Data Strategy has been added to connect the Principles to the goal of leveraging data as a strategic asset. In some cases, comments were addressed by changes other than what was directly suggested by the comments. For example, in response to the suggestion that state and local governments be explicitly mentioned as stakeholders, the introductory paragraph adds “Federally-sponsored” data to the types of data encompassed by the Federal Data Strategy.</p>
@@ -85,7 +80,7 @@ The timeline of the development of the Federal Data Strategy. At each step, the 
 <div class="usa-width-one-whole">
 <ul class="usa-accordion-bordered usa-width-one-whole background-practices">
   <li>
-    <button class="usa-accordion-button" aria-expanded="false" aria-controls="c-a1">How were the Practices created?</button>
+    <button class="usa-accordion-button" name="how-were-the-practices-created" aria-expanded="false" aria-controls="c-a1">How were the Practices created?</button>
     <div id="c-a1" class="usa-accordion-content">
 		<p>On behalf of the Federal Data Strategy team, the Department of Commerce published a Request for Comments (RFC) in the Federal Register on October 16, 2018. The RFC included a set of six specific questions about the draft Practices and asked the public to provide specific Action Steps that should be associated with a particular Practice. Comments were also submitted through the Federal Data Strategy website and GitHub. The RFC closed on November 16, and the website closed to comments on November 23, 2018. Additionally the team hosted a Federal Forum on November 25, 2018 and joined with Bipartisan Policy Center to host a Public Forum on November 8, 2018.</p>
 		<p>In developing the final set of Practices for Leveraging Data as a Strategic Asset, the draft Practices were revised in response to public comment and expert review, including adding new Practices suggested by reviewers; merging Practices where overlap or duplication was identified; and incorporating alternative or additional concepts to improve specific Practices, as suggested by commenters. The draft Practices had been grouped according to five broad objectives, however, after feedback from stakeholders, the revised Practices have been organized under three umbrella categories: “Building a Culture that Values Data and Promotes Public Use”; “Governing, Managing, and Protecting Data”; and “Promoting Efficient and Appropriate Data Use”. The revised Practices are designed to inform agency actions on a regular basis, to be continually relevant, and to be sufficiently general so as to broadly apply at all Federal agencies and across all missions.</p>
@@ -111,8 +106,6 @@ The timeline of the development of the Federal Data Strategy. At each step, the 
 </ul>
 </div>
 </div>
-
-
 
 </div>
 </section>
