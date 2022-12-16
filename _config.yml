@@ -28,6 +28,7 @@ plugins:
 exclude:
   - Gemfile
   - Gemfile.lock
+  - Makefile
   - LICENSE
   - README.md
   - vendor/bundle
