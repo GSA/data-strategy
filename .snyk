@@ -1,0 +1,12 @@
+# Snyk (https://snyk.io) policy file, patches or ignores known vulnerabilities.
+version: v1.25.0
+# ignores vulnerabilities until expiry date; change duration by modifying expiry date
+ignore:
+  SNYK-RUBY-NOKOGIRI-3164751:
+    - '*':
+        reason: >-
+          native platform version contains fix as well
+          https://github.com/sparklemotion/nokogiri/releases/tag/v1.13.10
+        expires: 2023-06-30T00:00:00.000Z
+        created: 2023-01-04T00:00:00.000Z
+patch: {}
