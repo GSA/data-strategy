@@ -5,24 +5,24 @@
 
 Federal data strategy website
 
-## Running a local copy
+### Requirements
 
--   Make sure you have Ruby (Install it if you don't)  
-    `ruby --version`
--   Install bundler  
-    `gem install bundler`
--   Clone this site to your local computer
--   Switch into the root folder of this project on your machine
+-   [Ruby](https://www.ruby-lang.org/en/) > 2.7
+-   [Bundler](https://bundler.io/) > 2.0
+-   [Node](https://nodejs.org/en/download/) > 16.0
 
-The rest of the lifecycle operations can be run with Make commands (ex `make install`)
+### Setup
 
-| Command   | Description                                                |
-| --------- | ---------------------------------------------------------- |
-| install   | Install dependencies (pinned in Gemfile.lock, if it exists |
-| update    | Update installed dependencies; Reacreate Gemfile.lock      |
-| build     | Build the site                                             |
-| serve     | Serve a local build                                        |
-| testlinks | Check for broken links                                     |
+After you've confirmed the above requirements, all lifecycle operations can be run with NPM scripts (ex. `npm run build`)
+
+| NPM Command | Description                     |
+| ----------- | ------------------------------- |
+| build       | Build the site                  |
+| setup       | Install ruby gems               |
+| start       | Serve a local build             |
+| test        | Check for broken internal links |
+| qa          | Check for broken external links |
+
 
 ## Contributing
 
