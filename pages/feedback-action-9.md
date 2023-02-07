@@ -38,7 +38,7 @@ If you wish to provide feedback, please use the comment box below. **It is impor
 
 We have multiple ways for you to stay updated on the progress of the Leveraging Data as a Strategic Asset CAP Goal!
 * Sign up for the [Newsletter](https://public.govdelivery.com/accounts/USGSA/subscribers/new?topic_id=USGSA_756)
-* Bookmark our [Performance.gov page on Leveraging Data as a Strategic Asset](https://www.performance.gov/CAP/leveragingdata/)
+* Bookmark our [Performance.gov page on Leveraging Data as a Strategic Asset](https://trumpadministration.archives.performance.gov/CAP/leveragingdata/)
 * Follow updates on our progress on [Twitter](https://twitter.com/PerformanceGov?lang=en) & [LinkedIn](https://www.linkedin.com/company/performance-gov/).
 
 ---
