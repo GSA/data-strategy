@@ -16,7 +16,7 @@ The new playbook expands upon the four major components of a data skills capacit
 3. Perform a data skills gap analysis to prioritize the agency’s needs.
 4. Identify and execute approaches to meet those needs.
 
-Read or download the Improving Agency Data Skills Playbook at [resources.data.gov/playbooks](https://resources.data.gov/playbooks).
+Read or download the Improving Agency Data Skills Playbook at [https://resources.data.gov/assets/documents/assessing-data-skills-playbook.pdf] (https://resources.data.gov/assets/documents/assessing-data-skills-playbook.pdf).
 
 ...
 
