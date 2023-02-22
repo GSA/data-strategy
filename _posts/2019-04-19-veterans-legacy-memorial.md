@@ -58,4 +58,4 @@ Above all, VLM will be a tool to make NCA’s data more accessible.  It will imp
 
 ### Postscript
 
-If you’d like to learn more, please contact VLM at [VeteransLegacyProgram@va.gov](mailto:VeteransLegacyProgram@va.gov). You can also check out NCA’s [data.va.gov data story](https://www.data.va.gov/story/national-cemetery-administration) for more about its coverage, mission, and locations.
+If you’d like to learn more, please contact VLM at [VeteransLegacyProgram@va.gov](mailto:VeteransLegacyProgram@va.gov). You can also check out NCA’s  [https://www.cem.va.gov/] (https://www.cem.va.gov/) for more about its coverage, mission, and locations.
