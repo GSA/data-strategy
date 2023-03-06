@@ -96,7 +96,7 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
-  html-proofer (~> 3.19, >= 3.19.2)
+  html-proofer (~> 3.19, >= 3.19.4)
   jekyll (~> 4.3.1)
   jekyll-redirect-from (>= 0.16.0)
   kramdown-parser-gfm (>= 1.1.0)
