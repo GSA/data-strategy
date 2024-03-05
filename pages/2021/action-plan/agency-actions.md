@@ -36,7 +36,7 @@ After assessing the quality and security of the data assets to be used in pursui
 | **1.3** Indicate which data assets support Learning Agenda questions in comprehensive data inventory	| Progress	| Progress Reporting Tool	| Measured Annually	| Required for CFO Act Agencies only, encouraged for all non-CFO agencies |
 
 
-### Action 2: Mature Data Governance 
+### Action 2: Mature Data Governance  
 
 In 2020, agencies designated CDOs, formed Data Governance Bodies, and posted key governance materials publicly on their websites. Many agencies dedicated full-time employees to support of their data-governance processes. 
 
@@ -44,7 +44,7 @@ In 2021, agencies should continue to prioritize the data-governance planning eff
 
 | **Milestone** |	**Measurement** |	**Reporting Mechanism** |	**Target Date**	| **Required or Encouraged** |
 |---------------|-----------------|-------------------------|-----------------|----------------------------|
-| **2.1** Data Governance Bodies document priority goals for calendar years 2021, 2022, and 2023 respectively |	Completion	| Progress Reporting Tool & Post to Agency/data web page	| December 31, 2021	| Required for all agencies |
+| **2.1** Data Governance Bodies document priority goals for calendar years 2021, 2022, and 2023 respectively |	Completion	| Progress Reporting Tool	| December 31, 2021	| Required for all agencies |
 
 
 ### Action 3: Data and Infrastructure Maturity
