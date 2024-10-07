@@ -2,8 +2,13 @@
 layout: default
 ---
 
- <div class="usa-overlay"></div>
-
-  <main class="usa-grid usa-section page-{{ page.title | downcase }}" id="main-content">
-        {{ content }}
-  </main>
+<main class="usa-layout-docs usa-section page-{{ page.title | downcase }}" id="main-content">
+      <div class="grid-container">
+            <div class="grid-row grid-gap">
+                  <div class="usa-layout__docs-main desktop:grid-col-12">
+                        <h1>{{ page.title }}</h1>
+                        {{ content }}
+                      </div>
+            </div>
+      </div>
+</main>

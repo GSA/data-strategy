@@ -8,7 +8,8 @@
   },
   "scripts": {
     "build": "bundle exec jekyll build",
-    "pages": "",
+    "pages": "npm run gulp",
+    "gulp": "gulp",
     "qa": "bundle exec htmlproofer --http-status-ignore \"301,302,401,403,429\" --check-html _site",
     "setup": "bundle install",
     "start": "bundle exec jekyll serve",
@@ -23,5 +24,12 @@
   "bugs": {
     "url": "https://github.com/GSA/data-strategy/issues"
   },
-  "homepage": "https://github.com/GSA/data-strategy#readme"
+  "homepage": "https://github.com/GSA/data-strategy#readme",
+  "dependencies": {
+    "@uswds/uswds": "^3.9.0"
+  },
+  "devDependencies": {
+    "@uswds/compile": "^1.2.0",
+    "gulp": "^5.0.0"
+  }
 }
