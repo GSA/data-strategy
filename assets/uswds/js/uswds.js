@@ -1209,7 +1209,7 @@ var trim = String.prototype.trim ? function (str) {
 };
 
 var queryById = function queryById(id) {
-  return this.querySelector('[id="' + id.replace(/"/g, '\\"') + '"]');
+  return this.querySelector('[id="' + id.replace(/\\/g, '\\\\').replace(/"/g, '\\"') + '"]');
 };
 
 module.exports = function resolveIds(ids, doc) {
