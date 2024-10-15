@@ -12,7 +12,7 @@
     "qa": "bundle exec htmlproofer --http-status-ignore \"301,302,401,403,429\" --check-html _site",
     "setup": "bundle install",
     "start": "bundle exec jekyll serve",
-    "test": "bundle exec htmlproofer --check-html --disable-external _site"
+    "test": "bundle exec htmlproofer --disable-external _site"
   },
   "repository": {
     "type": "git",

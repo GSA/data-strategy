@@ -6,3 +6,5 @@ _site/
 .vendor/
 vendor/
 .bundle/
+node_modules/
+assets/uswds/
