@@ -10,4 +10,4 @@ gem 'html-proofer', '~> 5.0', '>= 5.0.9'
 gem "jekyll-redirect-from", ">= 0.16.0"
 gem "kramdown-parser-gfm", ">= 1.1.0"
 gem "jekyll-sitemap", ">= 1.4.0"
-gem 'rexml', '~> 3.3', '>= 3.3.8'
+gem 'rexml', '~> 3.3'
