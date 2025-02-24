@@ -28,8 +28,6 @@ Review the draft Federal Financial Data Strategy document by downloading the PDF
 
 [Download PDF - Draft Federal Financial Data Strategy]({{ site.baseurl }}/assets/docs/federal-financial-data-strategy-action-9-draft.pdf){: .usa-button target="_blank"}
 
-If you wish to provide feedback, please use the comment box below. **It is important to note what section of the draft strategy you are commenting on, using the options in the dropdown box, to ensure your feedback is incorporated accurately.** A general comment option is available. If you have more than one comment, please submit each separately.
-
 ### Stay Up-to-Date
 
 We have multiple ways for you to stay updated on the progress of the Leveraging Data as a Strategic Asset CAP Goal!
