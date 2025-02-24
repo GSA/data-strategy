@@ -6,7 +6,7 @@ layout: page
 
 ## Draft Federal Financial Data Strategy for Feedback
 
-Welcome to the Draft Federal Financial Data Strategy Feedback portal! The Chief Financial Officer Council (CFOC) Financial Data Transformation Executive Steering Committee, with representatives from key agencies specified below, is soliciting your feedback on the draft Federal Financial Data Strategy as part of [Action 9](../../action-plan/#action-9-improve-financial-management-data-standards) in the Federal Data Strategy 2020 Action Plan. We have engaged Federal stakeholders and decision-makers to develop the draft strategy to *Open*, *Connect*, and *Demonstrate Value* while promoting public trust in financial management transparency and accountability, in a way that meets user needs while minimizing reporting burden and orienting the business of government around data. 
+Welcome to the Draft Federal Financial Data Strategy Feedback portal! The Chief Financial Officer Council (CFOC) Financial Data Transformation Executive Steering Committee, with representatives from key agencies specified below, is soliciting your feedback on the draft Federal Financial Data Strategy as part of [Action 9](../../action-plan/#action-9-improve-financial-management-data-standards) in the Federal Data Strategy 2020 Action Plan. We have engaged Federal stakeholders and decision-makers to develop the draft strategy to *Open*, *Connect*, and *Demonstrate Value* while promoting public trust in financial management transparency and accountability, in a way that meets user needs while minimizing reporting burden and orienting the business of government around data.
 
 This information will be used to contribute to a future state of the strategy. **This strategy is a draft and should not be interpreted as setting policy or official guidance.**
 
@@ -24,15 +24,11 @@ In June 2019, the Office of Management and Budget issued the Federal Data Strate
 
 ### How To Give Feedback
 
-Review the draft Federal Financial Data Strategy document by downloading the PDF below or viewing the [four slides](#draft-federal-financial-data-strategy) at the bottom of this page. 
+Review the draft Federal Financial Data Strategy document by downloading the PDF below or viewing the [four slides](#draft-federal-financial-data-strategy) at the bottom of this page.
 
 [Download PDF - Draft Federal Financial Data Strategy]({{ site.baseurl }}/assets/docs/federal-financial-data-strategy-action-9-draft.pdf){: .usa-button target="_blank"}
 
 If you wish to provide feedback, please use the comment box below. **It is important to note what section of the draft strategy you are commenting on, using the options in the dropdown box, to ensure your feedback is incorporated accurately.** A general comment option is available. If you have more than one comment, please submit each separately.
-
-**Comments are being accepted through March 8, 2021**
-
-<div class="touchpoints-survey" id="touchpoint-action-9"></div>
 
 ### Stay Up-to-Date
 
@@ -57,5 +53,3 @@ The ESC is comprised of representatives from each organization
 
 #### Page 4 - Key Stakeholders
 ![Draft Federal Financial Data Strategy document - page 4]({{ site.baseurl }}/assets/img/2020-action-plan/federal-financial-data-strategy-action-9-draft-pg4.png "Draft Federal Financial Data Strategy document - page 4")
-
-<script src="https://touchpoints.app.cloud.gov/touchpoints/29830144/js" async></script>
