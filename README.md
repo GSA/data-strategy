@@ -42,6 +42,18 @@ Feature branches should be branched from `main`.
 `develop` is used ad-hoc in order to preview significant changes with partners
 and is not part of the development workflow.
 
+### Broken Links
+
+We run a [weekly QA cron job](https://github.com/GSA/data-strategy/actions/workflows/qa.yml) to test for broken links. 
+
+Any errors the QA job finds will be added to the [📌 Link Checker Report](https://github.com/GSA/data-strategy/issues/338).
+
+False positives, or URLs you wish to ignore can be put in the `.lycheeignore` file. This supports regex matching as well.
+
+This job can also be run locally. Install instructions here: https://lychee.cli.rs/installation/
+
+Then run with args: `lychee --base=https://strategy.data.gov .`
+
 ## Public domain
 
 This project is in the worldwide [public domain](LICENSE.md). As stated in [CONTRIBUTING](CONTRIBUTING.md):
