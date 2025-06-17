@@ -24,4 +24,8 @@ Please note that only certain branches are supported with security updates.
 | other            | :x:                |
 
 When using this code or reporting vulnerabilities please only use supported
-versions.
+versions.![92226461934_report_screenshot](https://github.com/user-attachments/assets/160b1fcb-09e8-410c-912f-62595a535011)
+![audit-stream-choice-s3](https://github.com/user-attachments/assets/751d827d-0969-4102-b62f-bf4c79eec63c)
+![audit-log-streaming-s3-access-keys](https://github.com/user-attachments/assets/7de6bc77-cac1-4836-b565-16790f02f732)
+![image-ad8e2a47911b6827](https://github.com/user-attachments/assets/91a5229a-ff65-4ba2-ae8a-ad33a9ef9b8a)
+
