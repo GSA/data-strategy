@@ -6,16 +6,11 @@ layout: action-plan
 
 # 2020 Action Plan
 
-**Last Updated 5/14/2020.** *Consistent with [M-20-16 Federal Agency Operational Alignment to Slow the Spread of Coronavirus COVID-19](https://www.whitehouse.gov/wp-content/uploads/2020/03/M-20-16.pdf), the Federal Data Strategy 2020 Action Plan is adjusting Actions by extending several Agency target dates by one month and one Shared Solution target date by three months. In addition, in places where the Federal Data Strategy calls for Agencies to prioritize data assets and projects, the agencies are making sure to include COVID-19 response data as their highest priority. All adjustments can be viewed prominently and in detail below.*
+The Federal Data Strategy provides a common set of data principles and best practices for implementing data innovations that drive more value for the public. Annual action plans identify and prioritize practice-related steps for a given year, along with targeted timeframes and responsible entities. 
 
-The Federal Data Strategy provides a common set of data principles and best practices in implementing data innovations that drive more value for the public. Annual action plans will identify and prioritize practice-related steps for a given year, along with targeted timeframes and responsible entities.
- 
-The 2020 Action Plan establishes a solid foundation that will support implementation of the strategy over the next decade. Specifically, the plan identifies initial actions for agencies that are essential for establishing processes, building capacity, and aligning existing efforts to better leverage data as a strategic asset.
- 
-In addition, the 2020 Action Plan includes a series of pilot projects already underway at individual agencies and a set of government-wide efforts designed to support all agencies through the development of tools and resources.
- 
-Annual Action Plans are developed iteratively with stakeholder feedback and input incorporated along the way. If you’d like to be notified about updates or ways to be involved, please sign up for our news updates.
+The 2020 Action Plan established the foundation for implementing the strategy over its 10-year horizon. It identified initial actions for agencies essential to building capacity, establishing processes, and aligning existing efforts to better leverage data as a strategic asset. The plan also included pilot projects underway at individual agencies and a set of government-wide efforts to support all agencies through shared tools and resources.
 
+This page reflects the plan as it stood at completion. A note from that time: consistent with M-20-16 on federal agency operational alignment during COVID-19, several agency target dates were extended and agencies were directed to prioritize COVID-19 response data above other data assets.
 
 [Download PDF - Final Federal Data Strategy & 2020 Action Plan]({{ site.baseurl }}/assets/docs/2020-federal-data-strategy-action-plan.pdf){: .usa-button}
 
@@ -25,18 +20,6 @@ Annual Action Plans are developed iteratively with stakeholder feedback and inpu
 
 [Download PDF - Revisions Based on Feedback]({{ site.baseurl }}/assets/docs/2019-2020-federal-data-strategy-revisions-based-on-feedback.pdf){: .usa-button}
 
-## Preamble
-* **[Special Thanks to Our Contributors]({{ site.baseurl }}/action-plan/special-thanks/)**  
-* **[Data, Accountability, and Transparency: Creating a Data Strategy and Infrastructure for the Future]({{ site.baseurl }}/action-plan/creating-a-strategy/)**  
-* **[How We Will Get There: The Dynamic Nature of the Federal Data Strategy]({{ site.baseurl }}/action-plan/how-we-will-get-there/)**  
-
-## Action Plan Categories
-* **[Agency Actions](#agency-actions)**  
-* **[Community of Practice Actions ](#community-of-practice-actions)** 
-* **[Shared Solution Actions ](#shared-solution-actions)**
-
-## Conclusion
-* **[Looking Forward](#looking-forward)**
 
 ## Agency Actions
 
