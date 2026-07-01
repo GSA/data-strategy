@@ -1,5 +1,5 @@
 {
-  "name": "data-strategy",
+  "name": "@gsa/data-strategy",
   "version": "1.0.0",
   "description": "[![GitHub Actions](https://github.com/GSA/data-strategy/actions/workflows/build.yml/badge.svg)](https://github.com/GSA/data-strategy/actions/workflows/build.yml) [![GitHub Actions](https://github.com/GSA/data-strategy/actions/workflows/qa.yml/badge.svg)](https://github.com/GSA/data-strategy/actions/workflows/qa.yml)",
   "main": "index.js",
