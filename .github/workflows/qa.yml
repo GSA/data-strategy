@@ -3,7 +3,11 @@ name: QA
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 15 * * 1'
+    - cron: "0 15 * * 1"
+
+permissions:
+  contents: read
+  issues: write
 
 jobs:
   qa:
