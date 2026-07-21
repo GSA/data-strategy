@@ -6,3 +6,5 @@ jobs:
   build:
     name: Build Static Site
     uses: gsa/data.gov/.github/workflows/static-site-build-template.yml@main
+    with:
+      ruby-version: ".ruby-version"
