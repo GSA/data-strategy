@@ -14,8 +14,7 @@ We adhere to the [18F Open Source Policy](https://github.com/18f/open-source-pol
 
 ## Publishing workflow
 
-Team members can [create
-branches](https://help.github.com/en/articles/creating-and-deleting-branches-within-your-repository)
+Team members can [create branches](https://help.github.com/en/articles/creating-and-deleting-branches-within-your-repository)
 with their suggestions and edits. Federalist will build a preview link for
 every branch so that you can view your changes before they are approved/merged.
 
@@ -25,8 +24,7 @@ to this GitHub repository. When submitting changes, please create a branch
 instead of a fork. Federalist does not build preview links for forked
 repositories.
 
-All changes should be done in a [pull
-request](https://help.github.com/en/articles/creating-a-pull-request) to the
+All changes should be done in a [pull request](https://help.github.com/en/articles/creating-a-pull-request) to the
 `main` branch. Suggestions and edits from team members and the
 public can be previewed on the preview site before going live.
 
