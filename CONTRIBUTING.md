@@ -1,20 +1,20 @@
 # Welcome!
 
-We're so glad you're thinking about contributing to a [open source project of the U.S. government](https://code.gov/)! If you're unsure about anything, just ask -- or submit the issue or pull request anyway. The worst that can happen is you'll be politely asked to change something. We love all friendly contributions.
+We're so glad you're thinking about contributing to a [open source project of the U.S. government](https://strategy.data.gov/)! If you're unsure about anything, just ask -- or submit the issue or pull request anyway. The worst that can happen is you'll be politely asked to change something. We love all friendly contributions.
 
 We encourage you to read this project's CONTRIBUTING policy (you are here), its [LICENSE](LICENSE.md), and its [README](README.md).
 
 ## Policies
 
-We want to ensure a welcoming environment for all of our projects. Our staff follow the [TTS Code of Conduct](https://18f.gsa.gov/code-of-conduct/) and all contributors should do the same.
+We want to ensure a welcoming environment for all of our projects. Our staff follow the [GSA Code of Conduct](https://github.com/GSA/open-source-policy/blob/master/CODE_OF_CONDUCT.md) and all contributors should do the same.
 
-We adhere to the [18F Open Source Policy](https://github.com/18f/open-source-policy). If you have any questions, just [shoot us an email](mailto:18f@gsa.gov).
+**Statement: By contributing to this repository, you agree to adhere to the [GSA Social Media Policy](https://www.gsa.gov/directives-library/gsa-social-media-policy-2). We expect all contributors, both internal and external, to engage respectfully and professionally in all project-related public communications.**
+
+We adhere to the [18F Open Source Policy](https://github.com/18f/open-source-policy). If you have any questions, just [shoot us an email](mailto:datagov@gsa.gov).
 
 ## Publishing workflow
 
-This site is published on the [Federalist](https://federalist.18f.gov/)
-platform. Team members can [create
-branches](https://help.github.com/en/articles/creating-and-deleting-branches-within-your-repository)
+Team members can [create branches](https://help.github.com/en/articles/creating-and-deleting-branches-within-your-repository)
 with their suggestions and edits. Federalist will build a preview link for
 every branch so that you can view your changes before they are approved/merged.
 
@@ -24,15 +24,9 @@ to this GitHub repository. When submitting changes, please create a branch
 instead of a fork. Federalist does not build preview links for forked
 repositories.
 
-All changes should be done in a [pull
-request](https://help.github.com/en/articles/creating-a-pull-request) to the
+All changes should be done in a [pull request](https://help.github.com/en/articles/creating-a-pull-request) to the
 `main` branch. Suggestions and edits from team members and the
 public can be previewed on the preview site before going live.
-
-To view your preview link, at the bottom of the pull request are status checks,
-including one from Federalist with a "details" link to your preview. For more
-information, see the [Federalist
-documentation](https://federalist.18f.gov/documentation/previews/).
 
 We enforce some additional status checks on the `main` branch
 to minimize the chance of publishing a broken site. Any change should be
